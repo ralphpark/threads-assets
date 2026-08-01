@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T01:48:40",
+  "generated_at": "2026-08-02T03:39:19",
   "username": "studiohaetae",
   "followers": 66,
   "followers_history": [
@@ -20,24 +20,13 @@
   "queue_next": "영상 39편, 28일간 노출수 48회.\n편당 한 달에 1.2번 보여졌습니다.\n\n노출 클릭률은 6.3%로 정상",
   "posts": [
     {
-      "at": "2026-07-31T14:33:33",
-      "n": 1,
-      "id": "17939516136290845",
-      "is_reply": false,
-      "permalink": "https://www.threads.com/@studiohaetae/post/DbchdDnGFso",
-      "text": "AI로 유튜브 채널 6개를 자동으로 돌리고 있습니다.\n\n지난달 조회수 19만 6천.\n수익 0원.\n\n왜 0원인지 앞으로 여기에 숫자로만 적겠습니다.",
-      "views": 2020,
-      "likes": 10,
-      "replies": 16
-    },
-    {
       "at": "2026-07-31T14:57:30",
       "n": -1,
       "id": "18371860948236214",
       "is_reply": true,
       "permalink": "https://www.threads.com/@studiohaetae/post/DbckLnNGDyE",
       "text": "6개 중 하나입니다. LOL Ranking.\n\n지난 28일 조회수 18,205회.\n수익 창출 자격요건: 구독자 23/500, 유효 시청 시간 0시간/3,000.\n\n나머지 5개도 비슷합니다.\n합쳐서 19만 6천 조회,",
-      "views": 446,
+      "views": 449,
       "likes": 1,
       "replies": 0
     },
@@ -70,7 +59,7 @@
       "is_reply": true,
       "permalink": "https://www.threads.com/@studiohaetae/post/DbexrqsGOSV",
       "text": "답 드립니다. 오늘 받은 것 중 제일 쓸모 있었습니다.\n\n말씀하신 로그아웃 상태 Shorts 링크 테스트, 6개 채널 전부 돌려서 결과를 숫자로 올리겠습니다. 막혀 있으면 막혀 있다고 그대로 적겠습니다.\n\n3,068",
-      "views": 8,
+      "views": 9,
       "likes": 0,
       "replies": 0
     },
@@ -114,7 +103,7 @@
       "is_reply": true,
       "permalink": "https://www.threads.com/@studiohaetae/post/Dbe0pQ9mIWV",
       "text": "약속한 테스트 결과입니다.\n\n4개 채널 최근 10편씩, 40편을 API로 전수 확인했습니다.\n설명란에 링크가 있는 영상 0편.\n\n말씀하신 건 링크가 Shorts에서 안 보인다는 거였는데, 저희는 애초에 링크를 안 걸",
-      "views": 10,
+      "views": 11,
       "likes": 0,
       "replies": 0
     },
@@ -125,7 +114,7 @@
       "is_reply": true,
       "permalink": "https://www.threads.com/@studiohaetae/post/Dbe63caGE_b",
       "text": "검증 끝났습니다. 말씀하신 게 맞았습니다.\n\nShorts 설명란에서 URL은 링크가 되지 않습니다. 같은 줄의 해시태그는 파란 링크가 되는데 URL은 흰 일반 텍스트고, 접근성 트리에서도 link가 아니라 gener",
-      "views": 21,
+      "views": 22,
       "likes": 0,
       "replies": 0
     },
@@ -136,33 +125,43 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DbfvEDimBHl",
       "text": "재즈 채널을 만들었습니다.\n\n곡 생성부터 영상 제작, 업로드까지 전부 자동화했습니다.\n제가 직접 한 건 없습니다.\n\n39편 올렸습니다.\n구독자 0명이었습니다.\n\n자동화가 문제가 아니었다는 걸 아는 데 오래 걸렸습니다",
-      "views": 433,
+      "views": 519,
       "likes": 4,
-      "replies": 1
+      "replies": 2
+    },
+    {
+      "at": "2026-08-02T01:49:42",
+      "n": -1,
+      "id": "18109147900900979",
+      "is_reply": true,
+      "permalink": "https://www.threads.com/@studiohaetae/post/DbgTndWGHjH",
+      "text": "롱폼도 해봤습니다.\n\n2시간짜리 재즈 믹스로 39편. 구독자 0명이었습니다.\n평균 시청 지속 시간이 1분 2초였습니다. 0.2%.\n\n길이가 아니라 사람이 남아 있느냐였던 것 같습니다. 롱폼도 자동으로 찍으니까 똑같이",
+      "views": 2,
+      "likes": 1,
+      "replies": 0
+    },
+    {
+      "at": "2026-08-02T01:50:01",
+      "n": -1,
+      "id": "18110001524076505",
+      "is_reply": true,
+      "permalink": "https://www.threads.com/@studiohaetae/post/DbgTp30mD9_",
+      "text": "같은 글에 이미 답이 하나 달렸습니다.\n\n수익창출까지 승인받았다가 나중에 채널이 삭제됐다는 분이 계셨습니다. 수익창출 금지 후 삭제 순서였다고요.\n\n문턱을 넘는 게 끝이 아니라는 뜻으로 읽었습니다. 저는 아직 그 근",
+      "views": 2,
+      "likes": 0,
+      "replies": 0
     }
   ],
   "unanswered_replies": [
     {
-      "id": "18609059707039078",
+      "id": "17903995098527661",
       "username": "vanan.is",
-      "text": "자동화 쇼츠는 안됩니다. 수백번 혼자 외치고 있음ㅜ 그리고 롱폼이 진짜 실력입니다.",
-      "at": "2026-08-01T05:19:26+0000",
-      "on_post": "17939516136290845"
-    },
-    {
-      "id": "17916166515224074",
-      "username": "bloghunter77",
-      "text": "근데 조건을 달성한다고 해도 수창 심사때 막히지 않을까요?  휴먼터치가 안보이면.",
-      "at": "2026-08-01T12:54:04+0000",
-      "on_post": "18575692309069172"
+      "text": "ㅜㅜ 쉽지 않네요. 저도 하고 있는데. Ai 자동화와 지속가능성이 트레이드오프인 상태입니다. 함께 극복합시다!",
+      "at": "2026-08-01T16:51:43+0000",
+      "on_post": "18109147900900979"
     }
   ],
   "run_log_tail": [
-    "[2026-08-01 12:53:55] 이미지 0장 공개 URL 확보",
-    "[2026-08-01 12:54:11] 답글 게시 완료 id=17956657476191894 https://www.threads.com/@studiohaetae/post/Dbe63caGE_b",
-    "[2026-08-01 13:16:58] digest 갱신: 팔로워 61 · 미답변 0건 · 큐 12개",
-    "[2026-08-01 13:37:55] digest 갱신: 팔로워 61 · 미답변 0건 · 큐 12개",
-    "[2026-08-01 15:38:07] digest 갱신: 팔로워 61 · 미답변 1건 · 큐 12개",
     "[2026-08-01 17:38:20] digest 갱신: 팔로워 61 · 미답변 1건 · 큐 12개",
     "[2026-08-01 19:38:34] digest 갱신: 팔로워 61 · 미답변 1건 · 큐 12개",
     "[2026-08-01 20:30:02] 컨테이너 생성 17891857506605032 (n=2)",
@@ -172,6 +171,11 @@
     "[2026-08-01 23:40:01] 스냅샷: {\"date\": \"2026-08-01\", \"at\": \"2026-08-01T23:40:00\", \"followers\": 65, \"views\": 3333, \"likes\": 4, \"replies\": 1, \"reposts\": 0, \"quotes\": 0, \"clicks\": null}",
     "[2026-08-01 23:40:09] 답글 9건 수집 -> replies-2026-08-01.json",
     "[2026-08-01 23:40:25] digest 갱신: 팔로워 65 · 미답변 2건 · 큐 11개",
-    "[2026-08-02 01:39:19] digest 갱신: 팔로워 66 · 미답변 2건 · 큐 11개"
+    "[2026-08-02 01:39:19] digest 갱신: 팔로워 66 · 미답변 2건 · 큐 11개",
+    "[2026-08-02 01:48:54] digest 갱신: 팔로워 66 · 미답변 2건 · 큐 11개",
+    "[2026-08-02 01:49:26] 이미지 0장 공개 URL 확보",
+    "[2026-08-02 01:49:42] 답글 게시 완료 id=18109147900900979 https://www.threads.com/@studiohaetae/post/DbgTndWGHjH",
+    "[2026-08-02 01:49:46] 이미지 0장 공개 URL 확보",
+    "[2026-08-02 01:50:01] 답글 게시 완료 id=18110001524076505 https://www.threads.com/@studiohaetae/post/DbgTp30mD9_"
   ]
 }
