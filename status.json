@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T15:37:55",
+  "generated_at": "2026-08-01T17:38:08",
   "username": "studiohaetae",
   "followers": 61,
   "followers_history": [
@@ -22,7 +22,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DbchdDnGFso",
       "text": "AI로 유튜브 채널 6개를 자동으로 돌리고 있습니다.\n\n지난달 조회수 19만 6천.\n수익 0원.\n\n왜 0원인지 앞으로 여기에 숫자로만 적겠습니다.",
-      "views": 1977,
+      "views": 1982,
       "likes": 10,
       "replies": 16
     },
@@ -77,7 +77,7 @@
       "is_reply": true,
       "permalink": "https://www.threads.com/@studiohaetae/post/DbexuBFmHzo",
       "text": "같은 결론입니다. 자동으로 39편 만들어서 구독자 0명이었습니다.\n\n만드는 비용이 0이면 이게 볼 가치가 있나를 한 번도 안 묻게 되더군요. 그 질문이 나올 자리가 아예 없었습니다.",
-      "views": 5,
+      "views": 6,
       "likes": 0,
       "replies": 0
     },
@@ -136,7 +136,6 @@
     }
   ],
   "run_log_tail": [
-    "[2026-08-01 11:33:56] 이미지 0장 공개 URL 확보",
     "[2026-08-01 11:34:11] 답글 게시 완료 id=18276773644291683 https://www.threads.com/@studiohaetae/post/DbexuBFmHzo",
     "[2026-08-01 11:34:15] 이미지 0장 공개 URL 확보",
     "[2026-08-01 11:34:31] 답글 게시 완료 id=18006516254953134 https://www.threads.com/@studiohaetae/post/DbexwaPmI-H",
@@ -150,6 +149,7 @@
     "[2026-08-01 12:53:55] 이미지 0장 공개 URL 확보",
     "[2026-08-01 12:54:11] 답글 게시 완료 id=17956657476191894 https://www.threads.com/@studiohaetae/post/Dbe63caGE_b",
     "[2026-08-01 13:16:58] digest 갱신: 팔로워 61 · 미답변 0건 · 큐 12개",
-    "[2026-08-01 13:37:55] digest 갱신: 팔로워 61 · 미답변 0건 · 큐 12개"
+    "[2026-08-01 13:37:55] digest 갱신: 팔로워 61 · 미답변 0건 · 큐 12개",
+    "[2026-08-01 15:38:07] digest 갱신: 팔로워 61 · 미답변 1건 · 큐 12개"
   ]
 }
