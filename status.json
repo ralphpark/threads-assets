@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-01T21:38:34",
+  "generated_at": "2026-08-01T23:38:48",
   "username": "studiohaetae",
-  "followers": 61,
+  "followers": 65,
   "followers_history": [
     {
       "date": "2026-07-31",
@@ -22,7 +22,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DbchdDnGFso",
       "text": "AI로 유튜브 채널 6개를 자동으로 돌리고 있습니다.\n\n지난달 조회수 19만 6천.\n수익 0원.\n\n왜 0원인지 앞으로 여기에 숫자로만 적겠습니다.",
-      "views": 1991,
+      "views": 2008,
       "likes": 10,
       "replies": 16
     },
@@ -33,7 +33,7 @@
       "is_reply": true,
       "permalink": "https://www.threads.com/@studiohaetae/post/DbckLnNGDyE",
       "text": "6개 중 하나입니다. LOL Ranking.\n\n지난 28일 조회수 18,205회.\n수익 창출 자격요건: 구독자 23/500, 유효 시청 시간 0시간/3,000.\n\n나머지 5개도 비슷합니다.\n합쳐서 19만 6천 조회,",
-      "views": 425,
+      "views": 437,
       "likes": 1,
       "replies": 0
     },
@@ -44,7 +44,7 @@
       "is_reply": true,
       "permalink": "https://www.threads.com/@studiohaetae/post/Dbc8OnFmEuc",
       "text": "수익창출까지 갔다가 삭제면 저보다 훨씬 아프네요. 저는 문턱을 못 넘어서 잃을 게 없었습니다.\n\n삭제 사유가 재사용 콘텐츠였나요, 아니면 대량생산 판정이었나요.\n그 둘이 대응이 완전히 달라서 궁금합니다.",
-      "views": 267,
+      "views": 270,
       "likes": 1,
       "replies": 0
     },
@@ -55,7 +55,7 @@
       "is_reply": true,
       "permalink": "https://www.threads.com/@studiohaetae/post/Dbc8RIOmFTm",
       "text": "뭐가 제일 궁금하세요. 채널이든 파이프라인이든 숫자는 다 까고 있습니다.",
-      "views": 13,
+      "views": 14,
       "likes": 0,
       "replies": 0
     },
@@ -88,7 +88,7 @@
       "is_reply": true,
       "permalink": "https://www.threads.com/@studiohaetae/post/DbexwaPmI-H",
       "text": "앞부분은 제 숫자가 뒷받침합니다. 19만 6천 조회에 0원이니까요.\n\n뒷부분은 제가 안 해봐서 모르겠습니다. 다만 채널 양도는 약관 위반이라 적발되면 채널이 사라지는 걸로 압니다. 실제로 해보신 분 숫자가 있으면 궁",
-      "views": 22,
+      "views": 25,
       "likes": 0,
       "replies": 0
     },
@@ -99,7 +99,7 @@
       "is_reply": true,
       "permalink": "https://www.threads.com/@studiohaetae/post/Dbexy0KmAaU",
       "text": "저는 39편에 0명이었으니 300편에 139명이면 저보다 훨씬 낫습니다.\n\n혹시 노출수랑 평균 시청 지속 시간도 보이시나요. 저는 그 두 개를 보고서야 왜 안 되는지 알았습니다. 노출 48회, 평균 시청 1분 2초였",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "replies": 0
     },
@@ -121,7 +121,7 @@
       "is_reply": true,
       "permalink": "https://www.threads.com/@studiohaetae/post/Dbe63caGE_b",
       "text": "검증 끝났습니다. 말씀하신 게 맞았습니다.\n\nShorts 설명란에서 URL은 링크가 되지 않습니다. 같은 줄의 해시태그는 파란 링크가 되는데 URL은 흰 일반 텍스트고, 접근성 트리에서도 link가 아니라 gener",
-      "views": 15,
+      "views": 16,
       "likes": 0,
       "replies": 0
     },
@@ -132,9 +132,9 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DbfvEDimBHl",
       "text": "재즈 채널을 만들었습니다.\n\n곡 생성부터 영상 제작, 업로드까지 전부 자동화했습니다.\n제가 직접 한 건 없습니다.\n\n39편 올렸습니다.\n구독자 0명이었습니다.\n\n자동화가 문제가 아니었다는 걸 아는 데 오래 걸렸습니다",
-      "views": 166,
-      "likes": 3,
-      "replies": 0
+      "views": 322,
+      "likes": 4,
+      "replies": 1
     }
   ],
   "unanswered_replies": [
@@ -144,10 +144,16 @@
       "text": "자동화 쇼츠는 안됩니다. 수백번 혼자 외치고 있음ㅜ 그리고 롱폼이 진짜 실력입니다.",
       "at": "2026-08-01T05:19:26+0000",
       "on_post": "17939516136290845"
+    },
+    {
+      "id": "17916166515224074",
+      "username": "bloghunter77",
+      "text": "근데 조건을 달성한다고 해도 수창 심사때 막히지 않을까요?  휴먼터치가 안보이면.",
+      "at": "2026-08-01T12:54:04+0000",
+      "on_post": "18575692309069172"
     }
   ],
   "run_log_tail": [
-    "[2026-08-01 11:34:51] 답글 게시 완료 id=18112143541750187 https://www.threads.com/@studiohaetae/post/Dbexy0KmAaU",
     "[2026-08-01 11:37:07] digest 갱신: 팔로워 61 · 미답변 0건 · 큐 9개",
     "[2026-08-01 11:59:34] 이미지 0장 공개 URL 확보",
     "[2026-08-01 11:59:48] 답글 게시 완료 id=18102244546902627 https://www.threads.com/@studiohaetae/post/Dbe0pQ9mIWV",
@@ -161,6 +167,7 @@
     "[2026-08-01 17:38:20] digest 갱신: 팔로워 61 · 미답변 1건 · 큐 12개",
     "[2026-08-01 19:38:34] digest 갱신: 팔로워 61 · 미답변 1건 · 큐 12개",
     "[2026-08-01 20:30:02] 컨테이너 생성 17891857506605032 (n=2)",
-    "[2026-08-01 20:30:09] 게시 완료 n=2 id=18575692309069172"
+    "[2026-08-01 20:30:09] 게시 완료 n=2 id=18575692309069172",
+    "[2026-08-01 21:38:47] digest 갱신: 팔로워 61 · 미답변 1건 · 큐 11개"
   ]
 }
