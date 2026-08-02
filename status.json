@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T01:45:54",
+  "generated_at": "2026-08-03T03:42:35",
   "username": "studiohaetae",
   "followers": 71,
   "followers_history": [
@@ -118,15 +118,13 @@
       "is_reply": true,
       "permalink": "https://www.threads.com/@studiohaetae/post/Dbi3-UpmIU7",
       "text": "2시간 10분짜리 영상 평균 시청 지속시간이 1분 2초, 재생 비율로는 0.2%였습니다.\n\n확실한 이유는 모릅니다.\n\n같은 채널 28일 노출수가 48회, 노출 클릭률 6.3%였어요. 애초에 알고리즘이 노출을 거의 안",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "replies": 0
     }
   ],
   "unanswered_replies": [],
   "run_log_tail": [
-    "[2026-08-02 22:40:08] 이미지 0장 공개 URL 확보",
-    "[2026-08-02 22:40:26] 답글 게시 완료 id=18210681673353520 https://www.threads.com/@studiohaetae/post/Dbiiv0XGPuC",
     "[2026-08-02 22:40:29] 이미지 0장 공개 URL 확보",
     "[2026-08-02 22:40:45] 답글 게시 완료 id=17984018114861209 https://www.threads.com/@studiohaetae/post/DbiiygbmJjz",
     "[2026-08-02 22:42:56] digest 갱신: 팔로워 72 · 미답변 0건 · 큐 10개",
@@ -139,6 +137,8 @@
     "[2026-08-03 01:44:59] digest 갱신: 팔로워 71 · 미답변 1건 · 큐 10개",
     "[2026-08-03 01:45:37] 이미지 0장 공개 URL 확보",
     "[2026-08-03 01:45:54] 답글 게시 완료 id=18138947950568645 https://www.threads.com/@studiohaetae/post/Dbi3-UpmIU7",
-    "[2026-08-03 01:45:54] agent: 게시 @contentscontender"
+    "[2026-08-03 01:45:54] agent: 게시 @contentscontender",
+    "[2026-08-03 01:46:14] digest 갱신: 팔로워 71 · 미답변 0건 · 큐 10개",
+    "[2026-08-03 01:46:14] agent: 자동 답글 1건 · 보류 0건"
   ]
 }
