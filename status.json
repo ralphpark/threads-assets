@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T17:41:15",
+  "generated_at": "2026-08-02T19:41:31",
   "username": "studiohaetae",
   "followers": 72,
   "followers_history": [
@@ -26,7 +26,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DbchdDnGFso",
       "text": "AI로 유튜브 채널 6개를 자동으로 돌리고 있습니다.\n\n지난달 조회수 19만 6천.\n수익 0원.\n\n왜 0원인지 앞으로 여기에 숫자로만 적겠습니다.",
-      "views": 2067,
+      "views": 2071,
       "likes": 10,
       "replies": 21
     },
@@ -37,9 +37,9 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DbfvEDimBHl",
       "text": "재즈 채널을 만들었습니다.\n\n곡 생성부터 영상 제작, 업로드까지 전부 자동화했습니다.\n제가 직접 한 건 없습니다.\n\n39편 올렸습니다.\n구독자 0명이었습니다.\n\n자동화가 문제가 아니었다는 걸 아는 데 오래 걸렸습니다",
-      "views": 1051,
+      "views": 1108,
       "likes": 8,
-      "replies": 6
+      "replies": 7
     },
     {
       "at": "2026-08-01T11:59:48",
@@ -92,7 +92,7 @@
       "is_reply": true,
       "permalink": "https://www.threads.com/@studiohaetae/post/DbhejaDmE0b",
       "text": "숫자로 답드리면 이렇습니다.\n\n28일 노출수 48회. 노출 클릭률은 6.3%로 정상이었습니다. 썸네일이 아니라 유튜브가 아예 안 보여주고 있었습니다.\n\n이유는 리텐션이었습니다. 2시간 10분짜리 영상의 평균 시청 지",
-      "views": 50,
+      "views": 60,
       "likes": 1,
       "replies": 0
     },
@@ -103,7 +103,7 @@
       "is_reply": true,
       "permalink": "https://www.threads.com/@studiohaetae/post/Dbhel5DGFeQ",
       "text": "트레이드오프라는 말이 정확한 것 같습니다.\n\n저는 지금 제작만 자동화하고 판단은 손으로 하는 쪽으로 옮기는 중입니다. 이 계정도 글은 예약으로 나가는데 답글은 매번 직접 씁니다.\n\n어느 쪽이 맞는지는 저도 모릅니다.",
-      "views": 8,
+      "views": 9,
       "likes": 0,
       "replies": 0
     }
@@ -139,7 +139,6 @@
     }
   ],
   "run_log_tail": [
-    "[2026-08-02 01:49:46] 이미지 0장 공개 URL 확보",
     "[2026-08-02 01:50:01] 답글 게시 완료 id=18110001524076505 https://www.threads.com/@studiohaetae/post/DbgTp30mD9_",
     "[2026-08-02 03:39:34] digest 갱신: 팔로워 66 · 미답변 1건 · 큐 11개",
     "[2026-08-02 05:39:55] digest 갱신: 팔로워 66 · 미답변 1건 · 큐 11개",
@@ -153,6 +152,7 @@
     "[2026-08-02 12:44:50] 답글 게시 완료 id=18385863430167688 https://www.threads.com/@studiohaetae/post/Dbhel5DGFeQ",
     "[2026-08-02 12:45:19] digest 갱신: 팔로워 71 · 미답변 0건 · 큐 11개",
     "[2026-08-02 13:41:02] digest 갱신: 팔로워 71 · 미답변 1건 · 큐 11개",
-    "[2026-08-02 15:41:15] digest 갱신: 팔로워 72 · 미답변 3건 · 큐 11개"
+    "[2026-08-02 15:41:15] digest 갱신: 팔로워 72 · 미답변 3건 · 큐 11개",
+    "[2026-08-02 17:41:31] digest 갱신: 팔로워 72 · 미답변 4건 · 큐 11개"
   ]
 }
