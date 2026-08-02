@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-02T11:40:34",
+  "generated_at": "2026-08-02T12:43:34",
   "username": "studiohaetae",
-  "followers": 70,
+  "followers": 71,
   "followers_history": [
     {
       "date": "2026-07-31",
@@ -26,7 +26,7 @@
       "is_reply": true,
       "permalink": "https://www.threads.com/@studiohaetae/post/DbckLnNGDyE",
       "text": "6개 중 하나입니다. LOL Ranking.\n\n지난 28일 조회수 18,205회.\n수익 창출 자격요건: 구독자 23/500, 유효 시청 시간 0시간/3,000.\n\n나머지 5개도 비슷합니다.\n합쳐서 19만 6천 조회,",
-      "views": 463,
+      "views": 467,
       "likes": 1,
       "replies": 0
     },
@@ -125,9 +125,9 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DbfvEDimBHl",
       "text": "재즈 채널을 만들었습니다.\n\n곡 생성부터 영상 제작, 업로드까지 전부 자동화했습니다.\n제가 직접 한 건 없습니다.\n\n39편 올렸습니다.\n구독자 0명이었습니다.\n\n자동화가 문제가 아니었다는 걸 아는 데 오래 걸렸습니다",
-      "views": 739,
-      "likes": 4,
-      "replies": 2
+      "views": 776,
+      "likes": 6,
+      "replies": 3
     },
     {
       "at": "2026-08-02T01:49:42",
@@ -136,7 +136,7 @@
       "is_reply": true,
       "permalink": "https://www.threads.com/@studiohaetae/post/DbgTndWGHjH",
       "text": "롱폼도 해봤습니다.\n\n2시간짜리 재즈 믹스로 39편. 구독자 0명이었습니다.\n평균 시청 지속 시간이 1분 2초였습니다. 0.2%.\n\n길이가 아니라 사람이 남아 있느냐였던 것 같습니다. 롱폼도 자동으로 찍으니까 똑같이",
-      "views": 9,
+      "views": 10,
       "likes": 1,
       "replies": 0
     },
@@ -147,12 +147,19 @@
       "is_reply": true,
       "permalink": "https://www.threads.com/@studiohaetae/post/DbgTp30mD9_",
       "text": "같은 글에 이미 답이 하나 달렸습니다.\n\n수익창출까지 승인받았다가 나중에 채널이 삭제됐다는 분이 계셨습니다. 수익창출 금지 후 삭제 순서였다고요.\n\n문턱을 넘는 게 끝이 아니라는 뜻으로 읽었습니다. 저는 아직 그 근",
-      "views": 9,
+      "views": 13,
       "likes": 0,
       "replies": 0
     }
   ],
   "unanswered_replies": [
+    {
+      "id": "18184810543397774",
+      "username": "contentscontender",
+      "text": "뭐가 문제였나요!",
+      "at": "2026-08-02T03:08:03+0000",
+      "on_post": "18575692309069172"
+    },
     {
       "id": "17903995098527661",
       "username": "vanan.is",
@@ -162,7 +169,6 @@
     }
   ],
   "run_log_tail": [
-    "[2026-08-01 21:38:47] digest 갱신: 팔로워 61 · 미답변 1건 · 큐 11개",
     "[2026-08-01 23:39:04] digest 갱신: 팔로워 65 · 미답변 2건 · 큐 11개",
     "[2026-08-01 23:40:01] 스냅샷: {\"date\": \"2026-08-01\", \"at\": \"2026-08-01T23:40:00\", \"followers\": 65, \"views\": 3333, \"likes\": 4, \"replies\": 1, \"reposts\": 0, \"quotes\": 0, \"clicks\": null}",
     "[2026-08-01 23:40:09] 답글 9건 수집 -> replies-2026-08-01.json",
@@ -176,6 +182,7 @@
     "[2026-08-02 03:39:34] digest 갱신: 팔로워 66 · 미답변 1건 · 큐 11개",
     "[2026-08-02 05:39:55] digest 갱신: 팔로워 66 · 미답변 1건 · 큐 11개",
     "[2026-08-02 07:40:16] digest 갱신: 팔로워 68 · 미답변 1건 · 큐 11개",
-    "[2026-08-02 09:40:32] digest 갱신: 팔로워 69 · 미답변 1건 · 큐 11개"
+    "[2026-08-02 09:40:32] digest 갱신: 팔로워 69 · 미답변 1건 · 큐 11개",
+    "[2026-08-02 11:40:49] digest 갱신: 팔로워 70 · 미답변 1건 · 큐 11개"
   ]
 }
