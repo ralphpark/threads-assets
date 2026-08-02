@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-02T09:40:17",
+  "generated_at": "2026-08-02T11:40:34",
   "username": "studiohaetae",
-  "followers": 69,
+  "followers": 70,
   "followers_history": [
     {
       "date": "2026-07-31",
@@ -81,7 +81,7 @@
       "is_reply": true,
       "permalink": "https://www.threads.com/@studiohaetae/post/DbexwaPmI-H",
       "text": "앞부분은 제 숫자가 뒷받침합니다. 19만 6천 조회에 0원이니까요.\n\n뒷부분은 제가 안 해봐서 모르겠습니다. 다만 채널 양도는 약관 위반이라 적발되면 채널이 사라지는 걸로 압니다. 실제로 해보신 분 숫자가 있으면 궁",
-      "views": 31,
+      "views": 32,
       "likes": 0,
       "replies": 0
     },
@@ -125,7 +125,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DbfvEDimBHl",
       "text": "재즈 채널을 만들었습니다.\n\n곡 생성부터 영상 제작, 업로드까지 전부 자동화했습니다.\n제가 직접 한 건 없습니다.\n\n39편 올렸습니다.\n구독자 0명이었습니다.\n\n자동화가 문제가 아니었다는 걸 아는 데 오래 걸렸습니다",
-      "views": 675,
+      "views": 739,
       "likes": 4,
       "replies": 2
     },
@@ -136,7 +136,7 @@
       "is_reply": true,
       "permalink": "https://www.threads.com/@studiohaetae/post/DbgTndWGHjH",
       "text": "롱폼도 해봤습니다.\n\n2시간짜리 재즈 믹스로 39편. 구독자 0명이었습니다.\n평균 시청 지속 시간이 1분 2초였습니다. 0.2%.\n\n길이가 아니라 사람이 남아 있느냐였던 것 같습니다. 롱폼도 자동으로 찍으니까 똑같이",
-      "views": 5,
+      "views": 9,
       "likes": 1,
       "replies": 0
     },
@@ -147,7 +147,7 @@
       "is_reply": true,
       "permalink": "https://www.threads.com/@studiohaetae/post/DbgTp30mD9_",
       "text": "같은 글에 이미 답이 하나 달렸습니다.\n\n수익창출까지 승인받았다가 나중에 채널이 삭제됐다는 분이 계셨습니다. 수익창출 금지 후 삭제 순서였다고요.\n\n문턱을 넘는 게 끝이 아니라는 뜻으로 읽었습니다. 저는 아직 그 근",
-      "views": 8,
+      "views": 9,
       "likes": 0,
       "replies": 0
     }
@@ -162,7 +162,6 @@
     }
   ],
   "run_log_tail": [
-    "[2026-08-01 20:30:09] 게시 완료 n=2 id=18575692309069172",
     "[2026-08-01 21:38:47] digest 갱신: 팔로워 61 · 미답변 1건 · 큐 11개",
     "[2026-08-01 23:39:04] digest 갱신: 팔로워 65 · 미답변 2건 · 큐 11개",
     "[2026-08-01 23:40:01] 스냅샷: {\"date\": \"2026-08-01\", \"at\": \"2026-08-01T23:40:00\", \"followers\": 65, \"views\": 3333, \"likes\": 4, \"replies\": 1, \"reposts\": 0, \"quotes\": 0, \"clicks\": null}",
@@ -176,6 +175,7 @@
     "[2026-08-02 01:50:01] 답글 게시 완료 id=18110001524076505 https://www.threads.com/@studiohaetae/post/DbgTp30mD9_",
     "[2026-08-02 03:39:34] digest 갱신: 팔로워 66 · 미답변 1건 · 큐 11개",
     "[2026-08-02 05:39:55] digest 갱신: 팔로워 66 · 미답변 1건 · 큐 11개",
-    "[2026-08-02 07:40:16] digest 갱신: 팔로워 68 · 미답변 1건 · 큐 11개"
+    "[2026-08-02 07:40:16] digest 갱신: 팔로워 68 · 미답변 1건 · 큐 11개",
+    "[2026-08-02 09:40:32] digest 갱신: 팔로워 69 · 미답변 1건 · 큐 11개"
   ]
 }
