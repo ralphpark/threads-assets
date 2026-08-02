@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T03:42:35",
+  "generated_at": "2026-08-03T03:43:16",
   "username": "studiohaetae",
   "followers": 71,
   "followers_history": [
@@ -125,7 +125,6 @@
   ],
   "unanswered_replies": [],
   "run_log_tail": [
-    "[2026-08-02 22:40:29] 이미지 0장 공개 URL 확보",
     "[2026-08-02 22:40:45] 답글 게시 완료 id=17984018114861209 https://www.threads.com/@studiohaetae/post/DbiiygbmJjz",
     "[2026-08-02 22:42:56] digest 갱신: 팔로워 72 · 미답변 0건 · 큐 10개",
     "[2026-08-02 22:42:56] agent: 미답변 없음",
@@ -139,6 +138,7 @@
     "[2026-08-03 01:45:54] 답글 게시 완료 id=18138947950568645 https://www.threads.com/@studiohaetae/post/Dbi3-UpmIU7",
     "[2026-08-03 01:45:54] agent: 게시 @contentscontender",
     "[2026-08-03 01:46:14] digest 갱신: 팔로워 71 · 미답변 0건 · 큐 10개",
-    "[2026-08-03 01:46:14] agent: 자동 답글 1건 · 보류 0건"
+    "[2026-08-03 01:46:14] agent: 자동 답글 1건 · 보류 0건",
+    "[2026-08-03 03:42:52] digest 갱신: 팔로워 71 · 미답변 0건 · 큐 10개"
   ]
 }
