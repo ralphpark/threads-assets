@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T15:44:08",
+  "generated_at": "2026-08-03T16:47:22",
   "username": "studiohaetae",
   "followers": 71,
   "followers_history": [
@@ -63,7 +63,7 @@
       "is_reply": true,
       "permalink": "https://www.threads.com/@studiohaetae/post/DbiirlAGK8U",
       "text": "채널 링크 탭이 정상 앵커라는 것, 저희가 못 잡은 부분입니다. 그쪽 실측이 한 단계 위였습니다.\n\n제일 시간을 먹는 건 제작이 아니라 소재 검증입니다.\n\n만드는 건 자동입니다. 그런데 이미 쓴 소재인지, 다른 채널",
-      "views": 4,
+      "views": 6,
       "likes": 0,
       "replies": 0
     },
@@ -74,7 +74,7 @@
       "is_reply": true,
       "permalink": "https://www.threads.com/@studiohaetae/post/DbiitpbmCuR",
       "text": "클릭 0을 그대로 공개하시겠다는 게 제일 인상적입니다.\n\n저희도 같은 걸 하겠습니다. 채널 링크 탭 쪽은 아직 안 걸었고, 걸면 클릭 수를 그대로 올리겠습니다. 0이면 0으로요.",
-      "views": 4,
+      "views": 6,
       "likes": 0,
       "replies": 0
     },
@@ -125,7 +125,6 @@
   ],
   "unanswered_replies": [],
   "run_log_tail": [
-    "[2026-08-03 03:45:48] 이미지 0장 공개 URL 확보",
     "[2026-08-03 03:46:08] 답글 게시 완료 id=18228013207320674 https://www.threads.com/@studiohaetae/post/DbjFuqzn4sT",
     "[2026-08-03 04:46:35] digest 갱신: 팔로워 71 · 미답변 0건 · 큐 10개",
     "[2026-08-03 04:46:35] agent: 미답변 없음",
@@ -139,6 +138,7 @@
     "[2026-08-03 11:43:51] digest 갱신: 팔로워 71 · 미답변 0건 · 큐 10개",
     "[2026-08-03 13:44:07] digest 갱신: 팔로워 71 · 미답변 0건 · 큐 10개",
     "[2026-08-03 13:47:22] digest 갱신: 팔로워 71 · 미답변 0건 · 큐 10개",
-    "[2026-08-03 13:47:22] agent: 미답변 없음"
+    "[2026-08-03 13:47:22] agent: 미답변 없음",
+    "[2026-08-03 15:44:22] digest 갱신: 팔로워 71 · 미답변 0건 · 큐 10개"
   ]
 }
