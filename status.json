@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T13:47:07",
+  "generated_at": "2026-08-03T15:44:08",
   "username": "studiohaetae",
   "followers": 71,
   "followers_history": [
@@ -30,7 +30,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DbchdDnGFso",
       "text": "AI로 유튜브 채널 6개를 자동으로 돌리고 있습니다.\n\n지난달 조회수 19만 6천.\n수익 0원.\n\n왜 0원인지 앞으로 여기에 숫자로만 적겠습니다.",
-      "views": 2079,
+      "views": 2080,
       "likes": 10,
       "replies": 23
     },
@@ -41,7 +41,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DbfvEDimBHl",
       "text": "재즈 채널을 만들었습니다.\n\n곡 생성부터 영상 제작, 업로드까지 전부 자동화했습니다.\n제가 직접 한 건 없습니다.\n\n39편 올렸습니다.\n구독자 0명이었습니다.\n\n자동화가 문제가 아니었다는 걸 아는 데 오래 걸렸습니다",
-      "views": 1202,
+      "views": 1203,
       "likes": 8,
       "replies": 13
     },
@@ -63,7 +63,7 @@
       "is_reply": true,
       "permalink": "https://www.threads.com/@studiohaetae/post/DbiirlAGK8U",
       "text": "채널 링크 탭이 정상 앵커라는 것, 저희가 못 잡은 부분입니다. 그쪽 실측이 한 단계 위였습니다.\n\n제일 시간을 먹는 건 제작이 아니라 소재 검증입니다.\n\n만드는 건 자동입니다. 그런데 이미 쓴 소재인지, 다른 채널",
-      "views": 3,
+      "views": 4,
       "likes": 0,
       "replies": 0
     },
@@ -74,7 +74,7 @@
       "is_reply": true,
       "permalink": "https://www.threads.com/@studiohaetae/post/DbiitpbmCuR",
       "text": "클릭 0을 그대로 공개하시겠다는 게 제일 인상적입니다.\n\n저희도 같은 걸 하겠습니다. 채널 링크 탭 쪽은 아직 안 걸었고, 걸면 클릭 수를 그대로 올리겠습니다. 0이면 0으로요.",
-      "views": 3,
+      "views": 4,
       "likes": 0,
       "replies": 0
     },
@@ -85,7 +85,7 @@
       "is_reply": true,
       "permalink": "https://www.threads.com/@studiohaetae/post/Dbiiv0XGPuC",
       "text": "안 세어봤습니다.\n\n수노, 힉스필드, 프록시, 서버까지 붙어 있는데 합계를 한 번도 안 뽑았습니다. 수익이 0원이라 지출만 있는 구조인데도요.\n\n이번 주에 세어서 그대로 올리겠습니다. 물어봐주신 덕에 셉니다.",
-      "views": 4,
+      "views": 5,
       "likes": 0,
       "replies": 0
     },
@@ -125,8 +125,6 @@
   ],
   "unanswered_replies": [],
   "run_log_tail": [
-    "[2026-08-03 03:42:52] digest 갱신: 팔로워 71 · 미답변 0건 · 큐 10개",
-    "[2026-08-03 03:43:30] digest 갱신: 팔로워 71 · 미답변 0건 · 큐 10개",
     "[2026-08-03 03:45:48] 이미지 0장 공개 URL 확보",
     "[2026-08-03 03:46:08] 답글 게시 완료 id=18228013207320674 https://www.threads.com/@studiohaetae/post/DbjFuqzn4sT",
     "[2026-08-03 04:46:35] digest 갱신: 팔로워 71 · 미답변 0건 · 큐 10개",
@@ -139,6 +137,8 @@
     "[2026-08-03 10:47:06] digest 갱신: 팔로워 71 · 미답변 0건 · 큐 10개",
     "[2026-08-03 10:47:06] agent: 미답변 없음",
     "[2026-08-03 11:43:51] digest 갱신: 팔로워 71 · 미답변 0건 · 큐 10개",
-    "[2026-08-03 13:44:07] digest 갱신: 팔로워 71 · 미답변 0건 · 큐 10개"
+    "[2026-08-03 13:44:07] digest 갱신: 팔로워 71 · 미답변 0건 · 큐 10개",
+    "[2026-08-03 13:47:22] digest 갱신: 팔로워 71 · 미답변 0건 · 큐 10개",
+    "[2026-08-03 13:47:22] agent: 미답변 없음"
   ]
 }
