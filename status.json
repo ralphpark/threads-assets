@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T17:44:23",
+  "generated_at": "2026-08-03T19:44:37",
   "username": "studiohaetae",
   "followers": 71,
   "followers_history": [
@@ -30,7 +30,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DbchdDnGFso",
       "text": "AI로 유튜브 채널 6개를 자동으로 돌리고 있습니다.\n\n지난달 조회수 19만 6천.\n수익 0원.\n\n왜 0원인지 앞으로 여기에 숫자로만 적겠습니다.",
-      "views": 2080,
+      "views": 2082,
       "likes": 10,
       "replies": 23
     },
@@ -41,7 +41,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DbfvEDimBHl",
       "text": "재즈 채널을 만들었습니다.\n\n곡 생성부터 영상 제작, 업로드까지 전부 자동화했습니다.\n제가 직접 한 건 없습니다.\n\n39편 올렸습니다.\n구독자 0명이었습니다.\n\n자동화가 문제가 아니었다는 걸 아는 데 오래 걸렸습니다",
-      "views": 1203,
+      "views": 1207,
       "likes": 8,
       "replies": 13
     },
@@ -52,7 +52,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DbiT2rYGMI-",
       "text": "영상 39편, 28일간 노출수 48회.\n편당 한 달에 1.2번 보여졌습니다.\n\n노출 클릭률은 6.3%로 정상 범위였습니다.\n\n썸네일이 나빴던 게 아니라\n유튜브가 아예 안 보여주고 있었던 겁니다.\n\n깔때기는 맨 위에서",
-      "views": 17,
+      "views": 18,
       "likes": 0,
       "replies": 0
     },
@@ -96,7 +96,7 @@
       "is_reply": true,
       "permalink": "https://www.threads.com/@studiohaetae/post/DbiiygbmJjz",
       "text": "네, 수노로 만들었습니다.\n\n무보컬 재즈는 검수가 필요 없을 만큼 잘 나왔습니다. 곡이 문제가 아니었습니다.\n\n2시간짜리 믹스로 39편을 올렸는데 평균 시청 지속 시간이 1분 2초였습니다. 0.2%요.",
-      "views": 5,
+      "views": 8,
       "likes": 0,
       "replies": 0
     },
@@ -107,7 +107,7 @@
       "is_reply": true,
       "permalink": "https://www.threads.com/@studiohaetae/post/Dbi3-UpmIU7",
       "text": "2시간 10분짜리 영상 평균 시청 지속시간이 1분 2초, 재생 비율로는 0.2%였습니다.\n\n확실한 이유는 모릅니다.\n\n같은 채널 28일 노출수가 48회, 노출 클릭률 6.3%였어요. 애초에 알고리즘이 노출을 거의 안",
-      "views": 2,
+      "views": 4,
       "likes": 0,
       "replies": 0
     },
@@ -125,7 +125,6 @@
   ],
   "unanswered_replies": [],
   "run_log_tail": [
-    "[2026-08-03 04:46:35] agent: 미답변 없음",
     "[2026-08-03 05:43:08] digest 갱신: 팔로워 71 · 미답변 0건 · 큐 10개",
     "[2026-08-03 07:43:21] digest 갱신: 팔로워 71 · 미답변 0건 · 큐 10개",
     "[2026-08-03 07:46:49] digest 갱신: 팔로워 71 · 미답변 0건 · 큐 10개",
@@ -139,6 +138,7 @@
     "[2026-08-03 13:47:22] agent: 미답변 없음",
     "[2026-08-03 15:44:22] digest 갱신: 팔로워 71 · 미답변 0건 · 큐 10개",
     "[2026-08-03 16:47:44] digest 갱신: 팔로워 71 · 미답변 0건 · 큐 10개",
-    "[2026-08-03 16:47:44] agent: 미답변 없음"
+    "[2026-08-03 16:47:44] agent: 미답변 없음",
+    "[2026-08-03 17:44:38] digest 갱신: 팔로워 71 · 미답변 0건 · 큐 10개"
   ]
 }
