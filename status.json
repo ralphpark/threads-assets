@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T15:22:33",
+  "generated_at": "2026-08-04T15:34:09",
   "username": "studiohaetae",
   "followers": 76,
   "followers_history": [
@@ -67,47 +67,9 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Dbk4pi-GAq2",
       "text": "2시간 10분짜리 영상.\n평균 시청 지속 시간 1분 2초. 0.2%.\n\n배경음악은 틀어놓고 딴 일 하는 콘텐츠인데\n12초 만에 나갔다는 건 틀어놓지도 않았다는 뜻입니다.\n\n유튜브는 이 판정을 39번 받고 노출을 끊었",
-      "views": 208,
+      "views": 209,
       "likes": 3,
       "replies": 6
-    },
-    {
-      "at": "2026-08-04T01:34:46",
-      "n": -1,
-      "id": null,
-      "is_reply": true,
-      "via": "browser",
-      "target": "jooou.ou",
-      "permalink": "https://www.threads.com/@jooou.ou/post/DbiHvBIke6e"
-    },
-    {
-      "at": "2026-08-04T01:34:46",
-      "n": -1,
-      "id": null,
-      "is_reply": true,
-      "via": "browser",
-      "target": "lifefriend_honey",
-      "permalink": "https://www.threads.com/@lifefriend_honey/post/DbegSWYAfjO"
-    },
-    {
-      "at": "2026-08-04T01:34:46",
-      "n": -1,
-      "id": null,
-      "is_reply": true,
-      "via": "browser",
-      "target": "seung_an",
-      "permalink": "https://www.threads.com/@seung_an/post/Dbc3Rm1mGKz"
-    },
-    {
-      "at": "2026-08-04T07:49:51",
-      "n": -1,
-      "id": "17963420334169034",
-      "is_reply": true,
-      "permalink": "https://www.threads.com/@studiohaetae/post/DbmGajFkhAa",
-      "text": "35곡, 수익 0원. 저도 같은 자리입니다.\n\n재즈 채널 39편 자동생성, 구독자 0명, 28일 노출 48회.\n노출 클릭률은 6.3%로 나쁘지 않았는데, 평균 시청 지속시간이 1분 2초(2시간 10분짜리 영상 기준 ",
-      "views": 1,
-      "likes": 1,
-      "replies": 0
     },
     {
       "at": "2026-08-04T10:51:06",
@@ -130,11 +92,46 @@
       "views": 0,
       "likes": 0,
       "replies": 0
+    },
+    {
+      "at": "2026-08-04T15:34:09",
+      "n": -1,
+      "id": null,
+      "is_reply": true,
+      "via": "browser",
+      "target": "mallang__shop",
+      "permalink": "https://www.threads.com/@mallang__shop/post/DbmHKfkk10j"
+    },
+    {
+      "at": "2026-08-04T15:34:09",
+      "n": -1,
+      "id": null,
+      "is_reply": true,
+      "via": "browser",
+      "target": "jooou.ou",
+      "permalink": "https://www.threads.com/@jooou.ou/post/DbmTpvSgXut"
+    },
+    {
+      "at": "2026-08-04T15:34:09",
+      "n": -1,
+      "id": null,
+      "is_reply": true,
+      "via": "browser",
+      "target": "sweetmelodysoul",
+      "permalink": "https://www.threads.com/@sweetmelodysoul/post/DbmKAMQksm6"
+    },
+    {
+      "at": "2026-08-04T15:34:09",
+      "n": -1,
+      "id": null,
+      "is_reply": true,
+      "via": "browser",
+      "target": "seung_an",
+      "permalink": "https://www.threads.com/@seung_an/post/Dbm1eEjmMWo"
     }
   ],
   "unanswered_replies": [],
   "run_log_tail": [
-    "[2026-08-04 10:50:26] digest 갱신: 팔로워 76 · 미답변 1건 · 큐 9개",
     "[2026-08-04 10:50:49] 이미지 0장 공개 URL 확보",
     "[2026-08-04 10:51:06] 답글 게시 완료 id=18112016153071485 https://www.threads.com/@studiohaetae/post/DbmbKcLGDHe",
     "[2026-08-04 10:51:06] agent: 게시 @jooou.ou",
@@ -148,6 +145,7 @@
     "[2026-08-04 13:52:18] agent: 게시 @ai.the_night_pd",
     "[2026-08-04 13:52:31] digest 갱신: 팔로워 76 · 미답변 0건 · 큐 9개",
     "[2026-08-04 13:52:31] agent: 자동 답글 1건 · 보류 0건",
-    "[2026-08-04 15:22:33] 답글 19건 수집 -> replies-2026-08-04.json"
+    "[2026-08-04 15:22:33] 답글 19건 수집 -> replies-2026-08-04.json",
+    "[2026-08-04 15:22:46] digest 갱신: 팔로워 76 · 미답변 0건 · 큐 9개"
   ]
 }
