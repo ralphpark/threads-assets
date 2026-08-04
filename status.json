@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-04T09:46:21",
+  "generated_at": "2026-08-04T10:50:14",
   "username": "studiohaetae",
-  "followers": 75,
+  "followers": 76,
   "followers_history": [
     {
       "date": "2026-07-31",
@@ -56,7 +56,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DbiT2rYGMI-",
       "text": "영상 39편, 28일간 노출수 48회.\n편당 한 달에 1.2번 보여졌습니다.\n\n노출 클릭률은 6.3%로 정상 범위였습니다.\n\n썸네일이 나빴던 게 아니라\n유튜브가 아예 안 보여주고 있었던 겁니다.\n\n깔때기는 맨 위에서",
-      "views": 21,
+      "views": 22,
       "likes": 0,
       "replies": 0
     },
@@ -67,9 +67,9 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Dbk4pi-GAq2",
       "text": "2시간 10분짜리 영상.\n평균 시청 지속 시간 1분 2초. 0.2%.\n\n배경음악은 틀어놓고 딴 일 하는 콘텐츠인데\n12초 만에 나갔다는 건 틀어놓지도 않았다는 뜻입니다.\n\n유튜브는 이 판정을 39번 받고 노출을 끊었",
-      "views": 191,
-      "likes": 2,
-      "replies": 2
+      "views": 193,
+      "likes": 3,
+      "replies": 3
     },
     {
       "at": "2026-08-04T01:34:46",
@@ -128,9 +128,16 @@
       "replies": 0
     }
   ],
-  "unanswered_replies": [],
+  "unanswered_replies": [
+    {
+      "id": "18170107207444640",
+      "username": "jooou.ou",
+      "text": "너무 어렵네요ㅠ",
+      "at": "2026-08-04T00:47:20+0000",
+      "on_post": "17876509362685135"
+    }
+  ],
   "run_log_tail": [
-    "[2026-08-04 01:36:13] digest 갱신: 팔로워 71 · 미답변 0건 · 큐 9개",
     "[2026-08-04 01:45:38] digest 갱신: 팔로워 71 · 미답변 0건 · 큐 9개",
     "[2026-08-04 01:48:34] digest 갱신: 팔로워 71 · 미답변 0건 · 큐 9개",
     "[2026-08-04 01:48:34] agent: 미답변 없음",
@@ -144,6 +151,7 @@
     "[2026-08-04 07:49:51] 답글 게시 완료 id=17963420334169034 https://www.threads.com/@studiohaetae/post/DbmGajFkhAa",
     "[2026-08-04 07:49:51] agent: 게시 @ai.the_night_pd",
     "[2026-08-04 07:50:13] digest 갱신: 팔로워 73 · 미답변 0건 · 큐 9개",
-    "[2026-08-04 07:50:13] agent: 자동 답글 1건 · 보류 0건"
+    "[2026-08-04 07:50:13] agent: 자동 답글 1건 · 보류 0건",
+    "[2026-08-04 09:46:32] digest 갱신: 팔로워 75 · 미답변 0건 · 큐 9개"
   ]
 }
