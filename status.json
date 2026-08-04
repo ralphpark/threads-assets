@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T03:48:17",
+  "generated_at": "2026-08-05T04:53:27",
   "username": "studiohaetae",
   "followers": 80,
   "followers_history": [
@@ -86,7 +86,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DbndcaFmMll",
       "text": "세어봤습니다.\n\n재즈 채널 39편. AI 아바타. 랭킹 채널 6개. 음악 캐릭터. 개발 스튜디오 사이트.\n\n다섯 번 다 끝까지 만들었습니다.\n다섯 번 다 사람을 데려오는 일은 한 번도 안 했습니다.\n\n만드는 게 제일",
-      "views": 200,
+      "views": 201,
       "likes": 0,
       "replies": 0
     },
@@ -150,7 +150,6 @@
     "launchd.collect.err": "Traceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 508, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-04 19:52:59] digest 갱신: 팔로워 78 · 미답변 0건 · 큐 9개",
     "[2026-08-04 19:52:59] agent: 미답변 없음",
     "[2026-08-04 20:30:02] 컨테이너 생성 17892445944605032 (n=8)",
     "[2026-08-04 20:30:09] 게시 완료 n=8 id=18127294120643861",
@@ -164,6 +163,7 @@
     "[2026-08-04 23:56:40] digest 갱신: 팔로워 80 · 미답변 0건 · 큐 8개",
     "[2026-08-05 01:48:16] digest 갱신: 팔로워 80 · 미답변 0건 · 큐 8개",
     "[2026-08-05 01:53:26] digest 갱신: 팔로워 80 · 미답변 0건 · 큐 8개",
-    "[2026-08-05 01:53:26] agent: 미답변 없음"
+    "[2026-08-05 01:53:26] agent: 미답변 없음",
+    "[2026-08-05 03:48:29] digest 갱신: 팔로워 80 · 미답변 0건 · 큐 8개"
   ]
 }
