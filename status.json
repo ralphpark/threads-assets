@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T15:46:57",
+  "generated_at": "2026-08-04T16:02:35",
   "username": "studiohaetae",
   "followers": 76,
   "followers_history": [
@@ -22,6 +22,10 @@
     {
       "date": "2026-08-03",
       "followers": 71
+    },
+    {
+      "date": "2026-08-04",
+      "followers": 76
     }
   ],
   "queue_pending": 9,
@@ -72,37 +76,6 @@
       "replies": 6
     },
     {
-      "at": "2026-08-04T10:51:06",
-      "n": -1,
-      "id": "18112016153071485",
-      "is_reply": true,
-      "permalink": "https://www.threads.com/@studiohaetae/post/DbmbKcLGDHe",
-      "text": "맞아요, 어렵습니다.\n\n채널 6개 자동 운영해도 지난달 수익은 0원이었어요.\n\n재즈 채널은 39편 만들고 구독자 0명이고요.",
-      "views": 3,
-      "likes": 1,
-      "replies": 0
-    },
-    {
-      "at": "2026-08-04T13:52:18",
-      "n": -1,
-      "id": "17968560042125905",
-      "is_reply": true,
-      "permalink": "https://www.threads.com/@studiohaetae/post/Dbmv53MmFiV",
-      "text": "6.3%는 유튜브 쇼츠 노출 클릭률이었습니다.\n스레드 팔로워와 답글의 상관관계는 저한테 아직 숫자가 없습니다.\n\n계정을 얼마 못 굴려봐서 사이클을 나눠 비교한 적이 없습니다.\n새벽 세 사이클로 나눠서 확인하신 게 저",
-      "views": 0,
-      "likes": 0,
-      "replies": 0
-    },
-    {
-      "at": "2026-08-04T15:34:09",
-      "n": -1,
-      "id": null,
-      "is_reply": true,
-      "via": "browser",
-      "target": "mallang__shop",
-      "permalink": "https://www.threads.com/@mallang__shop/post/DbmHKfkk10j"
-    },
-    {
       "at": "2026-08-04T15:34:09",
       "n": -1,
       "id": null,
@@ -128,12 +101,37 @@
       "via": "browser",
       "target": "seung_an",
       "permalink": "https://www.threads.com/@seung_an/post/Dbm1eEjmMWo"
+    },
+    {
+      "at": "2026-08-04T16:02:33",
+      "n": -1,
+      "id": null,
+      "is_reply": true,
+      "via": "browser",
+      "target": "money_crazybird",
+      "permalink": "https://www.threads.com/@money_crazybird/post/Dbh01WniUS4"
+    },
+    {
+      "at": "2026-08-04T16:02:33",
+      "n": -1,
+      "id": null,
+      "is_reply": true,
+      "via": "browser",
+      "target": "pickvault9",
+      "permalink": "https://www.threads.com/@pickvault9/post/Dbm9KVeEmjR"
+    },
+    {
+      "at": "2026-08-04T16:02:33",
+      "n": -1,
+      "id": null,
+      "is_reply": true,
+      "via": "browser",
+      "target": "money_crazybird",
+      "permalink": "https://www.threads.com/@money_crazybird/post/Dbm-TouiYml"
     }
   ],
   "unanswered_replies": [],
   "run_log_tail": [
-    "[2026-08-04 10:51:06] 답글 게시 완료 id=18112016153071485 https://www.threads.com/@studiohaetae/post/DbmbKcLGDHe",
-    "[2026-08-04 10:51:06] agent: 게시 @jooou.ou",
     "[2026-08-04 10:51:18] digest 갱신: 팔로워 76 · 미답변 0건 · 큐 9개",
     "[2026-08-04 10:51:18] agent: 자동 답글 1건 · 보류 0건",
     "[2026-08-04 11:46:44] digest 갱신: 팔로워 76 · 미답변 1건 · 큐 9개",
@@ -146,6 +144,8 @@
     "[2026-08-04 13:52:31] agent: 자동 답글 1건 · 보류 0건",
     "[2026-08-04 15:22:33] 답글 19건 수집 -> replies-2026-08-04.json",
     "[2026-08-04 15:22:46] digest 갱신: 팔로워 76 · 미답변 0건 · 큐 9개",
-    "[2026-08-04 15:34:21] digest 갱신: 팔로워 76 · 미답변 0건 · 큐 9개"
+    "[2026-08-04 15:34:21] digest 갱신: 팔로워 76 · 미답변 0건 · 큐 9개",
+    "[2026-08-04 15:47:10] digest 갱신: 팔로워 76 · 미답변 0건 · 큐 9개",
+    "[2026-08-04 16:02:35] 스냅샷: {\"date\": \"2026-08-04\", \"at\": \"2026-08-04T16:02:34\", \"followers\": 76, \"views\": 408, \"likes\": 0, \"replies\": 0, \"reposts\": 0, \"quotes\": 0, \"clicks\": null}"
   ]
 }
