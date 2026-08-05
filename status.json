@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T19:49:58",
+  "generated_at": "2026-08-05T19:54:28",
   "username": "studiohaetae",
   "followers": 81,
   "followers_history": [
@@ -91,58 +91,58 @@
       "replies": 0
     },
     {
-      "at": "2026-08-04T23:56:26",
+      "at": "2026-08-05T19:52:04",
+      "n": -1,
+      "id": null,
+      "is_reply": true,
+      "via": "browser",
+      "target": "short_tubuer",
+      "permalink": "https://www.threads.com/@short_tubuer"
+    },
+    {
+      "at": "2026-08-05T19:52:04",
+      "n": -1,
+      "id": null,
+      "is_reply": true,
+      "via": "browser",
+      "target": "dopamine_addictor_park",
+      "permalink": "https://www.threads.com/@dopamine_addictor_park/post/Dbp0ejbD22T"
+    },
+    {
+      "at": "2026-08-05T19:52:04",
       "n": -1,
       "id": null,
       "is_reply": true,
       "via": "browser",
       "target": "goodplan_twojob",
-      "permalink": "https://www.threads.com/@goodplan_twojob/post/Dbn0sf6koPu"
+      "permalink": "https://www.threads.com/@goodplan_twojob/post/DbpeFmokkCh"
     },
     {
-      "at": "2026-08-05T01:08:17",
+      "at": "2026-08-05T19:52:04",
       "n": -1,
       "id": null,
       "is_reply": true,
       "via": "browser",
       "target": "goldenpiggygirl",
-      "permalink": "https://www.threads.com/@goldenpiggygirl/post/DblN9lbIAF7"
+      "permalink": "https://www.threads.com/@goldenpiggygirl/post/Dbp78ksINew"
     },
     {
-      "at": "2026-08-05T03:31:43",
+      "at": "2026-08-05T19:52:04",
       "n": -1,
       "id": null,
       "is_reply": true,
       "via": "browser",
-      "target": "goldenpiggygirl",
-      "permalink": "https://www.threads.com/@goldenpiggygirl/post/DboJI4UHxxx"
+      "target": "i_go_daeri",
+      "permalink": "https://www.threads.com/@i_go_daeri/post/DboDfXokvcD"
     },
     {
-      "at": "2026-08-05T14:42:58",
+      "at": "2026-08-05T19:52:04",
       "n": -1,
       "id": null,
       "is_reply": true,
       "via": "browser",
-      "target": "glitter_ai_factory",
-      "permalink": "https://www.threads.com/@glitter_ai_factory/post/DbpYt1Yk3Fs"
-    },
-    {
-      "at": "2026-08-05T14:42:58",
-      "n": -1,
-      "id": null,
-      "is_reply": true,
-      "via": "browser",
-      "target": "glitter_ai_factory",
-      "permalink": "https://www.threads.com/@glitter_ai_factory/post/DbpZtGrEz6_"
-    },
-    {
-      "at": "2026-08-05T14:42:58",
-      "n": -1,
-      "id": null,
-      "is_reply": true,
-      "via": "browser",
-      "target": "poco_dad",
-      "permalink": "https://www.threads.com/@poco_dad/post/DbpJ1WuHYEs"
+      "target": "sweetnugury",
+      "permalink": "https://www.threads.com/@sweetnugury/post/DbpjDt5GHVm"
     }
   ],
   "unanswered_replies": [],
@@ -150,7 +150,6 @@
     "launchd.collect.err": "Traceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 508, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-05 05:48:40] digest 갱신: 팔로워 80 · 미답변 0건 · 큐 8개",
     "[2026-08-05 07:48:52] digest 갱신: 팔로워 80 · 미답변 0건 · 큐 8개",
     "[2026-08-05 07:53:52] digest 갱신: 팔로워 80 · 미답변 0건 · 큐 8개",
     "[2026-08-05 07:53:52] agent: 미답변 없음",
@@ -164,6 +163,7 @@
     "[2026-08-05 15:49:40] digest 갱신: 팔로워 81 · 미답변 0건 · 큐 8개",
     "[2026-08-05 16:54:27] digest 갱신: 팔로워 81 · 미답변 0건 · 큐 8개",
     "[2026-08-05 16:54:27] agent: 미답변 없음",
-    "[2026-08-05 17:49:57] digest 갱신: 팔로워 81 · 미답변 0건 · 큐 8개"
+    "[2026-08-05 17:49:57] digest 갱신: 팔로워 81 · 미답변 0건 · 큐 8개",
+    "[2026-08-05 19:50:10] digest 갱신: 팔로워 81 · 미답변 0건 · 큐 8개"
   ]
 }
