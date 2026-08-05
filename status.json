@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T03:50:50",
+  "generated_at": "2026-08-06T04:04:11",
   "username": "studiohaetae",
   "followers": 82,
   "followers_history": [
@@ -101,63 +101,63 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DbqCP-jmG9k",
       "text": "AI로 돌리는 랭킹 쇼츠 채널이 하나 있습니다. 남의 클립을 편집해서 올립니다.\n\n지난 28일 조회수 8만 7천.\n같은 기간 구독자 순증 37명.\n전환율 0.04%입니다.\n\n잘 되는 쇼츠 채널이 0.5~2%니까 스무",
-      "views": 116,
+      "views": 118,
       "likes": 0,
       "replies": 0
     },
     {
-      "at": "2026-08-05T19:52:04",
+      "at": "2026-08-06T04:02:21",
       "n": -1,
       "id": null,
       "is_reply": true,
       "via": "browser",
-      "target": "short_tubuer",
-      "permalink": "https://www.threads.com/@short_tubuer"
+      "target": "ita_mir",
+      "permalink": "https://www.threads.com/@ita_mir/post/Dbqv02ck3yQ"
     },
     {
-      "at": "2026-08-05T19:52:04",
+      "at": "2026-08-06T04:02:21",
       "n": -1,
       "id": null,
       "is_reply": true,
       "via": "browser",
-      "target": "dopamine_addictor_park",
-      "permalink": "https://www.threads.com/@dopamine_addictor_park/post/Dbp0ejbD22T"
+      "target": "99_fire_archive",
+      "permalink": "https://www.threads.com/@99_fire_archive/post/DbqUN31GBEv"
     },
     {
-      "at": "2026-08-05T19:52:04",
+      "at": "2026-08-06T04:02:21",
       "n": -1,
       "id": null,
       "is_reply": true,
       "via": "browser",
-      "target": "goodplan_twojob",
-      "permalink": "https://www.threads.com/@goodplan_twojob/post/DbpeFmokkCh"
+      "target": "eeeaaattt2023",
+      "permalink": "https://www.threads.com/@eeeaaattt2023/post/DbqY8PViRu3"
     },
     {
-      "at": "2026-08-05T19:52:04",
+      "at": "2026-08-06T04:02:21",
       "n": -1,
       "id": null,
       "is_reply": true,
       "via": "browser",
-      "target": "goldenpiggygirl",
-      "permalink": "https://www.threads.com/@goldenpiggygirl/post/Dbp78ksINew"
+      "target": "cccccccccccc6347",
+      "permalink": "https://www.threads.com/@cccccccccccc6347/post/DbqsHgAE9pE"
     },
     {
-      "at": "2026-08-05T19:52:04",
+      "at": "2026-08-06T04:02:21",
       "n": -1,
       "id": null,
       "is_reply": true,
       "via": "browser",
-      "target": "i_go_daeri",
-      "permalink": "https://www.threads.com/@i_go_daeri/post/DboDfXokvcD"
+      "target": "khosangrock",
+      "permalink": "https://www.threads.com/@khosangrock/post/DbqaglWE5Nb"
     },
     {
-      "at": "2026-08-05T19:52:04",
+      "at": "2026-08-06T04:02:21",
       "n": -1,
       "id": null,
       "is_reply": true,
       "via": "browser",
-      "target": "sweetnugury",
-      "permalink": "https://www.threads.com/@sweetnugury/post/DbpjDt5GHVm"
+      "target": "lalatravel_youtube",
+      "permalink": "https://www.threads.com/@lalatravel_youtube/post/DbpJiUTlARR"
     }
   ],
   "unanswered_replies": [],
@@ -165,7 +165,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 508, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-05 19:54:39] digest 갱신: 팔로워 81 · 미답변 0건 · 큐 8개",
     "[2026-08-05 19:54:39] agent: 미답변 없음",
     "[2026-08-05 19:54:55] digest 갱신: 팔로워 81 · 미답변 0건 · 큐 8개",
     "[2026-08-05 20:30:08] 컨테이너 생성 17892618816605032 (n=5)",
@@ -179,6 +178,7 @@
     "[2026-08-05 23:50:36] digest 갱신: 팔로워 82 · 미답변 0건 · 큐 7개",
     "[2026-08-06 01:50:49] digest 갱신: 팔로워 82 · 미답변 0건 · 큐 7개",
     "[2026-08-06 01:55:07] digest 갱신: 팔로워 82 · 미답변 0건 · 큐 7개",
-    "[2026-08-06 01:55:07] agent: 미답변 없음"
+    "[2026-08-06 01:55:07] agent: 미답변 없음",
+    "[2026-08-06 03:51:03] digest 갱신: 팔로워 82 · 미답변 0건 · 큐 7개"
   ]
 }
