@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T01:57:32",
+  "generated_at": "2026-08-07T01:58:32",
   "username": "studiohaetae",
   "followers": 84,
   "followers_history": [
@@ -85,7 +85,7 @@
       "text": "2시간 10분짜리 영상.\n평균 시청 지속 시간 1분 2초. 0.2%.\n\n배경음악은 틀어놓고 딴 일 하는 콘텐츠인데\n12초 만에 나갔다는 건 틀어놓지도 않았다는 뜻입니다.\n\n유튜브는 이 판정을 39번 받고 노출을 끊었",
       "views": 322,
       "likes": 3,
-      "replies": 7
+      "replies": 8
     },
     {
       "at": "2026-08-04T20:30:09",
@@ -119,15 +119,6 @@
       "views": 33,
       "likes": 0,
       "replies": 0
-    },
-    {
-      "at": "2026-08-06T10:09:22",
-      "n": -1,
-      "id": null,
-      "is_reply": true,
-      "via": "browser",
-      "target": "jhgj__0524",
-      "permalink": "https://www.threads.com/@jhgj__0524/post/DbqW1YZFDHL"
     },
     {
       "at": "2026-08-06T10:09:22",
@@ -173,25 +164,24 @@
       "via": "browser",
       "target": "short_tubuer",
       "permalink": "https://www.threads.com/@short_tubuer/post/Dbp70HVgWS6"
-    }
-  ],
-  "unanswered_replies": [
+    },
     {
-      "id": "17925393279393512",
-      "username": "side.money_story",
-      "text": "분석 열심히 하는거보니 언젠간 잘될거야!",
-      "at": "2026-08-06T03:34:46+0000",
-      "on_post": "17876509362685135"
+      "at": "2026-08-07T01:58:32",
+      "n": -1,
+      "id": "18015924236872852",
+      "is_reply": true,
+      "permalink": "https://www.threads.com/@studiohaetae/post/DbtMmZLn1bg",
+      "text": "구독자 0명짜리 채널이 있습니다.\n\n39편 자동 생성했고 28일 노출은 48회였습니다.\n\n클릭률은 6.3%인데 그다음이 없어서 구독으로 안 이어졌어요.\n\n잘될지는 숫자가 말해줄 거라 계속 보는 중입니다.",
+      "views": 0,
+      "likes": 0,
+      "replies": 0
     }
   ],
+  "unanswered_replies": [],
   "errors": {
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 508, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-06 19:52:50] digest 갱신: 팔로워 84 · 미답변 1건 · 큐 7개",
-    "[2026-08-06 19:56:53] digest 갱신: 팔로워 84 · 미답변 1건 · 큐 7개",
-    "[2026-08-06 19:57:05] digest 갱신: 팔로워 84 · 미답변 1건 · 큐 7개",
-    "[2026-08-06 19:57:05] agent: 자동 답글 0건 · 보류 1건",
     "[2026-08-06 20:30:07] 컨테이너 생성 17892802551605032 (n=7)",
     "[2026-08-06 20:30:14] 게시 완료 n=7 id=17980228656062613",
     "[2026-08-06 21:53:06] digest 갱신: 팔로워 84 · 미답변 1건 · 큐 6개",
@@ -202,6 +192,10 @@
     "[2026-08-06 23:40:22] 답글 20건 수집 -> replies-2026-08-06.json",
     "[2026-08-06 23:40:37] digest 갱신: 팔로워 84 · 미답변 1건 · 큐 6개",
     "[2026-08-06 23:53:20] digest 갱신: 팔로워 84 · 미답변 1건 · 큐 6개",
-    "[2026-08-07 01:53:35] digest 갱신: 팔로워 84 · 미답변 1건 · 큐 6개"
+    "[2026-08-07 01:53:35] digest 갱신: 팔로워 84 · 미답변 1건 · 큐 6개",
+    "[2026-08-07 01:57:47] digest 갱신: 팔로워 84 · 미답변 1건 · 큐 6개",
+    "[2026-08-07 01:58:13] 이미지 0장 공개 URL 확보",
+    "[2026-08-07 01:58:32] 답글 게시 완료 id=18015924236872852 https://www.threads.com/@studiohaetae/post/DbtMmZLn1bg",
+    "[2026-08-07 01:58:32] agent: 게시 @side.money_story"
   ]
 }
