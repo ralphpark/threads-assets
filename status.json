@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T09:51:30",
+  "generated_at": "2026-08-06T10:10:59",
   "username": "studiohaetae",
   "followers": 82,
   "followers_history": [
@@ -46,7 +46,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DbchdDnGFso",
       "text": "AI로 유튜브 채널 6개를 자동으로 돌리고 있습니다.\n\n지난달 조회수 19만 6천.\n수익 0원.\n\n왜 0원인지 앞으로 여기에 숫자로만 적겠습니다.",
-      "views": 2139,
+      "views": 2140,
       "likes": 11,
       "replies": 23
     },
@@ -106,58 +106,58 @@
       "replies": 0
     },
     {
-      "at": "2026-08-06T04:02:21",
+      "at": "2026-08-06T10:09:22",
       "n": -1,
       "id": null,
       "is_reply": true,
       "via": "browser",
-      "target": "ita_mir",
-      "permalink": "https://www.threads.com/@ita_mir/post/Dbqv02ck3yQ"
+      "target": "jhgj__0524",
+      "permalink": "https://www.threads.com/@jhgj__0524/post/DbqW1YZFDHL"
     },
     {
-      "at": "2026-08-06T04:02:21",
+      "at": "2026-08-06T10:09:22",
       "n": -1,
       "id": null,
       "is_reply": true,
       "via": "browser",
-      "target": "99_fire_archive",
-      "permalink": "https://www.threads.com/@99_fire_archive/post/DbqUN31GBEv"
+      "target": "tiger.hot77",
+      "permalink": "https://www.threads.com/@tiger.hot77/post/Dbpn6W_lBLK"
     },
     {
-      "at": "2026-08-06T04:02:21",
+      "at": "2026-08-06T10:09:22",
       "n": -1,
       "id": null,
       "is_reply": true,
       "via": "browser",
-      "target": "eeeaaattt2023",
-      "permalink": "https://www.threads.com/@eeeaaattt2023/post/DbqY8PViRu3"
+      "target": "snapbutter8738",
+      "permalink": "https://www.threads.com/@snapbutter8738/post/Dbq4Tw6kuf2"
     },
     {
-      "at": "2026-08-06T04:02:21",
+      "at": "2026-08-06T10:09:22",
       "n": -1,
       "id": null,
       "is_reply": true,
       "via": "browser",
-      "target": "cccccccccccc6347",
-      "permalink": "https://www.threads.com/@cccccccccccc6347/post/DbqsHgAE9pE"
+      "target": "9pd_studio",
+      "permalink": "https://www.threads.com/@9pd_studio/post/DbqYcGznQxz"
     },
     {
-      "at": "2026-08-06T04:02:21",
+      "at": "2026-08-06T10:09:22",
       "n": -1,
       "id": null,
       "is_reply": true,
       "via": "browser",
-      "target": "khosangrock",
-      "permalink": "https://www.threads.com/@khosangrock/post/DbqaglWE5Nb"
+      "target": "lin.studio.kr",
+      "permalink": "https://www.threads.com/@lin.studio.kr/post/Dbp-2D1DSIj"
     },
     {
-      "at": "2026-08-06T04:02:21",
+      "at": "2026-08-06T10:09:22",
       "n": -1,
       "id": null,
       "is_reply": true,
       "via": "browser",
-      "target": "lalatravel_youtube",
-      "permalink": "https://www.threads.com/@lalatravel_youtube/post/DbpJiUTlARR"
+      "target": "short_tubuer",
+      "permalink": "https://www.threads.com/@short_tubuer/post/Dbp70HVgWS6"
     }
   ],
   "unanswered_replies": [],
@@ -165,7 +165,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 508, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-05 23:40:02] 스냅샷: {\"date\": \"2026-08-05\", \"at\": \"2026-08-05T23:40:01\", \"followers\": 82, \"views\": 1984, \"likes\": 5, \"replies\": 21, \"reposts\": 0, \"quotes\": 0, \"clicks\": null}",
     "[2026-08-05 23:40:19] 답글 19건 수집 -> replies-2026-08-05.json",
     "[2026-08-05 23:40:32] digest 갱신: 팔로워 82 · 미답변 0건 · 큐 7개",
     "[2026-08-05 23:50:36] digest 갱신: 팔로워 82 · 미답변 0건 · 큐 7개",
@@ -179,6 +178,7 @@
     "[2026-08-06 05:51:16] digest 갱신: 팔로워 82 · 미답변 0건 · 큐 7개",
     "[2026-08-06 07:51:30] digest 갱신: 팔로워 82 · 미답변 0건 · 큐 7개",
     "[2026-08-06 07:55:34] digest 갱신: 팔로워 82 · 미답변 0건 · 큐 7개",
-    "[2026-08-06 07:55:34] agent: 미답변 없음"
+    "[2026-08-06 07:55:34] agent: 미답변 없음",
+    "[2026-08-06 09:51:44] digest 갱신: 팔로워 82 · 미답변 0건 · 큐 7개"
   ]
 }
