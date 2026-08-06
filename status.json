@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T19:56:53",
+  "generated_at": "2026-08-06T21:52:50",
   "username": "studiohaetae",
   "followers": 84,
   "followers_history": [
@@ -36,8 +36,8 @@
       "followers": 82
     }
   ],
-  "queue_pending": 7,
-  "queue_next": "유튜브 채널을 완전 자동으로 돌려서 39편을 올렸습니다. 구독자는 0명이었습니다.\n\n이상한 건 제가 그걸 보",
+  "queue_pending": 6,
+  "queue_next": "제 쇼츠 채널 4개, 최근 40편을 API로 전수 확인했습니다.\n설명란에 링크가 있는 영상 0편이었습니다.\n",
   "posts": [
     {
       "at": "2026-07-31T14:33:33",
@@ -79,7 +79,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Dbk4pi-GAq2",
       "text": "2시간 10분짜리 영상.\n평균 시청 지속 시간 1분 2초. 0.2%.\n\n배경음악은 틀어놓고 딴 일 하는 콘텐츠인데\n12초 만에 나갔다는 건 틀어놓지도 않았다는 뜻입니다.\n\n유튜브는 이 판정을 39번 받고 노출을 끊었",
-      "views": 313,
+      "views": 315,
       "likes": 3,
       "replies": 7
     },
@@ -101,8 +101,19 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DbqCP-jmG9k",
       "text": "AI로 돌리는 랭킹 쇼츠 채널이 하나 있습니다. 남의 클립을 편집해서 올립니다.\n\n지난 28일 조회수 8만 7천.\n같은 기간 구독자 순증 37명.\n전환율 0.04%입니다.\n\n잘 되는 쇼츠 채널이 0.5~2%니까 스무",
-      "views": 159,
+      "views": 161,
       "likes": 1,
+      "replies": 0
+    },
+    {
+      "at": "2026-08-06T20:30:14",
+      "n": 7,
+      "id": "17980228656062613",
+      "is_reply": false,
+      "permalink": "https://www.threads.com/@studiohaetae/post/DbsnCxkmFww",
+      "text": "유튜브 채널을 완전 자동으로 돌려서 39편을 올렸습니다. 구독자는 0명이었습니다.\n\n이상한 건 제가 그걸 보면서도 안 멈췄다는 겁니다.\n\n한 편 더 만드는 데 드는 추가 비용이 사실상 0이었거든요. 버튼을 누르면 나",
+      "views": 20,
+      "likes": 0,
       "replies": 0
     },
     {
@@ -173,10 +184,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 508, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-06 10:11:10] digest 갱신: 팔로워 82 · 미답변 0건 · 큐 7개",
-    "[2026-08-06 10:55:47] digest 갱신: 팔로워 83 · 미답변 0건 · 큐 7개",
-    "[2026-08-06 10:55:47] agent: 미답변 없음",
-    "[2026-08-06 11:51:56] digest 갱신: 팔로워 84 · 미답변 0건 · 큐 7개",
     "[2026-08-06 13:52:10] digest 갱신: 팔로워 84 · 미답변 1건 · 큐 7개",
     "[2026-08-06 13:55:59] digest 갱신: 팔로워 84 · 미답변 1건 · 큐 7개",
     "[2026-08-06 13:56:12] digest 갱신: 팔로워 84 · 미답변 1건 · 큐 7개",
@@ -187,6 +194,10 @@
     "[2026-08-06 16:56:40] agent: 자동 답글 0건 · 보류 1건",
     "[2026-08-06 17:52:37] digest 갱신: 팔로워 84 · 미답변 1건 · 큐 7개",
     "[2026-08-06 19:52:50] digest 갱신: 팔로워 84 · 미답변 1건 · 큐 7개",
-    "[2026-08-06 19:56:53] digest 갱신: 팔로워 84 · 미답변 1건 · 큐 7개"
+    "[2026-08-06 19:56:53] digest 갱신: 팔로워 84 · 미답변 1건 · 큐 7개",
+    "[2026-08-06 19:57:05] digest 갱신: 팔로워 84 · 미답변 1건 · 큐 7개",
+    "[2026-08-06 19:57:05] agent: 자동 답글 0건 · 보류 1건",
+    "[2026-08-06 20:30:07] 컨테이너 생성 17892802551605032 (n=7)",
+    "[2026-08-06 20:30:14] 게시 완료 n=7 id=17980228656062613"
   ]
 }
