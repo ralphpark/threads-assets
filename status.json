@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T15:52:11",
+  "generated_at": "2026-08-06T16:56:13",
   "username": "studiohaetae",
   "followers": 84,
   "followers_history": [
@@ -79,7 +79,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Dbk4pi-GAq2",
       "text": "2시간 10분짜리 영상.\n평균 시청 지속 시간 1분 2초. 0.2%.\n\n배경음악은 틀어놓고 딴 일 하는 콘텐츠인데\n12초 만에 나갔다는 건 틀어놓지도 않았다는 뜻입니다.\n\n유튜브는 이 판정을 39번 받고 노출을 끊었",
-      "views": 308,
+      "views": 311,
       "likes": 3,
       "replies": 7
     },
@@ -90,7 +90,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DbndcaFmMll",
       "text": "세어봤습니다.\n\n재즈 채널 39편. AI 아바타. 랭킹 채널 6개. 음악 캐릭터. 개발 스튜디오 사이트.\n\n다섯 번 다 끝까지 만들었습니다.\n다섯 번 다 사람을 데려오는 일은 한 번도 안 했습니다.\n\n만드는 게 제일",
-      "views": 257,
+      "views": 258,
       "likes": 0,
       "replies": 0
     },
@@ -101,7 +101,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DbqCP-jmG9k",
       "text": "AI로 돌리는 랭킹 쇼츠 채널이 하나 있습니다. 남의 클립을 편집해서 올립니다.\n\n지난 28일 조회수 8만 7천.\n같은 기간 구독자 순증 37명.\n전환율 0.04%입니다.\n\n잘 되는 쇼츠 채널이 0.5~2%니까 스무",
-      "views": 147,
+      "views": 149,
       "likes": 1,
       "replies": 0
     },
@@ -173,7 +173,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 508, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-06 04:55:22] digest 갱신: 팔로워 82 · 미답변 0건 · 큐 7개",
     "[2026-08-06 04:55:22] agent: 미답변 없음",
     "[2026-08-06 05:51:16] digest 갱신: 팔로워 82 · 미답변 0건 · 큐 7개",
     "[2026-08-06 07:51:30] digest 갱신: 팔로워 82 · 미답변 0건 · 큐 7개",
@@ -187,6 +186,7 @@
     "[2026-08-06 13:52:10] digest 갱신: 팔로워 84 · 미답변 1건 · 큐 7개",
     "[2026-08-06 13:55:59] digest 갱신: 팔로워 84 · 미답변 1건 · 큐 7개",
     "[2026-08-06 13:56:12] digest 갱신: 팔로워 84 · 미답변 1건 · 큐 7개",
-    "[2026-08-06 13:56:12] agent: 자동 답글 0건 · 보류 1건"
+    "[2026-08-06 13:56:12] agent: 자동 답글 0건 · 보류 1건",
+    "[2026-08-06 15:52:24] digest 갱신: 팔로워 84 · 미답변 1건 · 큐 7개"
   ]
 }
