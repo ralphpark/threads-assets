@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T07:57:57",
+  "generated_at": "2026-08-08T08:02:27",
   "username": "studiohaetae",
   "followers": 86,
   "followers_history": [
@@ -87,7 +87,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Dbk4pi-GAq2",
       "text": "2시간 10분짜리 영상.\n평균 시청 지속 시간 1분 2초. 0.2%.\n\n배경음악은 틀어놓고 딴 일 하는 콘텐츠인데\n12초 만에 나갔다는 건 틀어놓지도 않았다는 뜻입니다.\n\n유튜브는 이 판정을 39번 받고 노출을 끊었",
-      "views": 335,
+      "views": 336,
       "likes": 3,
       "replies": 10
     },
@@ -195,7 +195,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 508, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-07 21:56:34] digest 갱신: 팔로워 87 · 미답변 0건 · 큐 5개",
     "[2026-08-07 23:01:49] digest 갱신: 팔로워 87 · 미답변 0건 · 큐 5개",
     "[2026-08-07 23:01:49] agent: 미답변 없음",
     "[2026-08-07 23:40:02] 스냅샷: {\"date\": \"2026-08-07\", \"at\": \"2026-08-07T23:40:01\", \"followers\": 87, \"views\": 509, \"likes\": 2, \"replies\": 2, \"reposts\": 0, \"quotes\": 0, \"clicks\": null}",
@@ -209,6 +208,7 @@
     "[2026-08-08 03:57:34] digest 갱신: 팔로워 86 · 미답변 0건 · 큐 5개",
     "[2026-08-08 05:02:24] digest 갱신: 팔로워 86 · 미답변 0건 · 큐 5개",
     "[2026-08-08 05:02:24] agent: 미답변 없음",
-    "[2026-08-08 05:57:57] digest 갱신: 팔로워 86 · 미답변 0건 · 큐 5개"
+    "[2026-08-08 05:57:57] digest 갱신: 팔로워 86 · 미답변 0건 · 큐 5개",
+    "[2026-08-08 07:58:12] digest 갱신: 팔로워 86 · 미답변 0건 · 큐 5개"
   ]
 }
