@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T10:59:22",
+  "generated_at": "2026-08-07T11:00:22",
   "username": "studiohaetae",
   "followers": 84,
   "followers_history": [
@@ -85,7 +85,7 @@
       "text": "2시간 10분짜리 영상.\n평균 시청 지속 시간 1분 2초. 0.2%.\n\n배경음악은 틀어놓고 딴 일 하는 콘텐츠인데\n12초 만에 나갔다는 건 틀어놓지도 않았다는 뜻입니다.\n\n유튜브는 이 판정을 39번 받고 노출을 끊었",
       "views": 332,
       "likes": 3,
-      "replies": 9
+      "replies": 10
     },
     {
       "at": "2026-08-04T20:30:09",
@@ -119,15 +119,6 @@
       "views": 37,
       "likes": 0,
       "replies": 0
-    },
-    {
-      "at": "2026-08-06T10:09:22",
-      "n": -1,
-      "id": null,
-      "is_reply": true,
-      "via": "browser",
-      "target": "tiger.hot77",
-      "permalink": "https://www.threads.com/@tiger.hot77/post/Dbpn6W_lBLK"
     },
     {
       "at": "2026-08-06T10:09:22",
@@ -175,25 +166,24 @@
       "views": 5,
       "likes": 0,
       "replies": 0
-    }
-  ],
-  "unanswered_replies": [
+    },
     {
-      "id": "17984733197859077",
-      "username": "side.money_story",
-      "text": "새채널에 영상빈도가 높으면 스팸으로 볼 확률이 높아집니다",
-      "at": "2026-08-06T23:22:25+0000",
-      "on_post": "18015924236872852"
+      "at": "2026-08-07T11:00:22",
+      "n": -1,
+      "id": "18097872365201076",
+      "is_reply": true,
+      "permalink": "https://www.threads.com/@studiohaetae/post/DbuKnHXmHww",
+      "text": "39편을 완전 자동화로 올렸습니다.\n\n28일 노출수 48회였습니다.\n\n스팸 판정인지는 유튜브가 알려주지 않아서 모릅니다.\n\n결과만 보면 뭔가 눌리긴 했습니다.",
+      "views": 0,
+      "likes": 0,
+      "replies": 0
     }
   ],
+  "unanswered_replies": [],
   "errors": {
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 508, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-07 01:53:35] digest 갱신: 팔로워 84 · 미답변 1건 · 큐 6개",
-    "[2026-08-07 01:57:47] digest 갱신: 팔로워 84 · 미답변 1건 · 큐 6개",
-    "[2026-08-07 01:58:13] 이미지 0장 공개 URL 확보",
-    "[2026-08-07 01:58:32] 답글 게시 완료 id=18015924236872852 https://www.threads.com/@studiohaetae/post/DbtMmZLn1bg",
     "[2026-08-07 01:58:32] agent: 게시 @side.money_story",
     "[2026-08-07 01:58:47] digest 갱신: 팔로워 84 · 미답변 0건 · 큐 6개",
     "[2026-08-07 01:58:47] agent: 자동 답글 1건 · 보류 0건",
@@ -204,6 +194,10 @@
     "[2026-08-07 07:54:32] digest 갱신: 팔로워 84 · 미답변 0건 · 큐 6개",
     "[2026-08-07 07:59:24] digest 갱신: 팔로워 84 · 미답변 0건 · 큐 6개",
     "[2026-08-07 07:59:24] agent: 미답변 없음",
-    "[2026-08-07 09:54:48] digest 갱신: 팔로워 84 · 미답변 1건 · 큐 6개"
+    "[2026-08-07 09:54:48] digest 갱신: 팔로워 84 · 미답변 1건 · 큐 6개",
+    "[2026-08-07 10:59:39] digest 갱신: 팔로워 84 · 미답변 1건 · 큐 6개",
+    "[2026-08-07 11:00:05] 이미지 0장 공개 URL 확보",
+    "[2026-08-07 11:00:22] 답글 게시 완료 id=18097872365201076 https://www.threads.com/@studiohaetae/post/DbuKnHXmHww",
+    "[2026-08-07 11:00:22] agent: 게시 @side.money_story"
   ]
 }
