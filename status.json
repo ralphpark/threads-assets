@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T23:01:31",
+  "generated_at": "2026-08-07T23:40:21",
   "username": "studiohaetae",
   "followers": 87,
   "followers_history": [
@@ -38,6 +38,10 @@
     {
       "date": "2026-08-06",
       "followers": 84
+    },
+    {
+      "date": "2026-08-07",
+      "followers": 87
     }
   ],
   "queue_pending": 5,
@@ -195,10 +199,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 508, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-07 11:00:38] agent: 자동 답글 1건 · 보류 0건",
-    "[2026-08-07 11:55:01] digest 갱신: 팔로워 84 · 미답변 0건 · 큐 6개",
-    "[2026-08-07 13:55:20] digest 갱신: 팔로워 84 · 미답변 0건 · 큐 6개",
-    "[2026-08-07 14:00:56] digest 갱신: 팔로워 84 · 미답변 0건 · 큐 6개",
     "[2026-08-07 14:00:56] agent: 미답변 없음",
     "[2026-08-07 15:55:38] digest 갱신: 팔로워 85 · 미답변 0건 · 큐 6개",
     "[2026-08-07 17:01:13] digest 갱신: 팔로워 87 · 미답변 0건 · 큐 6개",
@@ -209,6 +209,10 @@
     "[2026-08-07 20:01:30] agent: 미답변 없음",
     "[2026-08-07 20:30:07] 컨테이너 생성 17892992106605032 (n=13)",
     "[2026-08-07 20:30:15] 게시 완료 n=13 id=18115463329897935",
-    "[2026-08-07 21:56:34] digest 갱신: 팔로워 87 · 미답변 0건 · 큐 5개"
+    "[2026-08-07 21:56:34] digest 갱신: 팔로워 87 · 미답변 0건 · 큐 5개",
+    "[2026-08-07 23:01:49] digest 갱신: 팔로워 87 · 미답변 0건 · 큐 5개",
+    "[2026-08-07 23:01:49] agent: 미답변 없음",
+    "[2026-08-07 23:40:02] 스냅샷: {\"date\": \"2026-08-07\", \"at\": \"2026-08-07T23:40:01\", \"followers\": 87, \"views\": 509, \"likes\": 2, \"replies\": 2, \"reposts\": 0, \"quotes\": 0, \"clicks\": null}",
+    "[2026-08-07 23:40:21] 답글 21건 수집 -> replies-2026-08-07.json"
   ]
 }
