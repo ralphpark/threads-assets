@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T11:54:46",
+  "generated_at": "2026-08-07T13:55:04",
   "username": "studiohaetae",
   "followers": 84,
   "followers_history": [
@@ -105,7 +105,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DbqCP-jmG9k",
       "text": "AI로 돌리는 랭킹 쇼츠 채널이 하나 있습니다. 남의 클립을 편집해서 올립니다.\n\n지난 28일 조회수 8만 7천.\n같은 기간 구독자 순증 37명.\n전환율 0.04%입니다.\n\n잘 되는 쇼츠 채널이 0.5~2%니까 스무",
-      "views": 167,
+      "views": 168,
       "likes": 1,
       "replies": 0
     },
@@ -116,7 +116,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DbsnCxkmFww",
       "text": "유튜브 채널을 완전 자동으로 돌려서 39편을 올렸습니다. 구독자는 0명이었습니다.\n\n이상한 건 제가 그걸 보면서도 안 멈췄다는 겁니다.\n\n한 편 더 만드는 데 드는 추가 비용이 사실상 0이었거든요. 버튼을 누르면 나",
-      "views": 37,
+      "views": 38,
       "likes": 0,
       "replies": 0
     },
@@ -163,7 +163,7 @@
       "is_reply": true,
       "permalink": "https://www.threads.com/@studiohaetae/post/DbtMmZLn1bg",
       "text": "구독자 0명짜리 채널이 있습니다.\n\n39편 자동 생성했고 28일 노출은 48회였습니다.\n\n클릭률은 6.3%인데 그다음이 없어서 구독으로 안 이어졌어요.\n\n잘될지는 숫자가 말해줄 거라 계속 보는 중입니다.",
-      "views": 6,
+      "views": 8,
       "likes": 0,
       "replies": 0
     },
@@ -174,7 +174,7 @@
       "is_reply": true,
       "permalink": "https://www.threads.com/@studiohaetae/post/DbuKnHXmHww",
       "text": "39편을 완전 자동화로 올렸습니다.\n\n28일 노출수 48회였습니다.\n\n스팸 판정인지는 유튜브가 알려주지 않아서 모릅니다.\n\n결과만 보면 뭔가 눌리긴 했습니다.",
-      "views": 1,
+      "views": 4,
       "likes": 1,
       "replies": 0
     }
@@ -184,7 +184,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 508, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-07 01:58:47] agent: 자동 답글 1건 · 보류 0건",
     "[2026-08-07 03:53:49] digest 갱신: 팔로워 84 · 미답변 0건 · 큐 6개",
     "[2026-08-07 04:59:04] digest 갱신: 팔로워 84 · 미답변 0건 · 큐 6개",
     "[2026-08-07 04:59:04] agent: 미답변 없음",
@@ -198,6 +197,7 @@
     "[2026-08-07 11:00:22] 답글 게시 완료 id=18097872365201076 https://www.threads.com/@studiohaetae/post/DbuKnHXmHww",
     "[2026-08-07 11:00:22] agent: 게시 @side.money_story",
     "[2026-08-07 11:00:38] digest 갱신: 팔로워 84 · 미답변 0건 · 큐 6개",
-    "[2026-08-07 11:00:38] agent: 자동 답글 1건 · 보류 0건"
+    "[2026-08-07 11:00:38] agent: 자동 답글 1건 · 보류 0건",
+    "[2026-08-07 11:55:01] digest 갱신: 팔로워 84 · 미답변 0건 · 큐 6개"
   ]
 }
