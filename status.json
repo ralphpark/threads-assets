@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T11:00:22",
+  "generated_at": "2026-08-07T11:54:46",
   "username": "studiohaetae",
   "followers": 84,
   "followers_history": [
@@ -163,7 +163,7 @@
       "is_reply": true,
       "permalink": "https://www.threads.com/@studiohaetae/post/DbtMmZLn1bg",
       "text": "구독자 0명짜리 채널이 있습니다.\n\n39편 자동 생성했고 28일 노출은 48회였습니다.\n\n클릭률은 6.3%인데 그다음이 없어서 구독으로 안 이어졌어요.\n\n잘될지는 숫자가 말해줄 거라 계속 보는 중입니다.",
-      "views": 5,
+      "views": 6,
       "likes": 0,
       "replies": 0
     },
@@ -174,8 +174,8 @@
       "is_reply": true,
       "permalink": "https://www.threads.com/@studiohaetae/post/DbuKnHXmHww",
       "text": "39편을 완전 자동화로 올렸습니다.\n\n28일 노출수 48회였습니다.\n\n스팸 판정인지는 유튜브가 알려주지 않아서 모릅니다.\n\n결과만 보면 뭔가 눌리긴 했습니다.",
-      "views": 0,
-      "likes": 0,
+      "views": 1,
+      "likes": 1,
       "replies": 0
     }
   ],
@@ -184,8 +184,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 508, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-07 01:58:32] agent: 게시 @side.money_story",
-    "[2026-08-07 01:58:47] digest 갱신: 팔로워 84 · 미답변 0건 · 큐 6개",
     "[2026-08-07 01:58:47] agent: 자동 답글 1건 · 보류 0건",
     "[2026-08-07 03:53:49] digest 갱신: 팔로워 84 · 미답변 0건 · 큐 6개",
     "[2026-08-07 04:59:04] digest 갱신: 팔로워 84 · 미답변 0건 · 큐 6개",
@@ -198,6 +196,8 @@
     "[2026-08-07 10:59:39] digest 갱신: 팔로워 84 · 미답변 1건 · 큐 6개",
     "[2026-08-07 11:00:05] 이미지 0장 공개 URL 확보",
     "[2026-08-07 11:00:22] 답글 게시 완료 id=18097872365201076 https://www.threads.com/@studiohaetae/post/DbuKnHXmHww",
-    "[2026-08-07 11:00:22] agent: 게시 @side.money_story"
+    "[2026-08-07 11:00:22] agent: 게시 @side.money_story",
+    "[2026-08-07 11:00:38] digest 갱신: 팔로워 84 · 미답변 0건 · 큐 6개",
+    "[2026-08-07 11:00:38] agent: 자동 답글 1건 · 보류 0건"
   ]
 }
