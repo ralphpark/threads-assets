@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T23:56:35",
+  "generated_at": "2026-08-08T00:42:04",
   "username": "studiohaetae",
   "followers": 86,
   "followers_history": [
@@ -131,67 +131,63 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DbvL1wlmJFC",
       "text": "제 쇼츠 채널 4개, 최근 40편을 API로 전수 확인했습니다.\n설명란에 링크가 있는 영상 0편이었습니다.\n\n남들은 어떤가도 세어봤습니다.\n같은 판의 영어권 쇼츠 50편 중 링크를 건 건 4편.\n그 4편은 전부 자사",
-      "views": 22,
+      "views": 24,
       "likes": 0,
       "replies": 0
     },
     {
-      "at": "2026-08-06T10:09:22",
+      "at": "2026-08-08T00:40:30",
       "n": -1,
       "id": null,
       "is_reply": true,
       "via": "browser",
-      "target": "snapbutter8738",
-      "permalink": "https://www.threads.com/@snapbutter8738/post/Dbq4Tw6kuf2"
+      "target": "h__cn1",
+      "permalink": "https://www.threads.com/@h__cn1/post/DbvABQCGq5p"
     },
     {
-      "at": "2026-08-06T10:09:22",
+      "at": "2026-08-08T00:40:30",
       "n": -1,
       "id": null,
       "is_reply": true,
       "via": "browser",
-      "target": "9pd_studio",
-      "permalink": "https://www.threads.com/@9pd_studio/post/DbqYcGznQxz"
+      "target": "bjlee_2",
+      "permalink": "https://www.threads.com/@bjlee_2/post/Dbvcgf8kjiT"
     },
     {
-      "at": "2026-08-06T10:09:22",
+      "at": "2026-08-08T00:40:30",
       "n": -1,
       "id": null,
       "is_reply": true,
       "via": "browser",
-      "target": "lin.studio.kr",
-      "permalink": "https://www.threads.com/@lin.studio.kr/post/Dbp-2D1DSIj"
+      "target": "pltopia",
+      "permalink": "https://www.threads.com/@pltopia/post/DbtywykkrYy"
     },
     {
-      "at": "2026-08-06T10:09:22",
+      "at": "2026-08-08T00:40:30",
       "n": -1,
       "id": null,
       "is_reply": true,
       "via": "browser",
-      "target": "short_tubuer",
-      "permalink": "https://www.threads.com/@short_tubuer/post/Dbp70HVgWS6"
+      "target": "jtc0420",
+      "permalink": "https://www.threads.com/@jtc0420/post/Dbus4RiG94Q"
     },
     {
-      "at": "2026-08-07T01:58:32",
+      "at": "2026-08-08T00:40:30",
       "n": -1,
-      "id": "18015924236872852",
+      "id": null,
       "is_reply": true,
-      "permalink": "https://www.threads.com/@studiohaetae/post/DbtMmZLn1bg",
-      "text": "구독자 0명짜리 채널이 있습니다.\n\n39편 자동 생성했고 28일 노출은 48회였습니다.\n\n클릭률은 6.3%인데 그다음이 없어서 구독으로 안 이어졌어요.\n\n잘될지는 숫자가 말해줄 거라 계속 보는 중입니다.",
-      "views": 11,
-      "likes": 0,
-      "replies": 0
+      "via": "browser",
+      "target": "use1.107",
+      "permalink": "https://www.threads.com/@use1.107/post/Dbt0QS_k0-s"
     },
     {
-      "at": "2026-08-07T11:00:22",
+      "at": "2026-08-08T00:40:30",
       "n": -1,
-      "id": "18097872365201076",
+      "id": null,
       "is_reply": true,
-      "permalink": "https://www.threads.com/@studiohaetae/post/DbuKnHXmHww",
-      "text": "39편을 완전 자동화로 올렸습니다.\n\n28일 노출수 48회였습니다.\n\n스팸 판정인지는 유튜브가 알려주지 않아서 모릅니다.\n\n결과만 보면 뭔가 눌리긴 했습니다.",
-      "views": 4,
-      "likes": 1,
-      "replies": 0
+      "via": "browser",
+      "target": "changup_coach",
+      "permalink": "https://www.threads.com/@changup_coach/post/DbtWmYhjyNY"
     }
   ],
   "unanswered_replies": [],
@@ -199,7 +195,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 508, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-07 15:55:38] digest 갱신: 팔로워 85 · 미답변 0건 · 큐 6개",
     "[2026-08-07 17:01:13] digest 갱신: 팔로워 87 · 미답변 0건 · 큐 6개",
     "[2026-08-07 17:01:13] agent: 미답변 없음",
     "[2026-08-07 17:55:58] digest 갱신: 팔로워 87 · 미답변 0건 · 큐 6개",
@@ -213,6 +208,7 @@
     "[2026-08-07 23:01:49] agent: 미답변 없음",
     "[2026-08-07 23:40:02] 스냅샷: {\"date\": \"2026-08-07\", \"at\": \"2026-08-07T23:40:01\", \"followers\": 87, \"views\": 509, \"likes\": 2, \"replies\": 2, \"reposts\": 0, \"quotes\": 0, \"clicks\": null}",
     "[2026-08-07 23:40:21] 답글 21건 수집 -> replies-2026-08-07.json",
-    "[2026-08-07 23:40:38] digest 갱신: 팔로워 87 · 미답변 0건 · 큐 5개"
+    "[2026-08-07 23:40:38] digest 갱신: 팔로워 87 · 미답변 0건 · 큐 5개",
+    "[2026-08-07 23:56:53] digest 갱신: 팔로워 86 · 미답변 0건 · 큐 5개"
   ]
 }
