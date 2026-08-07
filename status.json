@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T21:56:16",
+  "generated_at": "2026-08-07T23:01:31",
   "username": "studiohaetae",
   "followers": 87,
   "followers_history": [
@@ -127,7 +127,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DbvL1wlmJFC",
       "text": "제 쇼츠 채널 4개, 최근 40편을 API로 전수 확인했습니다.\n설명란에 링크가 있는 영상 0편이었습니다.\n\n남들은 어떤가도 세어봤습니다.\n같은 판의 영어권 쇼츠 50편 중 링크를 건 건 4편.\n그 4편은 전부 자사",
-      "views": 16,
+      "views": 22,
       "likes": 0,
       "replies": 0
     },
@@ -195,7 +195,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 508, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-07 11:00:38] digest 갱신: 팔로워 84 · 미답변 0건 · 큐 6개",
     "[2026-08-07 11:00:38] agent: 자동 답글 1건 · 보류 0건",
     "[2026-08-07 11:55:01] digest 갱신: 팔로워 84 · 미답변 0건 · 큐 6개",
     "[2026-08-07 13:55:20] digest 갱신: 팔로워 84 · 미답변 0건 · 큐 6개",
@@ -209,6 +208,7 @@
     "[2026-08-07 20:01:30] digest 갱신: 팔로워 87 · 미답변 0건 · 큐 6개",
     "[2026-08-07 20:01:30] agent: 미답변 없음",
     "[2026-08-07 20:30:07] 컨테이너 생성 17892992106605032 (n=13)",
-    "[2026-08-07 20:30:15] 게시 완료 n=13 id=18115463329897935"
+    "[2026-08-07 20:30:15] 게시 완료 n=13 id=18115463329897935",
+    "[2026-08-07 21:56:34] digest 갱신: 팔로워 87 · 미답변 0건 · 큐 5개"
   ]
 }
