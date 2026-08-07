@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T20:01:13",
+  "generated_at": "2026-08-07T21:56:16",
   "username": "studiohaetae",
   "followers": 87,
   "followers_history": [
@@ -40,8 +40,8 @@
       "followers": 84
     }
   ],
-  "queue_pending": 6,
-  "queue_next": "제 쇼츠 채널 4개, 최근 40편을 API로 전수 확인했습니다.\n설명란에 링크가 있는 영상 0편이었습니다.\n",
+  "queue_pending": 5,
+  "queue_next": "채널 하나가 지금 멈춰 있습니다. 저작권 스트라이크입니다.\n\n남의 영상을 편집해서 올리던 채널입니다.\n\nCo",
   "posts": [
     {
       "at": "2026-07-31T14:33:33",
@@ -50,7 +50,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DbchdDnGFso",
       "text": "AI로 유튜브 채널 6개를 자동으로 돌리고 있습니다.\n\n지난달 조회수 19만 6천.\n수익 0원.\n\n왜 0원인지 앞으로 여기에 숫자로만 적겠습니다.",
-      "views": 2153,
+      "views": 2154,
       "likes": 11,
       "replies": 23
     },
@@ -121,6 +121,17 @@
       "replies": 0
     },
     {
+      "at": "2026-08-07T20:30:15",
+      "n": 13,
+      "id": "18115463329897935",
+      "is_reply": false,
+      "permalink": "https://www.threads.com/@studiohaetae/post/DbvL1wlmJFC",
+      "text": "제 쇼츠 채널 4개, 최근 40편을 API로 전수 확인했습니다.\n설명란에 링크가 있는 영상 0편이었습니다.\n\n남들은 어떤가도 세어봤습니다.\n같은 판의 영어권 쇼츠 50편 중 링크를 건 건 4편.\n그 4편은 전부 자사",
+      "views": 16,
+      "likes": 0,
+      "replies": 0
+    },
+    {
       "at": "2026-08-06T10:09:22",
       "n": -1,
       "id": null,
@@ -163,7 +174,7 @@
       "is_reply": true,
       "permalink": "https://www.threads.com/@studiohaetae/post/DbtMmZLn1bg",
       "text": "구독자 0명짜리 채널이 있습니다.\n\n39편 자동 생성했고 28일 노출은 48회였습니다.\n\n클릭률은 6.3%인데 그다음이 없어서 구독으로 안 이어졌어요.\n\n잘될지는 숫자가 말해줄 거라 계속 보는 중입니다.",
-      "views": 10,
+      "views": 11,
       "likes": 0,
       "replies": 0
     },
@@ -184,10 +195,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 508, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-07 10:59:39] digest 갱신: 팔로워 84 · 미답변 1건 · 큐 6개",
-    "[2026-08-07 11:00:05] 이미지 0장 공개 URL 확보",
-    "[2026-08-07 11:00:22] 답글 게시 완료 id=18097872365201076 https://www.threads.com/@studiohaetae/post/DbuKnHXmHww",
-    "[2026-08-07 11:00:22] agent: 게시 @side.money_story",
     "[2026-08-07 11:00:38] digest 갱신: 팔로워 84 · 미답변 0건 · 큐 6개",
     "[2026-08-07 11:00:38] agent: 자동 답글 1건 · 보류 0건",
     "[2026-08-07 11:55:01] digest 갱신: 팔로워 84 · 미답변 0건 · 큐 6개",
@@ -198,6 +205,10 @@
     "[2026-08-07 17:01:13] digest 갱신: 팔로워 87 · 미답변 0건 · 큐 6개",
     "[2026-08-07 17:01:13] agent: 미답변 없음",
     "[2026-08-07 17:55:58] digest 갱신: 팔로워 87 · 미답변 0건 · 큐 6개",
-    "[2026-08-07 19:56:16] digest 갱신: 팔로워 87 · 미답변 0건 · 큐 6개"
+    "[2026-08-07 19:56:16] digest 갱신: 팔로워 87 · 미답변 0건 · 큐 6개",
+    "[2026-08-07 20:01:30] digest 갱신: 팔로워 87 · 미답변 0건 · 큐 6개",
+    "[2026-08-07 20:01:30] agent: 미답변 없음",
+    "[2026-08-07 20:30:07] 컨테이너 생성 17892992106605032 (n=13)",
+    "[2026-08-07 20:30:15] 게시 완료 n=13 id=18115463329897935"
   ]
 }
