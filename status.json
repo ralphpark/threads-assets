@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T17:03:17",
+  "generated_at": "2026-08-08T17:59:20",
   "username": "studiohaetae",
   "followers": 86,
   "followers_history": [
@@ -195,8 +195,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 508, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-08 03:57:34] digest 갱신: 팔로워 86 · 미답변 0건 · 큐 5개",
-    "[2026-08-08 05:02:24] digest 갱신: 팔로워 86 · 미답변 0건 · 큐 5개",
     "[2026-08-08 05:02:24] agent: 미답변 없음",
     "[2026-08-08 05:57:57] digest 갱신: 팔로워 86 · 미답변 0건 · 큐 5개",
     "[2026-08-08 07:58:12] digest 갱신: 팔로워 86 · 미답변 0건 · 큐 5개",
@@ -209,6 +207,8 @@
     "[2026-08-08 13:59:02] digest 갱신: 팔로워 86 · 미답변 0건 · 큐 5개",
     "[2026-08-08 14:03:17] digest 갱신: 팔로워 86 · 미답변 0건 · 큐 5개",
     "[2026-08-08 14:03:17] agent: 미답변 없음",
-    "[2026-08-08 15:59:20] digest 갱신: 팔로워 86 · 미답변 0건 · 큐 5개"
+    "[2026-08-08 15:59:20] digest 갱신: 팔로워 86 · 미답변 0건 · 큐 5개",
+    "[2026-08-08 17:03:35] digest 갱신: 팔로워 86 · 미답변 0건 · 큐 5개",
+    "[2026-08-08 17:03:35] agent: 미답변 없음"
   ]
 }
