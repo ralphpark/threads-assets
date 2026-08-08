@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T04:01:01",
+  "generated_at": "2026-08-09T05:04:38",
   "username": "studiohaetae",
   "followers": 86,
   "followers_history": [
@@ -146,7 +146,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Dbxwoh5GLq0",
       "text": "채널 하나가 지금 멈춰 있습니다. 저작권 스트라이크입니다.\n\n남의 영상을 편집해서 올리던 채널입니다.\n\nContent ID는 법을 따지지 않습니다. 자동으로 걸고, 걸리면 수익은 원저작자에게 갑니다. 경고 세 번이면",
-      "views": 235,
+      "views": 237,
       "likes": 1,
       "replies": 0
     },
@@ -210,7 +210,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 508, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-08 20:03:57] digest 갱신: 팔로워 86 · 미답변 0건 · 큐 5개",
     "[2026-08-08 20:03:57] agent: 미답변 없음",
     "[2026-08-08 20:30:08] 컨테이너 생성 17893174101605032 (n=6)",
     "[2026-08-08 20:30:16] 게시 완료 n=6 id=18064628984501140",
@@ -224,6 +223,7 @@
     "[2026-08-09 00:00:38] digest 갱신: 팔로워 86 · 미답변 0건 · 큐 4개",
     "[2026-08-09 02:00:59] digest 갱신: 팔로워 86 · 미답변 0건 · 큐 4개",
     "[2026-08-09 02:04:37] digest 갱신: 팔로워 86 · 미답변 0건 · 큐 4개",
-    "[2026-08-09 02:04:37] agent: 미답변 없음"
+    "[2026-08-09 02:04:37] agent: 미답변 없음",
+    "[2026-08-09 04:01:21] digest 갱신: 팔로워 86 · 미답변 0건 · 큐 4개"
   ]
 }
