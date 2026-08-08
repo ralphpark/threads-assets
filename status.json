@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T23:03:56",
+  "generated_at": "2026-08-08T23:15:37",
   "username": "studiohaetae",
   "followers": 86,
   "followers_history": [
@@ -142,63 +142,63 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Dbxwoh5GLq0",
       "text": "채널 하나가 지금 멈춰 있습니다. 저작권 스트라이크입니다.\n\n남의 영상을 편집해서 올리던 채널입니다.\n\nContent ID는 법을 따지지 않습니다. 자동으로 걸고, 걸리면 수익은 원저작자에게 갑니다. 경고 세 번이면",
-      "views": 168,
+      "views": 177,
       "likes": 1,
       "replies": 0
     },
     {
-      "at": "2026-08-08T00:40:30",
+      "at": "2026-08-08T23:14:23",
       "n": -1,
       "id": null,
       "is_reply": true,
       "via": "browser",
-      "target": "h__cn1",
-      "permalink": "https://www.threads.com/@h__cn1/post/DbvABQCGq5p"
+      "target": "tiger.hot77",
+      "permalink": "https://www.threads.com/@tiger.hot77/post/DbrihKVFO02"
     },
     {
-      "at": "2026-08-08T00:40:30",
+      "at": "2026-08-08T23:14:23",
       "n": -1,
       "id": null,
       "is_reply": true,
       "via": "browser",
-      "target": "bjlee_2",
-      "permalink": "https://www.threads.com/@bjlee_2/post/Dbvcgf8kjiT"
+      "target": "nissisoft21",
+      "permalink": "https://www.threads.com/@nissisoft21/post/DbstibvklfX"
     },
     {
-      "at": "2026-08-08T00:40:30",
+      "at": "2026-08-08T23:14:23",
       "n": -1,
       "id": null,
       "is_reply": true,
       "via": "browser",
-      "target": "pltopia",
-      "permalink": "https://www.threads.com/@pltopia/post/DbtywykkrYy"
+      "target": "goodplan_twojob",
+      "permalink": "https://www.threads.com/@goodplan_twojob/post/Dbr16MBkuB7"
     },
     {
-      "at": "2026-08-08T00:40:30",
+      "at": "2026-08-08T23:14:23",
       "n": -1,
       "id": null,
       "is_reply": true,
       "via": "browser",
-      "target": "jtc0420",
-      "permalink": "https://www.threads.com/@jtc0420/post/Dbus4RiG94Q"
+      "target": "glitter_ai_factory",
+      "permalink": "https://www.threads.com/@glitter_ai_factory/post/DbtNNsrk3Vp"
     },
     {
-      "at": "2026-08-08T00:40:30",
+      "at": "2026-08-08T23:14:23",
       "n": -1,
       "id": null,
       "is_reply": true,
       "via": "browser",
-      "target": "use1.107",
-      "permalink": "https://www.threads.com/@use1.107/post/Dbt0QS_k0-s"
+      "target": "steady_idea",
+      "permalink": "https://www.threads.com/@steady_idea/post/DbwfXiak71G"
     },
     {
-      "at": "2026-08-08T00:40:30",
+      "at": "2026-08-08T23:14:23",
       "n": -1,
       "id": null,
       "is_reply": true,
       "via": "browser",
-      "target": "changup_coach",
-      "permalink": "https://www.threads.com/@changup_coach/post/DbtWmYhjyNY"
+      "target": "nojob_youtube",
+      "permalink": "https://www.threads.com/@nojob_youtube/post/Dbx4lTqkqDS"
     }
   ],
   "unanswered_replies": [],
@@ -206,8 +206,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 508, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-08 11:03:00] agent: 미답변 없음",
-    "[2026-08-08 11:58:45] digest 갱신: 팔로워 86 · 미답변 0건 · 큐 5개",
     "[2026-08-08 13:59:02] digest 갱신: 팔로워 86 · 미답변 0건 · 큐 5개",
     "[2026-08-08 14:03:17] digest 갱신: 팔로워 86 · 미답변 0건 · 큐 5개",
     "[2026-08-08 14:03:17] agent: 미답변 없음",
@@ -220,6 +218,8 @@
     "[2026-08-08 20:03:57] agent: 미답변 없음",
     "[2026-08-08 20:30:08] 컨테이너 생성 17893174101605032 (n=6)",
     "[2026-08-08 20:30:16] 게시 완료 n=6 id=18064628984501140",
-    "[2026-08-08 22:00:19] digest 갱신: 팔로워 86 · 미답변 0건 · 큐 4개"
+    "[2026-08-08 22:00:19] digest 갱신: 팔로워 86 · 미답변 0건 · 큐 4개",
+    "[2026-08-08 23:04:15] digest 갱신: 팔로워 86 · 미답변 0건 · 큐 4개",
+    "[2026-08-08 23:04:15] agent: 미답변 없음"
   ]
 }
