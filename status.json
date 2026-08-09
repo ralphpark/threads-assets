@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T23:07:27",
+  "generated_at": "2026-08-09T23:40:25",
   "username": "studiohaetae",
   "followers": 85,
   "followers_history": [
@@ -46,6 +46,10 @@
     {
       "date": "2026-08-08",
       "followers": 86
+    },
+    {
+      "date": "2026-08-09",
+      "followers": 85
     }
   ],
   "queue_pending": 3,
@@ -157,7 +161,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Db0VbbZGLM6",
       "text": "Shorts 설명란에 링크를 넣어봤습니다.\n\n같은 줄의 해시태그는 파란 링크가 되는데 URL은 흰 일반 텍스트로 나옵니다. 접근성 트리에서도 link가 아니라 generic으로 잡힙니다.\n\n서식 문제가 아니라 유튜브",
-      "views": 41,
+      "views": 42,
       "likes": 0,
       "replies": 0
     },
@@ -229,10 +233,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 508, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-09 14:02:53] digest 갱신: 팔로워 86 · 미답변 0건 · 큐 4개",
-    "[2026-08-09 14:05:59] digest 갱신: 팔로워 86 · 미답변 0건 · 큐 4개",
-    "[2026-08-09 14:05:59] agent: 미답변 없음",
-    "[2026-08-09 16:03:15] digest 갱신: 팔로워 86 · 미답변 0건 · 큐 4개",
     "[2026-08-09 17:06:18] digest 갱신: 팔로워 86 · 미답변 0건 · 큐 4개",
     "[2026-08-09 17:06:18] agent: 미답변 없음",
     "[2026-08-09 18:03:36] digest 갱신: 팔로워 86 · 미답변 0건 · 큐 4개",
@@ -243,6 +243,10 @@
     "[2026-08-09 20:30:08] 컨테이너 생성 17893405644605032 (n=12)",
     "[2026-08-09 20:30:15] 게시 완료 n=12 id=18021557318907346",
     "[2026-08-09 22:04:16] digest 갱신: 팔로워 86 · 미답변 1건 · 큐 3개",
-    "[2026-08-09 23:07:24] digest 갱신: 팔로워 85 · 미답변 1건 · 큐 3개"
+    "[2026-08-09 23:07:24] digest 갱신: 팔로워 85 · 미답변 1건 · 큐 3개",
+    "[2026-08-09 23:07:52] digest 갱신: 팔로워 85 · 미답변 1건 · 큐 3개",
+    "[2026-08-09 23:07:52] agent: 자동 답글 0건 · 보류 1건",
+    "[2026-08-09 23:40:05] 스냅샷: {\"date\": \"2026-08-09\", \"at\": \"2026-08-09T23:40:04\", \"followers\": 85, \"views\": 678, \"likes\": 1, \"replies\": 1, \"reposts\": 0, \"quotes\": 0, \"clicks\": null}",
+    "[2026-08-09 23:40:25] 답글 22건 수집 -> replies-2026-08-09.json"
   ]
 }
