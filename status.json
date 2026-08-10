@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-10T14:06:45",
+  "generated_at": "2026-08-10T14:10:28",
   "username": "studiohaetae",
-  "followers": 85,
+  "followers": 86,
   "followers_history": [
     {
       "date": "2026-07-31",
@@ -128,7 +128,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DbsnCxkmFww",
       "text": "유튜브 채널을 완전 자동으로 돌려서 39편을 올렸습니다. 구독자는 0명이었습니다.\n\n이상한 건 제가 그걸 보면서도 안 멈췄다는 겁니다.\n\n한 편 더 만드는 데 드는 추가 비용이 사실상 0이었거든요. 버튼을 누르면 나",
-      "views": 53,
+      "views": 54,
       "likes": 1,
       "replies": 0
     },
@@ -139,7 +139,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DbvL1wlmJFC",
       "text": "제 쇼츠 채널 4개, 최근 40편을 API로 전수 확인했습니다.\n설명란에 링크가 있는 영상 0편이었습니다.\n\n남들은 어떤가도 세어봤습니다.\n같은 판의 영어권 쇼츠 50편 중 링크를 건 건 4편.\n그 4편은 전부 자사",
-      "views": 48,
+      "views": 49,
       "likes": 0,
       "replies": 0
     },
@@ -166,58 +166,58 @@
       "replies": 0
     },
     {
-      "at": "2026-08-10T01:02:33",
+      "at": "2026-08-10T14:09:57",
       "n": -1,
       "id": null,
       "is_reply": true,
       "via": "browser",
-      "target": "glitter_ai_factory",
-      "permalink": "https://www.threads.com/@glitter_ai_factory/post/DbyFz-Sk_fN"
+      "target": "stars.come.from.high.places",
+      "permalink": "https://www.threads.com/@stars.come.from.high.places/post/Db2BhgFASvo"
     },
     {
-      "at": "2026-08-10T01:02:33",
+      "at": "2026-08-10T14:09:57",
+      "n": -1,
+      "id": null,
+      "is_reply": true,
+      "via": "browser",
+      "target": "edu_legend",
+      "permalink": "https://www.threads.com/@edu_legend/post/Db18EDgmRx6"
+    },
+    {
+      "at": "2026-08-10T14:09:57",
+      "n": -1,
+      "id": null,
+      "is_reply": true,
+      "via": "browser",
+      "target": "ssedr778",
+      "permalink": "https://www.threads.com/@ssedr778/post/Db0DAvqEukc"
+    },
+    {
+      "at": "2026-08-10T14:09:57",
       "n": -1,
       "id": null,
       "is_reply": true,
       "via": "browser",
       "target": "tuberithm",
-      "permalink": "https://www.threads.com/@tuberithm/post/Dby8PEbk-dp"
+      "permalink": "https://www.threads.com/@tuberithm/post/Db1hCPhk3vL"
     },
     {
-      "at": "2026-08-10T01:02:33",
+      "at": "2026-08-10T14:09:57",
       "n": -1,
       "id": null,
       "is_reply": true,
       "via": "browser",
-      "target": "ourszns1",
-      "permalink": "https://www.threads.com/@ourszns1/post/DbyjKfNHxpV"
+      "target": "dtdftq",
+      "permalink": "https://www.threads.com/@dtdftq/post/Db0C5YOkl3K"
     },
     {
-      "at": "2026-08-10T01:02:33",
+      "at": "2026-08-10T14:09:57",
       "n": -1,
       "id": null,
       "is_reply": true,
       "via": "browser",
-      "target": "zisigilab",
-      "permalink": "https://www.threads.com/@zisigilab/post/Dbw-CwLkXdO"
-    },
-    {
-      "at": "2026-08-10T01:02:33",
-      "n": -1,
-      "id": null,
-      "is_reply": true,
-      "via": "browser",
-      "target": "tuberithm",
-      "permalink": "https://www.threads.com/@tuberithm/post/DbvZmlAH5Nh"
-    },
-    {
-      "at": "2026-08-10T01:02:33",
-      "n": -1,
-      "id": null,
-      "is_reply": true,
-      "via": "browser",
-      "target": "crazy.codex",
-      "permalink": "https://www.threads.com/@crazy.codex/post/DbzPp6iI0HH"
+      "target": "tiki_taka4686",
+      "permalink": "https://www.threads.com/@tiki_taka4686/post/Db0cvOGiVpg"
     }
   ],
   "unanswered_replies": [
@@ -233,7 +233,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 508, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-10 02:08:27] agent: 자동 답글 0건 · 보류 1건",
     "[2026-08-10 04:05:26] digest 갱신: 팔로워 85 · 미답변 1건 · 큐 3개",
     "[2026-08-10 05:08:50] digest 갱신: 팔로워 85 · 미답변 1건 · 큐 3개",
     "[2026-08-10 05:09:10] digest 갱신: 팔로워 85 · 미답변 1건 · 큐 3개",
@@ -247,6 +246,7 @@
     "[2026-08-10 11:10:06] digest 갱신: 팔로워 85 · 미답변 1건 · 큐 3개",
     "[2026-08-10 11:10:26] digest 갱신: 팔로워 85 · 미답변 1건 · 큐 3개",
     "[2026-08-10 11:10:26] agent: 자동 답글 0건 · 보류 1건",
-    "[2026-08-10 12:06:45] digest 갱신: 팔로워 85 · 미답변 1건 · 큐 3개"
+    "[2026-08-10 12:06:45] digest 갱신: 팔로워 85 · 미답변 1건 · 큐 3개",
+    "[2026-08-10 14:07:05] digest 갱신: 팔로워 85 · 미답변 1건 · 큐 3개"
   ]
 }
