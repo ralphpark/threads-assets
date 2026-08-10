@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T23:12:31",
+  "generated_at": "2026-08-10T23:12:56",
   "username": "studiohaetae",
   "followers": 86,
   "followers_history": [
@@ -244,7 +244,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 508, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-10 14:11:07] digest 갱신: 팔로워 86 · 미답변 1건 · 큐 3개",
     "[2026-08-10 14:11:07] agent: 자동 답글 0건 · 보류 1건",
     "[2026-08-10 14:11:34] digest 갱신: 팔로워 86 · 미답변 1건 · 큐 3개",
     "[2026-08-10 16:07:28] digest 갱신: 팔로워 86 · 미답변 1건 · 큐 3개",
@@ -258,6 +257,7 @@
     "[2026-08-10 20:12:30] agent: 자동 답글 0건 · 보류 1건",
     "[2026-08-10 20:30:07] 컨테이너 생성 17893617405605032 (n=9)",
     "[2026-08-10 20:30:15] 게시 완료 n=9 id=18118191983313198",
-    "[2026-08-10 22:08:36] digest 갱신: 팔로워 86 · 미답변 1건 · 큐 2개"
+    "[2026-08-10 22:08:36] digest 갱신: 팔로워 86 · 미답변 1건 · 큐 2개",
+    "[2026-08-10 23:12:56] digest 갱신: 팔로워 86 · 미답변 1건 · 큐 2개"
   ]
 }
