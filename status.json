@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T10:10:31",
+  "generated_at": "2026-08-11T11:16:41",
   "username": "studiohaetae",
   "followers": 87,
   "followers_history": [
@@ -176,7 +176,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Db26OQwGCbi",
       "text": "AI로 만든 노래를 팔 수 있는지 찾아봤습니다.\n\n한국에서 AI가 만든 곡은 저작권이 인정되지 않습니다. 가사만 사람이 썼다면 가사 부분만 등록됩니다.\n\n그리고 음저협은 2025년 9월부터 AI를 활용하지 않았음을 ",
-      "views": 316,
+      "views": 333,
       "likes": 2,
       "replies": 0
     },
@@ -248,7 +248,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 508, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-10 23:40:44] digest 갱신: 팔로워 86 · 미답변 1건 · 큐 2개",
     "[2026-08-11 00:08:56] digest 갱신: 팔로워 86 · 미답변 1건 · 큐 2개",
     "[2026-08-11 02:09:21] digest 갱신: 팔로워 87 · 미답변 1건 · 큐 2개",
     "[2026-08-11 02:13:42] digest 갱신: 팔로워 87 · 미답변 1건 · 큐 2개",
@@ -262,6 +261,7 @@
     "[2026-08-11 08:10:31] digest 갱신: 팔로워 87 · 미답변 1건 · 큐 2개",
     "[2026-08-11 08:15:51] digest 갱신: 팔로워 87 · 미답변 1건 · 큐 2개",
     "[2026-08-11 08:16:40] digest 갱신: 팔로워 87 · 미답변 1건 · 큐 2개",
-    "[2026-08-11 08:16:40] agent: 자동 답글 0건 · 보류 1건"
+    "[2026-08-11 08:16:40] agent: 자동 답글 0건 · 보류 1건",
+    "[2026-08-11 10:10:52] digest 갱신: 팔로워 87 · 미답변 1건 · 큐 2개"
   ]
 }
