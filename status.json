@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T22:12:30",
+  "generated_at": "2026-08-11T22:58:24",
   "username": "studiohaetae",
   "followers": 87,
   "followers_history": [
@@ -187,63 +187,63 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Db5fBIImMkv",
       "text": "제 유튜브 채널은 쇼츠 트래픽이 대부분입니다.\n\n어떤 분이 알려줬습니다. Shorts에서는 설명란 링크가 아예 표시되지 않는다고.\n\n확인해봤더니 저는 더 나빴습니다.\n채널 4개 40편에 링크가 애초에 0개였습니다.\n",
-      "views": 126,
+      "views": 141,
       "likes": 1,
       "replies": 0
     },
     {
-      "at": "2026-08-11T16:33:17",
+      "at": "2026-08-11T22:56:57",
       "n": -1,
       "id": null,
       "is_reply": true,
       "via": "browser",
-      "target": "all_that_lounge",
-      "permalink": "https://www.threads.com/@all_that_lounge/post/Db42vKxiLv4"
+      "target": "goldenpiggygirl",
+      "permalink": "https://www.threads.com/@goldenpiggygirl/post/Db5GrmSIMqv"
     },
     {
-      "at": "2026-08-11T16:33:17",
+      "at": "2026-08-11T22:56:57",
       "n": -1,
       "id": null,
       "is_reply": true,
       "via": "browser",
-      "target": "gjmakada",
-      "permalink": "https://www.threads.com/@gjmakada/post/Db5CVlmExJb"
+      "target": "honghyeongjune",
+      "permalink": "https://www.threads.com/@honghyeongjune/post/Db49hReEQk4"
     },
     {
-      "at": "2026-08-11T16:33:17",
+      "at": "2026-08-11T22:56:57",
       "n": -1,
       "id": null,
       "is_reply": true,
       "via": "browser",
-      "target": "maj._.u",
-      "permalink": "https://www.threads.com/@maj._.u/post/Db5CUOZFCjf"
+      "target": "ssedr778",
+      "permalink": "https://www.threads.com/@ssedr778/post/Db5WUtfkle1"
     },
     {
-      "at": "2026-08-11T16:33:17",
+      "at": "2026-08-11T22:56:57",
       "n": -1,
       "id": null,
       "is_reply": true,
       "via": "browser",
-      "target": "microalgae0605",
-      "permalink": "https://www.threads.com/@microalgae0605/post/Db2bV9LlLfb"
+      "target": "dodoz._____",
+      "permalink": "https://www.threads.com/@dodoz._____/post/Db5qVnukrLs"
     },
     {
-      "at": "2026-08-11T16:33:17",
+      "at": "2026-08-11T22:56:57",
       "n": -1,
       "id": null,
       "is_reply": true,
       "via": "browser",
-      "target": "work_vvook",
-      "permalink": "https://www.threads.com/@work_vvook/post/Db2PpXXCRmo"
+      "target": "livingflow52",
+      "permalink": "https://www.threads.com/@livingflow52/post/Db5llW9E4k4"
     },
     {
-      "at": "2026-08-11T16:33:17",
+      "at": "2026-08-11T22:56:57",
       "n": -1,
       "id": null,
       "is_reply": true,
       "via": "browser",
-      "target": "work_vvook",
-      "permalink": "https://www.threads.com/@work_vvook/post/Db5CrqOCY1p"
+      "target": "jigeum.mwotteum",
+      "permalink": "https://www.threads.com/@jigeum.mwotteum/post/Db5hkDED_oZ"
     }
   ],
   "unanswered_replies": [
@@ -259,7 +259,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 508, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-11 14:17:46] digest 갱신: 팔로워 87 · 미답변 1건 · 큐 2개",
     "[2026-08-11 14:18:09] digest 갱신: 팔로워 87 · 미답변 1건 · 큐 2개",
     "[2026-08-11 14:18:09] agent: 자동 답글 0건 · 보류 1건",
     "[2026-08-11 16:11:52] digest 갱신: 팔로워 87 · 미답변 1건 · 큐 2개",
@@ -273,6 +272,7 @@
     "[2026-08-11 20:19:36] digest 갱신: 팔로워 87 · 미답변 1건 · 큐 2개",
     "[2026-08-11 20:19:36] agent: 자동 답글 0건 · 보류 1건",
     "[2026-08-11 20:30:07] 컨테이너 생성 17893818723605032 (n=11)",
-    "[2026-08-11 20:30:15] 게시 완료 n=11 id=18156427363495994"
+    "[2026-08-11 20:30:15] 게시 완료 n=11 id=18156427363495994",
+    "[2026-08-11 22:12:50] digest 갱신: 팔로워 87 · 미답변 1건 · 큐 1개"
   ]
 }
