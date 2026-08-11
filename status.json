@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T08:22:00",
+  "generated_at": "2026-08-12T08:22:28",
   "username": "studiohaetae",
   "followers": 88,
   "followers_history": [
@@ -270,7 +270,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 508, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-11 23:20:21] agent: 자동 답글 0건 · 보류 1건",
     "[2026-08-11 23:40:05] 스냅샷: {\"date\": \"2026-08-11\", \"at\": \"2026-08-11T23:40:05\", \"followers\": 87, \"views\": 1991, \"likes\": 5, \"replies\": 11, \"reposts\": 0, \"quotes\": 0, \"clicks\": null}",
     "[2026-08-11 23:40:23] 답글 22건 수집 -> replies-2026-08-11.json",
     "[2026-08-11 23:40:44] digest 갱신: 팔로워 87 · 미답변 1건 · 큐 1개",
@@ -284,6 +283,7 @@
     "[2026-08-12 05:21:59] digest 갱신: 팔로워 88 · 미답변 2건 · 큐 1개",
     "[2026-08-12 05:21:59] agent: 자동 답글 0건 · 보류 2건",
     "[2026-08-12 06:15:08] digest 갱신: 팔로워 88 · 미답변 2건 · 큐 1개",
-    "[2026-08-12 08:15:32] digest 갱신: 팔로워 88 · 미답변 2건 · 큐 1개"
+    "[2026-08-12 08:15:32] digest 갱신: 팔로워 88 · 미답변 2건 · 큐 1개",
+    "[2026-08-12 08:22:21] digest 갱신: 팔로워 88 · 미답변 2건 · 큐 1개"
   ]
 }
