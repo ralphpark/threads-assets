@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T02:13:19",
+  "generated_at": "2026-08-12T02:20:24",
   "username": "studiohaetae",
   "followers": 88,
   "followers_history": [
@@ -81,7 +81,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DbfvEDimBHl",
       "text": "재즈 채널을 만들었습니다.\n\n곡 생성부터 영상 제작, 업로드까지 전부 자동화했습니다.\n제가 직접 한 건 없습니다.\n\n39편 올렸습니다.\n구독자 0명이었습니다.\n\n자동화가 문제가 아니었다는 걸 아는 데 오래 걸렸습니다",
-      "views": 1286,
+      "views": 1287,
       "likes": 8,
       "replies": 13
     },
@@ -114,7 +114,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DbndcaFmMll",
       "text": "세어봤습니다.\n\n재즈 채널 39편. AI 아바타. 랭킹 채널 6개. 음악 캐릭터. 개발 스튜디오 사이트.\n\n다섯 번 다 끝까지 만들었습니다.\n다섯 번 다 사람을 데려오는 일은 한 번도 안 했습니다.\n\n만드는 게 제일",
-      "views": 309,
+      "views": 310,
       "likes": 0,
       "replies": 0
     },
@@ -136,7 +136,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DbsnCxkmFww",
       "text": "유튜브 채널을 완전 자동으로 돌려서 39편을 올렸습니다. 구독자는 0명이었습니다.\n\n이상한 건 제가 그걸 보면서도 안 멈췄다는 겁니다.\n\n한 편 더 만드는 데 드는 추가 비용이 사실상 0이었거든요. 버튼을 누르면 나",
-      "views": 82,
+      "views": 83,
       "likes": 1,
       "replies": 0
     },
@@ -191,7 +191,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Db5fBIImMkv",
       "text": "제 유튜브 채널은 쇼츠 트래픽이 대부분입니다.\n\n어떤 분이 알려줬습니다. Shorts에서는 설명란 링크가 아예 표시되지 않는다고.\n\n확인해봤더니 저는 더 나빴습니다.\n채널 4개 40편에 링크가 애초에 0개였습니다.\n",
-      "views": 208,
+      "views": 210,
       "likes": 1,
       "replies": 1
     },
@@ -270,7 +270,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 508, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-11 20:12:32] digest 갱신: 팔로워 87 · 미답변 1건 · 큐 2개",
     "[2026-08-11 20:19:16] digest 갱신: 팔로워 87 · 미답변 1건 · 큐 2개",
     "[2026-08-11 20:19:36] digest 갱신: 팔로워 87 · 미답변 1건 · 큐 2개",
     "[2026-08-11 20:19:36] agent: 자동 답글 0건 · 보류 1건",
@@ -284,6 +283,7 @@
     "[2026-08-11 23:40:05] 스냅샷: {\"date\": \"2026-08-11\", \"at\": \"2026-08-11T23:40:05\", \"followers\": 87, \"views\": 1991, \"likes\": 5, \"replies\": 11, \"reposts\": 0, \"quotes\": 0, \"clicks\": null}",
     "[2026-08-11 23:40:23] 답글 22건 수집 -> replies-2026-08-11.json",
     "[2026-08-11 23:40:44] digest 갱신: 팔로워 87 · 미답변 1건 · 큐 1개",
-    "[2026-08-12 00:13:17] digest 갱신: 팔로워 87 · 미답변 2건 · 큐 1개"
+    "[2026-08-12 00:13:17] digest 갱신: 팔로워 87 · 미답변 2건 · 큐 1개",
+    "[2026-08-12 02:13:41] digest 갱신: 팔로워 88 · 미답변 2건 · 큐 1개"
   ]
 }
