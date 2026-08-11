@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T16:11:33",
+  "generated_at": "2026-08-11T16:34:18",
   "username": "studiohaetae",
   "followers": 87,
   "followers_history": [
@@ -181,58 +181,58 @@
       "replies": 0
     },
     {
-      "at": "2026-08-10T14:09:57",
+      "at": "2026-08-11T16:33:17",
       "n": -1,
       "id": null,
       "is_reply": true,
       "via": "browser",
-      "target": "stars.come.from.high.places",
-      "permalink": "https://www.threads.com/@stars.come.from.high.places/post/Db2BhgFASvo"
+      "target": "all_that_lounge",
+      "permalink": "https://www.threads.com/@all_that_lounge/post/Db42vKxiLv4"
     },
     {
-      "at": "2026-08-10T14:09:57",
+      "at": "2026-08-11T16:33:17",
       "n": -1,
       "id": null,
       "is_reply": true,
       "via": "browser",
-      "target": "edu_legend",
-      "permalink": "https://www.threads.com/@edu_legend/post/Db18EDgmRx6"
+      "target": "gjmakada",
+      "permalink": "https://www.threads.com/@gjmakada/post/Db5CVlmExJb"
     },
     {
-      "at": "2026-08-10T14:09:57",
+      "at": "2026-08-11T16:33:17",
       "n": -1,
       "id": null,
       "is_reply": true,
       "via": "browser",
-      "target": "ssedr778",
-      "permalink": "https://www.threads.com/@ssedr778/post/Db0DAvqEukc"
+      "target": "maj._.u",
+      "permalink": "https://www.threads.com/@maj._.u/post/Db5CUOZFCjf"
     },
     {
-      "at": "2026-08-10T14:09:57",
+      "at": "2026-08-11T16:33:17",
       "n": -1,
       "id": null,
       "is_reply": true,
       "via": "browser",
-      "target": "tuberithm",
-      "permalink": "https://www.threads.com/@tuberithm/post/Db1hCPhk3vL"
+      "target": "microalgae0605",
+      "permalink": "https://www.threads.com/@microalgae0605/post/Db2bV9LlLfb"
     },
     {
-      "at": "2026-08-10T14:09:57",
+      "at": "2026-08-11T16:33:17",
       "n": -1,
       "id": null,
       "is_reply": true,
       "via": "browser",
-      "target": "dtdftq",
-      "permalink": "https://www.threads.com/@dtdftq/post/Db0C5YOkl3K"
+      "target": "work_vvook",
+      "permalink": "https://www.threads.com/@work_vvook/post/Db2PpXXCRmo"
     },
     {
-      "at": "2026-08-10T14:09:57",
+      "at": "2026-08-11T16:33:17",
       "n": -1,
       "id": null,
       "is_reply": true,
       "via": "browser",
-      "target": "tiki_taka4686",
-      "permalink": "https://www.threads.com/@tiki_taka4686/post/Db0cvOGiVpg"
+      "target": "work_vvook",
+      "permalink": "https://www.threads.com/@work_vvook/post/Db5CrqOCY1p"
     }
   ],
   "unanswered_replies": [
@@ -248,7 +248,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 508, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-11 05:15:22] agent: 자동 답글 0건 · 보류 1건",
     "[2026-08-11 06:10:07] digest 갱신: 팔로워 87 · 미답변 1건 · 큐 2개",
     "[2026-08-11 08:10:31] digest 갱신: 팔로워 87 · 미답변 1건 · 큐 2개",
     "[2026-08-11 08:15:51] digest 갱신: 팔로워 87 · 미답변 1건 · 큐 2개",
@@ -262,6 +261,7 @@
     "[2026-08-11 14:11:32] digest 갱신: 팔로워 87 · 미답변 1건 · 큐 2개",
     "[2026-08-11 14:17:46] digest 갱신: 팔로워 87 · 미답변 1건 · 큐 2개",
     "[2026-08-11 14:18:09] digest 갱신: 팔로워 87 · 미답변 1건 · 큐 2개",
-    "[2026-08-11 14:18:09] agent: 자동 답글 0건 · 보류 1건"
+    "[2026-08-11 14:18:09] agent: 자동 답글 0건 · 보류 1건",
+    "[2026-08-11 16:11:52] digest 갱신: 팔로워 87 · 미답변 1건 · 큐 2개"
   ]
 }
