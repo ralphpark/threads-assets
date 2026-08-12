@@ -1,12 +1,8 @@
 {
-  "generated_at": "2026-08-12T23:26:50",
+  "generated_at": "2026-08-12T23:40:17",
   "username": "studiohaetae",
   "followers": 92,
   "followers_history": [
-    {
-      "date": "2026-07-31",
-      "followers": 58
-    },
     {
       "date": "2026-07-31",
       "followers": 60
@@ -58,6 +54,10 @@
     {
       "date": "2026-08-11",
       "followers": 87
+    },
+    {
+      "date": "2026-08-12",
+      "followers": 92
     }
   ],
   "queue_pending": 0,
@@ -202,7 +202,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Db8D0DMmAWY",
       "text": "AI로 유튜브 채널 6개를 돌리는데 지난달 수익이 0원입니다.\n\n그래서 궁금한 게 있습니다.\n\n지금까지 AI로 만든 것 중에 제일 잘 만들었는데 제일 안 된 게 뭔가요.\n\n저는 39편짜리 재즈 채널입니다. 구독자 0",
-      "views": 207,
+      "views": 230,
       "likes": 2,
       "replies": 2
     },
@@ -288,10 +288,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 508, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-12 14:24:47] digest 갱신: 팔로워 92 · 미답변 1건 · 큐 1개",
-    "[2026-08-12 14:24:47] agent: 자동 답글 0건 · 보류 1건",
-    "[2026-08-12 16:17:09] digest 갱신: 팔로워 91 · 미답변 1건 · 큐 1개",
-    "[2026-08-12 17:25:10] digest 갱신: 팔로워 91 · 미답변 1건 · 큐 1개",
     "[2026-08-12 17:25:35] digest 갱신: 팔로워 91 · 미답변 1건 · 큐 1개",
     "[2026-08-12 17:25:35] agent: 자동 답글 0건 · 보류 1건",
     "[2026-08-12 18:17:33] digest 갱신: 팔로워 91 · 미답변 1건 · 큐 1개",
@@ -302,6 +298,10 @@
     "[2026-08-12 20:30:07] 컨테이너 생성 17894014029605032 (n=10)",
     "[2026-08-12 20:30:15] 게시 완료 n=10 id=18230995339320678",
     "[2026-08-12 22:18:22] digest 갱신: 팔로워 91 · 미답변 1건 · 큐 0개",
-    "[2026-08-12 23:26:41] digest 갱신: 팔로워 92 · 미답변 3건 · 큐 0개"
+    "[2026-08-12 23:26:41] digest 갱신: 팔로워 92 · 미답변 3건 · 큐 0개",
+    "[2026-08-12 23:27:11] digest 갱신: 팔로워 92 · 미답변 3건 · 큐 0개",
+    "[2026-08-12 23:27:11] agent: 자동 답글 0건 · 보류 3건",
+    "[2026-08-12 23:40:00] 스냅샷: {\"date\": \"2026-08-12\", \"at\": \"2026-08-12T23:40:00\", \"followers\": 92, \"views\": 4762, \"likes\": 4, \"replies\": 2, \"reposts\": 0, \"quotes\": 0, \"clicks\": null}",
+    "[2026-08-12 23:40:17] 답글 24건 수집 -> replies-2026-08-12.json"
   ]
 }
