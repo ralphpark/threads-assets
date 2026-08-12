@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T06:19:38",
+  "generated_at": "2026-08-13T08:20:03",
   "username": "studiohaetae",
   "followers": 90,
   "followers_history": [
@@ -70,7 +70,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DbchdDnGFso",
       "text": "AI로 유튜브 채널 6개를 자동으로 돌리고 있습니다.\n\n지난달 조회수 19만 6천.\n수익 0원.\n\n왜 0원인지 앞으로 여기에 숫자로만 적겠습니다.",
-      "views": 2187,
+      "views": 2190,
       "likes": 11,
       "replies": 23
     },
@@ -169,7 +169,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Db0VbbZGLM6",
       "text": "Shorts 설명란에 링크를 넣어봤습니다.\n\n같은 줄의 해시태그는 파란 링크가 되는데 URL은 흰 일반 텍스트로 나옵니다. 접근성 트리에서도 link가 아니라 generic으로 잡힙니다.\n\n서식 문제가 아니라 유튜브",
-      "views": 114,
+      "views": 115,
       "likes": 1,
       "replies": 0
     },
@@ -180,7 +180,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Db26OQwGCbi",
       "text": "AI로 만든 노래를 팔 수 있는지 찾아봤습니다.\n\n한국에서 AI가 만든 곡은 저작권이 인정되지 않습니다. 가사만 사람이 썼다면 가사 부분만 등록됩니다.\n\n그리고 음저협은 2025년 9월부터 AI를 활용하지 않았음을 ",
-      "views": 508,
+      "views": 509,
       "likes": 2,
       "replies": 0
     },
@@ -191,7 +191,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Db5fBIImMkv",
       "text": "제 유튜브 채널은 쇼츠 트래픽이 대부분입니다.\n\n어떤 분이 알려줬습니다. Shorts에서는 설명란 링크가 아예 표시되지 않는다고.\n\n확인해봤더니 저는 더 나빴습니다.\n채널 4개 40편에 링크가 애초에 0개였습니다.\n",
-      "views": 316,
+      "views": 317,
       "likes": 1,
       "replies": 0
     },
@@ -202,9 +202,9 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Db8D0DMmAWY",
       "text": "AI로 유튜브 채널 6개를 돌리는데 지난달 수익이 0원입니다.\n\n그래서 궁금한 게 있습니다.\n\n지금까지 AI로 만든 것 중에 제일 잘 만들었는데 제일 안 된 게 뭔가요.\n\n저는 39편짜리 재즈 채널입니다. 구독자 0",
-      "views": 348,
-      "likes": 2,
-      "replies": 2
+      "views": 373,
+      "likes": 3,
+      "replies": 3
     },
     {
       "at": "2026-08-11T22:56:57",
@@ -270,6 +270,13 @@
       "on_post": "18064628984501140"
     },
     {
+      "id": "18165012268460374",
+      "username": "habitus_lens",
+      "text": "안녕하세요. 필라테스 옆에 먹방, 롱폼 옆에 숏폼. 측면도킹 듀얼플레이 아비투스 렌즈입니다. 정식 출시 1주차 무료 크레딧으로 시청시간 곱배기 도전해 보시라 댓글 남깁니다. 많이 사랑해 주세요. 아참 크롬 확장이에요^^",
+      "at": "2026-08-12T21:51:39+0000",
+      "on_post": "18230995339320678"
+    },
+    {
       "id": "18167766460403318",
       "username": "digi2shop.kr",
       "text": "뭘하던 안돼요 ㅎㅎㅎ 그게 제일 문제네요 전",
@@ -288,7 +295,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 508, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-12 23:26:41] digest 갱신: 팔로워 92 · 미답변 3건 · 큐 0개",
     "[2026-08-12 23:27:11] digest 갱신: 팔로워 92 · 미답변 3건 · 큐 0개",
     "[2026-08-12 23:27:11] agent: 자동 답글 0건 · 보류 3건",
     "[2026-08-12 23:40:00] 스냅샷: {\"date\": \"2026-08-12\", \"at\": \"2026-08-12T23:40:00\", \"followers\": 92, \"views\": 4762, \"likes\": 4, \"replies\": 2, \"reposts\": 0, \"quotes\": 0, \"clicks\": null}",
@@ -302,6 +308,7 @@
     "[2026-08-13 04:19:39] digest 갱신: 팔로워 90 · 미답변 3건 · 큐 0개",
     "[2026-08-13 05:28:24] digest 갱신: 팔로워 90 · 미답변 3건 · 큐 0개",
     "[2026-08-13 05:28:52] digest 갱신: 팔로워 90 · 미답변 3건 · 큐 0개",
-    "[2026-08-13 05:28:52] agent: 자동 답글 0건 · 보류 3건"
+    "[2026-08-13 05:28:52] agent: 자동 답글 0건 · 보류 3건",
+    "[2026-08-13 06:20:01] digest 갱신: 팔로워 90 · 미답변 3건 · 큐 0개"
   ]
 }
