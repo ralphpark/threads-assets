@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T17:25:14",
+  "generated_at": "2026-08-12T18:17:12",
   "username": "studiohaetae",
   "followers": 91,
   "followers_history": [
@@ -191,7 +191,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Db5fBIImMkv",
       "text": "제 유튜브 채널은 쇼츠 트래픽이 대부분입니다.\n\n어떤 분이 알려줬습니다. Shorts에서는 설명란 링크가 아예 표시되지 않는다고.\n\n확인해봤더니 저는 더 나빴습니다.\n채널 4개 40편에 링크가 애초에 0개였습니다.\n",
-      "views": 287,
+      "views": 291,
       "likes": 1,
       "replies": 0
     },
@@ -263,8 +263,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 508, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-12 08:15:32] digest 갱신: 팔로워 88 · 미답변 2건 · 큐 1개",
-    "[2026-08-12 08:22:21] digest 갱신: 팔로워 88 · 미답변 2건 · 큐 1개",
     "[2026-08-12 08:22:50] digest 갱신: 팔로워 88 · 미답변 2건 · 큐 1개",
     "[2026-08-12 08:22:50] agent: 자동 답글 0건 · 보류 2건",
     "[2026-08-12 10:15:52] digest 갱신: 팔로워 88 · 미답변 2건 · 큐 1개",
@@ -277,6 +275,8 @@
     "[2026-08-12 14:24:47] digest 갱신: 팔로워 92 · 미답변 1건 · 큐 1개",
     "[2026-08-12 14:24:47] agent: 자동 답글 0건 · 보류 1건",
     "[2026-08-12 16:17:09] digest 갱신: 팔로워 91 · 미답변 1건 · 큐 1개",
-    "[2026-08-12 17:25:10] digest 갱신: 팔로워 91 · 미답변 1건 · 큐 1개"
+    "[2026-08-12 17:25:10] digest 갱신: 팔로워 91 · 미답변 1건 · 큐 1개",
+    "[2026-08-12 17:25:35] digest 갱신: 팔로워 91 · 미답변 1건 · 큐 1개",
+    "[2026-08-12 17:25:35] agent: 자동 답글 0건 · 보류 1건"
   ]
 }
