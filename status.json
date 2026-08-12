@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-12T14:24:20",
+  "generated_at": "2026-08-12T16:16:45",
   "username": "studiohaetae",
-  "followers": 92,
+  "followers": 91,
   "followers_history": [
     {
       "date": "2026-07-31",
@@ -81,7 +81,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DbfvEDimBHl",
       "text": "재즈 채널을 만들었습니다.\n\n곡 생성부터 영상 제작, 업로드까지 전부 자동화했습니다.\n제가 직접 한 건 없습니다.\n\n39편 올렸습니다.\n구독자 0명이었습니다.\n\n자동화가 문제가 아니었다는 걸 아는 데 오래 걸렸습니다",
-      "views": 1291,
+      "views": 1292,
       "likes": 8,
       "replies": 13
     },
@@ -180,7 +180,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Db26OQwGCbi",
       "text": "AI로 만든 노래를 팔 수 있는지 찾아봤습니다.\n\n한국에서 AI가 만든 곡은 저작권이 인정되지 않습니다. 가사만 사람이 썼다면 가사 부분만 등록됩니다.\n\n그리고 음저협은 2025년 9월부터 AI를 활용하지 않았음을 ",
-      "views": 491,
+      "views": 494,
       "likes": 2,
       "replies": 0
     },
@@ -191,7 +191,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Db5fBIImMkv",
       "text": "제 유튜브 채널은 쇼츠 트래픽이 대부분입니다.\n\n어떤 분이 알려줬습니다. Shorts에서는 설명란 링크가 아예 표시되지 않는다고.\n\n확인해봤더니 저는 더 나빴습니다.\n채널 4개 40편에 링크가 애초에 0개였습니다.\n",
-      "views": 275,
+      "views": 281,
       "likes": 1,
       "replies": 0
     },
@@ -263,8 +263,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 508, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-12 05:21:33] digest 갱신: 팔로워 88 · 미답변 2건 · 큐 1개",
-    "[2026-08-12 05:21:59] digest 갱신: 팔로워 88 · 미답변 2건 · 큐 1개",
     "[2026-08-12 05:21:59] agent: 자동 답글 0건 · 보류 2건",
     "[2026-08-12 06:15:08] digest 갱신: 팔로워 88 · 미답변 2건 · 큐 1개",
     "[2026-08-12 08:15:32] digest 갱신: 팔로워 88 · 미답변 2건 · 큐 1개",
@@ -277,6 +275,8 @@
     "[2026-08-12 11:23:49] agent: 자동 답글 0건 · 보류 2건",
     "[2026-08-12 12:16:16] digest 갱신: 팔로워 91 · 미답변 1건 · 큐 1개",
     "[2026-08-12 14:16:46] digest 갱신: 팔로워 92 · 미답변 1건 · 큐 1개",
-    "[2026-08-12 14:24:17] digest 갱신: 팔로워 92 · 미답변 1건 · 큐 1개"
+    "[2026-08-12 14:24:17] digest 갱신: 팔로워 92 · 미답변 1건 · 큐 1개",
+    "[2026-08-12 14:24:47] digest 갱신: 팔로워 92 · 미답변 1건 · 큐 1개",
+    "[2026-08-12 14:24:47] agent: 자동 답글 0건 · 보류 1건"
   ]
 }
