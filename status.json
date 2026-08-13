@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T16:22:05",
+  "generated_at": "2026-08-13T17:32:17",
   "username": "studiohaetae",
   "followers": 90,
   "followers_history": [
@@ -202,7 +202,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Db8D0DMmAWY",
       "text": "AI로 유튜브 채널 6개를 돌리는데 지난달 수익이 0원입니다.\n\n그래서 궁금한 게 있습니다.\n\n지금까지 AI로 만든 것 중에 제일 잘 만들었는데 제일 안 된 게 뭔가요.\n\n저는 39편짜리 재즈 채널입니다. 구독자 0",
-      "views": 479,
+      "views": 488,
       "likes": 3,
       "replies": 3
     },
@@ -295,7 +295,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 508, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-13 05:28:52] agent: 자동 답글 0건 · 보류 3건",
     "[2026-08-13 06:20:01] digest 갱신: 팔로워 90 · 미답변 3건 · 큐 0개",
     "[2026-08-13 08:20:54] digest 갱신: 팔로워 90 · 미답변 4건 · 큐 0개",
     "[2026-08-13 08:29:38] digest 갱신: 팔로워 90 · 미답변 4건 · 큐 0개",
@@ -309,6 +308,7 @@
     "[2026-08-13 14:22:05] digest 갱신: 팔로워 90 · 미답변 4건 · 큐 0개",
     "[2026-08-13 14:31:46] digest 갱신: 팔로워 90 · 미답변 4건 · 큐 0개",
     "[2026-08-13 14:32:16] digest 갱신: 팔로워 90 · 미답변 4건 · 큐 0개",
-    "[2026-08-13 14:32:16] agent: 자동 답글 0건 · 보류 4건"
+    "[2026-08-13 14:32:16] agent: 자동 답글 0건 · 보류 4건",
+    "[2026-08-13 16:22:46] digest 갱신: 팔로워 90 · 미답변 4건 · 큐 0개"
   ]
 }
