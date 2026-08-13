@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T06:25:23",
+  "generated_at": "2026-08-14T08:25:49",
   "username": "studiohaetae",
   "followers": 90,
   "followers_history": [
@@ -295,7 +295,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 508, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-13 23:40:25] 답글 25건 수집 -> replies-2026-08-13.json",
     "[2026-08-13 23:40:52] digest git push: remote: Internal Server Error        ",
     "remote: Request ID E0BA:2FA351:13D452:1718AC:6A7DD773        ",
     "remote: Time 2026-08-13T14:40:52Z",
@@ -309,6 +308,7 @@
     "[2026-08-14 04:25:22] digest 갱신: 팔로워 90 · 미답변 4건 · 큐 0개",
     "[2026-08-14 05:37:14] digest 갱신: 팔로워 90 · 미답변 4건 · 큐 0개",
     "[2026-08-14 05:37:44] digest 갱신: 팔로워 90 · 미답변 4건 · 큐 0개",
-    "[2026-08-14 05:37:44] agent: 자동 답글 0건 · 보류 4건"
+    "[2026-08-14 05:37:44] agent: 자동 답글 0건 · 보류 4건",
+    "[2026-08-14 06:25:49] digest 갱신: 팔로워 90 · 미답변 4건 · 큐 0개"
   ]
 }
