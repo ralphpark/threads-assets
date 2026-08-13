@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T22:23:43",
+  "generated_at": "2026-08-13T23:34:46",
   "username": "studiohaetae",
   "followers": 90,
   "followers_history": [
@@ -180,7 +180,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Db26OQwGCbi",
       "text": "AI로 만든 노래를 팔 수 있는지 찾아봤습니다.\n\n한국에서 AI가 만든 곡은 저작권이 인정되지 않습니다. 가사만 사람이 썼다면 가사 부분만 등록됩니다.\n\n그리고 음저협은 2025년 9월부터 AI를 활용하지 않았음을 ",
-      "views": 517,
+      "views": 518,
       "likes": 2,
       "replies": 0
     },
@@ -191,7 +191,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Db5fBIImMkv",
       "text": "제 유튜브 채널은 쇼츠 트래픽이 대부분입니다.\n\n어떤 분이 알려줬습니다. Shorts에서는 설명란 링크가 아예 표시되지 않는다고.\n\n확인해봤더니 저는 더 나빴습니다.\n채널 4개 40편에 링크가 애초에 0개였습니다.\n",
-      "views": 330,
+      "views": 331,
       "likes": 1,
       "replies": 0
     },
@@ -202,7 +202,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Db8D0DMmAWY",
       "text": "AI로 유튜브 채널 6개를 돌리는데 지난달 수익이 0원입니다.\n\n그래서 궁금한 게 있습니다.\n\n지금까지 AI로 만든 것 중에 제일 잘 만들었는데 제일 안 된 게 뭔가요.\n\n저는 39편짜리 재즈 채널입니다. 구독자 0",
-      "views": 526,
+      "views": 528,
       "likes": 4,
       "replies": 3
     },
@@ -295,7 +295,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 508, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-13 12:21:43] digest 갱신: 팔로워 90 · 미답변 4건 · 큐 0개",
     "[2026-08-13 14:22:05] digest 갱신: 팔로워 90 · 미답변 4건 · 큐 0개",
     "[2026-08-13 14:31:46] digest 갱신: 팔로워 90 · 미답변 4건 · 큐 0개",
     "[2026-08-13 14:32:16] digest 갱신: 팔로워 90 · 미답변 4건 · 큐 0개",
@@ -309,6 +308,7 @@
     "[2026-08-13 20:30:00] 큐가 비었다. 게시하지 않음.",
     "[2026-08-13 20:34:03] digest 갱신: 팔로워 90 · 미답변 4건 · 큐 0개",
     "[2026-08-13 20:34:46] digest 갱신: 팔로워 90 · 미답변 4건 · 큐 0개",
-    "[2026-08-13 20:34:46] agent: 자동 답글 0건 · 보류 4건"
+    "[2026-08-13 20:34:46] agent: 자동 답글 0건 · 보류 4건",
+    "[2026-08-13 22:24:06] digest 갱신: 팔로워 90 · 미답변 4건 · 큐 0개"
   ]
 }
