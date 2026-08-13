@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T14:31:56",
+  "generated_at": "2026-08-13T16:22:05",
   "username": "studiohaetae",
   "followers": 90,
   "followers_history": [
@@ -169,7 +169,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Db0VbbZGLM6",
       "text": "Shorts 설명란에 링크를 넣어봤습니다.\n\n같은 줄의 해시태그는 파란 링크가 되는데 URL은 흰 일반 텍스트로 나옵니다. 접근성 트리에서도 link가 아니라 generic으로 잡힙니다.\n\n서식 문제가 아니라 유튜브",
-      "views": 118,
+      "views": 119,
       "likes": 1,
       "replies": 0
     },
@@ -180,7 +180,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Db26OQwGCbi",
       "text": "AI로 만든 노래를 팔 수 있는지 찾아봤습니다.\n\n한국에서 AI가 만든 곡은 저작권이 인정되지 않습니다. 가사만 사람이 썼다면 가사 부분만 등록됩니다.\n\n그리고 음저협은 2025년 9월부터 AI를 활용하지 않았음을 ",
-      "views": 513,
+      "views": 514,
       "likes": 2,
       "replies": 0
     },
@@ -191,7 +191,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Db5fBIImMkv",
       "text": "제 유튜브 채널은 쇼츠 트래픽이 대부분입니다.\n\n어떤 분이 알려줬습니다. Shorts에서는 설명란 링크가 아예 표시되지 않는다고.\n\n확인해봤더니 저는 더 나빴습니다.\n채널 4개 40편에 링크가 애초에 0개였습니다.\n",
-      "views": 321,
+      "views": 328,
       "likes": 1,
       "replies": 0
     },
@@ -202,7 +202,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Db8D0DMmAWY",
       "text": "AI로 유튜브 채널 6개를 돌리는데 지난달 수익이 0원입니다.\n\n그래서 궁금한 게 있습니다.\n\n지금까지 AI로 만든 것 중에 제일 잘 만들었는데 제일 안 된 게 뭔가요.\n\n저는 39편짜리 재즈 채널입니다. 구독자 0",
-      "views": 461,
+      "views": 479,
       "likes": 3,
       "replies": 3
     },
@@ -295,8 +295,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 508, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-13 05:28:24] digest 갱신: 팔로워 90 · 미답변 3건 · 큐 0개",
-    "[2026-08-13 05:28:52] digest 갱신: 팔로워 90 · 미답변 3건 · 큐 0개",
     "[2026-08-13 05:28:52] agent: 자동 답글 0건 · 보류 3건",
     "[2026-08-13 06:20:01] digest 갱신: 팔로워 90 · 미답변 3건 · 큐 0개",
     "[2026-08-13 08:20:54] digest 갱신: 팔로워 90 · 미답변 4건 · 큐 0개",
@@ -309,6 +307,8 @@
     "[2026-08-13 11:31:22] agent: 자동 답글 0건 · 보류 4건",
     "[2026-08-13 12:21:43] digest 갱신: 팔로워 90 · 미답변 4건 · 큐 0개",
     "[2026-08-13 14:22:05] digest 갱신: 팔로워 90 · 미답변 4건 · 큐 0개",
-    "[2026-08-13 14:31:46] digest 갱신: 팔로워 90 · 미답변 4건 · 큐 0개"
+    "[2026-08-13 14:31:46] digest 갱신: 팔로워 90 · 미답변 4건 · 큐 0개",
+    "[2026-08-13 14:32:16] digest 갱신: 팔로워 90 · 미답변 4건 · 큐 0개",
+    "[2026-08-13 14:32:16] agent: 자동 답글 0건 · 보류 4건"
   ]
 }
