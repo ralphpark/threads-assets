@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T11:39:11",
+  "generated_at": "2026-08-14T12:26:34",
   "username": "studiohaetae",
   "followers": 90,
   "followers_history": [
@@ -169,7 +169,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Db0VbbZGLM6",
       "text": "Shorts 설명란에 링크를 넣어봤습니다.\n\n같은 줄의 해시태그는 파란 링크가 되는데 URL은 흰 일반 텍스트로 나옵니다. 접근성 트리에서도 link가 아니라 generic으로 잡힙니다.\n\n서식 문제가 아니라 유튜브",
-      "views": 122,
+      "views": 123,
       "likes": 1,
       "replies": 0
     },
@@ -295,8 +295,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 508, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-14 02:24:58] digest 갱신: 팔로워 90 · 미답변 4건 · 큐 0개",
-    "[2026-08-14 02:36:20] digest 갱신: 팔로워 90 · 미답변 4건 · 큐 0개",
     "[2026-08-14 02:36:54] digest 갱신: 팔로워 90 · 미답변 4건 · 큐 0개",
     "[2026-08-14 02:36:54] agent: 자동 답글 0건 · 보류 4건",
     "[2026-08-14 04:25:22] digest 갱신: 팔로워 90 · 미답변 4건 · 큐 0개",
@@ -309,6 +307,8 @@
     "[2026-08-14 08:38:42] digest 갱신: 팔로워 90 · 미답변 4건 · 큐 0개",
     "[2026-08-14 08:38:42] agent: 자동 답글 0건 · 보류 4건",
     "[2026-08-14 10:26:34] digest 갱신: 팔로워 90 · 미답변 4건 · 큐 0개",
-    "[2026-08-14 11:39:01] digest 갱신: 팔로워 90 · 미답변 4건 · 큐 0개"
+    "[2026-08-14 11:39:01] digest 갱신: 팔로워 90 · 미답변 4건 · 큐 0개",
+    "[2026-08-14 11:39:30] digest 갱신: 팔로워 90 · 미답변 4건 · 큐 0개",
+    "[2026-08-14 11:39:30] agent: 자동 답글 0건 · 보류 4건"
   ]
 }
