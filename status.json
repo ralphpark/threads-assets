@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T20:45:15",
+  "generated_at": "2026-08-14T22:28:31",
   "username": "studiohaetae",
   "followers": 90,
   "followers_history": [
@@ -158,7 +158,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Dbxwoh5GLq0",
       "text": "채널 하나가 지금 멈춰 있습니다. 저작권 스트라이크입니다.\n\n남의 영상을 편집해서 올리던 채널입니다.\n\nContent ID는 법을 따지지 않습니다. 자동으로 걸고, 걸리면 수익은 원저작자에게 갑니다. 경고 세 번이면",
-      "views": 340,
+      "views": 342,
       "likes": 2,
       "replies": 3
     },
@@ -260,7 +260,7 @@
       "is_reply": true,
       "permalink": "https://www.threads.com/@studiohaetae/post/DcBPBj2mCz2",
       "text": "수익정지가 아니라 저작권 스트라이크로 채널 자체가 정지됐습니다.\n\n유지냐 환승이냐를 고를 계제도 아니었어요, 이미 막혀서 접근 자체가 안 됩니다.\n\n나머지 5개 채널은 그대로 자동 운영 중입니다.",
-      "views": 0,
+      "views": 5,
       "likes": 0,
       "replies": 0
     }
@@ -292,8 +292,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 508, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-14 17:42:41] 답글 게시 완료 id=18005695139957504 https://www.threads.com/@studiohaetae/post/DcA6N9dmH7h",
-    "[2026-08-14 17:42:41] agent: 게시 @digi2shop.kr",
     "[2026-08-14 17:43:01] agent: 보류 @safarisshow — 수익 구조를 어떻게 잡고 있냐는 질문은 우리 수익화 전략을 직접 묻는 내용이라 사람 판단이 필요함",
     "[2026-08-14 17:43:28] digest 갱신: 팔로워 90 · 미답변 3건 · 큐 0개",
     "[2026-08-14 17:43:29] agent: 자동 답글 1건 · 보류 3건",
@@ -306,6 +304,8 @@
     "[2026-08-14 20:44:30] agent: 게시 @luvi_creative",
     "[2026-08-14 20:44:45] agent: 보류 @habitus_lens — 협업·광고 제안 — 자기 제품(크롬 확장) 홍보 및 크레딧 제공 제안이라 사람 판단 필요",
     "[2026-08-14 20:45:03] agent: 보류 @safarisshow — 수익구조를 어떻게 잡는지 직접 묻는 질문 — 게이트 규칙상 수익·제품 관련 직접 질문은 사람이 판단해야 함",
-    "[2026-08-14 20:45:15] agent: 보류 @digi2shop.kr — 내용이 \"맞아요..\" 뿐이라 무엇에 동의하는지 맥락이 없음. 실측 숫자로 답할 구체적 질문이나 주장이 없어 의미 있는 답글을 만들 수 없음"
+    "[2026-08-14 20:45:15] agent: 보류 @digi2shop.kr — 내용이 \"맞아요..\" 뿐이라 무엇에 동의하는지 맥락이 없음. 실측 숫자로 답할 구체적 질문이나 주장이 없어 의미 있는 답글을 만들 수 없음",
+    "[2026-08-14 20:45:36] digest 갱신: 팔로워 90 · 미답변 3건 · 큐 0개",
+    "[2026-08-14 20:45:36] agent: 자동 답글 1건 · 보류 3건"
   ]
 }
