@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T17:40:39",
+  "generated_at": "2026-08-14T17:43:02",
   "username": "studiohaetae",
   "followers": 90,
   "followers_history": [
@@ -204,16 +204,7 @@
       "text": "AI로 유튜브 채널 6개를 돌리는데 지난달 수익이 0원입니다.\n\n그래서 궁금한 게 있습니다.\n\n지금까지 AI로 만든 것 중에 제일 잘 만들었는데 제일 안 된 게 뭔가요.\n\n저는 39편짜리 재즈 채널입니다. 구독자 0",
       "views": 528,
       "likes": 4,
-      "replies": 3
-    },
-    {
-      "at": "2026-08-11T22:56:57",
-      "n": -1,
-      "id": null,
-      "is_reply": true,
-      "via": "browser",
-      "target": "goldenpiggygirl",
-      "permalink": "https://www.threads.com/@goldenpiggygirl/post/Db5GrmSIMqv"
+      "replies": 4
     },
     {
       "at": "2026-08-11T22:56:57",
@@ -259,6 +250,17 @@
       "via": "browser",
       "target": "jigeum.mwotteum",
       "permalink": "https://www.threads.com/@jigeum.mwotteum/post/Db5hkDED_oZ"
+    },
+    {
+      "at": "2026-08-14T17:42:41",
+      "n": -1,
+      "id": "18005695139957504",
+      "is_reply": true,
+      "permalink": "https://www.threads.com/@studiohaetae/post/DcA6N9dmH7h",
+      "text": "재즈 채널 39편 만들었는데 구독자 0명입니다.\n\n2시간 10분짜리 영상 평균 시청 지속시간은 1분 2초, 0.2%였습니다.\n\n뭘 해도 안 되는 감각, 숫자로 보면 이 정도입니다.",
+      "views": 0,
+      "likes": 0,
+      "replies": 0
     }
   ],
   "unanswered_replies": [
@@ -277,13 +279,6 @@
       "on_post": "18230995339320678"
     },
     {
-      "id": "18167766460403318",
-      "username": "digi2shop.kr",
-      "text": "뭘하던 안돼요 ㅎㅎㅎ 그게 제일 문제네요 전",
-      "at": "2026-08-12T13:57:34+0000",
-      "on_post": "18230995339320678"
-    },
-    {
       "id": "18117652993716060",
       "username": "safarisshow",
       "text": "방문자가 얼마나 되는지 모르겠지만\n구독자 0\n\n유튜브의 수익구조를 뭐로 잡으시나요? \n광고?\n\n광고수익이 발생하는 조건을 찾아보세요",
@@ -295,13 +290,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 508, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-14 06:25:49] digest 갱신: 팔로워 90 · 미답변 4건 · 큐 0개",
-    "[2026-08-14 08:26:08] digest 갱신: 팔로워 90 · 미답변 4건 · 큐 0개",
-    "[2026-08-14 08:38:05] digest 갱신: 팔로워 90 · 미답변 4건 · 큐 0개",
-    "[2026-08-14 08:38:42] digest 갱신: 팔로워 90 · 미답변 4건 · 큐 0개",
-    "[2026-08-14 08:38:42] agent: 자동 답글 0건 · 보류 4건",
-    "[2026-08-14 10:26:34] digest 갱신: 팔로워 90 · 미답변 4건 · 큐 0개",
-    "[2026-08-14 11:39:01] digest 갱신: 팔로워 90 · 미답변 4건 · 큐 0개",
     "[2026-08-14 11:39:30] digest 갱신: 팔로워 90 · 미답변 4건 · 큐 0개",
     "[2026-08-14 11:39:30] agent: 자동 답글 0건 · 보류 4건",
     "[2026-08-14 12:26:58] digest 갱신: 팔로워 90 · 미답변 4건 · 큐 0개",
@@ -309,6 +297,13 @@
     "[2026-08-14 14:40:00] digest 갱신: 팔로워 90 · 미답변 4건 · 큐 0개",
     "[2026-08-14 14:40:40] digest 갱신: 팔로워 90 · 미답변 4건 · 큐 0개",
     "[2026-08-14 14:40:40] agent: 자동 답글 0건 · 보류 4건",
-    "[2026-08-14 16:27:48] digest 갱신: 팔로워 90 · 미답변 4건 · 큐 0개"
+    "[2026-08-14 16:27:48] digest 갱신: 팔로워 90 · 미답변 4건 · 큐 0개",
+    "[2026-08-14 17:41:06] digest 갱신: 팔로워 90 · 미답변 4건 · 큐 0개",
+    "[2026-08-14 17:41:44] agent: 보류 @luvi_creative — 채널 유지 이유를 묻는 질문으로, 실측 숫자만으로는 답할 수 없는 전략적 판단(왜 정지된 채널을 유지하는지, 다른 채널/플랫폼으로 갈아탈지)을 요구함. FACTS 목록에 정지 기간이나 향후 계획에 대한 수치가 없어 성실히 답할 수 없음.",
+    "[2026-08-14 17:42:04] agent: 보류 @habitus_lens — 자기 제품(크롬 확장) 홍보 및 무료 크레딧 이벤트 안내 - 협업/광고성 게시물이라 자동 답글 대상 아님",
+    "[2026-08-14 17:42:24] 이미지 0장 공개 URL 확보",
+    "[2026-08-14 17:42:41] 답글 게시 완료 id=18005695139957504 https://www.threads.com/@studiohaetae/post/DcA6N9dmH7h",
+    "[2026-08-14 17:42:41] agent: 게시 @digi2shop.kr",
+    "[2026-08-14 17:43:01] agent: 보류 @safarisshow — 수익 구조를 어떻게 잡고 있냐는 질문은 우리 수익화 전략을 직접 묻는 내용이라 사람 판단이 필요함"
   ]
 }
