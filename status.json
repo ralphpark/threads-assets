@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T06:30:05",
+  "generated_at": "2026-08-15T08:30:26",
   "username": "studiohaetae",
   "followers": 90,
   "followers_history": [
@@ -202,9 +202,9 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Db8D0DMmAWY",
       "text": "AI로 유튜브 채널 6개를 돌리는데 지난달 수익이 0원입니다.\n\n그래서 궁금한 게 있습니다.\n\n지금까지 AI로 만든 것 중에 제일 잘 만들었는데 제일 안 된 게 뭔가요.\n\n저는 39편짜리 재즈 채널입니다. 구독자 0",
-      "views": 531,
+      "views": 533,
       "likes": 4,
-      "replies": 6
+      "replies": 7
     },
     {
       "at": "2026-08-11T22:56:57",
@@ -251,7 +251,7 @@
       "is_reply": true,
       "permalink": "https://www.threads.com/@studiohaetae/post/DcBPBj2mCz2",
       "text": "수익정지가 아니라 저작권 스트라이크로 채널 자체가 정지됐습니다.\n\n유지냐 환승이냐를 고를 계제도 아니었어요, 이미 막혀서 접근 자체가 안 됩니다.\n\n나머지 5개 채널은 그대로 자동 운영 중입니다.",
-      "views": 7,
+      "views": 8,
       "likes": 0,
       "replies": 0
     },
@@ -262,7 +262,7 @@
       "is_reply": true,
       "permalink": "https://www.threads.com/@studiohaetae/post/DcB4t5yH6W-",
       "text": "광고수익 조건 그대로 못 채운 상태입니다.\n\n랭킹 채널 기준 구독자 23/500, 유효 시청시간 0시간/3,000시간.\n둘 다 미달이라 애초에 광고가 붙을 수 없습니다.\n\n그래서 6채널 지난달 조회수 19만 6천에 ",
-      "views": 0,
+      "views": 2,
       "likes": 0,
       "replies": 0
     }
@@ -281,13 +281,19 @@
       "text": "맞아요..",
       "at": "2026-08-14T08:54:29+0000",
       "on_post": "18005695139957504"
+    },
+    {
+      "id": "17885114571680803",
+      "username": "safarisshow",
+      "text": "수익을 광고수익만 생각하지 마세요\n댓글에 판매하실 것의 링크를 달아보시는건 어때요?",
+      "at": "2026-08-14T21:46:47+0000",
+      "on_post": "17960548221183836"
     }
   ],
   "errors": {
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 508, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-15 02:29:41] digest 갱신: 팔로워 90 · 미답변 3건 · 큐 0개",
     "[2026-08-15 02:47:46] digest 갱신: 팔로워 90 · 미답변 3건 · 큐 0개",
     "[2026-08-15 02:48:06] agent: 보류 @habitus_lens — 협업·광고·홍보 제안 — 상대가 자신의 크롬 확장 제품(아비투스 렌즈)을 홍보하며 무료 크레딧 사용을 권유하는 내용. 우리 실측 숫자로 성실히 답할 질문이 아니라 사람이 판단해야 할 홍보성 접근.",
     "[2026-08-15 02:48:34] 이미지 0장 공개 URL 확보",
@@ -301,6 +307,7 @@
     "[2026-08-15 05:50:53] agent: 보류 @habitus_lens — 자사 크롬 확장(아비투스 렌즈) 홍보 및 무료 크레딧 이벤트 안내 글로, 협업·광고성 콘텐츠에 해당해 사람 판단이 필요함",
     "[2026-08-15 05:51:13] agent: 보류 @digi2shop.kr — 내용이 단순 동의(\"맞아요..\")뿐이라 원문 맥락이나 구체적 질문/숫자가 없어 실측 데이터로 답할 소재가 없음. 단순 인사성 답글은 건너뛰는 규칙에 해당.",
     "[2026-08-15 05:51:58] digest 갱신: 팔로워 90 · 미답변 2건 · 큐 0개",
-    "[2026-08-15 05:51:59] agent: 자동 답글 0건 · 보류 2건"
+    "[2026-08-15 05:51:59] agent: 자동 답글 0건 · 보류 2건",
+    "[2026-08-15 06:30:25] digest 갱신: 팔로워 90 · 미답변 2건 · 큐 0개"
   ]
 }
