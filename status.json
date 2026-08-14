@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T08:38:21",
+  "generated_at": "2026-08-14T10:26:07",
   "username": "studiohaetae",
   "followers": 90,
   "followers_history": [
@@ -81,7 +81,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DbfvEDimBHl",
       "text": "재즈 채널을 만들었습니다.\n\n곡 생성부터 영상 제작, 업로드까지 전부 자동화했습니다.\n제가 직접 한 건 없습니다.\n\n39편 올렸습니다.\n구독자 0명이었습니다.\n\n자동화가 문제가 아니었다는 걸 아는 데 오래 걸렸습니다",
-      "views": 1297,
+      "views": 1298,
       "likes": 8,
       "replies": 13
     },
@@ -295,8 +295,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 508, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "remote: Time 2026-08-13T14:40:52Z",
-    "To https://github.com/ralp",
     "[2026-08-13 23:40:52] digest 갱신: 팔로워 90 · 미답변 4건 · 큐 0개",
     "[2026-08-14 00:24:31] digest 갱신: 팔로워 90 · 미답변 4건 · 큐 0개",
     "[2026-08-14 02:24:58] digest 갱신: 팔로워 90 · 미답변 4건 · 큐 0개",
@@ -309,6 +307,8 @@
     "[2026-08-14 05:37:44] agent: 자동 답글 0건 · 보류 4건",
     "[2026-08-14 06:25:49] digest 갱신: 팔로워 90 · 미답변 4건 · 큐 0개",
     "[2026-08-14 08:26:08] digest 갱신: 팔로워 90 · 미답변 4건 · 큐 0개",
-    "[2026-08-14 08:38:05] digest 갱신: 팔로워 90 · 미답변 4건 · 큐 0개"
+    "[2026-08-14 08:38:05] digest 갱신: 팔로워 90 · 미답변 4건 · 큐 0개",
+    "[2026-08-14 08:38:42] digest 갱신: 팔로워 90 · 미답변 4건 · 큐 0개",
+    "[2026-08-14 08:38:42] agent: 자동 답글 0건 · 보류 4건"
   ]
 }
