@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T06:04:41",
+  "generated_at": "2026-08-16T06:35:11",
   "username": "studiohaetae",
   "followers": 90,
   "followers_history": [
@@ -294,8 +294,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 508, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-16 00:01:48] digest 갱신: 팔로워 90 · 미답변 3건 · 큐 0개",
-    "[2026-08-16 00:01:49] agent: 자동 답글 0건 · 보류 3건",
     "[2026-08-16 00:34:23] digest 갱신: 팔로워 90 · 미답변 3건 · 큐 0개",
     "[2026-08-16 02:34:48] digest 갱신: 팔로워 90 · 미답변 3건 · 큐 0개",
     "[2026-08-16 03:02:14] digest 갱신: 팔로워 90 · 미답변 3건 · 큐 0개",
@@ -308,6 +306,8 @@
     "[2026-08-16 06:03:56] digest 갱신: 팔로워 90 · 미답변 3건 · 큐 0개",
     "[2026-08-16 06:04:11] agent: 보류 @habitus_lens — 협업·광고 제안 — 상대가 자신의 크롬 확장 제품(아비투스 렌즈)을 홍보하며 무료 크레딧을 안내하는 게시물이다. 실측 숫자로 답할 질문이 아니라 광고성 콘텐츠이므로 보류.",
     "[2026-08-16 06:04:26] agent: 보류 @digi2shop.kr — 원문이 '맞아요..'만 있고 무엇에 동의하는지 맥락이 없어 어떤 숫자로 답해야 할지 판단 불가. 애매하면 보류.",
-    "[2026-08-16 06:04:41] agent: 보류 @safarisshow — 제품/판매 관련 제안 — 링크를 달라는 제안에 응하려면 무엇을 파는지 언급해야 하는데, 이건 사람이 타이밍을 정할 문제라 보류"
+    "[2026-08-16 06:04:41] agent: 보류 @safarisshow — 제품/판매 관련 제안 — 링크를 달라는 제안에 응하려면 무엇을 파는지 언급해야 하는데, 이건 사람이 타이밍을 정할 문제라 보류",
+    "[2026-08-16 06:05:03] digest 갱신: 팔로워 90 · 미답변 3건 · 큐 0개",
+    "[2026-08-16 06:05:03] agent: 자동 답글 0건 · 보류 3건"
   ]
 }
