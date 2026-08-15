@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T03:01:49",
+  "generated_at": "2026-08-16T03:03:10",
   "username": "studiohaetae",
   "followers": 90,
   "followers_history": [
@@ -294,10 +294,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 508, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-15 20:59:37] agent: 보류 @safarisshow — 제품 링크를 달라는 제안으로, 수익화·제품 노출 타이밍은 사람이 판단해야 하는 영역",
-    "[2026-08-15 21:00:03] digest 갱신: 팔로워 90 · 미답변 3건 · 큐 0개",
-    "[2026-08-15 21:00:03] agent: 자동 답글 0건 · 보류 3건",
-    "[2026-08-15 22:33:54] digest 갱신: 팔로워 90 · 미답변 3건 · 큐 0개",
     "[2026-08-15 23:40:04] 스냅샷: {\"date\": \"2026-08-15\", \"at\": \"2026-08-15T23:40:03\", \"followers\": 90, \"views\": 104, \"likes\": 0, \"replies\": 0, \"reposts\": 0, \"quotes\": 0, \"clicks\": null}",
     "[2026-08-15 23:40:28] 답글 27건 수집 -> replies-2026-08-15.json",
     "[2026-08-15 23:40:56] digest 갱신: 팔로워 90 · 미답변 3건 · 큐 0개",
@@ -308,6 +304,10 @@
     "[2026-08-16 00:01:48] digest 갱신: 팔로워 90 · 미답변 3건 · 큐 0개",
     "[2026-08-16 00:01:49] agent: 자동 답글 0건 · 보류 3건",
     "[2026-08-16 00:34:23] digest 갱신: 팔로워 90 · 미답변 3건 · 큐 0개",
-    "[2026-08-16 02:34:48] digest 갱신: 팔로워 90 · 미답변 3건 · 큐 0개"
+    "[2026-08-16 02:34:48] digest 갱신: 팔로워 90 · 미답변 3건 · 큐 0개",
+    "[2026-08-16 03:02:14] digest 갱신: 팔로워 90 · 미답변 3건 · 큐 0개",
+    "[2026-08-16 03:02:34] agent: 보류 @habitus_lens — 본인 크롬 확장 제품(아비투스 렌즈) 출시 홍보 및 무료 크레딧 안내 게시물로, 협업·광고 제안에 해당하며 우리 숫자로 답할 수 있는 데이터 훅이 없음",
+    "[2026-08-16 03:02:53] agent: 보류 @digi2shop.kr — 답글이 '맞아요..' 한 마디뿐이라 무엇에 동의하는지 원글/맥락을 알 수 없음. 어떤 주장에 대한 동의인지 확인 없이는 숫자로 성실하게 답할 수 없어 보류.",
+    "[2026-08-16 03:03:09] agent: 보류 @safarisshow — 판매/제품 언급을 유도하는 제안 — ViralQuest 언급 타이밍은 사람이 정해야 해서 보류"
   ]
 }
