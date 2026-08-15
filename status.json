@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T10:30:50",
+  "generated_at": "2026-08-15T11:53:47",
   "username": "studiohaetae",
   "followers": 90,
   "followers_history": [
@@ -251,7 +251,7 @@
       "is_reply": true,
       "permalink": "https://www.threads.com/@studiohaetae/post/DcBPBj2mCz2",
       "text": "수익정지가 아니라 저작권 스트라이크로 채널 자체가 정지됐습니다.\n\n유지냐 환승이냐를 고를 계제도 아니었어요, 이미 막혀서 접근 자체가 안 됩니다.\n\n나머지 5개 채널은 그대로 자동 운영 중입니다.",
-      "views": 8,
+      "views": 9,
       "likes": 0,
       "replies": 0
     },
@@ -294,7 +294,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 508, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-15 02:49:34] agent: 자동 답글 1건 · 보류 2건",
     "[2026-08-15 04:30:03] digest 갱신: 팔로워 90 · 미답변 2건 · 큐 0개",
     "[2026-08-15 05:50:29] digest 갱신: 팔로워 90 · 미답변 2건 · 큐 0개",
     "[2026-08-15 05:50:53] agent: 보류 @habitus_lens — 자사 크롬 확장(아비투스 렌즈) 홍보 및 무료 크레딧 이벤트 안내 글로, 협업·광고성 콘텐츠에 해당해 사람 판단이 필요함",
@@ -308,6 +307,7 @@
     "[2026-08-15 08:53:01] agent: 보류 @digi2shop.kr — 단순 동의 표현('맞아요..')이며 질문이나 상대방 숫자가 없어 실측 데이터로 답할 내용이 없음",
     "[2026-08-15 08:53:23] agent: 보류 @safarisshow — 판매 링크를 걸어보라는 제안은 제품/수익화 방향에 대한 판단이라 사람이 결정해야 함",
     "[2026-08-15 08:53:44] digest 갱신: 팔로워 90 · 미답변 3건 · 큐 0개",
-    "[2026-08-15 08:53:44] agent: 자동 답글 0건 · 보류 3건"
+    "[2026-08-15 08:53:44] agent: 자동 답글 0건 · 보류 3건",
+    "[2026-08-15 10:31:18] digest 갱신: 팔로워 90 · 미답변 3건 · 큐 0개"
   ]
 }
