@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T14:36:41",
+  "generated_at": "2026-08-16T15:07:50",
   "username": "studiohaetae",
   "followers": 90,
   "followers_history": [
@@ -294,7 +294,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 508, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-16 08:35:49] digest 갱신: 팔로워 90 · 미답변 3건 · 큐 0개",
     "[2026-08-16 09:05:24] digest 갱신: 팔로워 90 · 미답변 3건 · 큐 0개",
     "[2026-08-16 09:05:43] agent: 보류 @habitus_lens — 타사 제품(크롬 확장 '아비투스 렌즈') 홍보 댓글로, 협업·광고 제안에 해당함. 실측 숫자로 답할 질문이 없고 우리 계정에 자사 제품 광고를 붙여줄 이유도 없어 hold.",
     "[2026-08-16 09:05:57] agent: 보류 @digi2shop.kr — '맞아요..'라는 단순 동의 표현뿐이라 무엇에 동의하는지 맥락이 없음. 숫자로 답할 성실한 답변이 불가능해 보류.",
@@ -308,6 +307,7 @@
     "[2026-08-16 12:07:29] agent: 보류 @safarisshow — 판매 링크를 달라는 제안은 제품/판매 언급을 요구하는 내용이라 정책상 직접 답할 수 없음. 사람 판단 필요",
     "[2026-08-16 12:07:49] digest 갱신: 팔로워 90 · 미답변 3건 · 큐 0개",
     "[2026-08-16 12:07:49] agent: 자동 답글 0건 · 보류 3건",
-    "[2026-08-16 12:36:41] digest 갱신: 팔로워 90 · 미답변 3건 · 큐 0개"
+    "[2026-08-16 12:36:41] digest 갱신: 팔로워 90 · 미답변 3건 · 큐 0개",
+    "[2026-08-16 14:37:02] digest 갱신: 팔로워 90 · 미답변 3건 · 큐 0개"
   ]
 }
