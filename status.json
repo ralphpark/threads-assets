@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T18:09:13",
+  "generated_at": "2026-08-16T18:10:18",
   "username": "studiohaetae",
   "followers": 90,
   "followers_history": [
@@ -294,10 +294,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 508, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-16 12:06:56] digest 갱신: 팔로워 90 · 미답변 3건 · 큐 0개",
-    "[2026-08-16 12:07:05] agent: 보류 @habitus_lens — 본인 제품(크롬 확장 아비투스 렌즈) 홍보 및 사용 유도 게시물 — 협업·광고 제안에 해당",
-    "[2026-08-16 12:07:15] agent: 보류 @digi2shop.kr — \"맞아요..\" 한 줄뿐이라 무엇에 동의하는지 맥락이 없음. 원 게시물/스레드 내용을 모르면 숫자로 답할 근거가 없어 애매한 경우로 보류.",
-    "[2026-08-16 12:07:29] agent: 보류 @safarisshow — 판매 링크를 달라는 제안은 제품/판매 언급을 요구하는 내용이라 정책상 직접 답할 수 없음. 사람 판단 필요",
     "[2026-08-16 12:07:49] digest 갱신: 팔로워 90 · 미답변 3건 · 큐 0개",
     "[2026-08-16 12:07:49] agent: 자동 답글 0건 · 보류 3건",
     "[2026-08-16 12:36:41] digest 갱신: 팔로워 90 · 미답변 3건 · 큐 0개",
@@ -308,6 +304,10 @@
     "[2026-08-16 15:08:51] agent: 보류 @safarisshow — 판매 링크를 달라는 제안은 제품·수익화 전략과 직결되는 내용이라 사람 판단이 필요함. 절대 규칙 2, 4와 겹치는 영역(수익 얘기, 판매 유도)이라 게이트 기준상 hold.",
     "[2026-08-16 15:09:12] digest 갱신: 팔로워 90 · 미답변 3건 · 큐 0개",
     "[2026-08-16 15:09:12] agent: 자동 답글 0건 · 보류 3건",
-    "[2026-08-16 16:37:27] digest 갱신: 팔로워 90 · 미답변 3건 · 큐 0개"
+    "[2026-08-16 16:37:27] digest 갱신: 팔로워 90 · 미답변 3건 · 큐 0개",
+    "[2026-08-16 18:09:42] digest 갱신: 팔로워 90 · 미답변 3건 · 큐 0개",
+    "[2026-08-16 18:09:52] agent: 보류 @habitus_lens — 협업·광고성 홍보 글 (자기 크롬 확장 제품 출시 홍보 및 사용 요청) — 제품 언급 답글은 사람이 판단해야 함",
+    "[2026-08-16 18:10:02] agent: 보류 @digi2shop.kr — 내용이 '맞아요..' 뿐이라 원 게시물 맥락 없이는 무엇에 동의하는지 알 수 없음. 실측 숫자로 답할 대상이 없고 애매한 경우이므로 보류.",
+    "[2026-08-16 18:10:18] agent: 보류 @safarisshow — 판매/링크 관련 제안이라 제품 언급 리스크 있음 — 사람 판단 필요"
   ]
 }
