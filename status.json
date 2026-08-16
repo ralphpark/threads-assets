@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T12:36:19",
+  "generated_at": "2026-08-16T14:36:41",
   "username": "studiohaetae",
   "followers": 90,
   "followers_history": [
@@ -70,7 +70,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DbchdDnGFso",
       "text": "AI로 유튜브 채널 6개를 자동으로 돌리고 있습니다.\n\n지난달 조회수 19만 6천.\n수익 0원.\n\n왜 0원인지 앞으로 여기에 숫자로만 적겠습니다.",
-      "views": 2194,
+      "views": 2195,
       "likes": 11,
       "replies": 23
     },
@@ -191,7 +191,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Db5fBIImMkv",
       "text": "제 유튜브 채널은 쇼츠 트래픽이 대부분입니다.\n\n어떤 분이 알려줬습니다. Shorts에서는 설명란 링크가 아예 표시되지 않는다고.\n\n확인해봤더니 저는 더 나빴습니다.\n채널 4개 40편에 링크가 애초에 0개였습니다.\n",
-      "views": 333,
+      "views": 334,
       "likes": 1,
       "replies": 0
     },
@@ -294,7 +294,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 508, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-16 06:35:31] digest 갱신: 팔로워 90 · 미답변 3건 · 큐 0개",
     "[2026-08-16 08:35:49] digest 갱신: 팔로워 90 · 미답변 3건 · 큐 0개",
     "[2026-08-16 09:05:24] digest 갱신: 팔로워 90 · 미답변 3건 · 큐 0개",
     "[2026-08-16 09:05:43] agent: 보류 @habitus_lens — 타사 제품(크롬 확장 '아비투스 렌즈') 홍보 댓글로, 협업·광고 제안에 해당함. 실측 숫자로 답할 질문이 없고 우리 계정에 자사 제품 광고를 붙여줄 이유도 없어 hold.",
@@ -308,6 +307,7 @@
     "[2026-08-16 12:07:15] agent: 보류 @digi2shop.kr — \"맞아요..\" 한 줄뿐이라 무엇에 동의하는지 맥락이 없음. 원 게시물/스레드 내용을 모르면 숫자로 답할 근거가 없어 애매한 경우로 보류.",
     "[2026-08-16 12:07:29] agent: 보류 @safarisshow — 판매 링크를 달라는 제안은 제품/판매 언급을 요구하는 내용이라 정책상 직접 답할 수 없음. 사람 판단 필요",
     "[2026-08-16 12:07:49] digest 갱신: 팔로워 90 · 미답변 3건 · 큐 0개",
-    "[2026-08-16 12:07:49] agent: 자동 답글 0건 · 보류 3건"
+    "[2026-08-16 12:07:49] agent: 자동 답글 0건 · 보류 3건",
+    "[2026-08-16 12:36:41] digest 갱신: 팔로워 90 · 미답변 3건 · 큐 0개"
   ]
 }
