@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T20:42:58",
+  "generated_at": "2026-08-17T21:22:12",
   "username": "studiohaetae",
   "followers": 89,
   "followers_history": [
@@ -294,7 +294,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 508, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-17 15:19:35] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개",
     "[2026-08-17 15:19:47] agent: 보류 @habitus_lens — 본인 제품(크롬 확장) 홍보 게시물. 협업/광고성 콘텐츠라 대응 대상이 아니고, 답할 만한 실측 비교 지점도 없음",
     "[2026-08-17 15:20:11] agent: 보류 @digi2shop.kr — 단순 동의 표현('맞아요..')으로 질문이나 상대방 숫자가 없어 답할 실질적 내용이 없음. 답글 라운드 규칙상 단순 인사·동의는 건너뛰는 대상.",
     "[2026-08-17 15:20:21] agent: 보류 @safarisshow — 제품 판매·링크 관련 제안으로, 무엇을 어떻게 팔지 언급하려면 제품/수익 노출 타이밍을 건드리게 됨 — 사람 판단 필요",
@@ -308,6 +307,7 @@
     "[2026-08-17 18:22:12] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개",
     "[2026-08-17 18:22:12] agent: 자동 답글 0건 · 보류 3건",
     "[2026-08-17 18:42:58] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개",
-    "[2026-08-17 20:30:01] 큐가 비었다. 게시하지 않음."
+    "[2026-08-17 20:30:01] 큐가 비었다. 게시하지 않음.",
+    "[2026-08-17 20:43:19] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개"
   ]
 }
