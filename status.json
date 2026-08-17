@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T04:44:37",
+  "generated_at": "2026-08-18T06:26:31",
   "username": "studiohaetae",
   "followers": 89,
   "followers_history": [
@@ -294,7 +294,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 508, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-17 23:40:46] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개",
     "[2026-08-18 00:23:53] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개",
     "[2026-08-18 00:24:06] agent: 보류 @habitus_lens — 상대가 자신의 크롬 확장 제품(아비투스 렌즈)을 홍보하며 무료 크레딧 사용을 권유하는 광고성 댓글. 협업/광고 제안에 해당해 사람 판단이 필요함.",
     "[2026-08-18 00:24:18] agent: 보류 @digi2shop.kr — 답글 내용이 '맞아요..' 뿐이라 무엇에 동의하는지 맥락이 없다. 실측 숫자로 응답할 지점이 없고, 의미 있는 답을 만들 수 없어 보류.",
@@ -308,6 +307,7 @@
     "[2026-08-18 03:25:58] agent: 보류 @digi2shop.kr — 답글 내용이 \"맞아요..\" 뿐이라 무엇에 동의하는지 맥락이 없음. 실측 숫자로 이어갈 구체적 소재가 없어 애매함",
     "[2026-08-18 03:26:11] agent: 보류 @safarisshow — 판매 링크를 달라는 제안에 답하려면 제품/판매 계획을 언급해야 하는데, 이는 수익·제품 관련 판단이라 사람이 결정해야 함",
     "[2026-08-18 03:26:31] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개",
-    "[2026-08-18 03:26:31] agent: 자동 답글 0건 · 보류 3건"
+    "[2026-08-18 03:26:31] agent: 자동 답글 0건 · 보류 3건",
+    "[2026-08-18 04:45:02] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개"
   ]
 }
