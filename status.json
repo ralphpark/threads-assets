@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T06:45:03",
+  "generated_at": "2026-08-18T08:45:38",
   "username": "studiohaetae",
   "followers": 89,
   "followers_history": [
@@ -294,7 +294,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 508, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-18 00:44:11] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개",
     "[2026-08-18 02:44:37] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개",
     "[2026-08-18 03:25:17] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개",
     "[2026-08-18 03:25:45] agent: 보류 @habitus_lens — 본인 제품(크롬 확장 아비투스 렌즈) 홍보/광고 댓글. 협업·광고 제안에 해당해 사람 판단 필요.",
@@ -308,6 +307,7 @@
     "[2026-08-18 06:27:48] agent: 보류 @digi2shop.kr — 원댓글이 '맞아요..' 로 짧고 맥락이 없어 어떤 주장에 동의하는지 알 수 없음. 실측 숫자로 이어붙일 구체적 내용이 없어 억지로 답하면 뜬금없는 반응이 됨",
     "[2026-08-18 06:28:02] agent: 보류 @safarisshow — 판매 링크를 달라는 제안 — 제품 언급/링크 타이밍은 사람이 판단해야 하는 영역이라 보류",
     "[2026-08-18 06:29:02] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개",
-    "[2026-08-18 06:29:02] agent: 자동 답글 0건 · 보류 3건"
+    "[2026-08-18 06:29:02] agent: 자동 답글 0건 · 보류 3건",
+    "[2026-08-18 06:45:39] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개"
   ]
 }
