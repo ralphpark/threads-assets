@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T16:42:12",
+  "generated_at": "2026-08-17T18:20:46",
   "username": "studiohaetae",
   "followers": 89,
   "followers_history": [
@@ -294,7 +294,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 508, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-17 10:41:11] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개",
     "[2026-08-17 12:18:08] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개",
     "[2026-08-17 12:18:21] agent: 보류 @habitus_lens — 협업·광고 제안 — 상대가 자기 크롬 확장 제품(아비투스 렌즈) 출시를 홍보하며 무료 크레딧 체험을 권유하는 글. 실측 숫자로 답할 질문이 아니고 광고성 제안이라 사람 판단 필요.",
     "[2026-08-17 12:18:31] agent: 보류 @digi2shop.kr — 내용이 '맞아요..'뿐이라 무엇에 대한 동의인지 맥락이 없음. 어떤 주장이나 숫자에 대한 반응인지 알 수 없어 실측 데이터로 답할 거리가 없음",
@@ -308,6 +307,7 @@
     "[2026-08-17 15:20:11] agent: 보류 @digi2shop.kr — 단순 동의 표현('맞아요..')으로 질문이나 상대방 숫자가 없어 답할 실질적 내용이 없음. 답글 라운드 규칙상 단순 인사·동의는 건너뛰는 대상.",
     "[2026-08-17 15:20:21] agent: 보류 @safarisshow — 제품 판매·링크 관련 제안으로, 무엇을 어떻게 팔지 언급하려면 제품/수익 노출 타이밍을 건드리게 됨 — 사람 판단 필요",
     "[2026-08-17 15:20:46] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개",
-    "[2026-08-17 15:20:46] agent: 자동 답글 0건 · 보류 3건"
+    "[2026-08-17 15:20:46] agent: 자동 답글 0건 · 보류 3건",
+    "[2026-08-17 16:42:36] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개"
   ]
 }
