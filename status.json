@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T02:44:12",
+  "generated_at": "2026-08-18T03:24:56",
   "username": "studiohaetae",
   "followers": 89,
   "followers_history": [
@@ -294,7 +294,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 508, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-17 21:22:55] agent: 보류 @digi2shop.kr — 댓글이 \"맞아요..\" 한 마디뿐이라 원 게시물/대화 맥락 없이는 무엇에 동의하는지 알 수 없음. 숫자로 답할 소재가 없고 성실한 답변이 불가능해 보류.",
     "[2026-08-17 21:23:08] agent: 보류 @safarisshow — 판매/제품 링크 전략을 제안받음 — 수익화 방향 관련 질문이라 사람이 판단해야 함",
     "[2026-08-17 21:23:29] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개",
     "[2026-08-17 21:23:29] agent: 자동 답글 0건 · 보류 3건",
@@ -308,6 +307,7 @@
     "[2026-08-18 00:24:31] agent: 보류 @safarisshow — 판매 링크를 달라는 제안은 제품(ViralQuest) 언급 여부와 직결되는데, 그 타이밍은 사람이 정해야 함",
     "[2026-08-18 00:24:55] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개",
     "[2026-08-18 00:24:55] agent: 자동 답글 0건 · 보류 3건",
-    "[2026-08-18 00:44:11] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개"
+    "[2026-08-18 00:44:11] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개",
+    "[2026-08-18 02:44:37] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개"
   ]
 }
