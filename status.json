@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T21:23:08",
+  "generated_at": "2026-08-17T22:43:19",
   "username": "studiohaetae",
   "followers": 89,
   "followers_history": [
@@ -180,7 +180,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Db26OQwGCbi",
       "text": "AI로 만든 노래를 팔 수 있는지 찾아봤습니다.\n\n한국에서 AI가 만든 곡은 저작권이 인정되지 않습니다. 가사만 사람이 썼다면 가사 부분만 등록됩니다.\n\n그리고 음저협은 2025년 9월부터 AI를 활용하지 않았음을 ",
-      "views": 527,
+      "views": 529,
       "likes": 2,
       "replies": 0
     },
@@ -294,8 +294,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 508, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-17 15:20:46] agent: 자동 답글 0건 · 보류 3건",
-    "[2026-08-17 16:42:36] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개",
     "[2026-08-17 18:21:07] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개",
     "[2026-08-17 18:21:22] agent: 보류 @habitus_lens — 자기 제품(크롬 확장) 홍보 글로, 협업/광고성 제안에 해당하며 우리 실측 숫자로 답할 질문이 없음",
     "[2026-08-17 18:21:35] agent: 보류 @digi2shop.kr — 원문 맥락이 없어 상대가 정확히 무엇에 동의하는지 알 수 없음. \"맞아요..\" 만으로는 실측 숫자를 엮어 성실하게 답할 근거가 없어 애매한 경우로 hold.",
@@ -308,6 +306,8 @@
     "[2026-08-17 21:22:33] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개",
     "[2026-08-17 21:22:42] agent: 보류 @habitus_lens — 본인 제품(크롬 확장 프로그램) 홍보 및 무료 크레딧 체험 유도 댓글로, 협업·광고 제안에 해당한다",
     "[2026-08-17 21:22:55] agent: 보류 @digi2shop.kr — 댓글이 \"맞아요..\" 한 마디뿐이라 원 게시물/대화 맥락 없이는 무엇에 동의하는지 알 수 없음. 숫자로 답할 소재가 없고 성실한 답변이 불가능해 보류.",
-    "[2026-08-17 21:23:08] agent: 보류 @safarisshow — 판매/제품 링크 전략을 제안받음 — 수익화 방향 관련 질문이라 사람이 판단해야 함"
+    "[2026-08-17 21:23:08] agent: 보류 @safarisshow — 판매/제품 링크 전략을 제안받음 — 수익화 방향 관련 질문이라 사람이 판단해야 함",
+    "[2026-08-17 21:23:29] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개",
+    "[2026-08-17 21:23:29] agent: 자동 답글 0건 · 보류 3건"
   ]
 }
