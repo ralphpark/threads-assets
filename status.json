@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T00:43:45",
+  "generated_at": "2026-08-18T02:44:12",
   "username": "studiohaetae",
   "followers": 89,
   "followers_history": [
@@ -294,7 +294,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 508, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-17 21:22:42] agent: 보류 @habitus_lens — 본인 제품(크롬 확장 프로그램) 홍보 및 무료 크레딧 체험 유도 댓글로, 협업·광고 제안에 해당한다",
     "[2026-08-17 21:22:55] agent: 보류 @digi2shop.kr — 댓글이 \"맞아요..\" 한 마디뿐이라 원 게시물/대화 맥락 없이는 무엇에 동의하는지 알 수 없음. 숫자로 답할 소재가 없고 성실한 답변이 불가능해 보류.",
     "[2026-08-17 21:23:08] agent: 보류 @safarisshow — 판매/제품 링크 전략을 제안받음 — 수익화 방향 관련 질문이라 사람이 판단해야 함",
     "[2026-08-17 21:23:29] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개",
@@ -308,6 +307,7 @@
     "[2026-08-18 00:24:18] agent: 보류 @digi2shop.kr — 답글 내용이 '맞아요..' 뿐이라 무엇에 동의하는지 맥락이 없다. 실측 숫자로 응답할 지점이 없고, 의미 있는 답을 만들 수 없어 보류.",
     "[2026-08-18 00:24:31] agent: 보류 @safarisshow — 판매 링크를 달라는 제안은 제품(ViralQuest) 언급 여부와 직결되는데, 그 타이밍은 사람이 정해야 함",
     "[2026-08-18 00:24:55] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개",
-    "[2026-08-18 00:24:55] agent: 자동 답글 0건 · 보류 3건"
+    "[2026-08-18 00:24:55] agent: 자동 답글 0건 · 보류 3건",
+    "[2026-08-18 00:44:11] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개"
   ]
 }
