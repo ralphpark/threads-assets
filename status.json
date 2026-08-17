@@ -1,12 +1,8 @@
 {
-  "generated_at": "2026-08-17T22:43:19",
+  "generated_at": "2026-08-17T23:40:23",
   "username": "studiohaetae",
   "followers": 89,
   "followers_history": [
-    {
-      "date": "2026-08-04",
-      "followers": 76
-    },
     {
       "date": "2026-08-04",
       "followers": 80
@@ -57,6 +53,10 @@
     },
     {
       "date": "2026-08-16",
+      "followers": 89
+    },
+    {
+      "date": "2026-08-17",
       "followers": 89
     }
   ],
@@ -294,9 +294,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 508, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-17 18:21:07] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개",
-    "[2026-08-17 18:21:22] agent: 보류 @habitus_lens — 자기 제품(크롬 확장) 홍보 글로, 협업/광고성 제안에 해당하며 우리 실측 숫자로 답할 질문이 없음",
-    "[2026-08-17 18:21:35] agent: 보류 @digi2shop.kr — 원문 맥락이 없어 상대가 정확히 무엇에 동의하는지 알 수 없음. \"맞아요..\" 만으로는 실측 숫자를 엮어 성실하게 답할 근거가 없어 애매한 경우로 hold.",
     "[2026-08-17 18:21:51] agent: 보류 @safarisshow — 제품/판매 링크 게재 여부는 수익화 타이밍을 사람이 정해야 하는 사안이라 자동 답글 대상이 아님",
     "[2026-08-17 18:22:12] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개",
     "[2026-08-17 18:22:12] agent: 자동 답글 0건 · 보류 3건",
@@ -308,6 +305,9 @@
     "[2026-08-17 21:22:55] agent: 보류 @digi2shop.kr — 댓글이 \"맞아요..\" 한 마디뿐이라 원 게시물/대화 맥락 없이는 무엇에 동의하는지 알 수 없음. 숫자로 답할 소재가 없고 성실한 답변이 불가능해 보류.",
     "[2026-08-17 21:23:08] agent: 보류 @safarisshow — 판매/제품 링크 전략을 제안받음 — 수익화 방향 관련 질문이라 사람이 판단해야 함",
     "[2026-08-17 21:23:29] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개",
-    "[2026-08-17 21:23:29] agent: 자동 답글 0건 · 보류 3건"
+    "[2026-08-17 21:23:29] agent: 자동 답글 0건 · 보류 3건",
+    "[2026-08-17 22:43:45] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개",
+    "[2026-08-17 23:40:03] 스냅샷: {\"date\": \"2026-08-17\", \"at\": \"2026-08-17T23:40:02\", \"followers\": 89, \"views\": 49, \"likes\": 0, \"replies\": 0, \"reposts\": 0, \"quotes\": 0, \"clicks\": null}",
+    "[2026-08-17 23:40:23] 답글 25건 수집 -> replies-2026-08-17.json"
   ]
 }
