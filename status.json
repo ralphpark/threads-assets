@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T14:47:32",
+  "generated_at": "2026-08-18T15:31:57",
   "username": "studiohaetae",
   "followers": 89,
   "followers_history": [
@@ -169,7 +169,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Db0VbbZGLM6",
       "text": "Shorts 설명란에 링크를 넣어봤습니다.\n\n같은 줄의 해시태그는 파란 링크가 되는데 URL은 흰 일반 텍스트로 나옵니다. 접근성 트리에서도 link가 아니라 generic으로 잡힙니다.\n\n서식 문제가 아니라 유튜브",
-      "views": 125,
+      "views": 126,
       "likes": 1,
       "replies": 0
     },
@@ -294,7 +294,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 508, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-18 08:46:46] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개",
     "[2026-08-18 09:29:25] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개",
     "[2026-08-18 09:29:39] agent: 보류 @habitus_lens — 협업·광고 제안 — 상대가 자신의 크롬 확장 제품(아비투스 렌즈)을 홍보하며 무료 크레딧 체험을 권유하는 내용. 우리 실측 목록으로 답할 사안이 아니라 제품 홍보에 대한 응대이므로 사람 판단 필요.",
     "[2026-08-18 09:29:51] agent: 보류 @digi2shop.kr — 답글 내용이 '맞아요..'뿐이라 원문 맥락 없이는 어떤 숫자로 응답해야 할지 판단 불가. 애매하면 보류.",
@@ -308,6 +307,7 @@
     "[2026-08-18 12:31:37] agent: 보류 @safarisshow — 수익화 전략(링크 판매)을 조언하는 내용이라 답하려면 제품·링크 언급 위험이 있음. 애매하면 보류 원칙 적용",
     "[2026-08-18 12:31:57] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개",
     "[2026-08-18 12:31:57] agent: 자동 답글 0건 · 보류 3건",
-    "[2026-08-18 12:47:31] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개"
+    "[2026-08-18 12:47:31] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개",
+    "[2026-08-18 14:48:00] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개"
   ]
 }
