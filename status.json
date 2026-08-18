@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T12:31:37",
+  "generated_at": "2026-08-18T12:47:11",
   "username": "studiohaetae",
   "followers": 89,
   "followers_history": [
@@ -136,7 +136,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DbsnCxkmFww",
       "text": "유튜브 채널을 완전 자동으로 돌려서 39편을 올렸습니다. 구독자는 0명이었습니다.\n\n이상한 건 제가 그걸 보면서도 안 멈췄다는 겁니다.\n\n한 편 더 만드는 데 드는 추가 비용이 사실상 0이었거든요. 버튼을 누르면 나",
-      "views": 98,
+      "views": 99,
       "likes": 1,
       "replies": 0
     },
@@ -147,7 +147,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DbvL1wlmJFC",
       "text": "제 쇼츠 채널 4개, 최근 40편을 API로 전수 확인했습니다.\n설명란에 링크가 있는 영상 0편이었습니다.\n\n남들은 어떤가도 세어봤습니다.\n같은 판의 영어권 쇼츠 50편 중 링크를 건 건 4편.\n그 4편은 전부 자사",
-      "views": 100,
+      "views": 101,
       "likes": 1,
       "replies": 0
     },
@@ -158,7 +158,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Dbxwoh5GLq0",
       "text": "채널 하나가 지금 멈춰 있습니다. 저작권 스트라이크입니다.\n\n남의 영상을 편집해서 올리던 채널입니다.\n\nContent ID는 법을 따지지 않습니다. 자동으로 걸고, 걸리면 수익은 원저작자에게 갑니다. 경고 세 번이면",
-      "views": 343,
+      "views": 344,
       "likes": 2,
       "replies": 3
     },
@@ -169,7 +169,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Db0VbbZGLM6",
       "text": "Shorts 설명란에 링크를 넣어봤습니다.\n\n같은 줄의 해시태그는 파란 링크가 되는데 URL은 흰 일반 텍스트로 나옵니다. 접근성 트리에서도 link가 아니라 generic으로 잡힙니다.\n\n서식 문제가 아니라 유튜브",
-      "views": 124,
+      "views": 125,
       "likes": 1,
       "replies": 0
     },
@@ -180,7 +180,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Db26OQwGCbi",
       "text": "AI로 만든 노래를 팔 수 있는지 찾아봤습니다.\n\n한국에서 AI가 만든 곡은 저작권이 인정되지 않습니다. 가사만 사람이 썼다면 가사 부분만 등록됩니다.\n\n그리고 음저협은 2025년 9월부터 AI를 활용하지 않았음을 ",
-      "views": 529,
+      "views": 530,
       "likes": 2,
       "replies": 0
     },
@@ -191,7 +191,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Db5fBIImMkv",
       "text": "제 유튜브 채널은 쇼츠 트래픽이 대부분입니다.\n\n어떤 분이 알려줬습니다. Shorts에서는 설명란 링크가 아예 표시되지 않는다고.\n\n확인해봤더니 저는 더 나빴습니다.\n채널 4개 40편에 링크가 애초에 0개였습니다.\n",
-      "views": 335,
+      "views": 336,
       "likes": 1,
       "replies": 0
     },
@@ -202,7 +202,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Db8D0DMmAWY",
       "text": "AI로 유튜브 채널 6개를 돌리는데 지난달 수익이 0원입니다.\n\n그래서 궁금한 게 있습니다.\n\n지금까지 AI로 만든 것 중에 제일 잘 만들었는데 제일 안 된 게 뭔가요.\n\n저는 39편짜리 재즈 채널입니다. 구독자 0",
-      "views": 535,
+      "views": 536,
       "likes": 4,
       "replies": 7
     },
@@ -294,8 +294,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 508, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-18 06:29:02] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개",
-    "[2026-08-18 06:29:02] agent: 자동 답글 0건 · 보류 3건",
     "[2026-08-18 06:45:39] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개",
     "[2026-08-18 08:46:46] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개",
     "[2026-08-18 09:29:25] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개",
@@ -308,6 +306,8 @@
     "[2026-08-18 12:30:59] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개",
     "[2026-08-18 12:31:14] agent: 보류 @habitus_lens — 자기 제품(크롬 확장 '아비투스 렌즈') 홍보 목적의 댓글. 협업/광고성 제안에 해당하며 우리가 답할 실측 질문이나 상대 숫자도 없음",
     "[2026-08-18 12:31:23] agent: 보류 @digi2shop.kr — 답글 내용이 '맞아요..' 하나뿐이라 무엇에 동의하는지 원문 맥락 없이는 알 수 없음. 대댓글 쓰려면 상위 게시물/스레드 맥락이 필요한데 주어지지 않음.",
-    "[2026-08-18 12:31:37] agent: 보류 @safarisshow — 수익화 전략(링크 판매)을 조언하는 내용이라 답하려면 제품·링크 언급 위험이 있음. 애매하면 보류 원칙 적용"
+    "[2026-08-18 12:31:37] agent: 보류 @safarisshow — 수익화 전략(링크 판매)을 조언하는 내용이라 답하려면 제품·링크 언급 위험이 있음. 애매하면 보류 원칙 적용",
+    "[2026-08-18 12:31:57] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개",
+    "[2026-08-18 12:31:57] agent: 자동 답글 0건 · 보류 3건"
   ]
 }
