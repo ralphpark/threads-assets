@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T06:51:00",
+  "generated_at": "2026-08-19T08:51:35",
   "username": "studiohaetae",
   "followers": 89,
   "followers_history": [
@@ -92,7 +92,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DbiT2rYGMI-",
       "text": "영상 39편, 28일간 노출수 48회.\n편당 한 달에 1.2번 보여졌습니다.\n\n노출 클릭률은 6.3%로 정상 범위였습니다.\n\n썸네일이 나빴던 게 아니라\n유튜브가 아예 안 보여주고 있었던 겁니다.\n\n깔때기는 맨 위에서",
-      "views": 121,
+      "views": 122,
       "likes": 0,
       "replies": 0
     },
@@ -158,7 +158,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Dbxwoh5GLq0",
       "text": "채널 하나가 지금 멈춰 있습니다. 저작권 스트라이크입니다.\n\n남의 영상을 편집해서 올리던 채널입니다.\n\nContent ID는 법을 따지지 않습니다. 자동으로 걸고, 걸리면 수익은 원저작자에게 갑니다. 경고 세 번이면",
-      "views": 346,
+      "views": 347,
       "likes": 2,
       "replies": 3
     },
@@ -169,7 +169,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Db0VbbZGLM6",
       "text": "Shorts 설명란에 링크를 넣어봤습니다.\n\n같은 줄의 해시태그는 파란 링크가 되는데 URL은 흰 일반 텍스트로 나옵니다. 접근성 트리에서도 link가 아니라 generic으로 잡힙니다.\n\n서식 문제가 아니라 유튜브",
-      "views": 128,
+      "views": 129,
       "likes": 1,
       "replies": 0
     },
@@ -180,7 +180,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Db26OQwGCbi",
       "text": "AI로 만든 노래를 팔 수 있는지 찾아봤습니다.\n\n한국에서 AI가 만든 곡은 저작권이 인정되지 않습니다. 가사만 사람이 썼다면 가사 부분만 등록됩니다.\n\n그리고 음저협은 2025년 9월부터 AI를 활용하지 않았음을 ",
-      "views": 532,
+      "views": 533,
       "likes": 2,
       "replies": 0
     },
@@ -191,7 +191,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Db5fBIImMkv",
       "text": "제 유튜브 채널은 쇼츠 트래픽이 대부분입니다.\n\n어떤 분이 알려줬습니다. Shorts에서는 설명란 링크가 아예 표시되지 않는다고.\n\n확인해봤더니 저는 더 나빴습니다.\n채널 4개 40편에 링크가 애초에 0개였습니다.\n",
-      "views": 338,
+      "views": 339,
       "likes": 1,
       "replies": 0
     },
@@ -202,7 +202,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Db8D0DMmAWY",
       "text": "AI로 유튜브 채널 6개를 돌리는데 지난달 수익이 0원입니다.\n\n그래서 궁금한 게 있습니다.\n\n지금까지 AI로 만든 것 중에 제일 잘 만들었는데 제일 안 된 게 뭔가요.\n\n저는 39편짜리 재즈 채널입니다. 구독자 0",
-      "views": 538,
+      "views": 539,
       "likes": 4,
       "replies": 7
     },
@@ -240,7 +240,7 @@
       "is_reply": true,
       "permalink": "https://www.threads.com/@studiohaetae/post/DcA6N9dmH7h",
       "text": "재즈 채널 39편 만들었는데 구독자 0명입니다.\n\n2시간 10분짜리 영상 평균 시청 지속시간은 1분 2초, 0.2%였습니다.\n\n뭘 해도 안 되는 감각, 숫자로 보면 이 정도입니다.",
-      "views": 10,
+      "views": 11,
       "likes": 1,
       "replies": 0
     },
@@ -262,7 +262,7 @@
       "is_reply": true,
       "permalink": "https://www.threads.com/@studiohaetae/post/DcB4t5yH6W-",
       "text": "광고수익 조건 그대로 못 채운 상태입니다.\n\n랭킹 채널 기준 구독자 23/500, 유효 시청시간 0시간/3,000시간.\n둘 다 미달이라 애초에 광고가 붙을 수 없습니다.\n\n그래서 6채널 지난달 조회수 19만 6천에 ",
-      "views": 2,
+      "views": 3,
       "likes": 0,
       "replies": 0
     }
@@ -294,7 +294,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 508, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-19 00:49:57] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개",
     "[2026-08-19 02:50:20] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개",
     "[2026-08-19 03:37:47] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개",
     "[2026-08-19 03:38:01] agent: 보류 @habitus_lens — 본인 제품(크롬 확장 '아비투스 렌즈') 홍보 및 무료 크레딧 제안 — 협업/광고성 콘텐츠라 사람 판단 필요",
@@ -308,6 +307,7 @@
     "[2026-08-19 06:40:14] agent: 보류 @digi2shop.kr — 답글 내용이 '맞아요..' 뿐이라 상대가 무엇에 동의하는지 원문 맥락 없이는 알 수 없음. 실측 숫자로 성실하게 답할 근거가 없어 애매함",
     "[2026-08-19 06:40:40] agent: 보류 @safarisshow — 판매 링크를 걸라는 제안이라 답하려면 제품/판매 전략을 언급해야 함. ViralQuest 등 제품 노출 타이밍은 사람이 정해야 하는 사안이라 보류.",
     "[2026-08-19 06:41:24] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개",
-    "[2026-08-19 06:41:24] agent: 자동 답글 0건 · 보류 3건"
+    "[2026-08-19 06:41:24] agent: 자동 답글 0건 · 보류 3건",
+    "[2026-08-19 06:51:34] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개"
   ]
 }
