@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T23:40:25",
+  "generated_at": "2026-08-19T00:35:52",
   "username": "studiohaetae",
   "followers": 89,
   "followers_history": [
@@ -294,7 +294,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 508, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-18 18:34:12] agent: 보류 @safarisshow — 댓글 링크를 달라는 제안에 답하려면 판매 여부·제품을 언급하게 되는데, 이는 사람이 타이밍을 판단해야 하는 영역이라 보류.",
     "[2026-08-18 18:34:32] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개",
     "[2026-08-18 18:34:32] agent: 자동 답글 0건 · 보류 3건",
     "[2026-08-18 18:48:47] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개",
@@ -308,6 +307,7 @@
     "[2026-08-18 21:35:52] agent: 자동 답글 0건 · 보류 3건",
     "[2026-08-18 22:49:29] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개",
     "[2026-08-18 23:40:06] 스냅샷: {\"date\": \"2026-08-18\", \"at\": \"2026-08-18T23:40:06\", \"followers\": 89, \"views\": 89, \"likes\": 0, \"replies\": 0, \"reposts\": 0, \"quotes\": 0, \"clicks\": null}",
-    "[2026-08-18 23:40:25] 답글 25건 수집 -> replies-2026-08-18.json"
+    "[2026-08-18 23:40:25] 답글 25건 수집 -> replies-2026-08-18.json",
+    "[2026-08-18 23:40:47] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개"
   ]
 }
