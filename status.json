@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T16:53:27",
+  "generated_at": "2026-08-19T18:45:50",
   "username": "studiohaetae",
   "followers": 89,
   "followers_history": [
@@ -70,7 +70,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DbchdDnGFso",
       "text": "AI로 유튜브 채널 6개를 자동으로 돌리고 있습니다.\n\n지난달 조회수 19만 6천.\n수익 0원.\n\n왜 0원인지 앞으로 여기에 숫자로만 적겠습니다.",
-      "views": 2196,
+      "views": 2199,
       "likes": 11,
       "replies": 23
     },
@@ -202,7 +202,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Db8D0DMmAWY",
       "text": "AI로 유튜브 채널 6개를 돌리는데 지난달 수익이 0원입니다.\n\n그래서 궁금한 게 있습니다.\n\n지금까지 AI로 만든 것 중에 제일 잘 만들었는데 제일 안 된 게 뭔가요.\n\n저는 39편짜리 재즈 채널입니다. 구독자 0",
-      "views": 539,
+      "views": 540,
       "likes": 4,
       "replies": 7
     },
@@ -294,7 +294,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 508, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-19 09:42:56] agent: 자동 답글 0건 · 보류 3건",
     "[2026-08-19 10:52:37] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개",
     "[2026-08-19 12:43:21] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개",
     "[2026-08-19 12:43:38] agent: 보류 @habitus_lens — 협업·광고·홍보 제안 — 상대가 자기 크롬 확장 제품(아비투스 렌즈) 출시를 홍보하며 무료 크레딧 체험을 유도하는 내용. 우리 실측 숫자로 답할 질문이 없고, 제품 홍보에 응하는 것은 규칙상 보류 대상.",
@@ -308,6 +307,7 @@
     "[2026-08-19 15:45:16] agent: 보류 @digi2shop.kr — 내용이 '맞아요..' 뿐이라 원 게시물/맥락 없이는 무엇에 동의하는지 파악 불가. 실측 숫자로 답할 소재가 없고 애매함",
     "[2026-08-19 15:45:27] agent: 보류 @safarisshow — 판매 상품·링크 노출 관련 제안이라 ViralQuest 언급 타이밍을 사람이 판단해야 함",
     "[2026-08-19 15:45:49] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개",
-    "[2026-08-19 15:45:49] agent: 자동 답글 0건 · 보류 3건"
+    "[2026-08-19 15:45:49] agent: 자동 답글 0건 · 보류 3건",
+    "[2026-08-19 16:53:58] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개"
   ]
 }
