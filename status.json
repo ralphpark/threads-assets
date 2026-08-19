@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T14:53:02",
+  "generated_at": "2026-08-19T15:44:28",
   "username": "studiohaetae",
   "followers": 89,
   "followers_history": [
@@ -294,7 +294,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 508, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-19 06:51:34] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개",
     "[2026-08-19 08:52:12] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개",
     "[2026-08-19 09:41:53] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개",
     "[2026-08-19 09:42:10] agent: 보류 @habitus_lens — 홍보성 게시물(크롬 확장 신규 출시, 무료 크레딧 제안). 질문이나 우리 숫자로 답할 지점이 없고, 순수 광고글은 라운드 규칙상 건드리지 않는 대상.",
@@ -308,6 +307,7 @@
     "[2026-08-19 12:44:03] agent: 보류 @safarisshow — 판매 링크를 걸어보라는 제안 자체가 제품/수익화 언급과 직결됨. ViralQuest 등 제품을 꺼낼 타이밍은 사람이 판단해야 하고, 답글에 링크나 제품 언급은 절대 금지라 성실히 답하기 어려움",
     "[2026-08-19 12:44:27] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개",
     "[2026-08-19 12:44:27] agent: 자동 답글 0건 · 보류 3건",
-    "[2026-08-19 12:53:01] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개"
+    "[2026-08-19 12:53:01] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개",
+    "[2026-08-19 14:53:27] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개"
   ]
 }
