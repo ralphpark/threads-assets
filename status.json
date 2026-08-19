@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T12:52:37",
+  "generated_at": "2026-08-19T14:53:02",
   "username": "studiohaetae",
   "followers": 89,
   "followers_history": [
@@ -262,7 +262,7 @@
       "is_reply": true,
       "permalink": "https://www.threads.com/@studiohaetae/post/DcB4t5yH6W-",
       "text": "광고수익 조건 그대로 못 채운 상태입니다.\n\n랭킹 채널 기준 구독자 23/500, 유효 시청시간 0시간/3,000시간.\n둘 다 미달이라 애초에 광고가 붙을 수 없습니다.\n\n그래서 6채널 지난달 조회수 19만 6천에 ",
-      "views": 3,
+      "views": 4,
       "likes": 0,
       "replies": 0
     }
@@ -294,7 +294,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 508, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-19 06:41:24] agent: 자동 답글 0건 · 보류 3건",
     "[2026-08-19 06:51:34] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개",
     "[2026-08-19 08:52:12] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개",
     "[2026-08-19 09:41:53] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개",
@@ -308,6 +307,7 @@
     "[2026-08-19 12:43:38] agent: 보류 @habitus_lens — 협업·광고·홍보 제안 — 상대가 자기 크롬 확장 제품(아비투스 렌즈) 출시를 홍보하며 무료 크레딧 체험을 유도하는 내용. 우리 실측 숫자로 답할 질문이 없고, 제품 홍보에 응하는 것은 규칙상 보류 대상.",
     "[2026-08-19 12:44:03] agent: 보류 @safarisshow — 판매 링크를 걸어보라는 제안 자체가 제품/수익화 언급과 직결됨. ViralQuest 등 제품을 꺼낼 타이밍은 사람이 판단해야 하고, 답글에 링크나 제품 언급은 절대 금지라 성실히 답하기 어려움",
     "[2026-08-19 12:44:27] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개",
-    "[2026-08-19 12:44:27] agent: 자동 답글 0건 · 보류 3건"
+    "[2026-08-19 12:44:27] agent: 자동 답글 0건 · 보류 3건",
+    "[2026-08-19 12:53:01] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개"
   ]
 }
