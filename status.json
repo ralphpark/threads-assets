@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T03:50:46",
+  "generated_at": "2026-08-20T03:51:57",
   "username": "studiohaetae",
   "followers": 89,
   "followers_history": [
@@ -294,10 +294,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 508, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-19 21:48:37] agent: 보류 @safarisshow — 판매 링크를 달아보라는 제안 — 제품/수익화 방향을 건드리는 내용이라 사람이 판단해야 함",
-    "[2026-08-19 21:49:07] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개",
-    "[2026-08-19 21:49:07] agent: 자동 답글 0건 · 보류 3건",
-    "[2026-08-19 22:55:22] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개",
     "[2026-08-19 23:40:05] 스냅샷: {\"date\": \"2026-08-19\", \"at\": \"2026-08-19T23:40:05\", \"followers\": 89, \"views\": 113, \"likes\": 0, \"replies\": 0, \"reposts\": 0, \"quotes\": 0, \"clicks\": null}",
     "[2026-08-19 23:40:25] 답글 25건 수집 -> replies-2026-08-19.json",
     "[2026-08-19 23:40:50] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개",
@@ -308,6 +304,10 @@
     "[2026-08-20 00:50:45] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개",
     "[2026-08-20 00:50:45] agent: 자동 답글 0건 · 보류 3건",
     "[2026-08-20 00:55:50] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개",
-    "[2026-08-20 02:56:17] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개"
+    "[2026-08-20 02:56:17] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개",
+    "[2026-08-20 03:51:11] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개",
+    "[2026-08-20 03:51:27] agent: 보류 @habitus_lens — 협업·광고 제안 — 상대가 자기 크롬 확장(아비투스 렌즈) 무료 크레딧 체험을 홍보하며 참여를 유도하는 게시물로, 우리 실측 숫자로 답할 성격의 내용이 아님",
+    "[2026-08-20 03:51:37] agent: 보류 @digi2shop.kr — 내용이 '맞아요..'뿐이라 원 댓글이나 게시물 맥락 없이는 무엇에 동의하는지 알 수 없음. 실측 숫자로 답할 소재가 없고 애매한 경우이므로 보류.",
+    "[2026-08-20 03:51:56] agent: 보류 @safarisshow — 판매 링크를 달라는 제안은 제품/수익화 타이밍 판단이 필요한 사안이라 사람이 결정해야 함"
   ]
 }
