@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T18:46:54",
+  "generated_at": "2026-08-19T18:53:59",
   "username": "studiohaetae",
   "followers": 89,
   "followers_history": [
@@ -294,8 +294,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 508, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-19 12:44:27] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개",
-    "[2026-08-19 12:44:27] agent: 자동 답글 0건 · 보류 3건",
     "[2026-08-19 12:53:01] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개",
     "[2026-08-19 14:53:27] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개",
     "[2026-08-19 15:44:51] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개",
@@ -308,6 +306,8 @@
     "[2026-08-19 18:46:25] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개",
     "[2026-08-19 18:46:34] agent: 보류 @habitus_lens — 협업·광고 제안 — 크롬 확장 프로그램 홍보 및 무료 크레딧 이벤트 안내 댓글",
     "[2026-08-19 18:46:41] agent: 보류 @digi2shop.kr — 답글 내용이 '맞아요..' 뿐이라 원글 맥락 없이는 무엇에 동의하는지 알 수 없음. 애매하면 보류 원칙 적용.",
-    "[2026-08-19 18:46:54] agent: 보류 @safarisshow — 수익화·판매 링크를 권유하는 내용이라 제품 언급 여부를 사람이 판단해야 함"
+    "[2026-08-19 18:46:54] agent: 보류 @safarisshow — 수익화·판매 링크를 권유하는 내용이라 제품 언급 여부를 사람이 판단해야 함",
+    "[2026-08-19 18:47:27] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개",
+    "[2026-08-19 18:47:27] agent: 자동 답글 0건 · 보류 3건"
   ]
 }
