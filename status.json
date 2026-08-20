@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T15:57:29",
+  "generated_at": "2026-08-20T15:58:48",
   "username": "studiohaetae",
   "followers": 89,
   "followers_history": [
@@ -204,16 +204,7 @@
       "text": "AI로 유튜브 채널 6개를 돌리는데 지난달 수익이 0원입니다.\n\n그래서 궁금한 게 있습니다.\n\n지금까지 AI로 만든 것 중에 제일 잘 만들었는데 제일 안 된 게 뭔가요.\n\n저는 39편짜리 재즈 채널입니다. 구독자 0",
       "views": 541,
       "likes": 4,
-      "replies": 9
-    },
-    {
-      "at": "2026-08-11T22:56:57",
-      "n": -1,
-      "id": null,
-      "is_reply": true,
-      "via": "browser",
-      "target": "livingflow52",
-      "permalink": "https://www.threads.com/@livingflow52/post/Db5llW9E4k4"
+      "replies": 10
     },
     {
       "at": "2026-08-11T22:56:57",
@@ -267,6 +258,17 @@
       "views": 5,
       "likes": 1,
       "replies": 0
+    },
+    {
+      "at": "2026-08-20T15:58:48",
+      "n": -1,
+      "id": "17965497039168291",
+      "is_reply": true,
+      "permalink": "https://www.threads.com/@studiohaetae/post/DcQLF_SH8O6",
+      "text": "감사합니다.\n\n지금까지는 채널 6개 지난달 조회수 19만 6천에 수익 0원입니다.\n\n좋은 결과가 뭔지는 저도 아직 찾는 중입니다.",
+      "views": 0,
+      "likes": 0,
+      "replies": 0
     }
   ],
   "unanswered_replies": [
@@ -283,25 +285,12 @@
       "text": "맞아요..",
       "at": "2026-08-14T08:54:29+0000",
       "on_post": "18005695139957504"
-    },
-    {
-      "id": "18103459652265291",
-      "username": "safarisshow",
-      "text": "좋은 결과 있으면 좋겠어요",
-      "at": "2026-08-20T05:51:56+0000",
-      "on_post": "18120613064494354"
     }
   ],
   "errors": {
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 508, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-20 09:54:44] agent: 보류 @digi2shop.kr — 답글 내용이 '맞아요..' 뿐이라 원문 맥락(무엇에 동의하는지) 없이는 실측 숫자로 성실하게 답할 수 없음. 애매하면 hold 원칙 적용.",
-    "[2026-08-20 09:55:05] agent: 보류 @safarisshow — 판매 상품·링크 게시를 제안하는 내용으로, 수익화·제품 관련 답변은 사람이 판단해야 함",
-    "[2026-08-20 09:55:26] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개",
-    "[2026-08-20 09:55:26] agent: 자동 답글 0건 · 보류 3건",
-    "[2026-08-20 10:57:56] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개",
-    "[2026-08-20 12:55:55] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개",
     "[2026-08-20 12:56:06] agent: 보류 @habitus_lens — 본인 제품(크롬 확장 프로그램) 홍보 및 무료 크레딧 이벤트 안내 댓글 — 협업·광고 제안에 해당하여 보류",
     "[2026-08-20 12:56:14] agent: 보류 @digi2shop.kr — 내용이 '맞아요..' 뿐이라 무엇에 동의하는지 맥락이 없음. 원 게시물 없이는 실측 숫자로 성실하게 답할 수 없어 애매한 경우로 보류.",
     "[2026-08-20 12:56:41] 이미지 0장 공개 URL 확보",
@@ -310,6 +299,12 @@
     "[2026-08-20 12:57:29] digest 갱신: 팔로워 89 · 미답변 2건 · 큐 0개",
     "[2026-08-20 12:57:29] agent: 자동 답글 1건 · 보류 2건",
     "[2026-08-20 12:58:23] digest 갱신: 팔로워 89 · 미답변 2건 · 큐 0개",
-    "[2026-08-20 14:58:56] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개"
+    "[2026-08-20 14:58:56] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개",
+    "[2026-08-20 15:57:54] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개",
+    "[2026-08-20 15:58:07] agent: 보류 @habitus_lens — 협업·광고·홍보 제안 — 상대가 자기 크롬 확장 제품(아비투스 렌즈)을 홍보하며 무료 크레딧 사용을 권유하는 내용. 실측 답글 대상이 아니라 광고이므로 보류.",
+    "[2026-08-20 15:58:18] agent: 보류 @digi2shop.kr — 내용이 단순 동의 표현뿐이라 원 게시물 맥락 없이는 어떤 숫자로 답해야 할지 판단할 수 없음. 애매하면 hold.",
+    "[2026-08-20 15:58:30] 이미지 0장 공개 URL 확보",
+    "[2026-08-20 15:58:48] 답글 게시 완료 id=17965497039168291 https://www.threads.com/@studiohaetae/post/DcQLF_SH8O6",
+    "[2026-08-20 15:58:48] agent: 게시 @safarisshow"
   ]
 }
