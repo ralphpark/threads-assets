@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T18:59:25",
+  "generated_at": "2026-08-20T19:00:06",
   "username": "studiohaetae",
   "followers": 89,
   "followers_history": [
@@ -291,9 +291,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 508, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-20 12:57:01] agent: 게시 @safarisshow",
-    "[2026-08-20 12:57:29] digest 갱신: 팔로워 89 · 미답변 2건 · 큐 0개",
-    "[2026-08-20 12:57:29] agent: 자동 답글 1건 · 보류 2건",
     "[2026-08-20 12:58:23] digest 갱신: 팔로워 89 · 미답변 2건 · 큐 0개",
     "[2026-08-20 14:58:56] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개",
     "[2026-08-20 15:57:54] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개",
@@ -305,6 +302,9 @@
     "[2026-08-20 15:59:14] digest 갱신: 팔로워 89 · 미답변 2건 · 큐 0개",
     "[2026-08-20 15:59:14] agent: 자동 답글 1건 · 보류 2건",
     "[2026-08-20 16:59:24] digest 갱신: 팔로워 89 · 미답변 2건 · 큐 0개",
-    "[2026-08-20 18:59:41] digest 갱신: 팔로워 89 · 미답변 2건 · 큐 0개"
+    "[2026-08-20 18:59:41] digest 갱신: 팔로워 89 · 미답변 2건 · 큐 0개",
+    "[2026-08-20 18:59:51] digest 갱신: 팔로워 89 · 미답변 2건 · 큐 0개",
+    "[2026-08-20 18:59:54] agent: 보류 @habitus_lens — 본인 제품(크롬 확장 '아비투스 렌즈') 홍보 및 무료 크레딧 체험 유도 - 협업/광고성 제안에 해당하여 보류",
+    "[2026-08-20 19:00:06] agent: 보류 @digi2shop.kr — 본문이 '맞아요..' 뿐이라 무엇에 동의하는지 맥락이 없음. 질문도 숫자도 없어 실측 목록으로 성실하게 답할 근거가 없고, 애매하면 hold 원칙에 해당함"
   ]
 }
