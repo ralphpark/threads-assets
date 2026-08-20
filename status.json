@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T20:59:51",
+  "generated_at": "2026-08-20T22:00:33",
   "username": "studiohaetae",
   "followers": 89,
   "followers_history": [
@@ -291,7 +291,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 508, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-20 15:58:07] agent: 보류 @habitus_lens — 협업·광고·홍보 제안 — 상대가 자기 크롬 확장 제품(아비투스 렌즈)을 홍보하며 무료 크레딧 사용을 권유하는 내용. 실측 답글 대상이 아니라 광고이므로 보류.",
     "[2026-08-20 15:58:18] agent: 보류 @digi2shop.kr — 내용이 단순 동의 표현뿐이라 원 게시물 맥락 없이는 어떤 숫자로 답해야 할지 판단할 수 없음. 애매하면 hold.",
     "[2026-08-20 15:58:30] 이미지 0장 공개 URL 확보",
     "[2026-08-20 15:58:48] 답글 게시 완료 id=17965497039168291 https://www.threads.com/@studiohaetae/post/DcQLF_SH8O6",
@@ -305,6 +304,7 @@
     "[2026-08-20 19:00:06] agent: 보류 @digi2shop.kr — 본문이 '맞아요..' 뿐이라 무엇에 동의하는지 맥락이 없음. 질문도 숫자도 없어 실측 목록으로 성실하게 답할 근거가 없고, 애매하면 hold 원칙에 해당함",
     "[2026-08-20 19:00:32] digest 갱신: 팔로워 89 · 미답변 2건 · 큐 0개",
     "[2026-08-20 19:00:32] agent: 자동 답글 0건 · 보류 2건",
-    "[2026-08-20 20:30:05] 큐가 비었다. 게시하지 않음."
+    "[2026-08-20 20:30:05] 큐가 비었다. 게시하지 않음.",
+    "[2026-08-20 21:00:20] digest 갱신: 팔로워 89 · 미답변 2건 · 큐 0개"
   ]
 }
