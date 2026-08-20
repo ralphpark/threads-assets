@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T03:01:21",
+  "generated_at": "2026-08-21T04:03:21",
   "username": "studiohaetae",
   "followers": 89,
   "followers_history": [
@@ -291,7 +291,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 508, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-20 22:00:59] digest 갱신: 팔로워 89 · 미답변 2건 · 큐 0개",
     "[2026-08-20 22:01:16] agent: 보류 @habitus_lens — 타사 제품(크롬 확장) 출시 홍보 게시물로, 우리 실측 숫자로 답할 질문이 없음. 광고성 게시물에 답글을 달 필요가 없어 보류.",
     "[2026-08-20 22:01:29] agent: 보류 @digi2shop.kr — 단순 동조 댓글(\"맞아요..\")로 구체적 질문이나 비교할 숫자가 없음. 무엇에 동의하는지 맥락이 불분명해 성실히 답할 근거가 없음",
     "[2026-08-20 22:01:55] digest 갱신: 팔로워 89 · 미답변 2건 · 큐 0개",
@@ -305,6 +304,7 @@
     "[2026-08-21 01:02:41] agent: 보류 @habitus_lens — 상대가 자기 제품(크롬 확장 앱)을 홍보하며 사용 유도를 요청하는 광고성 댓글이라 우리 답변 대상이 아님",
     "[2026-08-21 01:02:54] agent: 보류 @digi2shop.kr — 내용이 '맞아요..' 한 줄뿐이라 무엇에 대한 동의인지 맥락이 없음. 성실한 답변 불가로 보류.",
     "[2026-08-21 01:03:20] digest 갱신: 팔로워 89 · 미답변 2건 · 큐 0개",
-    "[2026-08-21 01:03:20] agent: 자동 답글 0건 · 보류 2건"
+    "[2026-08-21 01:03:20] agent: 자동 답글 0건 · 보류 2건",
+    "[2026-08-21 03:01:46] digest 갱신: 팔로워 89 · 미답변 2건 · 큐 0개"
   ]
 }
