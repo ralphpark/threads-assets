@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T12:55:27",
+  "generated_at": "2026-08-20T12:57:01",
   "username": "studiohaetae",
   "followers": 89,
   "followers_history": [
@@ -204,16 +204,7 @@
       "text": "AI로 유튜브 채널 6개를 돌리는데 지난달 수익이 0원입니다.\n\n그래서 궁금한 게 있습니다.\n\n지금까지 AI로 만든 것 중에 제일 잘 만들었는데 제일 안 된 게 뭔가요.\n\n저는 39편짜리 재즈 채널입니다. 구독자 0",
       "views": 540,
       "likes": 4,
-      "replies": 7
-    },
-    {
-      "at": "2026-08-11T22:56:57",
-      "n": -1,
-      "id": null,
-      "is_reply": true,
-      "via": "browser",
-      "target": "dodoz._____",
-      "permalink": "https://www.threads.com/@dodoz._____/post/Db5qVnukrLs"
+      "replies": 8
     },
     {
       "at": "2026-08-11T22:56:57",
@@ -265,6 +256,17 @@
       "views": 4,
       "likes": 0,
       "replies": 0
+    },
+    {
+      "at": "2026-08-20T12:57:01",
+      "n": -1,
+      "id": "18120613064494354",
+      "is_reply": true,
+      "permalink": "https://www.threads.com/@studiohaetae/post/DcP2SUjn6yY",
+      "text": "설명란 링크는 데이터가 있습니다.\n\nShorts는 URL이 링크로 안 걸립니다. 텍스트로만 노출돼요.\n그래서인지 제 랭킹 채널 4개 최근 40편 전수에 설명란 링크가 0개, 영어권 비교군 50편 중에도 4편뿐이었습니",
+      "views": 0,
+      "likes": 0,
+      "replies": 0
     }
   ],
   "unanswered_replies": [
@@ -281,25 +283,12 @@
       "text": "맞아요..",
       "at": "2026-08-14T08:54:29+0000",
       "on_post": "18005695139957504"
-    },
-    {
-      "id": "17885114571680803",
-      "username": "safarisshow",
-      "text": "수익을 광고수익만 생각하지 마세요\n댓글에 판매하실 것의 링크를 달아보시는건 어때요?",
-      "at": "2026-08-14T21:46:47+0000",
-      "on_post": "17960548221183836"
     }
   ],
   "errors": {
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 508, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-20 06:52:46] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개",
-    "[2026-08-20 06:52:59] agent: 보류 @habitus_lens — 협업·광고 제안 — 본인 크롬 확장 제품(아비투스 렌즈) 홍보 및 사용 유도 댓글. 우리 실측 숫자로 답할 성격의 질문이 아니라 사람 판단이 필요함.",
-    "[2026-08-20 06:53:10] agent: 보류 @digi2shop.kr — 원 댓글 내용이 '맞아요..' 뿐이라 상대가 무엇에 동의하는지 맥락을 알 수 없음. 실측 숫자로 답할 지점이 없고 애매한 경우라 보류.",
-    "[2026-08-20 06:53:32] agent: 보류 @safarisshow — 판매할 것을 링크로 걸라는 제안 — 제품 존재 여부를 암시적으로 묻는 내용이라 사람 판단 필요. 실측 목록에는 영상 설명란 링크 데이터만 있고 댓글 링크 관련 데이터는 없어 성실히 답하기도 어려움.",
-    "[2026-08-20 06:53:54] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개",
-    "[2026-08-20 06:53:54] agent: 자동 답글 0건 · 보류 3건",
     "[2026-08-20 06:57:03] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개",
     "[2026-08-20 08:57:26] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개",
     "[2026-08-20 09:54:19] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개",
@@ -308,6 +297,12 @@
     "[2026-08-20 09:55:05] agent: 보류 @safarisshow — 판매 상품·링크 게시를 제안하는 내용으로, 수익화·제품 관련 답변은 사람이 판단해야 함",
     "[2026-08-20 09:55:26] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개",
     "[2026-08-20 09:55:26] agent: 자동 답글 0건 · 보류 3건",
-    "[2026-08-20 10:57:56] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개"
+    "[2026-08-20 10:57:56] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개",
+    "[2026-08-20 12:55:55] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개",
+    "[2026-08-20 12:56:06] agent: 보류 @habitus_lens — 본인 제품(크롬 확장 프로그램) 홍보 및 무료 크레딧 이벤트 안내 댓글 — 협업·광고 제안에 해당하여 보류",
+    "[2026-08-20 12:56:14] agent: 보류 @digi2shop.kr — 내용이 '맞아요..' 뿐이라 무엇에 동의하는지 맥락이 없음. 원 게시물 없이는 실측 숫자로 성실하게 답할 수 없어 애매한 경우로 보류.",
+    "[2026-08-20 12:56:41] 이미지 0장 공개 URL 확보",
+    "[2026-08-20 12:57:01] 답글 게시 완료 id=18120613064494354 https://www.threads.com/@studiohaetae/post/DcP2SUjn6yY",
+    "[2026-08-20 12:57:01] agent: 게시 @safarisshow"
   ]
 }
