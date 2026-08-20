@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T09:53:55",
+  "generated_at": "2026-08-20T09:55:06",
   "username": "studiohaetae",
   "followers": 89,
   "followers_history": [
@@ -294,10 +294,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 508, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-20 03:51:11] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개",
-    "[2026-08-20 03:51:27] agent: 보류 @habitus_lens — 협업·광고 제안 — 상대가 자기 크롬 확장(아비투스 렌즈) 무료 크레딧 체험을 홍보하며 참여를 유도하는 게시물로, 우리 실측 숫자로 답할 성격의 내용이 아님",
-    "[2026-08-20 03:51:37] agent: 보류 @digi2shop.kr — 내용이 '맞아요..'뿐이라 원 댓글이나 게시물 맥락 없이는 무엇에 동의하는지 알 수 없음. 실측 숫자로 답할 소재가 없고 애매한 경우이므로 보류.",
-    "[2026-08-20 03:51:56] agent: 보류 @safarisshow — 판매 링크를 달라는 제안은 제품/수익화 타이밍 판단이 필요한 사안이라 사람이 결정해야 함",
     "[2026-08-20 03:52:21] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개",
     "[2026-08-20 03:52:21] agent: 자동 답글 0건 · 보류 3건",
     "[2026-08-20 04:56:38] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개",
@@ -308,6 +304,10 @@
     "[2026-08-20 06:53:54] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개",
     "[2026-08-20 06:53:54] agent: 자동 답글 0건 · 보류 3건",
     "[2026-08-20 06:57:03] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개",
-    "[2026-08-20 08:57:26] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개"
+    "[2026-08-20 08:57:26] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개",
+    "[2026-08-20 09:54:19] digest 갱신: 팔로워 89 · 미답변 3건 · 큐 0개",
+    "[2026-08-20 09:54:31] agent: 보류 @habitus_lens — 협업·광고 제안 — 상대가 자기 크롬 확장 제품(아비투스 렌즈)을 홍보하며 무료 크레딧 이벤트를 알리는 내용이라 사람 판단이 필요함",
+    "[2026-08-20 09:54:44] agent: 보류 @digi2shop.kr — 답글 내용이 '맞아요..' 뿐이라 원문 맥락(무엇에 동의하는지) 없이는 실측 숫자로 성실하게 답할 수 없음. 애매하면 hold 원칙 적용.",
+    "[2026-08-20 09:55:05] agent: 보류 @safarisshow — 판매 상품·링크 게시를 제안하는 내용으로, 수익화·제품 관련 답변은 사람이 판단해야 함"
   ]
 }
