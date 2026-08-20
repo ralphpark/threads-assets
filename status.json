@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T15:58:48",
+  "generated_at": "2026-08-20T16:58:57",
   "username": "studiohaetae",
   "followers": 89,
   "followers_history": [
@@ -291,8 +291,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 508, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-20 12:56:06] agent: 보류 @habitus_lens — 본인 제품(크롬 확장 프로그램) 홍보 및 무료 크레딧 이벤트 안내 댓글 — 협업·광고 제안에 해당하여 보류",
-    "[2026-08-20 12:56:14] agent: 보류 @digi2shop.kr — 내용이 '맞아요..' 뿐이라 무엇에 동의하는지 맥락이 없음. 원 게시물 없이는 실측 숫자로 성실하게 답할 수 없어 애매한 경우로 보류.",
     "[2026-08-20 12:56:41] 이미지 0장 공개 URL 확보",
     "[2026-08-20 12:57:01] 답글 게시 완료 id=18120613064494354 https://www.threads.com/@studiohaetae/post/DcP2SUjn6yY",
     "[2026-08-20 12:57:01] agent: 게시 @safarisshow",
@@ -305,6 +303,8 @@
     "[2026-08-20 15:58:18] agent: 보류 @digi2shop.kr — 내용이 단순 동의 표현뿐이라 원 게시물 맥락 없이는 어떤 숫자로 답해야 할지 판단할 수 없음. 애매하면 hold.",
     "[2026-08-20 15:58:30] 이미지 0장 공개 URL 확보",
     "[2026-08-20 15:58:48] 답글 게시 완료 id=17965497039168291 https://www.threads.com/@studiohaetae/post/DcQLF_SH8O6",
-    "[2026-08-20 15:58:48] agent: 게시 @safarisshow"
+    "[2026-08-20 15:58:48] agent: 게시 @safarisshow",
+    "[2026-08-20 15:59:14] digest 갱신: 팔로워 89 · 미답변 2건 · 큐 0개",
+    "[2026-08-20 15:59:14] agent: 자동 답글 1건 · 보류 2건"
   ]
 }
