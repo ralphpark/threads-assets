@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T13:04:04",
+  "generated_at": "2026-08-21T13:07:44",
   "username": "studiohaetae",
   "followers": 89,
   "followers_history": [
@@ -291,7 +291,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 508, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-21 04:04:27] agent: 자동 답글 0건 · 보류 2건",
     "[2026-08-21 05:02:23] digest 갱신: 팔로워 89 · 미답변 2건 · 큐 0개",
     "[2026-08-21 07:03:07] digest 갱신: 팔로워 89 · 미답변 2건 · 큐 0개",
     "[2026-08-21 07:05:14] digest 갱신: 팔로워 89 · 미답변 2건 · 큐 0개",
@@ -305,6 +304,7 @@
     "[2026-08-21 10:07:23] agent: 보류 @digi2shop.kr — 원문이 '맞아요..' 한 줄뿐이라 무엇에 동의하는지 맥락을 알 수 없음. 근거 없이 반응하면 성실한 답이 아니라 빈 맞장구가 되므로 보류.",
     "[2026-08-21 10:07:46] digest 갱신: 팔로워 89 · 미답변 2건 · 큐 0개",
     "[2026-08-21 10:07:46] agent: 자동 답글 0건 · 보류 2건",
-    "[2026-08-21 11:04:05] digest 갱신: 팔로워 89 · 미답변 2건 · 큐 0개"
+    "[2026-08-21 11:04:05] digest 갱신: 팔로워 89 · 미답변 2건 · 큐 0개",
+    "[2026-08-21 13:04:27] digest 갱신: 팔로워 89 · 미답변 2건 · 큐 0개"
   ]
 }
