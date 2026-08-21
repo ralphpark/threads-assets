@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T15:04:28",
+  "generated_at": "2026-08-21T16:08:52",
   "username": "studiohaetae",
   "followers": 90,
   "followers_history": [
@@ -291,7 +291,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 508, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-21 07:06:25] digest 갱신: 팔로워 89 · 미답변 2건 · 큐 0개",
     "[2026-08-21 07:06:25] agent: 자동 답글 0건 · 보류 2건",
     "[2026-08-21 09:03:42] digest 갱신: 팔로워 89 · 미답변 2건 · 큐 0개",
     "[2026-08-21 10:06:51] digest 갱신: 팔로워 89 · 미답변 2건 · 큐 0개",
@@ -305,6 +304,7 @@
     "[2026-08-21 13:08:18] agent: 보류 @habitus_lens — 협업·광고 제안 — 상대가 자신의 크롬 확장 제품(아비투스 렌즈) 출시를 홍보하며 무료 크레딧 체험을 권유하는 내용. 실측 답변 대상이 아니라 사람 판단이 필요함.",
     "[2026-08-21 13:08:26] agent: 보류 @digi2shop.kr — 본문이 '맞아요..' 뿐이라 무엇에 대한 동의인지 맥락이 없음. 숫자로 답할 근거가 없어 임의로 답하면 어색하거나 부정확할 위험이 있음.",
     "[2026-08-21 13:08:49] digest 갱신: 팔로워 90 · 미답변 2건 · 큐 0개",
-    "[2026-08-21 13:08:49] agent: 자동 답글 0건 · 보류 2건"
+    "[2026-08-21 13:08:49] agent: 자동 답글 0건 · 보류 2건",
+    "[2026-08-21 15:04:52] digest 갱신: 팔로워 90 · 미답변 2건 · 큐 0개"
   ]
 }
