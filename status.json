@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T16:19:47",
+  "generated_at": "2026-08-22T16:20:47",
   "username": "studiohaetae",
   "followers": 90,
   "followers_history": [
@@ -291,9 +291,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 508, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-22 07:17:05] agent: 자동 답글 0건 · 보류 2건",
-    "[2026-08-22 09:08:50] digest 갱신: 팔로워 90 · 미답변 2건 · 큐 0개",
-    "[2026-08-22 10:17:30] digest 갱신: 팔로워 90 · 미답변 2건 · 큐 0개",
     "[2026-08-22 10:17:48] agent: 보류 @habitus_lens — 홍보/제품 안내 게시물(크롬 확장 무료 크레딧 이벤트). 시비나 질문이 아니라 자사 제품 홍보이며, 우리 실측 숫자로 답할 성격의 내용이 아니라 자동 답글 대상이 아님.",
     "[2026-08-22 10:18:02] agent: 보류 @digi2shop.kr — 내용이 \"맞아요..\" 뿐이라 어떤 글에 대한 동의인지 맥락이 없음. 숫자로 답할 지점이 없고 단순 동의라 실측 데이터를 붙일 근거가 없음",
     "[2026-08-22 10:18:23] digest 갱신: 팔로워 90 · 미답변 2건 · 큐 0개",
@@ -305,6 +302,9 @@
     "[2026-08-22 13:19:19] agent: 보류 @digi2shop.kr — 답글 내용이 '맞아요..' 뿐이라 무엇에 동의하는지 원문 맥락(상위 게시물/스레드) 없이는 알 수 없음. 숫자로 답할 대상이 불명확해 애매하면 hold 원칙에 해당.",
     "[2026-08-22 13:19:47] digest 갱신: 팔로워 90 · 미답변 2건 · 큐 0개",
     "[2026-08-22 13:19:47] agent: 자동 답글 0건 · 보류 2건",
-    "[2026-08-22 15:10:14] digest 갱신: 팔로워 90 · 미답변 2건 · 큐 0개"
+    "[2026-08-22 15:10:14] digest 갱신: 팔로워 90 · 미답변 2건 · 큐 0개",
+    "[2026-08-22 16:20:15] digest 갱신: 팔로워 90 · 미답변 2건 · 큐 0개",
+    "[2026-08-22 16:20:35] agent: 보류 @habitus_lens — 자기 제품(크롬 확장) 홍보 글. 무료 크레딧 이벤트로 참여 유도하는 리드마그넷/광고성 훅이라 건드리지 않음 대상. 답글을 달면 홍보 교환처럼 보일 위험도 있어 사람 판단 필요.",
+    "[2026-08-22 16:20:47] agent: 보류 @digi2shop.kr — 내용이 '맞아요..' 뿐이라 무엇에 대한 동의인지 알 수 없음. 실측 숫자로 답할 근거가 없고 의미가 애매함"
   ]
 }
