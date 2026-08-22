@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T23:40:24",
+  "generated_at": "2026-08-23T01:11:59",
   "username": "studiohaetae",
   "followers": 90,
   "followers_history": [
@@ -291,7 +291,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 508, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-22 19:21:39] digest 갱신: 팔로워 90 · 미답변 2건 · 큐 0개",
     "[2026-08-22 19:21:57] agent: 보류 @habitus_lens — 본인 크롬 확장 제품(아비투스 렌즈) 홍보글. 순수 광고글이라 답글 대상이 아니고, 우리에게 던진 질문이나 숫자 비교 지점이 없음.",
     "[2026-08-22 19:22:06] agent: 보류 @digi2shop.kr — 내용이 '맞아요..' 뿐이라 무엇에 동의하는지 맥락이 없음. 계산할 상대 숫자나 답할 질문이 없어 성실한 답글이 불가능함",
     "[2026-08-22 19:22:31] digest 갱신: 팔로워 90 · 미답변 2건 · 큐 0개",
@@ -305,6 +304,7 @@
     "[2026-08-22 22:23:47] agent: 자동 답글 0건 · 보류 2건",
     "[2026-08-22 23:11:59] digest 갱신: 팔로워 90 · 미답변 2건 · 큐 0개",
     "[2026-08-22 23:40:00] 스냅샷: {\"date\": \"2026-08-22\", \"at\": \"2026-08-22T23:40:00\", \"followers\": 90, \"views\": 47, \"likes\": 0, \"replies\": 0, \"reposts\": 0, \"quotes\": 0, \"clicks\": null}",
-    "[2026-08-22 23:40:24] 답글 26건 수집 -> replies-2026-08-22.json"
+    "[2026-08-22 23:40:24] 답글 26건 수집 -> replies-2026-08-22.json",
+    "[2026-08-22 23:40:50] digest 갱신: 팔로워 90 · 미답변 2건 · 큐 0개"
   ]
 }
