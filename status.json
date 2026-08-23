@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T19:29:51",
+  "generated_at": "2026-08-23T21:16:26",
   "username": "studiohaetae",
   "followers": 90,
   "followers_history": [
@@ -291,9 +291,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 508, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-23 10:27:01] digest 갱신: 팔로워 90 · 미답변 2건 · 큐 0개",
-    "[2026-08-23 10:27:33] digest 갱신: 팔로워 90 · 미답변 2건 · 큐 0개",
-    "[2026-08-23 10:27:33] agent: 자동 답글 0건 · 보류 2건",
     "[2026-08-23 11:14:33] digest 갱신: 팔로워 90 · 미답변 2건 · 큐 0개",
     "[2026-08-23 13:15:03] digest 갱신: 팔로워 90 · 미답변 2건 · 큐 0개",
     "[2026-08-23 13:27:58] digest 갱신: 팔로워 90 · 미답변 2건 · 큐 0개",
@@ -305,6 +302,9 @@
     "[2026-08-23 16:29:17] agent: 자동 답글 0건 · 보류 2건",
     "[2026-08-23 17:16:02] digest 갱신: 팔로워 90 · 미답변 2건 · 큐 0개",
     "[2026-08-23 19:16:26] digest 갱신: 팔로워 90 · 미답변 2건 · 큐 0개",
-    "[2026-08-23 19:29:46] digest 갱신: 팔로워 90 · 미답변 2건 · 큐 0개"
+    "[2026-08-23 19:29:46] digest 갱신: 팔로워 90 · 미답변 2건 · 큐 0개",
+    "[2026-08-23 19:30:17] digest 갱신: 팔로워 90 · 미답변 2건 · 큐 0개",
+    "[2026-08-23 19:30:17] agent: 자동 답글 0건 · 보류 2건",
+    "[2026-08-23 20:30:05] 큐가 비었다. 게시하지 않음."
   ]
 }
