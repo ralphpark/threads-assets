@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T17:20:45",
+  "generated_at": "2026-08-24T19:21:15",
   "username": "studiohaetae",
   "followers": 90,
   "followers_history": [
@@ -180,7 +180,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Db26OQwGCbi",
       "text": "AI로 만든 노래를 팔 수 있는지 찾아봤습니다.\n\n한국에서 AI가 만든 곡은 저작권이 인정되지 않습니다. 가사만 사람이 썼다면 가사 부분만 등록됩니다.\n\n그리고 음저협은 2025년 9월부터 AI를 활용하지 않았음을 ",
-      "views": 544,
+      "views": 545,
       "likes": 2,
       "replies": 0
     },
@@ -291,7 +291,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 508, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-24 10:36:25] digest 갱신: 팔로워 90 · 미답변 2건 · 큐 0개",
     "[2026-08-24 10:36:25] agent: 자동 답글 0건 · 보류 2건",
     "[2026-08-24 11:19:51] digest 갱신: 팔로워 90 · 미답변 2건 · 큐 0개",
     "[2026-08-24 13:20:18] digest 갱신: 팔로워 90 · 미답변 2건 · 큐 0개",
@@ -305,6 +304,7 @@
     "[2026-08-24 16:38:22] agent: 보류 @habitus_lens — 협업·광고 제안 — 자기 크롬 확장(아비투스 렌즈) 홍보 및 무료 크레딧 이벤트 안내, 우리 계정에 제품 홍보성 댓글",
     "[2026-08-24 16:38:40] agent: 보류 @digi2shop.kr — 내용이 '맞아요..' 뿐이라 무엇에 동의하는지 맥락이 없음. 숫자나 질문이 없어 실측 기반 답글을 만들 수 없고 애매하면 보류 원칙에 해당함.",
     "[2026-08-24 16:39:03] digest 갱신: 팔로워 90 · 미답변 2건 · 큐 0개",
-    "[2026-08-24 16:39:03] agent: 자동 답글 0건 · 보류 2건"
+    "[2026-08-24 16:39:03] agent: 자동 답글 0건 · 보류 2건",
+    "[2026-08-24 17:21:13] digest 갱신: 팔로워 90 · 미답변 2건 · 큐 0개"
   ]
 }
