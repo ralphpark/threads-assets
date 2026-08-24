@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T13:19:51",
+  "generated_at": "2026-08-24T13:36:25",
   "username": "studiohaetae",
   "followers": 90,
   "followers_history": [
@@ -291,7 +291,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 508, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-24 04:33:45] agent: 자동 답글 0건 · 보류 2건",
     "[2026-08-24 05:18:32] digest 갱신: 팔로워 90 · 미답변 2건 · 큐 0개",
     "[2026-08-24 07:18:57] digest 갱신: 팔로워 90 · 미답변 2건 · 큐 0개",
     "[2026-08-24 07:34:10] digest 갱신: 팔로워 90 · 미답변 2건 · 큐 0개",
@@ -305,6 +304,7 @@
     "[2026-08-24 10:35:59] agent: 보류 @digi2shop.kr — 단순 동의 표현이라 응답할 구체적 내용이나 질문이 없음. 원 게시물 맥락 없이 임의로 답변을 지어낼 위험이 있어 보류.",
     "[2026-08-24 10:36:25] digest 갱신: 팔로워 90 · 미답변 2건 · 큐 0개",
     "[2026-08-24 10:36:25] agent: 자동 답글 0건 · 보류 2건",
-    "[2026-08-24 11:19:51] digest 갱신: 팔로워 90 · 미답변 2건 · 큐 0개"
+    "[2026-08-24 11:19:51] digest 갱신: 팔로워 90 · 미답변 2건 · 큐 0개",
+    "[2026-08-24 13:20:18] digest 갱신: 팔로워 90 · 미답변 2건 · 큐 0개"
   ]
 }
