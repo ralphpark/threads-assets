@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T16:38:40",
+  "generated_at": "2026-08-24T17:20:45",
   "username": "studiohaetae",
   "followers": 90,
   "followers_history": [
@@ -291,8 +291,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 508, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-24 10:35:44] agent: 보류 @habitus_lens — 본인 제품(크롬 확장 '아비투스 렌즈') 홍보 및 사용 권유 댓글 — 협업·광고 제안에 해당해 사람 판단 필요",
-    "[2026-08-24 10:35:59] agent: 보류 @digi2shop.kr — 단순 동의 표현이라 응답할 구체적 내용이나 질문이 없음. 원 게시물 맥락 없이 임의로 답변을 지어낼 위험이 있어 보류.",
     "[2026-08-24 10:36:25] digest 갱신: 팔로워 90 · 미답변 2건 · 큐 0개",
     "[2026-08-24 10:36:25] agent: 자동 답글 0건 · 보류 2건",
     "[2026-08-24 11:19:51] digest 갱신: 팔로워 90 · 미답변 2건 · 큐 0개",
@@ -305,6 +303,8 @@
     "[2026-08-24 15:20:47] digest 갱신: 팔로워 90 · 미답변 2건 · 큐 0개",
     "[2026-08-24 16:38:08] digest 갱신: 팔로워 90 · 미답변 2건 · 큐 0개",
     "[2026-08-24 16:38:22] agent: 보류 @habitus_lens — 협업·광고 제안 — 자기 크롬 확장(아비투스 렌즈) 홍보 및 무료 크레딧 이벤트 안내, 우리 계정에 제품 홍보성 댓글",
-    "[2026-08-24 16:38:40] agent: 보류 @digi2shop.kr — 내용이 '맞아요..' 뿐이라 무엇에 동의하는지 맥락이 없음. 숫자나 질문이 없어 실측 기반 답글을 만들 수 없고 애매하면 보류 원칙에 해당함."
+    "[2026-08-24 16:38:40] agent: 보류 @digi2shop.kr — 내용이 '맞아요..' 뿐이라 무엇에 동의하는지 맥락이 없음. 숫자나 질문이 없어 실측 기반 답글을 만들 수 없고 애매하면 보류 원칙에 해당함.",
+    "[2026-08-24 16:39:03] digest 갱신: 팔로워 90 · 미답변 2건 · 큐 0개",
+    "[2026-08-24 16:39:03] agent: 자동 답글 0건 · 보류 2건"
   ]
 }
