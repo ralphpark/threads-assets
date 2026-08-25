@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T03:04:54",
+  "generated_at": "2026-08-26T03:13:17",
   "username": "studiohaetae",
   "followers": 90,
   "followers_history": [
@@ -60,8 +60,9 @@
       "followers": 90
     }
   ],
-  "queue_pending": 0,
-  "queue_next": null,
+  "queue_pending": 10,
+  "queue_next": "8월 12일 이 계정 조회수가 4,762회였습니다. 시작 이후 최고였습니다.\n그날 팔로워가 하루에 5명 늘었",
+  "queue_drafts": 2,
   "posts": [
     {
       "at": "2026-07-31T14:33:33",
@@ -286,11 +287,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 508, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-25 23:28:25] digest 갱신: 팔로워 90 · 미답변 1건 · 큐 0개",
-    "[2026-08-25 23:40:00] 스냅샷: {\"date\": \"2026-08-25\", \"at\": \"2026-08-25T23:40:00\", \"followers\": 90, \"views\": 40, \"likes\": 0, \"replies\": 2, \"reposts\": 0, \"quotes\": 0, \"clicks\": null}",
-    "[2026-08-25 23:40:18] 답글 26건 수집 -> replies-2026-08-25.json",
-    "[2026-08-25 23:40:43] digest 갱신: 팔로워 90 · 미답변 1건 · 큐 0개",
-    "[2026-08-26 01:28:55] digest 갱신: 팔로워 90 · 미답변 1건 · 큐 0개",
     "[2026-08-26 01:53:35] digest 갱신: 팔로워 90 · 미답변 1건 · 큐 0개",
     "[2026-08-26 01:53:46] agent: 보류 @habitus_lens — 본인 제품(크롬 확장) 홍보 글로, 협업·광고 제안에 해당해 사람 판단이 필요함",
     "[2026-08-26 01:54:14] digest 갱신: 팔로워 90 · 미답변 1건 · 큐 0개",
@@ -300,6 +296,11 @@
     "[2026-08-26 03:04:26] digest 갱신: 팔로워 90 · 미답변 1건 · 큐 0개",
     "[2026-08-26 03:04:26] agent: 자동 답글 0건 · 보류 1건(굳은 것 1건)",
     "[2026-08-26 03:04:54] digest 갱신: 팔로워 90 · 미답변 1건 · 큐 0개",
-    "[2026-08-26 03:04:54] agent: 보류 유지 1건 — 재평가 안 함 (@habitus_lens). 다시 보려면 --recheck-all"
+    "[2026-08-26 03:04:54] agent: 보류 유지 1건 — 재평가 안 함 (@habitus_lens). 다시 보려면 --recheck-all",
+    "[2026-08-26 03:05:19] digest 갱신: 팔로워 90 · 미답변 1건 · 큐 0개",
+    "[2026-08-26 03:05:19] agent: 자동 답글 0건 · 신규 판정 대상 없음",
+    "[2026-08-26 03:11:09] refill: 원고 적재 10편 · 건너뜀 0편 · 대기 10편",
+    "[2026-08-26 03:11:33] refill: 큐 잔량 10편 — 정상",
+    "[2026-08-26 03:12:13] refill: 초안 2편 생성 (status=draft — 사람이 promote 해야 게시된다)"
   ]
 }
