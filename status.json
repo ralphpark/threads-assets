@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T10:46:13",
+  "generated_at": "2026-08-25T10:47:07",
   "username": "studiohaetae",
   "followers": 90,
   "followers_history": [
@@ -291,9 +291,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 508, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-25 01:43:15] agent: 자동 답글 0건 · 보류 2건",
-    "[2026-08-25 03:23:22] digest 갱신: 팔로워 90 · 미답변 2건 · 큐 0개",
-    "[2026-08-25 04:43:45] digest 갱신: 팔로워 90 · 미답변 2건 · 큐 0개",
     "[2026-08-25 04:43:59] agent: 보류 @habitus_lens — 본인 제품(크롬 확장) 홍보 글이며 무료 크레딧 참여를 유도하는 리드마그넷 후크. 순수 광고글은 답글 대상에서 제외.",
     "[2026-08-25 04:44:07] agent: 보류 @digi2shop.kr — 내용이 '맞아요..' 뿐으로 원 게시물 맥락 없이는 어떤 주장에 동의하는지 알 수 없음. 숫자로 답할 지점이 없고 실측 목록만으로 성실히 답하기 어려움",
     "[2026-08-25 04:44:34] digest 갱신: 팔로워 90 · 미답변 2건 · 큐 0개",
@@ -305,6 +302,9 @@
     "[2026-08-25 07:45:40] agent: 보류 @digi2shop.kr — \"맞아요..\"만으로는 상대가 무엇에 동의하는지 원문 맥락이 없어 판단 불가. 숫자나 질문이 없는 단순 동의라 성실한 답변을 만들 수 없음 — 애매하면 hold.",
     "[2026-08-25 07:46:12] digest 갱신: 팔로워 90 · 미답변 2건 · 큐 0개",
     "[2026-08-25 07:46:12] agent: 자동 답글 0건 · 보류 2건",
-    "[2026-08-25 09:25:17] digest 갱신: 팔로워 90 · 미답변 2건 · 큐 0개"
+    "[2026-08-25 09:25:17] digest 갱신: 팔로워 90 · 미답변 2건 · 큐 0개",
+    "[2026-08-25 10:46:39] digest 갱신: 팔로워 90 · 미답변 2건 · 큐 0개",
+    "[2026-08-25 10:46:49] agent: 보류 @habitus_lens — 협업/광고성 홍보 답글 - 상대가 자기 제품(크롬 확장) 무료 크레딧 체험을 요청하는 홍보성 댓글로, 우리 실측 숫자로 답할 성격의 내용이 아니며 광고 제안에 해당함",
+    "[2026-08-25 10:47:06] agent: 보류 @digi2shop.kr — 답글 본문이 \"맞아요..\" 뿐이라 무엇에 동의하는지 맥락이 없음. 원 게시물/이전 대화 없이는 실측 숫자로 성실하게 답할 수 없어 보류."
   ]
 }
