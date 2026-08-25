@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T22:51:20",
+  "generated_at": "2026-08-25T22:52:40",
   "username": "studiohaetae",
   "followers": 90,
   "followers_history": [
@@ -204,16 +204,7 @@
       "text": "AI로 유튜브 채널 6개를 돌리는데 지난달 수익이 0원입니다.\n\n그래서 궁금한 게 있습니다.\n\n지금까지 AI로 만든 것 중에 제일 잘 만들었는데 제일 안 된 게 뭔가요.\n\n저는 39편짜리 재즈 채널입니다. 구독자 0",
       "views": 546,
       "likes": 4,
-      "replies": 10
-    },
-    {
-      "at": "2026-08-11T22:56:57",
-      "n": -1,
-      "id": null,
-      "is_reply": true,
-      "via": "browser",
-      "target": "jigeum.mwotteum",
-      "permalink": "https://www.threads.com/@jigeum.mwotteum/post/Db5hkDED_oZ"
+      "replies": 11
     },
     {
       "at": "2026-08-14T17:42:41",
@@ -269,6 +260,17 @@
       "views": 4,
       "likes": 0,
       "replies": 0
+    },
+    {
+      "at": "2026-08-25T22:52:40",
+      "n": -1,
+      "id": "17920779417205257",
+      "is_reply": true,
+      "permalink": "https://www.threads.com/@studiohaetae/post/DcdybNSn8LW",
+      "text": "맞습니다.\n\n저도 재즈 채널 39편 자동 생성하고 구독자 0명 찍었을 때 그 말이 제일 와닿았어요.\n\n숫자로 보면 더 확실해집니다.",
+      "views": 0,
+      "likes": 0,
+      "replies": 0
     }
   ],
   "unanswered_replies": [
@@ -278,24 +280,12 @@
       "text": "안녕하세요. 필라테스 옆에 먹방, 롱폼 옆에 숏폼. 측면도킹 듀얼플레이 아비투스 렌즈입니다. 정식 출시 1주차 무료 크레딧으로 시청시간 곱배기 도전해 보시라 댓글 남깁니다. 많이 사랑해 주세요. 아참 크롬 확장이에요^^",
       "at": "2026-08-12T21:51:39+0000",
       "on_post": "18230995339320678"
-    },
-    {
-      "id": "17867088492639949",
-      "username": "digi2shop.kr",
-      "text": "맞아요..",
-      "at": "2026-08-14T08:54:29+0000",
-      "on_post": "18005695139957504"
     }
   ],
   "errors": {
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 508, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-25 15:26:32] digest 갱신: 팔로워 90 · 미답변 2건 · 큐 0개",
-    "[2026-08-25 16:49:09] digest 갱신: 팔로워 90 · 미답변 2건 · 큐 0개",
-    "[2026-08-25 16:49:23] agent: 보류 @habitus_lens — 본인 제품(크롬 확장) 홍보 및 사용 유도 - 협업·광고 제안에 해당",
-    "[2026-08-25 16:49:32] agent: 보류 @digi2shop.kr — 답글 내용이 '맞아요..' 뿐이라 상대가 무엇에 동의하는지 원문 맥락이 없어 파악 불가. 숫자로 답할 소재가 없고 애매하면 보류 원칙에 해당.",
-    "[2026-08-25 16:49:59] digest 갱신: 팔로워 90 · 미답변 2건 · 큐 0개",
     "[2026-08-25 16:49:59] agent: 자동 답글 0건 · 보류 2건",
     "[2026-08-25 17:27:02] digest 갱신: 팔로워 90 · 미답변 2건 · 큐 0개",
     "[2026-08-25 19:27:31] digest 갱신: 팔로워 90 · 미답변 2건 · 큐 0개",
@@ -305,6 +295,11 @@
     "[2026-08-25 19:51:20] digest 갱신: 팔로워 90 · 미답변 2건 · 큐 0개",
     "[2026-08-25 19:51:20] agent: 자동 답글 0건 · 보류 2건",
     "[2026-08-25 20:30:05] 큐가 비었다. 게시하지 않음.",
-    "[2026-08-25 21:27:59] digest 갱신: 팔로워 90 · 미답변 2건 · 큐 0개"
+    "[2026-08-25 21:27:59] digest 갱신: 팔로워 90 · 미답변 2건 · 큐 0개",
+    "[2026-08-25 22:51:46] digest 갱신: 팔로워 90 · 미답변 2건 · 큐 0개",
+    "[2026-08-25 22:51:59] agent: 보류 @habitus_lens — 광고성 홍보 게시물(크롬 확장 신규 출시 크레딧 이벤트). 협업/광고 제안에 해당하여 사람 판단 필요.",
+    "[2026-08-25 22:52:19] 이미지 0장 공개 URL 확보",
+    "[2026-08-25 22:52:40] 답글 게시 완료 id=17920779417205257 https://www.threads.com/@studiohaetae/post/DcdybNSn8LW",
+    "[2026-08-25 22:52:40] agent: 게시 @digi2shop.kr"
   ]
 }
