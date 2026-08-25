@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T03:22:30",
+  "generated_at": "2026-08-26T03:28:56",
   "username": "studiohaetae",
   "followers": 90,
   "followers_history": [
@@ -287,7 +287,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 508, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-26 03:03:43] digest 갱신: 팔로워 90 · 미답변 1건 · 큐 0개",
     "[2026-08-26 03:04:02] agent: 보류 @habitus_lens — 협업/광고 제안 - 상대가 자기 크롬 확장(아비투스 렌즈) 홍보 및 크레딧 이벤트 참여를 유도하는 게시물로, 우리 실측 데이터로 답할 질문이 아니라 사람이 판단해야 함 (이후 재평가 중단)",
     "[2026-08-26 03:04:26] digest 갱신: 팔로워 90 · 미답변 1건 · 큐 0개",
     "[2026-08-26 03:04:26] agent: 자동 답글 0건 · 보류 1건(굳은 것 1건)",
@@ -301,6 +300,7 @@
     "[2026-08-26 03:13:41] digest 갱신: 팔로워 90 · 미답변 1건 · 큐 10개",
     "[2026-08-26 03:17:11] refill: 원고 적재 1편 · 건너뜀 0편 · 대기 11편",
     "[2026-08-26 03:21:52] refill: 원고 적재 1편 · 건너뜀 0편 · 대기 11편",
-    "[2026-08-26 03:22:30] refill: 큐 잔량 11편 — 정상"
+    "[2026-08-26 03:22:30] refill: 큐 잔량 11편 — 정상",
+    "[2026-08-26 03:22:54] digest 갱신: 팔로워 90 · 미답변 1건 · 큐 11개"
   ]
 }
