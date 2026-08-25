@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T03:03:19",
+  "generated_at": "2026-08-26T03:04:02",
   "username": "studiohaetae",
   "followers": 90,
   "followers_history": [
@@ -286,8 +286,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 508, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-25 22:51:59] agent: 보류 @habitus_lens — 광고성 홍보 게시물(크롬 확장 신규 출시 크레딧 이벤트). 협업/광고 제안에 해당하여 사람 판단 필요.",
-    "[2026-08-25 22:52:19] 이미지 0장 공개 URL 확보",
     "[2026-08-25 22:52:40] 답글 게시 완료 id=17920779417205257 https://www.threads.com/@studiohaetae/post/DcdybNSn8LW",
     "[2026-08-25 22:52:40] agent: 게시 @digi2shop.kr",
     "[2026-08-25 22:53:06] digest 갱신: 팔로워 90 · 미답변 1건 · 큐 0개",
@@ -300,6 +298,8 @@
     "[2026-08-26 01:53:35] digest 갱신: 팔로워 90 · 미답변 1건 · 큐 0개",
     "[2026-08-26 01:53:46] agent: 보류 @habitus_lens — 본인 제품(크롬 확장) 홍보 글로, 협업·광고 제안에 해당해 사람 판단이 필요함",
     "[2026-08-26 01:54:14] digest 갱신: 팔로워 90 · 미답변 1건 · 큐 0개",
-    "[2026-08-26 01:54:14] agent: 자동 답글 0건 · 보류 1건"
+    "[2026-08-26 01:54:14] agent: 자동 답글 0건 · 보류 1건",
+    "[2026-08-26 03:03:43] digest 갱신: 팔로워 90 · 미답변 1건 · 큐 0개",
+    "[2026-08-26 03:04:02] agent: 보류 @habitus_lens — 협업/광고 제안 - 상대가 자기 크롬 확장(아비투스 렌즈) 홍보 및 크레딧 이벤트 참여를 유도하는 게시물로, 우리 실측 데이터로 답할 질문이 아니라 사람이 판단해야 함 (이후 재평가 중단)"
   ]
 }
