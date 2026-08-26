@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T17:32:19",
+  "generated_at": "2026-08-26T19:32:42",
   "username": "studiohaetae",
   "followers": 90,
   "followers_history": [
@@ -181,7 +181,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Db26OQwGCbi",
       "text": "AI로 만든 노래를 팔 수 있는지 찾아봤습니다.\n\n한국에서 AI가 만든 곡은 저작권이 인정되지 않습니다. 가사만 사람이 썼다면 가사 부분만 등록됩니다.\n\n그리고 음저협은 2025년 9월부터 AI를 활용하지 않았음을 ",
-      "views": 553,
+      "views": 554,
       "likes": 2,
       "replies": 0
     },
@@ -269,7 +269,7 @@
       "is_reply": true,
       "permalink": "https://www.threads.com/@studiohaetae/post/DcdybNSn8LW",
       "text": "맞습니다.\n\n저도 재즈 채널 39편 자동 생성하고 구독자 0명 찍었을 때 그 말이 제일 와닿았어요.\n\n숫자로 보면 더 확실해집니다.",
-      "views": 6,
+      "views": 7,
       "likes": 1,
       "replies": 0
     }
@@ -287,12 +287,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 508, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-26 13:58:26] digest 갱신: 팔로워 90 · 미답변 1건 · 큐 13개",
-    "[2026-08-26 13:58:26] agent: 자동 답글 0건 · 신규 판정 대상 없음",
-    "[2026-08-26 15:32:18] digest 갱신: 팔로워 90 · 미답변 1건 · 큐 13개",
-    "[2026-08-26 15:50:16] outreach: 검색: 유튜브 구독자",
-    "[2026-08-26 15:50:17] outreach: 후보 5건",
-    "[2026-08-26 15:50:55] outreach: 게시 실패 @unar_soo: Locator.click: Timeout 10000ms exceeded.",
     "[2026-08-26 15:51:11] outreach: skip @luridsky_of_me — 육아 소비/알고리즘 충동구매에 대한 일상 글이라 채널 조회수·구독자 전환 숫자를 끼워 넣을 자리가 없음. 억지로 붙이면 어색함",
     "[2026-08-26 15:51:25] outreach: skip @duck.three__ — 퇴사 후 경제적 여유는 있는데 무기력하다는 고민이라 우리 유튜브 자동화 숫자(조회수·구독자·전환율)를 붙이면 억지로 끼워맞추는",
     "[2026-08-26 15:51:34] outreach: skip @kookjin.vision — 정치·시사 주제(이준석 대표직 사퇴 관련)이며 유튜브 채널 운영 숫자가 이 대화에 보탤 게 없음",
@@ -301,6 +295,12 @@
     "[2026-08-26 16:58:54] digest 갱신: 팔로워 90 · 미답변 1건 · 큐 13개",
     "[2026-08-26 16:58:54] agent: 보류 유지 1건 — 재평가 안 함 (@habitus_lens). 다시 보려면 --recheck-all",
     "[2026-08-26 16:59:18] digest 갱신: 팔로워 90 · 미답변 1건 · 큐 13개",
-    "[2026-08-26 16:59:18] agent: 자동 답글 0건 · 신규 판정 대상 없음"
+    "[2026-08-26 16:59:18] agent: 자동 답글 0건 · 신규 판정 대상 없음",
+    "[2026-08-26 17:32:42] digest 갱신: 팔로워 90 · 미답변 1건 · 큐 13개",
+    "[2026-08-26 18:30:10] outreach: 검색: 노출수",
+    "[2026-08-26 18:30:11] outreach: 후보 2건",
+    "[2026-08-26 18:30:49] outreach: 게시 실패 @mathpepl: Locator.click: Timeout 10000ms exceeded.",
+    "[2026-08-26 18:31:13] outreach: skip @ca___pa — 광고 리포트 자동화(Looker Studio) 얘기라 우리 유튜브 채널 숫자를 붙일 자리가 없음. 억지로 끼워 넣으면 대화 맥",
+    "[2026-08-26 18:31:13] outreach: 이번 실행 0건 · 오늘 누적 답글 0/10 · 팔로우 0/6"
   ]
 }
