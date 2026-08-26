@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T05:01:50",
+  "generated_at": "2026-08-27T05:02:23",
   "username": "studiohaetae",
   "followers": 90,
   "followers_history": [
@@ -298,8 +298,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 513, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-26 23:40:22] 답글 26건 수집 -> replies-2026-08-26.json",
-    "[2026-08-26 23:40:36] refill: 큐 잔량 12편 — 정상",
     "[2026-08-26 23:41:03] digest 갱신: 팔로워 90 · 미답변 1건 · 큐 12개",
     "[2026-08-27 01:34:33] digest 갱신: 팔로워 90 · 미답변 1건 · 큐 12개",
     "[2026-08-27 02:01:24] digest 갱신: 팔로워 90 · 미답변 1건 · 큐 12개",
@@ -312,6 +310,8 @@
     "[2026-08-27 03:35:14] outreach: 후보 2건",
     "[2026-08-27 03:35:27] outreach: skip @lim_hong_gyu — 타인의 구독자 10만 축하 게시물이며 홍보성 축하글이라 우리 실측 숫자를 끼워 넣을 자연스러운 지점이 없음",
     "[2026-08-27 03:36:20] outreach: DRY @eco_k: 저희도 채널 11개 전부 구독자 0명에서 시작했습니다. 타로 채널은 528편에 141명, 랭킹 채널 하나는 ",
-    "[2026-08-27 03:36:21] outreach: 이번 실행 1건 · 오늘 누적 답글 0/10 · 팔로우 0/6"
+    "[2026-08-27 03:36:21] outreach: 이번 실행 1건 · 오늘 누적 답글 0/10 · 팔로우 0/6",
+    "[2026-08-27 05:02:23] digest 갱신: 팔로워 90 · 미답변 1건 · 큐 12개",
+    "[2026-08-27 05:02:23] agent: 보류 유지 1건 — 재평가 안 함 (@habitus_lens). 다시 보려면 --recheck-all"
   ]
 }
