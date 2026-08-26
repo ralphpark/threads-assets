@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T16:58:28",
+  "generated_at": "2026-08-26T16:58:54",
   "username": "studiohaetae",
   "followers": 90,
   "followers_history": [
@@ -287,8 +287,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 508, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-26 13:10:58] outreach: 이번 실행 0건 · 오늘 누적 답글 0/10 · 팔로우 0/6",
-    "[2026-08-26 13:31:52] digest 갱신: 팔로워 90 · 미답변 1건 · 큐 13개",
     "[2026-08-26 13:57:56] digest 갱신: 팔로워 90 · 미답변 1건 · 큐 13개",
     "[2026-08-26 13:57:56] agent: 보류 유지 1건 — 재평가 안 함 (@habitus_lens). 다시 보려면 --recheck-all",
     "[2026-08-26 13:58:26] digest 갱신: 팔로워 90 · 미답변 1건 · 큐 13개",
@@ -301,6 +299,8 @@
     "[2026-08-26 15:51:25] outreach: skip @duck.three__ — 퇴사 후 경제적 여유는 있는데 무기력하다는 고민이라 우리 유튜브 자동화 숫자(조회수·구독자·전환율)를 붙이면 억지로 끼워맞추는",
     "[2026-08-26 15:51:34] outreach: skip @kookjin.vision — 정치·시사 주제(이준석 대표직 사퇴 관련)이며 유튜브 채널 운영 숫자가 이 대화에 보탤 게 없음",
     "[2026-08-26 15:51:46] outreach: skip @youkm22 — 채널 시작 알림 글이라 검증할 숫자나 질문이 없음. 우리 실측을 붙이면 억지로 끼어드는 느낌이라 skip",
-    "[2026-08-26 15:51:46] outreach: 이번 실행 0건 · 오늘 누적 답글 0/10 · 팔로우 0/6"
+    "[2026-08-26 15:51:46] outreach: 이번 실행 0건 · 오늘 누적 답글 0/10 · 팔로우 0/6",
+    "[2026-08-26 16:58:54] digest 갱신: 팔로워 90 · 미답변 1건 · 큐 13개",
+    "[2026-08-26 16:58:54] agent: 보류 유지 1건 — 재평가 안 함 (@habitus_lens). 다시 보려면 --recheck-all"
   ]
 }
