@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T23:40:36",
+  "generated_at": "2026-08-27T01:34:07",
   "username": "studiohaetae",
   "followers": 90,
   "followers_history": [
@@ -214,7 +214,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DcgG7sXn9Pd",
       "text": "8월 12일 이 계정 조회수가 4,762회였습니다. 시작 이후 최고였습니다.\n그날 팔로워가 하루에 5명 늘었습니다. 그것도 최고였습니다.\n\n그리고 13일 동안 한 글도 안 올렸습니다.\n어제 조회수는 40회였습니다.\n",
-      "views": 26,
+      "views": 28,
       "likes": 0,
       "replies": 0
     },
@@ -298,7 +298,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 513, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-26 21:10:10] outreach: 검색: 수익창출 조건",
     "[2026-08-26 21:10:10] outreach: 후보 3건",
     "[2026-08-26 21:10:23] outreach: skip @know.youngwoo — 자기소개서 작성 예시(회계정보분석 프로젝트)에 대한 취업 준비 글이라 유튜브 채널 운영 숫자가 들어갈 자리가 없음. 억지로 끼",
     "[2026-08-26 21:10:33] outreach: skip @gray2stone — 정치·시사 주제(한미관계, 전쟁, 국방비)이며 우리 유튜브/AI 숫자가 끼어들 자리가 전혀 없음",
@@ -312,6 +311,7 @@
     "[2026-08-26 23:34:04] digest 갱신: 팔로워 90 · 미답변 1건 · 큐 12개",
     "[2026-08-26 23:40:00] 스냅샷: {\"date\": \"2026-08-26\", \"at\": \"2026-08-26T23:40:00\", \"followers\": 90, \"views\": 100, \"likes\": 0, \"replies\": 0, \"reposts\": 0, \"quotes\": 0, \"clicks\": null}",
     "[2026-08-26 23:40:22] 답글 26건 수집 -> replies-2026-08-26.json",
-    "[2026-08-26 23:40:36] refill: 큐 잔량 12편 — 정상"
+    "[2026-08-26 23:40:36] refill: 큐 잔량 12편 — 정상",
+    "[2026-08-26 23:41:03] digest 갱신: 팔로워 90 · 미답변 1건 · 큐 12개"
   ]
 }
