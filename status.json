@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T05:35:02",
+  "generated_at": "2026-08-27T07:35:34",
   "username": "studiohaetae",
   "followers": 90,
   "followers_history": [
@@ -298,7 +298,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 513, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-27 02:01:24] digest 갱신: 팔로워 90 · 미답변 1건 · 큐 12개",
     "[2026-08-27 02:01:24] agent: 보류 유지 1건 — 재평가 안 함 (@habitus_lens). 다시 보려면 --recheck-all",
     "[2026-08-27 02:01:50] digest 갱신: 팔로워 90 · 미답변 1건 · 큐 12개",
     "[2026-08-27 02:01:50] agent: 자동 답글 0건 · 신규 판정 대상 없음",
@@ -312,6 +311,7 @@
     "[2026-08-27 05:02:23] digest 갱신: 팔로워 90 · 미답변 1건 · 큐 12개",
     "[2026-08-27 05:02:23] agent: 보류 유지 1건 — 재평가 안 함 (@habitus_lens). 다시 보려면 --recheck-all",
     "[2026-08-27 05:02:53] digest 갱신: 팔로워 90 · 미답변 1건 · 큐 12개",
-    "[2026-08-27 05:02:53] agent: 자동 답글 0건 · 신규 판정 대상 없음"
+    "[2026-08-27 05:02:53] agent: 자동 답글 0건 · 신규 판정 대상 없음",
+    "[2026-08-27 05:35:33] digest 갱신: 팔로워 90 · 미답변 1건 · 큐 12개"
   ]
 }
