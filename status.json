@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T15:31:52",
+  "generated_at": "2026-08-26T16:58:28",
   "username": "studiohaetae",
   "followers": 90,
   "followers_history": [
@@ -203,7 +203,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Db8D0DMmAWY",
       "text": "AI로 유튜브 채널 6개를 돌리는데 지난달 수익이 0원입니다.\n\n그래서 궁금한 게 있습니다.\n\n지금까지 AI로 만든 것 중에 제일 잘 만들었는데 제일 안 된 게 뭔가요.\n\n저는 39편짜리 재즈 채널입니다. 구독자 0",
-      "views": 548,
+      "views": 549,
       "likes": 4,
       "replies": 11
     },
@@ -287,20 +287,20 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 508, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-26 11:40:47] outreach: skip @with_in_wood — 목공/주문 관련 잡담 글로 유튜브 조회수·구독자·전환율 같은 우리 실측 숫자가 들어갈 자리가 없다. 억지로 끼우면 어색하다.",
-    "[2026-08-26 11:41:00] outreach: skip @harid.accessories — 노출수가 많다는 것 외에 구체적 숫자나 맥락이 없어서 우리 숫자를 얹을 지점이 없음. 억지로 끼우면 부러움 표현에 데이터로 끼",
-    "[2026-08-26 11:41:12] outreach: skip @mathpepl — 수학의 허수에 대한 철학적 단상이라 유튜브 조회수/구독자 숫자가 낄 자리가 없음. 억지로 붙이면 대화 맥락과 무관해짐",
-    "[2026-08-26 11:41:12] outreach: 이번 실행 0건 · 오늘 누적 답글 0/10 · 팔로우 0/6",
-    "[2026-08-26 13:10:12] outreach: 검색: AI 자동화",
-    "[2026-08-26 13:10:12] outreach: 후보 3건",
-    "[2026-08-26 13:10:26] outreach: skip @aijubjub — 챗GPT 작업 예약 기능 소식 공유 글이라 우리 유튜브 자동화 숫자를 끼워 넣을 접점이 없음. 억지로 붙이면 광고처럼 보임",
-    "[2026-08-26 13:10:45] outreach: skip @money__earnest — 질문이 아니라 이번 달 매출과 직원 증원을 알리는 성공담 게시물이라 답할 지점이 없음. 상대는 인력으로 자동화한 것도 아니라고",
-    "[2026-08-26 13:10:58] outreach: skip @jjong365 — 테스트용 홍보 링크 게시물(allchange.net 유입 유도)이라 우리 실측 숫자를 얹을 대화 맥락이 없음",
     "[2026-08-26 13:10:58] outreach: 이번 실행 0건 · 오늘 누적 답글 0/10 · 팔로우 0/6",
     "[2026-08-26 13:31:52] digest 갱신: 팔로워 90 · 미답변 1건 · 큐 13개",
     "[2026-08-26 13:57:56] digest 갱신: 팔로워 90 · 미답변 1건 · 큐 13개",
     "[2026-08-26 13:57:56] agent: 보류 유지 1건 — 재평가 안 함 (@habitus_lens). 다시 보려면 --recheck-all",
     "[2026-08-26 13:58:26] digest 갱신: 팔로워 90 · 미답변 1건 · 큐 13개",
-    "[2026-08-26 13:58:26] agent: 자동 답글 0건 · 신규 판정 대상 없음"
+    "[2026-08-26 13:58:26] agent: 자동 답글 0건 · 신규 판정 대상 없음",
+    "[2026-08-26 15:32:18] digest 갱신: 팔로워 90 · 미답변 1건 · 큐 13개",
+    "[2026-08-26 15:50:16] outreach: 검색: 유튜브 구독자",
+    "[2026-08-26 15:50:17] outreach: 후보 5건",
+    "[2026-08-26 15:50:55] outreach: 게시 실패 @unar_soo: Locator.click: Timeout 10000ms exceeded.",
+    "[2026-08-26 15:51:11] outreach: skip @luridsky_of_me — 육아 소비/알고리즘 충동구매에 대한 일상 글이라 채널 조회수·구독자 전환 숫자를 끼워 넣을 자리가 없음. 억지로 붙이면 어색함",
+    "[2026-08-26 15:51:25] outreach: skip @duck.three__ — 퇴사 후 경제적 여유는 있는데 무기력하다는 고민이라 우리 유튜브 자동화 숫자(조회수·구독자·전환율)를 붙이면 억지로 끼워맞추는",
+    "[2026-08-26 15:51:34] outreach: skip @kookjin.vision — 정치·시사 주제(이준석 대표직 사퇴 관련)이며 유튜브 채널 운영 숫자가 이 대화에 보탤 게 없음",
+    "[2026-08-26 15:51:46] outreach: skip @youkm22 — 채널 시작 알림 글이라 검증할 숫자나 질문이 없음. 우리 실측을 붙이면 억지로 끼어드는 느낌이라 skip",
+    "[2026-08-26 15:51:46] outreach: 이번 실행 0건 · 오늘 누적 답글 0/10 · 팔로우 0/6"
   ]
 }
