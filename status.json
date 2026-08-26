@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T11:30:53",
+  "generated_at": "2026-08-26T13:31:24",
   "username": "studiohaetae",
   "followers": 90,
   "followers_history": [
@@ -269,7 +269,7 @@
       "is_reply": true,
       "permalink": "https://www.threads.com/@studiohaetae/post/DcdybNSn8LW",
       "text": "맞습니다.\n\n저도 재즈 채널 39편 자동 생성하고 구독자 0명 찍었을 때 그 말이 제일 와닿았어요.\n\n숫자로 보면 더 확실해집니다.",
-      "views": 5,
+      "views": 6,
       "likes": 1,
       "replies": 0
     }
@@ -287,20 +287,20 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 508, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-26 09:17:22] outreach: skip @unjoy.s — 같은 버그 반복 시 멈추고 근본 원인을 찾으라는 워크플로우 조언이라, 여기 낄 수 있는 우리 실측 숫자가 없음. 억지로 붙이면",
-    "[2026-08-26 09:17:46] outreach: DRY @yongin_crest: 저희 자동화는 나눠져 있습니다. Claude Max는 원래 쓰던 구독이고 새로 추가한 유료는 Suno 하나뿐",
-    "[2026-08-26 09:17:46] outreach: 이번 실행 1건 · 오늘 누적 답글 0/10 · 팔로우 0/6",
-    "[2026-08-26 09:20:18] outreach: 검색: 첫 수익",
-    "[2026-08-26 09:20:18] outreach: 후보 4건",
-    "[2026-08-26 09:20:39] outreach: skip @nuriforge — 상대는 아마존 어필리에이트 커미션(3%, $0.79) 얘기인데 우리 실측은 유튜브 채널 구독자/조회수/시청시간이라 도메인이 완",
-    "[2026-08-26 09:20:54] outreach: skip @sum.innn_ — 게시물이 콘텐츠 대필/자동화 서비스가 정보 입력을 요청하는 템플릿 응답이라 유튜브 자동화 숫자를 끼워 넣을 지점이 없음",
-    "[2026-08-26 09:21:11] outreach: skip @honey_pick__ — 맞구독/품앗이형 그룹(스하리·반하리) 게시물 — CLAUDE.md 규칙상 건드리지 않는 대상",
-    "[2026-08-26 09:21:28] outreach: skip @chalcl.kr — 블로그 수익화 강의 판매 홍보 글(수강생 성과 사례 + 사이트 링크 포함). 유튜브 채널 숫자를 끼워 넣을 접점이 없고, 광고",
-    "[2026-08-26 09:21:28] outreach: 이번 실행 0건 · 오늘 누적 답글 0/10 · 팔로우 0/6",
-    "[2026-08-26 09:30:55] digest 갱신: 팔로워 90 · 미답변 1건 · 큐 13개",
-    "[2026-08-26 10:56:58] digest 갱신: 팔로워 90 · 미답변 1건 · 큐 13개",
-    "[2026-08-26 10:56:58] agent: 보류 유지 1건 — 재평가 안 함 (@habitus_lens). 다시 보려면 --recheck-all",
-    "[2026-08-26 10:57:25] digest 갱신: 팔로워 90 · 미답변 1건 · 큐 13개",
-    "[2026-08-26 10:57:25] agent: 자동 답글 0건 · 신규 판정 대상 없음"
+    "[2026-08-26 10:57:25] agent: 자동 답글 0건 · 신규 판정 대상 없음",
+    "[2026-08-26 11:31:21] digest 갱신: 팔로워 90 · 미답변 1건 · 큐 13개",
+    "[2026-08-26 11:40:17] outreach: 검색: 노출수",
+    "[2026-08-26 11:40:17] outreach: 후보 4건",
+    "[2026-08-26 11:40:34] outreach: skip @ca___pa — 구글애즈 리포트 자동화 얘기라 우리 유튜브/구독자 숫자를 붙일 자리가 없다. 억지로 끼워 넣게 됨",
+    "[2026-08-26 11:40:47] outreach: skip @with_in_wood — 목공/주문 관련 잡담 글로 유튜브 조회수·구독자·전환율 같은 우리 실측 숫자가 들어갈 자리가 없다. 억지로 끼우면 어색하다.",
+    "[2026-08-26 11:41:00] outreach: skip @harid.accessories — 노출수가 많다는 것 외에 구체적 숫자나 맥락이 없어서 우리 숫자를 얹을 지점이 없음. 억지로 끼우면 부러움 표현에 데이터로 끼",
+    "[2026-08-26 11:41:12] outreach: skip @mathpepl — 수학의 허수에 대한 철학적 단상이라 유튜브 조회수/구독자 숫자가 낄 자리가 없음. 억지로 붙이면 대화 맥락과 무관해짐",
+    "[2026-08-26 11:41:12] outreach: 이번 실행 0건 · 오늘 누적 답글 0/10 · 팔로우 0/6",
+    "[2026-08-26 13:10:12] outreach: 검색: AI 자동화",
+    "[2026-08-26 13:10:12] outreach: 후보 3건",
+    "[2026-08-26 13:10:26] outreach: skip @aijubjub — 챗GPT 작업 예약 기능 소식 공유 글이라 우리 유튜브 자동화 숫자를 끼워 넣을 접점이 없음. 억지로 붙이면 광고처럼 보임",
+    "[2026-08-26 13:10:45] outreach: skip @money__earnest — 질문이 아니라 이번 달 매출과 직원 증원을 알리는 성공담 게시물이라 답할 지점이 없음. 상대는 인력으로 자동화한 것도 아니라고",
+    "[2026-08-26 13:10:58] outreach: skip @jjong365 — 테스트용 홍보 링크 게시물(allchange.net 유입 유도)이라 우리 실측 숫자를 얹을 대화 맥락이 없음",
+    "[2026-08-26 13:10:58] outreach: 이번 실행 0건 · 오늘 누적 답글 0/10 · 팔로우 0/6"
   ]
 }
