@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T02:00:59",
+  "generated_at": "2026-08-27T02:01:24",
   "username": "studiohaetae",
   "followers": 90,
   "followers_history": [
@@ -298,8 +298,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 513, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-26 21:10:23] outreach: skip @know.youngwoo — 자기소개서 작성 예시(회계정보분석 프로젝트)에 대한 취업 준비 글이라 유튜브 채널 운영 숫자가 들어갈 자리가 없음. 억지로 끼",
-    "[2026-08-26 21:10:33] outreach: skip @gray2stone — 정치·시사 주제(한미관계, 전쟁, 국방비)이며 우리 유튜브/AI 숫자가 끼어들 자리가 전혀 없음",
     "[2026-08-26 21:10:42] outreach: skip @carrot63917 — 커피머신 구성/가격 추천 글로 우리 유튜브 채널 숫자와 접점이 전혀 없음. 판매성 글이라 억지로 끼워 넣을 소재도 아님",
     "[2026-08-26 21:10:43] outreach: 이번 실행 0건 · 오늘 누적 답글 0/10 · 팔로우 0/6",
     "[2026-08-26 21:33:37] digest 갱신: 팔로워 90 · 미답변 1건 · 큐 12개",
@@ -312,6 +310,8 @@
     "[2026-08-26 23:40:22] 답글 26건 수집 -> replies-2026-08-26.json",
     "[2026-08-26 23:40:36] refill: 큐 잔량 12편 — 정상",
     "[2026-08-26 23:41:03] digest 갱신: 팔로워 90 · 미답변 1건 · 큐 12개",
-    "[2026-08-27 01:34:33] digest 갱신: 팔로워 90 · 미답변 1건 · 큐 12개"
+    "[2026-08-27 01:34:33] digest 갱신: 팔로워 90 · 미답변 1건 · 큐 12개",
+    "[2026-08-27 02:01:24] digest 갱신: 팔로워 90 · 미답변 1건 · 큐 12개",
+    "[2026-08-27 02:01:24] agent: 보류 유지 1건 — 재평가 안 함 (@habitus_lens). 다시 보려면 --recheck-all"
   ]
 }
