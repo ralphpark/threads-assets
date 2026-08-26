@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T13:57:56",
+  "generated_at": "2026-08-26T15:31:52",
   "username": "studiohaetae",
   "followers": 90,
   "followers_history": [
@@ -287,8 +287,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 508, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-26 11:40:17] outreach: 후보 4건",
-    "[2026-08-26 11:40:34] outreach: skip @ca___pa — 구글애즈 리포트 자동화 얘기라 우리 유튜브/구독자 숫자를 붙일 자리가 없다. 억지로 끼워 넣게 됨",
     "[2026-08-26 11:40:47] outreach: skip @with_in_wood — 목공/주문 관련 잡담 글로 유튜브 조회수·구독자·전환율 같은 우리 실측 숫자가 들어갈 자리가 없다. 억지로 끼우면 어색하다.",
     "[2026-08-26 11:41:00] outreach: skip @harid.accessories — 노출수가 많다는 것 외에 구체적 숫자나 맥락이 없어서 우리 숫자를 얹을 지점이 없음. 억지로 끼우면 부러움 표현에 데이터로 끼",
     "[2026-08-26 11:41:12] outreach: skip @mathpepl — 수학의 허수에 대한 철학적 단상이라 유튜브 조회수/구독자 숫자가 낄 자리가 없음. 억지로 붙이면 대화 맥락과 무관해짐",
@@ -301,6 +299,8 @@
     "[2026-08-26 13:10:58] outreach: 이번 실행 0건 · 오늘 누적 답글 0/10 · 팔로우 0/6",
     "[2026-08-26 13:31:52] digest 갱신: 팔로워 90 · 미답변 1건 · 큐 13개",
     "[2026-08-26 13:57:56] digest 갱신: 팔로워 90 · 미답변 1건 · 큐 13개",
-    "[2026-08-26 13:57:56] agent: 보류 유지 1건 — 재평가 안 함 (@habitus_lens). 다시 보려면 --recheck-all"
+    "[2026-08-26 13:57:56] agent: 보류 유지 1건 — 재평가 안 함 (@habitus_lens). 다시 보려면 --recheck-all",
+    "[2026-08-26 13:58:26] digest 갱신: 팔로워 90 · 미답변 1건 · 큐 13개",
+    "[2026-08-26 13:58:26] agent: 자동 답글 0건 · 신규 판정 대상 없음"
   ]
 }
