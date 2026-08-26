@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T13:57:25",
+  "generated_at": "2026-08-26T13:57:56",
   "username": "studiohaetae",
   "followers": 90,
   "followers_history": [
@@ -287,8 +287,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 508, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-26 11:31:21] digest 갱신: 팔로워 90 · 미답변 1건 · 큐 13개",
-    "[2026-08-26 11:40:17] outreach: 검색: 노출수",
     "[2026-08-26 11:40:17] outreach: 후보 4건",
     "[2026-08-26 11:40:34] outreach: skip @ca___pa — 구글애즈 리포트 자동화 얘기라 우리 유튜브/구독자 숫자를 붙일 자리가 없다. 억지로 끼워 넣게 됨",
     "[2026-08-26 11:40:47] outreach: skip @with_in_wood — 목공/주문 관련 잡담 글로 유튜브 조회수·구독자·전환율 같은 우리 실측 숫자가 들어갈 자리가 없다. 억지로 끼우면 어색하다.",
@@ -301,6 +299,8 @@
     "[2026-08-26 13:10:45] outreach: skip @money__earnest — 질문이 아니라 이번 달 매출과 직원 증원을 알리는 성공담 게시물이라 답할 지점이 없음. 상대는 인력으로 자동화한 것도 아니라고",
     "[2026-08-26 13:10:58] outreach: skip @jjong365 — 테스트용 홍보 링크 게시물(allchange.net 유입 유도)이라 우리 실측 숫자를 얹을 대화 맥락이 없음",
     "[2026-08-26 13:10:58] outreach: 이번 실행 0건 · 오늘 누적 답글 0/10 · 팔로우 0/6",
-    "[2026-08-26 13:31:52] digest 갱신: 팔로워 90 · 미답변 1건 · 큐 13개"
+    "[2026-08-26 13:31:52] digest 갱신: 팔로워 90 · 미답변 1건 · 큐 13개",
+    "[2026-08-26 13:57:56] digest 갱신: 팔로워 90 · 미답변 1건 · 큐 13개",
+    "[2026-08-26 13:57:56] agent: 보류 유지 1건 — 재평가 안 함 (@habitus_lens). 다시 보려면 --recheck-all"
   ]
 }
