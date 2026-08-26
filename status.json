@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T09:30:27",
+  "generated_at": "2026-08-26T10:56:32",
   "username": "studiohaetae",
   "followers": 90,
   "followers_history": [
@@ -287,7 +287,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 508, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-26 09:15:35] outreach: skip @makeit0317 — 일상 소확행 얘기를 묻는 글이라 우리 채널 숫자(구독자·전환율 등)를 끼워 넣으면 억지스럽다. 데이터 비교를 요청하는 맥락이 ",
     "[2026-08-26 09:15:35] outreach: 이번 실행 0건 · 오늘 누적 답글 0/10 · 팔로우 0/6",
     "[2026-08-26 09:16:51] outreach: 검색: AI 자동화",
     "[2026-08-26 09:16:51] outreach: 후보 3건",
@@ -301,6 +300,7 @@
     "[2026-08-26 09:20:54] outreach: skip @sum.innn_ — 게시물이 콘텐츠 대필/자동화 서비스가 정보 입력을 요청하는 템플릿 응답이라 유튜브 자동화 숫자를 끼워 넣을 지점이 없음",
     "[2026-08-26 09:21:11] outreach: skip @honey_pick__ — 맞구독/품앗이형 그룹(스하리·반하리) 게시물 — CLAUDE.md 규칙상 건드리지 않는 대상",
     "[2026-08-26 09:21:28] outreach: skip @chalcl.kr — 블로그 수익화 강의 판매 홍보 글(수강생 성과 사례 + 사이트 링크 포함). 유튜브 채널 숫자를 끼워 넣을 접점이 없고, 광고",
-    "[2026-08-26 09:21:28] outreach: 이번 실행 0건 · 오늘 누적 답글 0/10 · 팔로우 0/6"
+    "[2026-08-26 09:21:28] outreach: 이번 실행 0건 · 오늘 누적 답글 0/10 · 팔로우 0/6",
+    "[2026-08-26 09:30:55] digest 갱신: 팔로워 90 · 미답변 1건 · 큐 13개"
   ]
 }
