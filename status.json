@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T17:06:16",
+  "generated_at": "2026-08-27T17:37:43",
   "username": "studiohaetae",
   "followers": 90,
   "followers_history": [
@@ -298,20 +298,20 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 513, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-27 15:51:46] outreach: 이번 실행 0건 · 오늘 누적 답글 2/10 · 팔로우 0/6",
-    "[2026-08-27 16:43:33] outreach: 계정 확인: @studiohaetae",
-    "[2026-08-27 16:43:39] outreach: 검색: 유튜브 구독자 → 누적 후보 1건",
-    "[2026-08-27 16:43:46] outreach: 검색: 유튜브 시작한지 → 누적 후보 4건",
-    "[2026-08-27 16:43:53] outreach: 검색: 구독자 1000명 → 누적 후보 11건",
-    "[2026-08-27 16:44:00] outreach: 검색: 채널 개설 → 누적 후보 13건",
-    "[2026-08-27 16:44:07] outreach: 검색: 유튜브 3개월 → 누적 후보 20건",
-    "[2026-08-27 16:44:14] outreach: 검색: 유튜브 알고리즘 → 누적 후보 21건",
-    "[2026-08-27 16:44:15] outreach: 훑은 글 중 제외: 자기 숫자 없음 20 · 광고·영업 17 · 주제 밖 6 · 차단어 3",
-    "[2026-08-27 16:44:15] outreach: 후보 21건 (광고·개인사 제외, 자기 숫자 있는 글만)",
-    "[2026-08-27 16:44:57] outreach: DRY @jeongom.jh: 저희는 채널 10개를 합치면 구독자 593명, 시청시간 2990시간으로 기준의 119%, 100%인데 채널 ",
-    "[2026-08-27 16:45:36] outreach: DRY @ve.urris: 37일에 392만 조회, 구독자 4,500명이면 전환율 0.115%입니다. 저희는 채널 11개 합쳐서 68만",
-    "[2026-08-27 16:45:37] outreach: 이번 실행 2건 · 오늘 누적 답글 2/10 · 팔로우 0/6",
-    "[2026-08-27 17:06:15] digest 갱신: 팔로워 90 · 미답변 1건 · 큐 12개",
-    "[2026-08-27 17:06:15] agent: 보류 유지 1건 — 재평가 안 함 (@habitus_lens). 다시 보려면 --recheck-all"
+    "[2026-08-27 17:06:47] digest 갱신: 팔로워 90 · 미답변 1건 · 큐 12개",
+    "[2026-08-27 17:06:47] agent: 자동 답글 0건 · 신규 판정 대상 없음",
+    "[2026-08-27 17:20:18] outreach: follow: 검색: 유튜브 알고리즘",
+    "[2026-08-27 17:20:26] outreach: follow: 검색: 구독자 100명",
+    "[2026-08-27 17:20:33] outreach: follow: 검색: 유튜브 수익",
+    "[2026-08-27 17:20:39] outreach: follow: 후보 계정 7명",
+    "[2026-08-27 17:21:12] outreach: follow: 프로필 7개 확인 — 팔로워 큰 순으로 진행",
+    "[2026-08-27 17:21:18] outreach: follow: 팔로우 @njobbooking (팔로워 2,048명)",
+    "[2026-08-27 17:22:30] outreach: follow: 팔로우 @musevive_u (팔로워 1,068명)",
+    "[2026-08-27 17:23:29] outreach: follow: 팔로워 368명 @all_that_lounge — 기준(500) 미달, 건너뜀",
+    "[2026-08-27 17:23:29] outreach: follow: 팔로워 210명 @aekyung1004 — 기준(500) 미달, 건너뜀",
+    "[2026-08-27 17:23:29] outreach: follow: 팔로워 3명 @rjswns7474.kr — 기준(500) 미달, 건너뜀",
+    "[2026-08-27 17:23:29] outreach: follow: 팔로워 3명 @aerany.s2y — 기준(500) 미달, 건너뜀",
+    "[2026-08-27 17:23:29] outreach: follow: 팔로워 1명 @bia.creator7 — 기준(500) 미달, 건너뜀",
+    "[2026-08-27 17:23:29] outreach: follow: 이번 회차 2명 · 오늘 누적 8/20"
   ]
 }
