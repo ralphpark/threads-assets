@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T17:37:43",
+  "generated_at": "2026-08-27T19:38:09",
   "username": "studiohaetae",
   "followers": 90,
   "followers_history": [
@@ -298,20 +298,20 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 513, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-27 17:06:47] digest 갱신: 팔로워 90 · 미답변 1건 · 큐 12개",
-    "[2026-08-27 17:06:47] agent: 자동 답글 0건 · 신규 판정 대상 없음",
-    "[2026-08-27 17:20:18] outreach: follow: 검색: 유튜브 알고리즘",
-    "[2026-08-27 17:20:26] outreach: follow: 검색: 구독자 100명",
-    "[2026-08-27 17:20:33] outreach: follow: 검색: 유튜브 수익",
-    "[2026-08-27 17:20:39] outreach: follow: 후보 계정 7명",
-    "[2026-08-27 17:21:12] outreach: follow: 프로필 7개 확인 — 팔로워 큰 순으로 진행",
-    "[2026-08-27 17:21:18] outreach: follow: 팔로우 @njobbooking (팔로워 2,048명)",
-    "[2026-08-27 17:22:30] outreach: follow: 팔로우 @musevive_u (팔로워 1,068명)",
-    "[2026-08-27 17:23:29] outreach: follow: 팔로워 368명 @all_that_lounge — 기준(500) 미달, 건너뜀",
-    "[2026-08-27 17:23:29] outreach: follow: 팔로워 210명 @aekyung1004 — 기준(500) 미달, 건너뜀",
-    "[2026-08-27 17:23:29] outreach: follow: 팔로워 3명 @rjswns7474.kr — 기준(500) 미달, 건너뜀",
-    "[2026-08-27 17:23:29] outreach: follow: 팔로워 3명 @aerany.s2y — 기준(500) 미달, 건너뜀",
-    "[2026-08-27 17:23:29] outreach: follow: 팔로워 1명 @bia.creator7 — 기준(500) 미달, 건너뜀",
-    "[2026-08-27 17:23:29] outreach: follow: 이번 회차 2명 · 오늘 누적 8/20"
+    "[2026-08-27 18:30:39] outreach: 검색: 구독자 1000명 → 누적 후보 9건",
+    "[2026-08-27 18:30:46] outreach: 검색: 채널 개설 → 누적 후보 11건",
+    "[2026-08-27 18:30:56] outreach: 검색: 유튜브 3개월 → 누적 후보 18건",
+    "[2026-08-27 18:31:03] outreach: 검색: 유튜브 알고리즘 → 누적 후보 19건",
+    "[2026-08-27 18:31:04] outreach: 훑은 글 중 제외: 자기 숫자 없음 22 · 광고·영업 15 · 주제 밖 5 · 차단어 4 · 개인사 2",
+    "[2026-08-27 18:31:04] outreach: 후보 19건 (광고·개인사 제외, 자기 숫자 있는 글만)",
+    "[2026-08-27 18:31:52] outreach: 대상 확인: @jeongom.jh (원글 본문 일치)",
+    "[2026-08-27 18:31:59] outreach: 답글 @jeongom.jh",
+    "[2026-08-27 18:32:06] outreach: 팔로우 @jeongom.jh",
+    "[2026-08-27 18:35:10] outreach: skip @happy_smile63 — 유튜브/숏폼/조회수/구독자와 무관한 오메가3 영양제 정보글이라 우리 FACTS로 얹을 숫자가 없음. 브랜드 추천을 유도하는 정",
+    "[2026-08-27 18:35:31] outreach: skip @ddokki_wife — 일과 소개 글이라 계산할 숫자가 없음 (조회수/구독자/수익 등 실측 언급 없음)",
+    "[2026-08-27 18:36:29] outreach: 대상 확인: @kds_style_ (원글 본문 일치)",
+    "[2026-08-27 18:36:36] outreach: 답글 @kds_style_",
+    "[2026-08-27 18:36:43] outreach: 팔로우 @kds_style_",
+    "[2026-08-27 18:36:43] outreach: 이번 실행 2건 · 오늘 누적 답글 4/10 · 팔로우 2/6"
   ]
 }
