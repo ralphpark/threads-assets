@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T17:05:44",
+  "generated_at": "2026-08-27T17:06:16",
   "username": "studiohaetae",
   "followers": 90,
   "followers_history": [
@@ -298,8 +298,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 513, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-27 15:51:33] outreach: skip @salrim_sin_god — 연예인 패션 논란 관련 시사성 글로 유튜브/조회수/구독자 주제와 무관하고 민감한 소재라 우리 숫자를 얹을 수 없음",
-    "[2026-08-27 15:51:46] outreach: skip @studiooo.sisi — 숏폼 대행사 선택 기준을 홍보하는 광고성 글로, 대행사 영업 콘텐츠에 해당해 skip 대상이다",
     "[2026-08-27 15:51:46] outreach: 이번 실행 0건 · 오늘 누적 답글 2/10 · 팔로우 0/6",
     "[2026-08-27 16:43:33] outreach: 계정 확인: @studiohaetae",
     "[2026-08-27 16:43:39] outreach: 검색: 유튜브 구독자 → 누적 후보 1건",
@@ -312,6 +310,8 @@
     "[2026-08-27 16:44:15] outreach: 후보 21건 (광고·개인사 제외, 자기 숫자 있는 글만)",
     "[2026-08-27 16:44:57] outreach: DRY @jeongom.jh: 저희는 채널 10개를 합치면 구독자 593명, 시청시간 2990시간으로 기준의 119%, 100%인데 채널 ",
     "[2026-08-27 16:45:36] outreach: DRY @ve.urris: 37일에 392만 조회, 구독자 4,500명이면 전환율 0.115%입니다. 저희는 채널 11개 합쳐서 68만",
-    "[2026-08-27 16:45:37] outreach: 이번 실행 2건 · 오늘 누적 답글 2/10 · 팔로우 0/6"
+    "[2026-08-27 16:45:37] outreach: 이번 실행 2건 · 오늘 누적 답글 2/10 · 팔로우 0/6",
+    "[2026-08-27 17:06:15] digest 갱신: 팔로워 90 · 미답변 1건 · 큐 12개",
+    "[2026-08-27 17:06:15] agent: 보류 유지 1건 — 재평가 안 함 (@habitus_lens). 다시 보려면 --recheck-all"
   ]
 }
