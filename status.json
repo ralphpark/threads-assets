@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T20:06:46",
+  "generated_at": "2026-08-27T20:07:11",
   "username": "studiohaetae",
   "followers": 91,
   "followers_history": [
@@ -298,8 +298,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 513, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-27 18:36:36] outreach: 답글 @kds_style_",
-    "[2026-08-27 18:36:43] outreach: 팔로우 @kds_style_",
     "[2026-08-27 18:36:43] outreach: 이번 실행 2건 · 오늘 누적 답글 4/10 · 팔로우 2/6",
     "[2026-08-27 19:38:42] digest 갱신: 팔로워 90 · 미답변 1건 · 큐 12개",
     "[2026-08-27 19:40:14] outreach: follow: 검색: 숏폼 조회수",
@@ -312,6 +310,8 @@
     "[2026-08-27 19:42:36] outreach: follow: 팔로우 @jeongom.jh (팔로워 3,854명)",
     "[2026-08-27 19:43:39] outreach: follow: 팔로우 @ieravo_music (팔로워 3,365명)",
     "[2026-08-27 19:44:52] outreach: follow: 팔로우 @suaresu0110 (팔로워 610명)",
-    "[2026-08-27 19:50:41] outreach: follow: 이번 회차 4명 · 오늘 누적 12/20"
+    "[2026-08-27 19:50:41] outreach: follow: 이번 회차 4명 · 오늘 누적 12/20",
+    "[2026-08-27 20:07:11] digest 갱신: 팔로워 91 · 미답변 1건 · 큐 12개",
+    "[2026-08-27 20:07:11] agent: 보류 유지 1건 — 재평가 안 함 (@habitus_lens). 다시 보려면 --recheck-all"
   ]
 }
