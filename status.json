@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T11:03:56",
+  "generated_at": "2026-08-27T11:04:25",
   "username": "studiohaetae",
   "followers": 90,
   "followers_history": [
@@ -298,8 +298,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 513, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-27 09:20:20] outreach: 검색: 첫 수익",
-    "[2026-08-27 09:20:24] outreach: 검색: 쇼츠 조회수",
     "[2026-08-27 09:20:26] outreach: 후보 10건",
     "[2026-08-27 09:20:49] outreach: skip @iris___shorts — 유료 챌린지·VOD·상금을 내세운 판매/모집 홍보 글이라 대화가 아니라 광고다. 우리 숫자를 얹을 자리가 없다.",
     "[2026-08-27 09:21:29] outreach: 입력창 못 찾음 @5sunny_life — 건너뜀",
@@ -312,6 +310,8 @@
     "[2026-08-27 09:23:31] outreach: skip @beomgony — 홍보성 응원 글이라 우리 숫자를 얹으면 상대 경험을 반박하는 모양이 된다. 질문이나 검증 요청이 아니라 낄 자리가 없다.",
     "[2026-08-27 09:24:00] outreach: skip @awds1024 — 대화 주제가 '제작 속도가 빠르면 조회수가 안 나오나'인데 우리에게는 제작 소요시간 관련 실측이 없다. 조회수/구독 전환 숫자",
     "[2026-08-27 09:24:00] outreach: 이번 실행 0건 · 오늘 누적 답글 0/10 · 팔로우 0/6",
-    "[2026-08-27 09:36:28] digest 갱신: 팔로워 90 · 미답변 1건 · 큐 12개"
+    "[2026-08-27 09:36:28] digest 갱신: 팔로워 90 · 미답변 1건 · 큐 12개",
+    "[2026-08-27 11:04:25] digest 갱신: 팔로워 90 · 미답변 1건 · 큐 12개",
+    "[2026-08-27 11:04:25] agent: 보류 유지 1건 — 재평가 안 함 (@habitus_lens). 다시 보려면 --recheck-all"
   ]
 }
