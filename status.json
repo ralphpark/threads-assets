@@ -1,12 +1,8 @@
 {
-  "generated_at": "2026-08-27T23:39:15",
+  "generated_at": "2026-08-27T23:40:39",
   "username": "studiohaetae",
   "followers": 93,
   "followers_history": [
-    {
-      "date": "2026-08-13",
-      "followers": 90
-    },
     {
       "date": "2026-08-14",
       "followers": 90
@@ -58,6 +54,10 @@
     {
       "date": "2026-08-26",
       "followers": 90
+    },
+    {
+      "date": "2026-08-27",
+      "followers": 93
     }
   ],
   "queue_pending": 11,
@@ -359,7 +359,7 @@
         "replies": 5,
         "followups": 1,
         "follows": 18,
-        "followers": null
+        "followers": 93
       }
     ],
     "last_run": {
@@ -369,20 +369,16 @@
     },
     "alerts": [],
     "follow_experiment": {
-      "followers_delta_7d": 0,
+      "followers_delta_7d": 3,
       "follows_7d": 18,
       "replies_7d": 5,
       "note": "팔로우 대비 팔로워 증가. 답글과 섞여 있어 단독 인과는 못 본다"
     }
   },
   "errors": {
-    "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 513, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
+    "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 621, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-27 22:11:12] outreach: follow: 프로필 9개 확인 — 팔로워 큰 순으로 진행",
-    "[2026-08-27 22:11:18] outreach: follow: 팔로우 @myoyeonggim (팔로워 2,213명)",
-    "[2026-08-27 22:12:27] outreach: follow: 팔로우 @im_eun.ae (팔로워 1,353명)",
-    "[2026-08-27 22:13:20] outreach: follow: 팔로워 347명 @eco_k — 기준(500) 미달, 건너뜀",
     "[2026-08-27 22:13:20] outreach: follow: 팔로워 136명 @collseis — 기준(500) 미달, 건너뜀",
     "[2026-08-27 22:13:20] outreach: follow: 팔로워 117명 @ising1474 — 기준(500) 미달, 건너뜀",
     "[2026-08-27 22:13:20] outreach: follow: 팔로워 116명 @elllll_breeze — 기준(500) 미달, 건너뜀",
@@ -393,6 +389,10 @@
     "[2026-08-27 23:08:04] digest 갱신: 팔로워 93 · 미답변 1건 · 큐 11개 · 오늘 답글 5 · 되물음 1 · 팔로우 18",
     "[2026-08-27 23:08:04] agent: 보류 유지 1건 — 재평가 안 함 (@habitus_lens). 다시 보려면 --recheck-all",
     "[2026-08-27 23:08:31] digest 갱신: 팔로워 93 · 미답변 1건 · 큐 11개 · 오늘 답글 5 · 되물음 1 · 팔로우 18",
-    "[2026-08-27 23:08:31] agent: 자동 답글 0건 · 신규 판정 대상 없음"
+    "[2026-08-27 23:08:31] agent: 자동 답글 0건 · 신규 판정 대상 없음",
+    "[2026-08-27 23:39:41] digest 갱신: 팔로워 93 · 미답변 1건 · 큐 11개 · 오늘 답글 5 · 되물음 1 · 팔로우 18",
+    "[2026-08-27 23:40:05] 스냅샷: {\"date\": \"2026-08-27\", \"at\": \"2026-08-27T23:40:05\", \"followers\": 93, \"views\": 242, \"likes\": 0, \"replies\": 1, \"reposts\": 0, \"quotes\": 0, \"clicks\": null}",
+    "[2026-08-27 23:40:25] 답글 26건 수집 -> replies-2026-08-27.json",
+    "[2026-08-27 23:40:39] refill: 큐 잔량 11편 — 정상"
   ]
 }
