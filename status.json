@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T01:39:42",
+  "generated_at": "2026-08-28T02:08:31",
   "username": "studiohaetae",
   "followers": 94,
   "followers_history": [
@@ -203,7 +203,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Db8D0DMmAWY",
       "text": "AI로 유튜브 채널 6개를 돌리는데 지난달 수익이 0원입니다.\n\n그래서 궁금한 게 있습니다.\n\n지금까지 AI로 만든 것 중에 제일 잘 만들었는데 제일 안 된 게 뭔가요.\n\n저는 39편짜리 재즈 채널입니다. 구독자 0",
-      "views": 555,
+      "views": 556,
       "likes": 5,
       "replies": 11
     },
@@ -225,9 +225,9 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DcirvIlGErj",
       "text": "제 쇼츠 채널 4개, 최근 40편에 설명란 링크가 0개였습니다.\n\n그 글을 보고 한 분이 자기 숫자를 주셨습니다.\n누적 조회 3,068회, 수익 0원.\n트래픽 80%가 Shorts 피드였는데 나가는 문이 0개였습니다",
-      "views": 60,
+      "views": 61,
       "likes": 0,
-      "replies": 0
+      "replies": 1
     },
     {
       "at": "2026-08-14T17:42:41",
@@ -303,6 +303,13 @@
       "text": "안녕하세요. 필라테스 옆에 먹방, 롱폼 옆에 숏폼. 측면도킹 듀얼플레이 아비투스 렌즈입니다. 정식 출시 1주차 무료 크레딧으로 시청시간 곱배기 도전해 보시라 댓글 남깁니다. 많이 사랑해 주세요. 아참 크롬 확장이에요^^",
       "at": "2026-08-12T21:51:39+0000",
       "on_post": "18230995339320678"
+    },
+    {
+      "id": "18174825313437000",
+      "username": "pin.rs",
+      "text": "Ai slop",
+      "at": "2026-08-27T16:53:26+0000",
+      "on_post": "18024691322907419"
     }
   ],
   "outreach": {
@@ -379,7 +386,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 621, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-27 22:13:20] outreach: follow: 팔로워 117명 @ising1474 — 기준(500) 미달, 건너뜀",
     "[2026-08-27 22:13:20] outreach: follow: 팔로워 116명 @elllll_breeze — 기준(500) 미달, 건너뜀",
     "[2026-08-27 22:13:20] outreach: follow: 팔로워 88명 @official.hrgroup — 기준(500) 미달, 건너뜀",
     "[2026-08-27 22:13:20] outreach: follow: 팔로워 7명 @heukdo_official — 기준(500) 미달, 건너뜀",
@@ -393,6 +399,7 @@
     "[2026-08-27 23:40:05] 스냅샷: {\"date\": \"2026-08-27\", \"at\": \"2026-08-27T23:40:05\", \"followers\": 93, \"views\": 242, \"likes\": 0, \"replies\": 1, \"reposts\": 0, \"quotes\": 0, \"clicks\": null}",
     "[2026-08-27 23:40:25] 답글 26건 수집 -> replies-2026-08-27.json",
     "[2026-08-27 23:40:39] refill: 큐 잔량 11편 — 정상",
-    "[2026-08-27 23:41:04] digest 갱신: 팔로워 93 · 미답변 1건 · 큐 11개 · 오늘 답글 5 · 되물음 1 · 팔로우 18"
+    "[2026-08-27 23:41:04] digest 갱신: 팔로워 93 · 미답변 1건 · 큐 11개 · 오늘 답글 5 · 되물음 1 · 팔로우 18",
+    "[2026-08-28 01:40:07] digest 갱신: 팔로워 94 · 미답변 1건 · 큐 11개 · 오늘 답글 0 · 되물음 0 · 팔로우 0"
   ]
 }
