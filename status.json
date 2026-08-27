@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-27T23:40:39",
+  "generated_at": "2026-08-28T01:39:42",
   "username": "studiohaetae",
-  "followers": 93,
+  "followers": 94,
   "followers_history": [
     {
       "date": "2026-08-14",
@@ -159,7 +159,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Dbxwoh5GLq0",
       "text": "채널 하나가 지금 멈춰 있습니다. 저작권 스트라이크입니다.\n\n남의 영상을 편집해서 올리던 채널입니다.\n\nContent ID는 법을 따지지 않습니다. 자동으로 걸고, 걸리면 수익은 원저작자에게 갑니다. 경고 세 번이면",
-      "views": 350,
+      "views": 351,
       "likes": 2,
       "replies": 3
     },
@@ -170,7 +170,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Db0VbbZGLM6",
       "text": "Shorts 설명란에 링크를 넣어봤습니다.\n\n같은 줄의 해시태그는 파란 링크가 되는데 URL은 흰 일반 텍스트로 나옵니다. 접근성 트리에서도 link가 아니라 generic으로 잡힙니다.\n\n서식 문제가 아니라 유튜브",
-      "views": 134,
+      "views": 135,
       "likes": 1,
       "replies": 0
     },
@@ -181,7 +181,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Db26OQwGCbi",
       "text": "AI로 만든 노래를 팔 수 있는지 찾아봤습니다.\n\n한국에서 AI가 만든 곡은 저작권이 인정되지 않습니다. 가사만 사람이 썼다면 가사 부분만 등록됩니다.\n\n그리고 음저협은 2025년 9월부터 AI를 활용하지 않았음을 ",
-      "views": 555,
+      "views": 556,
       "likes": 2,
       "replies": 0
     },
@@ -192,7 +192,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Db5fBIImMkv",
       "text": "제 유튜브 채널은 쇼츠 트래픽이 대부분입니다.\n\n어떤 분이 알려줬습니다. Shorts에서는 설명란 링크가 아예 표시되지 않는다고.\n\n확인해봤더니 저는 더 나빴습니다.\n채널 4개 40편에 링크가 애초에 0개였습니다.\n",
-      "views": 346,
+      "views": 347,
       "likes": 1,
       "replies": 0
     },
@@ -203,8 +203,8 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Db8D0DMmAWY",
       "text": "AI로 유튜브 채널 6개를 돌리는데 지난달 수익이 0원입니다.\n\n그래서 궁금한 게 있습니다.\n\n지금까지 AI로 만든 것 중에 제일 잘 만들었는데 제일 안 된 게 뭔가요.\n\n저는 39편짜리 재즈 채널입니다. 구독자 0",
-      "views": 552,
-      "likes": 4,
+      "views": 555,
+      "likes": 5,
       "replies": 11
     },
     {
@@ -214,7 +214,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DcgG7sXn9Pd",
       "text": "8월 12일 이 계정 조회수가 4,762회였습니다. 시작 이후 최고였습니다.\n그날 팔로워가 하루에 5명 늘었습니다. 그것도 최고였습니다.\n\n그리고 13일 동안 한 글도 안 올렸습니다.\n어제 조회수는 40회였습니다.\n",
-      "views": 34,
+      "views": 37,
       "likes": 0,
       "replies": 0
     },
@@ -225,7 +225,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DcirvIlGErj",
       "text": "제 쇼츠 채널 4개, 최근 40편에 설명란 링크가 0개였습니다.\n\n그 글을 보고 한 분이 자기 숫자를 주셨습니다.\n누적 조회 3,068회, 수익 0원.\n트래픽 80%가 Shorts 피드였는데 나가는 문이 0개였습니다",
-      "views": 56,
+      "views": 60,
       "likes": 0,
       "replies": 0
     },
@@ -307,18 +307,11 @@
   ],
   "outreach": {
     "today": {
-      "replies": 5,
-      "followups": 1,
-      "follows": 18
+      "replies": 0,
+      "followups": 0,
+      "follows": 0
     },
     "last7": [
-      {
-        "date": "2026-08-21",
-        "replies": 0,
-        "followups": 0,
-        "follows": 0,
-        "followers": 90
-      },
       {
         "date": "2026-08-22",
         "replies": 0,
@@ -360,6 +353,13 @@
         "followups": 1,
         "follows": 18,
         "followers": 93
+      },
+      {
+        "date": "2026-08-28",
+        "replies": 0,
+        "followups": 0,
+        "follows": 0,
+        "followers": null
       }
     ],
     "last_run": {
@@ -379,7 +379,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 621, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-27 22:13:20] outreach: follow: 팔로워 136명 @collseis — 기준(500) 미달, 건너뜀",
     "[2026-08-27 22:13:20] outreach: follow: 팔로워 117명 @ising1474 — 기준(500) 미달, 건너뜀",
     "[2026-08-27 22:13:20] outreach: follow: 팔로워 116명 @elllll_breeze — 기준(500) 미달, 건너뜀",
     "[2026-08-27 22:13:20] outreach: follow: 팔로워 88명 @official.hrgroup — 기준(500) 미달, 건너뜀",
@@ -393,6 +392,7 @@
     "[2026-08-27 23:39:41] digest 갱신: 팔로워 93 · 미답변 1건 · 큐 11개 · 오늘 답글 5 · 되물음 1 · 팔로우 18",
     "[2026-08-27 23:40:05] 스냅샷: {\"date\": \"2026-08-27\", \"at\": \"2026-08-27T23:40:05\", \"followers\": 93, \"views\": 242, \"likes\": 0, \"replies\": 1, \"reposts\": 0, \"quotes\": 0, \"clicks\": null}",
     "[2026-08-27 23:40:25] 답글 26건 수집 -> replies-2026-08-27.json",
-    "[2026-08-27 23:40:39] refill: 큐 잔량 11편 — 정상"
+    "[2026-08-27 23:40:39] refill: 큐 잔량 11편 — 정상",
+    "[2026-08-27 23:41:04] digest 갱신: 팔로워 93 · 미답변 1건 · 큐 11개 · 오늘 답글 5 · 되물음 1 · 팔로우 18"
   ]
 }
