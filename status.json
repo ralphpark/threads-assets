@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T13:36:53",
+  "generated_at": "2026-08-27T14:04:52",
   "username": "studiohaetae",
   "followers": 90,
   "followers_history": [
@@ -298,20 +298,20 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 513, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-27 13:35:22] outreach: followup: 이미 답한 되물음 @2ho__w (2주) — 표시하고 건너뜀",
-    "[2026-08-27 13:35:29] outreach: followup: 이미 답한 되물음 @luvi_creative (2주) — 표시하고 건너뜀",
-    "[2026-08-27 13:35:37] outreach: followup: 이미 답한 되물음 @steady_idea (2주) — 표시하고 건너뜀",
-    "[2026-08-27 13:35:44] outreach: followup: 이미 답한 되물음 @glitter_ai_factory (2주) — 표시하고 건너뜀",
-    "[2026-08-27 13:35:51] outreach: followup: 이미 답한 되물음 @tiger.hot77 (2주) — 표시하고 건너뜀",
-    "[2026-08-27 13:35:59] outreach: followup: 이미 답한 되물음 @bjlee_2 (2주) — 표시하고 건너뜀",
-    "[2026-08-27 13:36:13] outreach: followup: 이미 답한 되물음 @bjlee_2 (2주) — 표시하고 건너뜀",
-    "[2026-08-27 13:36:21] outreach: followup: 이미 답한 되물음 @eeeaaattt2023 (2주) — 표시하고 건너뜀",
-    "[2026-08-27 13:36:28] outreach: followup: 이미 답한 되물음 @vyvflo_nyk (2주) — 표시하고 건너뜀",
-    "[2026-08-27 13:36:35] outreach: followup: 이미 답한 되물음 @booup_gajang (2주) — 표시하고 건너뜀",
-    "[2026-08-27 13:36:42] outreach: followup: 이미 답한 되물음 @glitter_ai_factory (2주) — 표시하고 건너뜀",
-    "[2026-08-27 13:36:50] outreach: followup: 이미 답한 되물음 @nissisoft21 (2주) — 표시하고 건너뜀",
-    "[2026-08-27 13:36:57] outreach: followup: 이미 답한 되물음 @99_fire_archive (2주) — 표시하고 건너뜀",
-    "[2026-08-27 13:37:04] outreach: followup: 이미 답한 되물음 @goodplan_twojob (3주) — 표시하고 건너뜀",
-    "[2026-08-27 13:37:11] outreach: followup: 이미 답한 되물음 @booup_gajang (3주) — 표시하고 건너뜀"
+    "[2026-08-27 13:38:35] outreach: followup: 계정 확인: @studiohaetae",
+    "[2026-08-27 13:38:43] outreach: followup: 되물음 후보 2건 (이미 답한 것 제외)",
+    "[2026-08-27 13:39:44] outreach: followup: STAGED @bjlee_2 — 승인 대기. 검토 후 --send-staged",
+    "[2026-08-27 13:39:45] outreach: followup: 이번 실행 1건",
+    "[2026-08-27 13:44:19] outreach: followup: 계정 확인: @studiohaetae",
+    "[2026-08-27 13:44:50] outreach: followup: 승인 게시 1건 @bjlee_2",
+    "[2026-08-27 13:56:43] outreach: followup: 계정 확인: @studiohaetae",
+    "[2026-08-27 13:56:51] outreach: followup: 되물음 후보 1건 (이미 답한 것 제외)",
+    "[2026-08-27 13:56:58] outreach: followup: 이 스레드에서 우리가 이미 2번 말했다 @dopamine_addictor_park — 토론 안 한다, 건너뜀",
+    "[2026-08-27 13:57:16] outreach: followup: 이번 실행 0건",
+    "[2026-08-27 14:04:31] outreach: follow: 검색: 유튜브 스튜디오",
+    "[2026-08-27 14:04:35] outreach: follow: 검색: 유튜브 시작한지",
+    "[2026-08-27 14:04:39] outreach: follow: 검색: 구독자 안늘어",
+    "[2026-08-27 14:04:41] outreach: follow: 후보 계정 8명",
+    "[2026-08-27 14:05:02] outreach: follow: 이번 회차 4명 · 오늘 누적 0/20"
   ]
 }
