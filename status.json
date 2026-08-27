@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T23:07:38",
+  "generated_at": "2026-08-27T23:08:04",
   "username": "studiohaetae",
   "followers": 93,
   "followers_history": [
@@ -379,8 +379,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 513, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-27 22:10:11] outreach: follow: 검색: 구독자 100명",
-    "[2026-08-27 22:10:19] outreach: follow: 검색: 유튜브 알고리즘",
     "[2026-08-27 22:10:26] outreach: follow: 검색: 채널 개설",
     "[2026-08-27 22:10:31] outreach: follow: 후보 계정 9명",
     "[2026-08-27 22:11:12] outreach: follow: 프로필 9개 확인 — 팔로워 큰 순으로 진행",
@@ -393,6 +391,8 @@
     "[2026-08-27 22:13:20] outreach: follow: 팔로워 88명 @official.hrgroup — 기준(500) 미달, 건너뜀",
     "[2026-08-27 22:13:20] outreach: follow: 팔로워 7명 @heukdo_official — 기준(500) 미달, 건너뜀",
     "[2026-08-27 22:13:20] outreach: follow: 팔로워 4명 @krjedy — 기준(500) 미달, 건너뜀",
-    "[2026-08-27 22:13:20] outreach: follow: 이번 회차 2명 · 오늘 누적 14/20"
+    "[2026-08-27 22:13:20] outreach: follow: 이번 회차 2명 · 오늘 누적 14/20",
+    "[2026-08-27 23:08:04] digest 갱신: 팔로워 93 · 미답변 1건 · 큐 11개 · 오늘 답글 5 · 되물음 1 · 팔로우 18",
+    "[2026-08-27 23:08:04] agent: 보류 유지 1건 — 재평가 안 함 (@habitus_lens). 다시 보려면 --recheck-all"
   ]
 }
