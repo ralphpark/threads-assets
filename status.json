@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T15:37:17",
+  "generated_at": "2026-08-27T17:05:44",
   "username": "studiohaetae",
   "followers": 90,
   "followers_history": [
@@ -192,7 +192,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Db5fBIImMkv",
       "text": "제 유튜브 채널은 쇼츠 트래픽이 대부분입니다.\n\n어떤 분이 알려줬습니다. Shorts에서는 설명란 링크가 아예 표시되지 않는다고.\n\n확인해봤더니 저는 더 나빴습니다.\n채널 4개 40편에 링크가 애초에 0개였습니다.\n",
-      "views": 345,
+      "views": 346,
       "likes": 1,
       "replies": 0
     },
@@ -203,7 +203,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Db8D0DMmAWY",
       "text": "AI로 유튜브 채널 6개를 돌리는데 지난달 수익이 0원입니다.\n\n그래서 궁금한 게 있습니다.\n\n지금까지 AI로 만든 것 중에 제일 잘 만들었는데 제일 안 된 게 뭔가요.\n\n저는 39편짜리 재즈 채널입니다. 구독자 0",
-      "views": 550,
+      "views": 551,
       "likes": 4,
       "replies": 11
     },
@@ -214,7 +214,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DcgG7sXn9Pd",
       "text": "8월 12일 이 계정 조회수가 4,762회였습니다. 시작 이후 최고였습니다.\n그날 팔로워가 하루에 5명 늘었습니다. 그것도 최고였습니다.\n\n그리고 13일 동안 한 글도 안 올렸습니다.\n어제 조회수는 40회였습니다.\n",
-      "views": 30,
+      "views": 31,
       "likes": 0,
       "replies": 0
     },
@@ -298,20 +298,20 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 513, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-27 14:30:17] outreach: follow: 검색: 구독자 안늘어",
-    "[2026-08-27 14:30:19] outreach: follow: 후보 계정 9명",
-    "[2026-08-27 14:31:20] outreach: follow: 프로필 9개 확인 — 팔로워 큰 순으로 진행",
-    "[2026-08-27 14:31:26] outreach: follow: 팔로우 @gun__ssam01 (팔로워 4,812명)",
-    "[2026-08-27 14:32:24] outreach: follow: 팔로우 @yonggu5411 (팔로워 766명)",
-    "[2026-08-27 14:33:23] outreach: follow: 팔로우 @noemagraph (팔로워 535명)",
-    "[2026-08-27 14:34:10] outreach: follow: 팔로워 345명 @custompop_daily — 기준(500) 미달, 건너뜀",
-    "[2026-08-27 14:34:10] outreach: follow: 팔로워 116명 @nordic_pero — 기준(500) 미달, 건너뜀",
-    "[2026-08-27 14:34:10] outreach: follow: 팔로워 68명 @carelog365 — 기준(500) 미달, 건너뜀",
-    "[2026-08-27 14:34:10] outreach: follow: 팔로워 33명 @younakablog — 기준(500) 미달, 건너뜀",
-    "[2026-08-27 14:34:10] outreach: follow: 팔로워 18명 @sihwank_ — 기준(500) 미달, 건너뜀",
-    "[2026-08-27 14:34:10] outreach: follow: 팔로워 16명 @studiooo.sisi — 기준(500) 미달, 건너뜀",
-    "[2026-08-27 14:34:10] outreach: follow: 이번 회차 3명 · 오늘 누적 6/20",
-    "[2026-08-27 15:30:08] outreach: followup: 계정 확인: @studiohaetae",
-    "[2026-08-27 15:30:16] outreach: followup: 되물음 후보 0건 (이미 답한 것 제외)"
+    "[2026-08-27 15:51:33] outreach: skip @salrim_sin_god — 연예인 패션 논란 관련 시사성 글로 유튜브/조회수/구독자 주제와 무관하고 민감한 소재라 우리 숫자를 얹을 수 없음",
+    "[2026-08-27 15:51:46] outreach: skip @studiooo.sisi — 숏폼 대행사 선택 기준을 홍보하는 광고성 글로, 대행사 영업 콘텐츠에 해당해 skip 대상이다",
+    "[2026-08-27 15:51:46] outreach: 이번 실행 0건 · 오늘 누적 답글 2/10 · 팔로우 0/6",
+    "[2026-08-27 16:43:33] outreach: 계정 확인: @studiohaetae",
+    "[2026-08-27 16:43:39] outreach: 검색: 유튜브 구독자 → 누적 후보 1건",
+    "[2026-08-27 16:43:46] outreach: 검색: 유튜브 시작한지 → 누적 후보 4건",
+    "[2026-08-27 16:43:53] outreach: 검색: 구독자 1000명 → 누적 후보 11건",
+    "[2026-08-27 16:44:00] outreach: 검색: 채널 개설 → 누적 후보 13건",
+    "[2026-08-27 16:44:07] outreach: 검색: 유튜브 3개월 → 누적 후보 20건",
+    "[2026-08-27 16:44:14] outreach: 검색: 유튜브 알고리즘 → 누적 후보 21건",
+    "[2026-08-27 16:44:15] outreach: 훑은 글 중 제외: 자기 숫자 없음 20 · 광고·영업 17 · 주제 밖 6 · 차단어 3",
+    "[2026-08-27 16:44:15] outreach: 후보 21건 (광고·개인사 제외, 자기 숫자 있는 글만)",
+    "[2026-08-27 16:44:57] outreach: DRY @jeongom.jh: 저희는 채널 10개를 합치면 구독자 593명, 시청시간 2990시간으로 기준의 119%, 100%인데 채널 ",
+    "[2026-08-27 16:45:36] outreach: DRY @ve.urris: 37일에 392만 조회, 구독자 4,500명이면 전환율 0.115%입니다. 저희는 채널 11개 합쳐서 68만",
+    "[2026-08-27 16:45:37] outreach: 이번 실행 2건 · 오늘 누적 답글 2/10 · 팔로우 0/6"
   ]
 }
