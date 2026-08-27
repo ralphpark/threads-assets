@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T14:04:52",
+  "generated_at": "2026-08-27T14:05:20",
   "username": "studiohaetae",
   "followers": 90,
   "followers_history": [
@@ -298,8 +298,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 513, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-27 13:38:35] outreach: followup: 계정 확인: @studiohaetae",
-    "[2026-08-27 13:38:43] outreach: followup: 되물음 후보 2건 (이미 답한 것 제외)",
     "[2026-08-27 13:39:44] outreach: followup: STAGED @bjlee_2 — 승인 대기. 검토 후 --send-staged",
     "[2026-08-27 13:39:45] outreach: followup: 이번 실행 1건",
     "[2026-08-27 13:44:19] outreach: followup: 계정 확인: @studiohaetae",
@@ -312,6 +310,8 @@
     "[2026-08-27 14:04:35] outreach: follow: 검색: 유튜브 시작한지",
     "[2026-08-27 14:04:39] outreach: follow: 검색: 구독자 안늘어",
     "[2026-08-27 14:04:41] outreach: follow: 후보 계정 8명",
-    "[2026-08-27 14:05:02] outreach: follow: 이번 회차 4명 · 오늘 누적 0/20"
+    "[2026-08-27 14:05:02] outreach: follow: 이번 회차 4명 · 오늘 누적 0/20",
+    "[2026-08-27 14:05:20] digest 갱신: 팔로워 90 · 미답변 1건 · 큐 12개",
+    "[2026-08-27 14:05:20] agent: 보류 유지 1건 — 재평가 안 함 (@habitus_lens). 다시 보려면 --recheck-all"
   ]
 }
