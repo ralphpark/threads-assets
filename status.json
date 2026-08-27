@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T02:09:45",
+  "generated_at": "2026-08-28T03:40:07",
   "username": "studiohaetae",
   "followers": 94,
   "followers_history": [
@@ -214,7 +214,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DcgG7sXn9Pd",
       "text": "8월 12일 이 계정 조회수가 4,762회였습니다. 시작 이후 최고였습니다.\n그날 팔로워가 하루에 5명 늘었습니다. 그것도 최고였습니다.\n\n그리고 13일 동안 한 글도 안 올렸습니다.\n어제 조회수는 40회였습니다.\n",
-      "views": 37,
+      "views": 38,
       "likes": 0,
       "replies": 0
     },
@@ -225,7 +225,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DcirvIlGErj",
       "text": "제 쇼츠 채널 4개, 최근 40편에 설명란 링크가 0개였습니다.\n\n그 글을 보고 한 분이 자기 숫자를 주셨습니다.\n누적 조회 3,068회, 수익 0원.\n트래픽 80%가 Shorts 피드였는데 나가는 문이 0개였습니다",
-      "views": 61,
+      "views": 64,
       "likes": 0,
       "replies": 2
     },
@@ -291,7 +291,7 @@
       "is_reply": true,
       "permalink": "https://www.threads.com/@studiohaetae/post/DcjSlLNmH_R",
       "text": "맞습니다. AI로 만듭니다.\n\n채널 11개 합쳐서 조회 68만 3천회, 구독자 611명입니다.\n\n그런데 채널 단위로 수익화 기준(구독자 500명)을 넘은 곳은 0개입니다.\n\n슬롭인지 아닌지는 그 숫자로 판단하시면 됩",
-      "views": 0,
+      "views": 3,
       "likes": 0,
       "replies": 0
     }
@@ -367,7 +367,10 @@
       "followups": "2026-08-27T20:50",
       "follows": "2026-08-27T22:13"
     },
-    "alerts": [],
+    "alerts": [
+      "outreach 가 6시간째 안 돌았다 — launchctl list 확인",
+      "followups 가 7시간째 안 돌았다 — launchctl list 확인"
+    ],
     "follow_experiment": {
       "followers_delta_7d": 3,
       "follows_7d": 18,
@@ -375,12 +378,11 @@
       "note": "팔로우 대비 팔로워 증가. 답글과 섞여 있어 단독 인과는 못 본다"
     }
   },
+  "outreach_alert": "outreach 가 6시간째 안 돌았다 — launchctl list 확인 / followups 가 7시간째 안 돌았다 — launchctl list 확인",
   "errors": {
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 621, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-27 23:08:04] digest 갱신: 팔로워 93 · 미답변 1건 · 큐 11개 · 오늘 답글 5 · 되물음 1 · 팔로우 18",
-    "[2026-08-27 23:08:04] agent: 보류 유지 1건 — 재평가 안 함 (@habitus_lens). 다시 보려면 --recheck-all",
     "[2026-08-27 23:08:31] digest 갱신: 팔로워 93 · 미답변 1건 · 큐 11개 · 오늘 답글 5 · 되물음 1 · 팔로우 18",
     "[2026-08-27 23:08:31] agent: 자동 답글 0건 · 신규 판정 대상 없음",
     "[2026-08-27 23:39:41] digest 갱신: 팔로워 93 · 미답변 1건 · 큐 11개 · 오늘 답글 5 · 되물음 1 · 팔로우 18",
@@ -393,6 +395,8 @@
     "[2026-08-28 02:08:55] agent: 보류 유지 1건 — 재평가 안 함 (@habitus_lens). 다시 보려면 --recheck-all",
     "[2026-08-28 02:09:30] 이미지 0장 공개 URL 확보",
     "[2026-08-28 02:09:45] 답글 게시 완료 id=17955825090388555 https://www.threads.com/@studiohaetae/post/DcjSlLNmH_R",
-    "[2026-08-28 02:09:45] agent: 게시 @pin.rs"
+    "[2026-08-28 02:09:45] agent: 게시 @pin.rs",
+    "[2026-08-28 02:10:10] digest 갱신: 팔로워 94 · 미답변 1건 · 큐 11개 · 오늘 답글 0 · 되물음 0 · 팔로우 0",
+    "[2026-08-28 02:10:10] agent: 자동 답글 1건 · 보류 1건(굳은 것 1건)"
   ]
 }
