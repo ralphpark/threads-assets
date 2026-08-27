@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T07:41:14",
+  "generated_at": "2026-08-28T08:12:04",
   "username": "studiohaetae",
   "followers": 94,
   "followers_history": [
@@ -368,9 +368,9 @@
       "follows": "2026-08-27T22:13"
     },
     "alerts": [
-      "outreach 가 10시간째 안 돌았다 — launchctl list 확인",
+      "outreach 가 11시간째 안 돌았다 — launchctl list 확인",
       "followups 가 11시간째 안 돌았다 — launchctl list 확인",
-      "follows 가 9시간째 안 돌았다 — launchctl list 확인"
+      "follows 가 10시간째 안 돌았다 — launchctl list 확인"
     ],
     "follow_experiment": {
       "followers_delta_7d": 3,
@@ -379,12 +379,11 @@
       "note": "팔로우 대비 팔로워 증가. 답글과 섞여 있어 단독 인과는 못 본다"
     }
   },
-  "outreach_alert": "outreach 가 10시간째 안 돌았다 — launchctl list 확인 / followups 가 11시간째 안 돌았다 — launchctl list 확인 / follows 가 9시간째 안 돌았다 — launchctl list 확인",
+  "outreach_alert": "outreach 가 11시간째 안 돌았다 — launchctl list 확인 / followups 가 11시간째 안 돌았다 — launchctl list 확인 / follows 가 10시간째 안 돌았다 — launchctl list 확인",
   "errors": {
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 621, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-27 23:41:04] digest 갱신: 팔로워 93 · 미답변 1건 · 큐 11개 · 오늘 답글 5 · 되물음 1 · 팔로우 18",
     "[2026-08-28 01:40:07] digest 갱신: 팔로워 94 · 미답변 1건 · 큐 11개 · 오늘 답글 0 · 되물음 0 · 팔로우 0",
     "[2026-08-28 02:08:55] digest 갱신: 팔로워 94 · 미답변 2건 · 큐 11개 · 오늘 답글 0 · 되물음 0 · 팔로우 0",
     "[2026-08-28 02:08:55] agent: 보류 유지 1건 — 재평가 안 함 (@habitus_lens). 다시 보려면 --recheck-all",
@@ -398,6 +397,7 @@
     "[2026-08-28 05:11:08] agent: 보류 유지 1건 — 재평가 안 함 (@habitus_lens). 다시 보려면 --recheck-all",
     "[2026-08-28 05:12:04] digest 갱신: 팔로워 94 · 미답변 1건 · 큐 11개 · 오늘 답글 0 · 되물음 0 · 팔로우 0 · !! outreach 가 8시간째 안 돌았다 — launchctl list 확인 / followups 가 8시간째 안 돌았다 — launchctl list 확인 / follows 가 7시간째 안 돌았다 — launchctl list 확인",
     "[2026-08-28 05:12:04] agent: 자동 답글 0건 · 신규 판정 대상 없음",
-    "[2026-08-28 05:41:14] digest 갱신: 팔로워 94 · 미답변 1건 · 큐 11개 · 오늘 답글 0 · 되물음 0 · 팔로우 0 · !! outreach 가 8시간째 안 돌았다 — launchctl list 확인 / followups 가 9시간째 안 돌았다 — launchctl list 확인 / follows 가 7시간째 안 돌았다 — launchctl list 확인"
+    "[2026-08-28 05:41:14] digest 갱신: 팔로워 94 · 미답변 1건 · 큐 11개 · 오늘 답글 0 · 되물음 0 · 팔로우 0 · !! outreach 가 8시간째 안 돌았다 — launchctl list 확인 / followups 가 9시간째 안 돌았다 — launchctl list 확인 / follows 가 7시간째 안 돌았다 — launchctl list 확인",
+    "[2026-08-28 07:41:44] digest 갱신: 팔로워 94 · 미답변 1건 · 큐 11개 · 오늘 답글 0 · 되물음 0 · 팔로우 0 · !! outreach 가 10시간째 안 돌았다 — launchctl list 확인 / followups 가 11시간째 안 돌았다 — launchctl list 확인 / follows 가 9시간째 안 돌았다 — launchctl list 확인"
   ]
 }
