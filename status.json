@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-27T20:07:11",
+  "generated_at": "2026-08-27T21:38:40",
   "username": "studiohaetae",
-  "followers": 91,
+  "followers": 92,
   "followers_history": [
     {
       "date": "2026-08-13",
@@ -60,8 +60,8 @@
       "followers": 90
     }
   ],
-  "queue_pending": 12,
-  "queue_next": "제 쇼츠 채널 4개, 최근 40편에 설명란 링크가 0개였습니다.\n\n그 글을 보고 한 분이 자기 숫자를 주셨습",
+  "queue_pending": 11,
+  "queue_next": "어떤 분이 이렇게 물었습니다.\n\"채널 영상 300개인데 139명. 다른 사람도 그럴까 궁금.\"\n\n이 질문에 ",
   "queue_drafts": 2,
   "posts": [
     {
@@ -214,7 +214,18 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DcgG7sXn9Pd",
       "text": "8월 12일 이 계정 조회수가 4,762회였습니다. 시작 이후 최고였습니다.\n그날 팔로워가 하루에 5명 늘었습니다. 그것도 최고였습니다.\n\n그리고 13일 동안 한 글도 안 올렸습니다.\n어제 조회수는 40회였습니다.\n",
-      "views": 31,
+      "views": 32,
+      "likes": 0,
+      "replies": 0
+    },
+    {
+      "at": "2026-08-27T20:30:14",
+      "n": 15,
+      "id": "18024691322907419",
+      "is_reply": false,
+      "permalink": "https://www.threads.com/@studiohaetae/post/DcirvIlGErj",
+      "text": "제 쇼츠 채널 4개, 최근 40편에 설명란 링크가 0개였습니다.\n\n그 글을 보고 한 분이 자기 숫자를 주셨습니다.\n누적 조회 3,068회, 수익 0원.\n트래픽 80%가 Shorts 피드였는데 나가는 문이 0개였습니다",
+      "views": 26,
       "likes": 0,
       "replies": 0
     },
@@ -294,24 +305,94 @@
       "on_post": "18230995339320678"
     }
   ],
+  "outreach": {
+    "today": {
+      "replies": 5,
+      "followups": 1,
+      "follows": 16
+    },
+    "last7": [
+      {
+        "date": "2026-08-21",
+        "replies": 0,
+        "followups": 0,
+        "follows": 0,
+        "followers": 90
+      },
+      {
+        "date": "2026-08-22",
+        "replies": 0,
+        "followups": 0,
+        "follows": 0,
+        "followers": 90
+      },
+      {
+        "date": "2026-08-23",
+        "replies": 0,
+        "followups": 0,
+        "follows": 0,
+        "followers": 90
+      },
+      {
+        "date": "2026-08-24",
+        "replies": 0,
+        "followups": 0,
+        "follows": 0,
+        "followers": 90
+      },
+      {
+        "date": "2026-08-25",
+        "replies": 0,
+        "followups": 0,
+        "follows": 0,
+        "followers": 90
+      },
+      {
+        "date": "2026-08-26",
+        "replies": 0,
+        "followups": 0,
+        "follows": 0,
+        "followers": 90
+      },
+      {
+        "date": "2026-08-27",
+        "replies": 5,
+        "followups": 1,
+        "follows": 16,
+        "followers": null
+      }
+    ],
+    "last_run": {
+      "outreach": "2026-08-27T21:19",
+      "followups": "2026-08-27T20:50",
+      "follows": "2026-08-27T19:50"
+    },
+    "alerts": [],
+    "follow_experiment": {
+      "followers_delta_7d": 0,
+      "follows_7d": 16,
+      "replies_7d": 5,
+      "note": "팔로우 대비 팔로워 증가. 답글과 섞여 있어 단독 인과는 못 본다"
+    }
+  },
   "errors": {
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 513, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-27 18:36:43] outreach: 이번 실행 2건 · 오늘 누적 답글 4/10 · 팔로우 2/6",
-    "[2026-08-27 19:38:42] digest 갱신: 팔로워 90 · 미답변 1건 · 큐 12개",
-    "[2026-08-27 19:40:14] outreach: follow: 검색: 숏폼 조회수",
-    "[2026-08-27 19:40:22] outreach: follow: 검색: 구독자 100명",
-    "[2026-08-27 19:40:29] outreach: follow: 검색: 유튜브 시작한지",
-    "[2026-08-27 19:40:34] outreach: follow: 후보 계정 13명",
-    "[2026-08-27 19:41:26] outreach: follow: 프로필 12개 확인 — 팔로워 큰 순으로 진행",
-    "[2026-08-27 19:41:32] outreach: follow: 팔로우 @kongkey__ (팔로워 30,000명)",
-    "[2026-08-27 19:42:30] outreach: follow: 이미 팔로우 중 @kds_style_",
-    "[2026-08-27 19:42:36] outreach: follow: 팔로우 @jeongom.jh (팔로워 3,854명)",
-    "[2026-08-27 19:43:39] outreach: follow: 팔로우 @ieravo_music (팔로워 3,365명)",
-    "[2026-08-27 19:44:52] outreach: follow: 팔로우 @suaresu0110 (팔로워 610명)",
-    "[2026-08-27 19:50:41] outreach: follow: 이번 회차 4명 · 오늘 누적 12/20",
-    "[2026-08-27 20:07:11] digest 갱신: 팔로워 91 · 미답변 1건 · 큐 12개",
-    "[2026-08-27 20:07:11] agent: 보류 유지 1건 — 재평가 안 함 (@habitus_lens). 다시 보려면 --recheck-all"
+    "[2026-08-27 21:11:11] outreach: 검색: 첫 영상 → 누적 후보 21건",
+    "[2026-08-27 21:11:13] outreach: 훑은 글 중 제외: 자기 숫자 없음 19 · 광고·영업 9 · 주제 밖 9 · 차단어 5 · 개인사 1",
+    "[2026-08-27 21:11:13] outreach: 후보 21건 (광고·개인사 제외, 자기 숫자 있는 글만)",
+    "[2026-08-27 21:12:10] outreach: 대상 확인: @timebacknote (원글 본문 일치)",
+    "[2026-08-27 21:12:18] outreach: 답글 @timebacknote",
+    "[2026-08-27 21:12:25] outreach: 팔로우 @timebacknote",
+    "[2026-08-27 21:16:57] outreach: skip @okinawa.essay — 인스타그램 릴스 조회수 트렌드(1만→1천 미만) 얘기라 플랫폼이 유튜브가 아니고, 구독자/조회수처럼 짝지어 나눌 두 숫자도 없",
+    "[2026-08-27 21:17:14] outreach: skip @ieravo_music — 유튜브/조회수/구독자와 무관한 신곡 MV 홍보 게시물이며, 판매·홍보 성격의 콘텐츠라 우리 숫자를 얹을 계산 근거도 없음",
+    "[2026-08-27 21:17:42] outreach: skip @champetre_official — 맞구독 모집 글 (\"서로 또 돕고, 같이 성장하자\" + \"구독 눌러줘\") — 품앗이 요청이라 스킵 대상",
+    "[2026-08-27 21:18:01] outreach: skip @doyoung.lee.104 — 숫자 없는 툴 리스트형 홍보성 글. 상대가 올린 조회수/구독자 등 실측 숫자가 전혀 없어 우리 숫자와 비율을 만들 지점이 없음",
+    "[2026-08-27 21:18:47] outreach: 대상 확인: @burning_curve (원글 본문 일치)",
+    "[2026-08-27 21:18:54] outreach: 답글 @burning_curve",
+    "[2026-08-27 21:19:01] outreach: 팔로우 @burning_curve",
+    "[2026-08-27 21:19:02] outreach: 이번 실행 2건 · 오늘 누적 답글 6/10 · 팔로우 4/6",
+    "[2026-08-27 21:37:37] digest 갱신: 팔로워 92 · 미답변 1건 · 큐 11개 · 오늘 답글 5 · 되물음 1 · 팔로우 16"
   ]
 }
