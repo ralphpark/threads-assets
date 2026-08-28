@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T23:18:09",
+  "generated_at": "2026-08-28T23:18:46",
   "username": "studiohaetae",
   "followers": 99,
   "followers_history": [
@@ -404,8 +404,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 621, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-28 20:30:07] 컨테이너 생성 17897112522605032 (n=16)",
-    "[2026-08-28 20:30:15] 게시 완료 n=16 id=18180041734422536",
     "[2026-08-28 20:50:05] outreach: followup: 오늘 답글 10건 — 상한 도달. 종료.",
     "[2026-08-28 21:10:03] outreach: 오늘 답글 10건 — 상한 도달. 종료.",
     "[2026-08-28 21:46:20] digest 갱신: 팔로워 99 · 미답변 3건 · 큐 10개 · 오늘 답글 10 · 되물음 0 · 팔로우 15",
@@ -418,6 +416,8 @@
     "[2026-08-28 22:12:41] outreach: follow: 팔로우 @irum_hahn (팔로워 3,908명)",
     "[2026-08-28 22:13:56] outreach: follow: 팔로우 @book.month (팔로워 2,561명)",
     "[2026-08-28 22:15:25] outreach: follow: 팔로우 @bin.e.papa (팔로워 2,141명)",
-    "[2026-08-28 22:15:25] outreach: follow: 이번 회차 4명 · 오늘 누적 13/20"
+    "[2026-08-28 22:15:25] outreach: follow: 이번 회차 4명 · 오늘 누적 13/20",
+    "[2026-08-28 23:18:46] digest 갱신: 팔로워 99 · 미답변 3건 · 큐 10개 · 오늘 답글 10 · 되물음 0 · 팔로우 19",
+    "[2026-08-28 23:18:46] agent: 보류 유지 3건 — 재평가 안 함 (@habitus_lens, @dino.seed, @dieton_beauty). 다시 보려면 --recheck-all"
   ]
 }
