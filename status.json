@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T15:43:39",
+  "generated_at": "2026-08-28T17:15:51",
   "username": "studiohaetae",
   "followers": 97,
   "followers_history": [
@@ -203,7 +203,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Db8D0DMmAWY",
       "text": "AI로 유튜브 채널 6개를 돌리는데 지난달 수익이 0원입니다.\n\n그래서 궁금한 게 있습니다.\n\n지금까지 AI로 만든 것 중에 제일 잘 만들었는데 제일 안 된 게 뭔가요.\n\n저는 39편짜리 재즈 채널입니다. 구독자 0",
-      "views": 566,
+      "views": 567,
       "likes": 5,
       "replies": 11
     },
@@ -214,7 +214,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DcgG7sXn9Pd",
       "text": "8월 12일 이 계정 조회수가 4,762회였습니다. 시작 이후 최고였습니다.\n그날 팔로워가 하루에 5명 늘었습니다. 그것도 최고였습니다.\n\n그리고 13일 동안 한 글도 안 올렸습니다.\n어제 조회수는 40회였습니다.\n",
-      "views": 56,
+      "views": 58,
       "likes": 1,
       "replies": 1
     },
@@ -225,7 +225,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DcirvIlGErj",
       "text": "제 쇼츠 채널 4개, 최근 40편에 설명란 링크가 0개였습니다.\n\n그 글을 보고 한 분이 자기 숫자를 주셨습니다.\n누적 조회 3,068회, 수익 0원.\n트래픽 80%가 Shorts 피드였는데 나가는 문이 0개였습니다",
-      "views": 90,
+      "views": 93,
       "likes": 1,
       "replies": 3
     },
@@ -321,7 +321,7 @@
   ],
   "outreach": {
     "today": {
-      "replies": 6,
+      "replies": 8,
       "followups": 0,
       "follows": 12
     },
@@ -370,14 +370,14 @@
       },
       {
         "date": "2026-08-28",
-        "replies": 6,
+        "replies": 8,
         "followups": 0,
         "follows": 12,
         "followers": null
       }
     ],
     "last_run": {
-      "outreach": "2026-08-28T13:17",
+      "outreach": "2026-08-28T15:59",
       "followups": "2026-08-28T15:30",
       "follows": "2026-08-28T14:34"
     },
@@ -385,7 +385,7 @@
     "follow_experiment": {
       "followers_delta_7d": 3,
       "follows_7d": 30,
-      "replies_7d": 11,
+      "replies_7d": 13,
       "note": "팔로우 대비 팔로워 증가. 답글과 섞여 있어 단독 인과는 못 본다"
     }
   },
@@ -393,20 +393,20 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 621, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-28 14:30:15] outreach: follow: 검색: 채널 개설",
-    "[2026-08-28 14:30:28] outreach: follow: 검색: 유튜브 수익",
-    "[2026-08-28 14:30:41] outreach: follow: 검색: 영상 조회수",
-    "[2026-08-28 14:30:46] outreach: follow: 후보 계정 7명",
-    "[2026-08-28 14:31:23] outreach: follow: 프로필 7개 확인 — 팔로워 큰 순으로 진행",
-    "[2026-08-28 14:31:29] outreach: follow: 팔로우 @danbaek_unni (팔로워 4,120명)",
-    "[2026-08-28 14:32:20] outreach: follow: 팔로우 @kimone0 (팔로워 1,981명)",
-    "[2026-08-28 14:33:34] outreach: follow: 팔로우 @hyo.jumoney (팔로워 1,580명)",
-    "[2026-08-28 14:34:23] outreach: follow: 팔로워 157명 @cocoa123409 — 기준(500) 미달, 건너뜀",
-    "[2026-08-28 14:34:23] outreach: follow: 팔로워 100명 @money.chu_ — 기준(500) 미달, 건너뜀",
-    "[2026-08-28 14:34:23] outreach: follow: 팔로워 88명 @official.hrgroup — 기준(500) 미달, 건너뜀",
-    "[2026-08-28 14:34:23] outreach: follow: 팔로워 0명 @pa.pre9 — 기준(500) 미달, 건너뜀",
-    "[2026-08-28 14:34:24] outreach: follow: 이번 회차 3명 · 오늘 누적 6/20",
-    "[2026-08-28 15:30:14] outreach: followup: 계정 확인: @studiohaetae",
-    "[2026-08-28 15:30:24] outreach: followup: 되물음 후보 0건 (이미 답한 것 제외)"
+    "[2026-08-28 15:50:26] outreach: 검색: 영상 조회수 → 누적 후보 1건",
+    "[2026-08-28 15:50:34] outreach: 검색: 유튜브 한달 → 누적 후보 4건",
+    "[2026-08-28 15:50:45] outreach: 검색: 유튜브 구독자 → 누적 후보 5건",
+    "[2026-08-28 15:50:53] outreach: 검색: 유튜브 시작한지 → 누적 후보 7건",
+    "[2026-08-28 15:51:00] outreach: 검색: 구독자 1000명 → 누적 후보 11건",
+    "[2026-08-28 15:51:08] outreach: 검색: 채널 개설 → 누적 후보 11건",
+    "[2026-08-28 15:51:10] outreach: 훑은 글 중 제외: 자기 숫자 없음 24 · 광고·영업 11 · 주제 밖 7 · 차단어 5 · 개인사 1",
+    "[2026-08-28 15:51:10] outreach: 후보 11건 (광고·개인사 제외, 자기 숫자 있는 글만)",
+    "[2026-08-28 15:51:43] outreach: skip @keywordmaster_net — 자기 숫자(구독자 10만, 사이트 4~5천개, 서버 100여개 등)를 나열하고 있지만 글의 실제 목적은 '함께 할 업체 11팀",
+    "[2026-08-28 15:52:27] outreach: 대상 확인: @showmiinam (원글 본문 일치)",
+    "[2026-08-28 15:52:35] outreach: 답글 @showmiinam",
+    "[2026-08-28 15:58:05] outreach: 답글 모달이 안 열림 @money.chu_ — 건너뜀",
+    "[2026-08-28 15:58:58] outreach: 대상 확인: @lighthouseinlaw (원글 본문 일치)",
+    "[2026-08-28 15:59:06] outreach: 답글 @lighthouseinlaw",
+    "[2026-08-28 15:59:06] outreach: 이번 실행 2건 · 오늘 누적 답글 8/10 · 팔로우 6/6"
   ]
 }
