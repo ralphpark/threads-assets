@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T17:15:51",
+  "generated_at": "2026-08-28T17:16:34",
   "username": "studiohaetae",
   "followers": 97,
   "followers_history": [
@@ -393,8 +393,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 621, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-28 15:50:26] outreach: 검색: 영상 조회수 → 누적 후보 1건",
-    "[2026-08-28 15:50:34] outreach: 검색: 유튜브 한달 → 누적 후보 4건",
     "[2026-08-28 15:50:45] outreach: 검색: 유튜브 구독자 → 누적 후보 5건",
     "[2026-08-28 15:50:53] outreach: 검색: 유튜브 시작한지 → 누적 후보 7건",
     "[2026-08-28 15:51:00] outreach: 검색: 구독자 1000명 → 누적 후보 11건",
@@ -407,6 +405,8 @@
     "[2026-08-28 15:58:05] outreach: 답글 모달이 안 열림 @money.chu_ — 건너뜀",
     "[2026-08-28 15:58:58] outreach: 대상 확인: @lighthouseinlaw (원글 본문 일치)",
     "[2026-08-28 15:59:06] outreach: 답글 @lighthouseinlaw",
-    "[2026-08-28 15:59:06] outreach: 이번 실행 2건 · 오늘 누적 답글 8/10 · 팔로우 6/6"
+    "[2026-08-28 15:59:06] outreach: 이번 실행 2건 · 오늘 누적 답글 8/10 · 팔로우 6/6",
+    "[2026-08-28 17:16:34] digest 갱신: 팔로워 97 · 미답변 3건 · 큐 11개 · 오늘 답글 8 · 되물음 0 · 팔로우 12",
+    "[2026-08-28 17:16:34] agent: 보류 유지 3건 — 재평가 안 함 (@habitus_lens, @dino.seed, @dieton_beauty). 다시 보려면 --recheck-all"
   ]
 }
