@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T19:44:51",
+  "generated_at": "2026-08-28T20:17:07",
   "username": "studiohaetae",
   "followers": 99,
   "followers_history": [
@@ -181,7 +181,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Db26OQwGCbi",
       "text": "AI로 만든 노래를 팔 수 있는지 찾아봤습니다.\n\n한국에서 AI가 만든 곡은 저작권이 인정되지 않습니다. 가사만 사람이 썼다면 가사 부분만 등록됩니다.\n\n그리고 음저협은 2025년 9월부터 AI를 활용하지 않았음을 ",
-      "views": 566,
+      "views": 568,
       "likes": 2,
       "replies": 0
     },
@@ -192,7 +192,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Db5fBIImMkv",
       "text": "제 유튜브 채널은 쇼츠 트래픽이 대부분입니다.\n\n어떤 분이 알려줬습니다. Shorts에서는 설명란 링크가 아예 표시되지 않는다고.\n\n확인해봤더니 저는 더 나빴습니다.\n채널 4개 40편에 링크가 애초에 0개였습니다.\n",
-      "views": 359,
+      "views": 361,
       "likes": 1,
       "replies": 0
     },
@@ -203,7 +203,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Db8D0DMmAWY",
       "text": "AI로 유튜브 채널 6개를 돌리는데 지난달 수익이 0원입니다.\n\n그래서 궁금한 게 있습니다.\n\n지금까지 AI로 만든 것 중에 제일 잘 만들었는데 제일 안 된 게 뭔가요.\n\n저는 39편짜리 재즈 채널입니다. 구독자 0",
-      "views": 571,
+      "views": 573,
       "likes": 5,
       "replies": 11
     },
@@ -214,7 +214,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DcgG7sXn9Pd",
       "text": "8월 12일 이 계정 조회수가 4,762회였습니다. 시작 이후 최고였습니다.\n그날 팔로워가 하루에 5명 늘었습니다. 그것도 최고였습니다.\n\n그리고 13일 동안 한 글도 안 올렸습니다.\n어제 조회수는 40회였습니다.\n",
-      "views": 64,
+      "views": 65,
       "likes": 1,
       "replies": 1
     },
@@ -225,7 +225,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DcirvIlGErj",
       "text": "제 쇼츠 채널 4개, 최근 40편에 설명란 링크가 0개였습니다.\n\n그 글을 보고 한 분이 자기 숫자를 주셨습니다.\n누적 조회 3,068회, 수익 0원.\n트래픽 80%가 Shorts 피드였는데 나가는 문이 0개였습니다",
-      "views": 102,
+      "views": 103,
       "likes": 1,
       "replies": 3
     },
@@ -291,7 +291,7 @@
       "is_reply": true,
       "permalink": "https://www.threads.com/@studiohaetae/post/DcjSlLNmH_R",
       "text": "맞습니다. AI로 만듭니다.\n\n채널 11개 합쳐서 조회 68만 3천회, 구독자 611명입니다.\n\n그런데 채널 단위로 수익화 기준(구독자 500명)을 넘은 곳은 0개입니다.\n\n슬롭인지 아닌지는 그 숫자로 판단하시면 됩",
-      "views": 10,
+      "views": 11,
       "likes": 0,
       "replies": 0
     }
@@ -393,7 +393,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 621, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-28 18:39:02] outreach: 대상 확인: @zakugio (원글 본문 일치)",
     "[2026-08-28 18:39:09] outreach: 답글 @zakugio",
     "[2026-08-28 18:39:09] outreach: 이번 실행 2건 · 오늘 누적 답글 10/10 · 팔로우 6/6",
     "[2026-08-28 19:40:16] outreach: follow: 검색: 구독자 1000명",
@@ -407,6 +406,7 @@
     "[2026-08-28 19:43:06] outreach: follow: 팔로워 36명 @honeytip_judy — 기준(500) 미달, 건너뜀",
     "[2026-08-28 19:43:06] outreach: follow: 팔로워 29명 @zakugio — 기준(500) 미달, 건너뜀",
     "[2026-08-28 19:43:06] outreach: follow: 팔로워 13명 @heukdo_official — 기준(500) 미달, 건너뜀",
-    "[2026-08-28 19:43:06] outreach: follow: 이번 회차 1명 · 오늘 누적 9/20"
+    "[2026-08-28 19:43:06] outreach: follow: 이번 회차 1명 · 오늘 누적 9/20",
+    "[2026-08-28 19:45:32] digest 갱신: 팔로워 99 · 미답변 3건 · 큐 11개 · 오늘 답글 10 · 되물음 0 · 팔로우 15"
   ]
 }
