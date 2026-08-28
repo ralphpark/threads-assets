@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T20:17:07",
+  "generated_at": "2026-08-28T20:17:39",
   "username": "studiohaetae",
   "followers": 99,
   "followers_history": [
@@ -393,8 +393,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 621, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-28 18:39:09] outreach: 답글 @zakugio",
-    "[2026-08-28 18:39:09] outreach: 이번 실행 2건 · 오늘 누적 답글 10/10 · 팔로우 6/6",
     "[2026-08-28 19:40:16] outreach: follow: 검색: 구독자 1000명",
     "[2026-08-28 19:40:24] outreach: follow: 검색: 애드센스 승인",
     "[2026-08-28 19:41:09] outreach: follow: 검색: 구독자 정체",
@@ -407,6 +405,8 @@
     "[2026-08-28 19:43:06] outreach: follow: 팔로워 29명 @zakugio — 기준(500) 미달, 건너뜀",
     "[2026-08-28 19:43:06] outreach: follow: 팔로워 13명 @heukdo_official — 기준(500) 미달, 건너뜀",
     "[2026-08-28 19:43:06] outreach: follow: 이번 회차 1명 · 오늘 누적 9/20",
-    "[2026-08-28 19:45:32] digest 갱신: 팔로워 99 · 미답변 3건 · 큐 11개 · 오늘 답글 10 · 되물음 0 · 팔로우 15"
+    "[2026-08-28 19:45:32] digest 갱신: 팔로워 99 · 미답변 3건 · 큐 11개 · 오늘 답글 10 · 되물음 0 · 팔로우 15",
+    "[2026-08-28 20:17:39] digest 갱신: 팔로워 99 · 미답변 3건 · 큐 11개 · 오늘 답글 10 · 되물음 0 · 팔로우 15",
+    "[2026-08-28 20:17:39] agent: 보류 유지 3건 — 재평가 안 함 (@habitus_lens, @dino.seed, @dieton_beauty). 다시 보려면 --recheck-all"
   ]
 }
