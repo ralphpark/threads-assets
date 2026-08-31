@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T08:00:36",
+  "generated_at": "2026-09-01T08:01:19",
   "username": "studiohaetae",
   "followers": 108,
   "followers_history": [
@@ -449,8 +449,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 621, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-31 23:40:32] 답글 31건 수집 -> replies-2026-08-31.json",
-    "[2026-08-31 23:40:46] refill: 큐 잔량 7편 — 정상",
     "[2026-08-31 23:41:31] digest 갱신: 팔로워 108 · 미답변 5건 · 큐 7개 · 오늘 답글 8 · 되물음 0 · 팔로우 10 · !! followups 가 15시간째 안 돌았다 — launchctl list 확인",
     "[2026-09-01 03:10:02] 토큰 갱신 완료 — 만료까지 5184000초",
     "[2026-09-01 03:57:48] digest 갱신: 팔로워 108 · 미답변 5건 · 큐 7개 · 오늘 답글 0 · 되물음 0 · 팔로우 0 · !! outreach 가 9시간째 안 돌았다 — launchctl list 확인 / followups 가 19시간째 안 돌았다 — launchctl list 확인",
@@ -463,6 +461,8 @@
     "[2026-09-01 05:00:33] digest 갱신: 팔로워 108 · 미답변 4건 · 큐 7개 · 오늘 답글 0 · 되물음 0 · 팔로우 0 · !! outreach 가 10시간째 안 돌았다 — launchctl list 확인 / followups 가 20시간째 안 돌았다 — launchctl list 확인 / follows 가 7시간째 안 돌았다 — launchctl list 확인",
     "[2026-09-01 05:00:33] agent: 자동 답글 1건 · 보류 4건(굳은 것 4건)",
     "[2026-09-01 05:58:26] digest 갱신: 팔로워 108 · 미답변 4건 · 큐 7개 · 오늘 답글 0 · 되물음 0 · 팔로우 0 · !! outreach 가 11시간째 안 돌았다 — launchctl list 확인 / followups 가 21시간째 안 돌았다 — launchctl list 확인 / follows 가 8시간째 안 돌았다 — launchctl list 확인",
-    "[2026-09-01 07:59:14] digest 갱신: 팔로워 108 · 미답변 4건 · 큐 7개 · 오늘 답글 0 · 되물음 0 · 팔로우 0 · !! outreach 가 13시간째 안 돌았다 — launchctl list 확인 / followups 가 23시간째 안 돌았다 — launchctl list 확인 / follows 가 10시간째 안 돌았다 — launchctl list 확인"
+    "[2026-09-01 07:59:14] digest 갱신: 팔로워 108 · 미답변 4건 · 큐 7개 · 오늘 답글 0 · 되물음 0 · 팔로우 0 · !! outreach 가 13시간째 안 돌았다 — launchctl list 확인 / followups 가 23시간째 안 돌았다 — launchctl list 확인 / follows 가 10시간째 안 돌았다 — launchctl list 확인",
+    "[2026-09-01 08:01:19] digest 갱신: 팔로워 108 · 미답변 4건 · 큐 7개 · 오늘 답글 0 · 되물음 0 · 팔로우 0 · !! outreach 가 13시간째 안 돌았다 — launchctl list 확인 / followups 가 23시간째 안 돌았다 — launchctl list 확인 / follows 가 10시간째 안 돌았다 — launchctl list 확인",
+    "[2026-09-01 08:01:19] agent: 보류 유지 4건 — 재평가 안 함 (@habitus_lens, @dino.seed, @dieton_beauty, @unprototypeart). 다시 보려면 --recheck-all"
   ]
 }
