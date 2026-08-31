@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T04:57:11",
+  "generated_at": "2026-09-01T04:59:33",
   "username": "studiohaetae",
   "followers": 108,
   "followers_history": [
@@ -249,7 +249,7 @@
       "text": "지난 3주 답글에서 같은 말을 세 분한테 들었습니다.\n\n\"자동화 쇼츠는 안 됩니다.\"\n\"AI로 자동화하는 것보다 수동으로 한 개 만드는 게 더 벌더라.\"\n\"까놓고 AI로 수익화하겠다는 게 말이 안 됨.\"\n\n제 숫자로",
       "views": 123,
       "likes": 1,
-      "replies": 1
+      "replies": 2
     },
     {
       "at": "2026-08-30T20:30:13",
@@ -271,17 +271,6 @@
       "text": "답글로 두 건을 받았습니다.\n\n한 분은 AI로 열 몇 개를 돌려 겨우 하나 수익창출을 했는데, 수익창출 금지를 받고 결국 계정이 삭제됐습니다.\n다른 분은 수익 정지는 채널이 남는 거라 회복을 노릴 이유가 없고 보통 ",
       "views": 68,
       "likes": 2,
-      "replies": 0
-    },
-    {
-      "at": "2026-08-14T20:44:30",
-      "n": -1,
-      "id": "17901404553519604",
-      "is_reply": true,
-      "permalink": "https://www.threads.com/@studiohaetae/post/DcBPBj2mCz2",
-      "text": "수익정지가 아니라 저작권 스트라이크로 채널 자체가 정지됐습니다.\n\n유지냐 환승이냐를 고를 계제도 아니었어요, 이미 막혀서 접근 자체가 안 됩니다.\n\n나머지 5개 채널은 그대로 자동 운영 중입니다.",
-      "views": 12,
-      "likes": 0,
       "replies": 0
     },
     {
@@ -338,6 +327,17 @@
       "views": 12,
       "likes": 0,
       "replies": 0
+    },
+    {
+      "at": "2026-09-01T04:59:06",
+      "n": -1,
+      "id": "18351108439175705",
+      "is_reply": true,
+      "permalink": "https://www.threads.com/@studiohaetae/post/Dct5ItoEv7K",
+      "text": "맞말입니다. 만든 제가 봐도 재미없어서 부정을 못 합니다.\n\n돌리는 채널(랭킹 계열+타로) 평균 시청 지속시간이 23~35초입니다.\n\n11개 채널 합쳐도 전환율이 0.059%인 걸 보면 감보다 구조 문제일 가능성도 ",
+      "views": 0,
+      "likes": 0,
+      "replies": 0
     }
   ],
   "unanswered_replies": [
@@ -361,13 +361,6 @@
       "text": "스하리♡",
       "at": "2026-08-28T02:56:54+0000",
       "on_post": "18024691322907419"
-    },
-    {
-      "id": "18014776088930141",
-      "username": "d_u_n_2_",
-      "text": "자동화가 나쁜거보다 사용자가 감없는거 아닐까여?\n만든영상이 누가봐도 재미있나요?",
-      "at": "2026-08-31T02:00:15+0000",
-      "on_post": "18007930406952124"
     },
     {
       "id": "17974543754918471",
@@ -456,12 +449,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 621, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-08-31 22:12:06] outreach: follow: 팔로워 187명 @money.chu_ — 기준(500) 미달, 건너뜀",
-    "[2026-08-31 22:12:06] outreach: follow: 팔로워 96명 @worth.it_kr — 기준(500) 미달, 건너뜀",
-    "[2026-08-31 22:12:06] outreach: follow: 팔로워 36명 @reelbuddy_cash — 기준(500) 미달, 건너뜀",
-    "[2026-08-31 22:12:06] outreach: follow: 팔로워 30명 @zakugio — 기준(500) 미달, 건너뜀",
-    "[2026-08-31 22:12:06] outreach: follow: 팔로워 18명 @kim.yojoo — 기준(500) 미달, 건너뜀",
-    "[2026-08-31 22:12:06] outreach: follow: 팔로워 12명 @able__marketing — 기준(500) 미달, 건너뜀",
     "[2026-08-31 22:12:06] outreach: follow: 팔로워 1명 @spamsibal — 기준(500) 미달, 건너뜀",
     "[2026-08-31 22:12:06] outreach: follow: 팔로워 0명 @vol.1studio — 기준(500) 미달, 건너뜀",
     "[2026-08-31 22:12:06] outreach: follow: 이번 회차 0명 · 오늘 누적 4/20",
@@ -470,6 +457,12 @@
     "[2026-08-31 23:40:46] refill: 큐 잔량 7편 — 정상",
     "[2026-08-31 23:41:31] digest 갱신: 팔로워 108 · 미답변 5건 · 큐 7개 · 오늘 답글 8 · 되물음 0 · 팔로우 10 · !! followups 가 15시간째 안 돌았다 — launchctl list 확인",
     "[2026-09-01 03:10:02] 토큰 갱신 완료 — 만료까지 5184000초",
-    "[2026-09-01 03:57:48] digest 갱신: 팔로워 108 · 미답변 5건 · 큐 7개 · 오늘 답글 0 · 되물음 0 · 팔로우 0 · !! outreach 가 9시간째 안 돌았다 — launchctl list 확인 / followups 가 19시간째 안 돌았다 — launchctl list 확인"
+    "[2026-09-01 03:57:48] digest 갱신: 팔로워 108 · 미답변 5건 · 큐 7개 · 오늘 답글 0 · 되물음 0 · 팔로우 0 · !! outreach 가 9시간째 안 돌았다 — launchctl list 확인 / followups 가 19시간째 안 돌았다 — launchctl list 확인",
+    "[2026-09-01 04:58:16] digest 갱신: 팔로워 108 · 미답변 5건 · 큐 7개 · 오늘 답글 0 · 되물음 0 · 팔로우 0 · !! outreach 가 10시간째 안 돌았다 — launchctl list 확인 / followups 가 20시간째 안 돌았다 — launchctl list 확인 / follows 가 7시간째 안 돌았다 — launchctl list 확인",
+    "[2026-09-01 04:58:16] agent: 보류 유지 3건 — 재평가 안 함 (@habitus_lens, @dino.seed, @dieton_beauty). 다시 보려면 --recheck-all",
+    "[2026-09-01 04:58:46] 이미지 0장 공개 URL 확보",
+    "[2026-09-01 04:59:06] 답글 게시 완료 id=18351108439175705 https://www.threads.com/@studiohaetae/post/Dct5ItoEv7K",
+    "[2026-09-01 04:59:06] agent: 게시 @d_u_n_2_",
+    "[2026-09-01 04:59:33] agent: 보류 @unprototypeart — 전략 전체를 부정하며 훈계하는 논쟁조 비판(안봐도 비디오, 유튜브는 물량으로 안된다, AI저품질 양산 등) — 시비·논쟁성 내용으로 보류 대상 (이후 재평가 중단)"
   ]
 }
