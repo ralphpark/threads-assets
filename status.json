@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T11:02:04",
+  "generated_at": "2026-09-01T11:03:53",
   "username": "studiohaetae",
   "followers": 108,
   "followers_history": [
@@ -271,18 +271,7 @@
       "text": "답글로 두 건을 받았습니다.\n\n한 분은 AI로 열 몇 개를 돌려 겨우 하나 수익창출을 했는데, 수익창출 금지를 받고 결국 계정이 삭제됐습니다.\n다른 분은 수익 정지는 채널이 남는 거라 회복을 노릴 이유가 없고 보통 ",
       "views": 85,
       "likes": 3,
-      "replies": 1
-    },
-    {
-      "at": "2026-08-15T02:48:53",
-      "n": -1,
-      "id": "17960548221183836",
-      "is_reply": true,
-      "permalink": "https://www.threads.com/@studiohaetae/post/DcB4t5yH6W-",
-      "text": "광고수익 조건 그대로 못 채운 상태입니다.\n\n랭킹 채널 기준 구독자 23/500, 유효 시청시간 0시간/3,000시간.\n둘 다 미달이라 애초에 광고가 붙을 수 없습니다.\n\n그래서 6채널 지난달 조회수 19만 6천에 ",
-      "views": 6,
-      "likes": 0,
-      "replies": 0
+      "replies": 2
     },
     {
       "at": "2026-08-20T12:57:01",
@@ -338,6 +327,17 @@
       "views": 0,
       "likes": 0,
       "replies": 0
+    },
+    {
+      "at": "2026-09-01T11:03:52",
+      "n": -1,
+      "id": "18113736329065983",
+      "is_reply": true,
+      "permalink": "https://www.threads.com/@studiohaetae/post/Dcui3xHH3Re",
+      "text": "감사합니다.\n지금 채널 11개를 다 합쳐도 구독자 779명, 시청시간 3029시간으로 기준(채널당 500명·3000시간)을 겨우 넘는 수준입니다.\n그런데 채널 단위로 보면 기준 넘은 곳은 0개입니다.",
+      "views": 0,
+      "likes": 0,
+      "replies": 0
     }
   ],
   "unanswered_replies": [
@@ -361,13 +361,6 @@
       "text": "안타깝습니다 안봐도 비디오인게 ai공장영상일거고 채널이 열댓개가 아니라 백개 이백개여도 안됩니다 유튜브는 물량으로 되는곳이 아닙니다 그 물량 시절은 ai잠깐 깔짝 시절이 있었고 그때 대거 들어온 물량공세에 유튜브가 광고비 뺏기기 싫어서 더더욱 안줍니다 물량공세 말고 유튜브 퀄리티를 올려야해요 이퀄리티는 ai이용을 하지않아야해요 사람이 중심이되 ai가 도움닿아서 해야합니다 대부분 상위 유튜버들은 영상한편에 며칠씩 길게는 일주일씩 갈아넣는데 님의 ai저품질 양산 영상이 그틈의 경쟁에서 이길수가 없어요 알고리즘의문제가 아니라 실제로 그 영상을 보는건 사람이란걸 잊지마세요",
       "at": "2026-08-30T16:51:16+0000",
       "on_post": "17962196172186220"
-    },
-    {
-      "id": "18406055635093559",
-      "username": "dino.seed",
-      "text": "아쉽네요ㅠ 화이팅입니다ㅠㅠ",
-      "at": "2026-08-31T23:18:14+0000",
-      "on_post": "17991172898844325"
     }
   ],
   "outreach": {
@@ -458,11 +451,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 621, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-09-01 10:30:37] outreach: follow: 검색: 유튜브 알고리즘",
-    "[2026-09-01 10:30:42] outreach: follow: 후보 계정 11명",
-    "[2026-09-01 10:31:29] outreach: follow: 프로필 11개 확인 — 팔로워 큰 순으로 진행",
-    "[2026-09-01 10:31:35] outreach: follow: 팔로우 @ve.rris (팔로워 100,000명)",
-    "[2026-09-01 10:32:46] outreach: follow: 팔로우 @coreacoach (팔로워 2,663명)",
     "[2026-09-01 10:33:56] outreach: follow: 이미 팔로우 중 @moin_hamburger",
     "[2026-09-01 10:33:56] outreach: follow: 팔로워 406명 @jules.ownwork — 기준(500) 미달, 건너뜀",
     "[2026-09-01 10:33:56] outreach: follow: 이미 팔로우 중 @geumjassi.trot",
@@ -472,6 +460,11 @@
     "[2026-09-01 10:33:56] outreach: follow: 팔로워 2명 @doran63712 — 기준(500) 미달, 건너뜀",
     "[2026-09-01 10:33:56] outreach: follow: 팔로워 1명 @pick_boda — 기준(500) 미달, 건너뜀",
     "[2026-09-01 10:33:56] outreach: follow: 팔로워 1명 @shorts.cheatkey — 기준(500) 미달, 건너뜀",
-    "[2026-09-01 10:33:56] outreach: follow: 이번 회차 2명 · 오늘 누적 2/20"
+    "[2026-09-01 10:33:56] outreach: follow: 이번 회차 2명 · 오늘 누적 2/20",
+    "[2026-09-01 11:02:42] digest 갱신: 팔로워 108 · 미답변 4건 · 큐 7개 · 오늘 답글 2 · 되물음 0 · 팔로우 4",
+    "[2026-09-01 11:02:42] agent: 보류 유지 3건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart). 다시 보려면 --recheck-all",
+    "[2026-09-01 11:03:29] 이미지 0장 공개 URL 확보",
+    "[2026-09-01 11:03:52] 답글 게시 완료 id=18113736329065983 https://www.threads.com/@studiohaetae/post/Dcui3xHH3Re",
+    "[2026-09-01 11:03:52] agent: 게시 @dino.seed"
   ]
 }
