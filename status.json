@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T02:09:09",
+  "generated_at": "2026-09-02T02:09:45",
   "username": "studiohaetae",
   "followers": 109,
   "followers_history": [
@@ -465,8 +465,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 655, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-09-01 22:12:17] outreach: follow: 팔로워 51명 @babo_dat — 기준(500) 미달, 건너뜀",
-    "[2026-09-01 22:12:17] outreach: follow: 팔로워 25명 @aurora_of_cosmos — 기준(500) 미달, 건너뜀",
     "[2026-09-01 22:12:17] outreach: follow: 팔로워 1명 @pick_boda — 기준(500) 미달, 건너뜀",
     "[2026-09-01 22:12:17] outreach: follow: 팔로워 1명 @shorts.cheatkey — 기준(500) 미달, 건너뜀",
     "[2026-09-01 22:12:17] outreach: follow: 이번 회차 1명 · 오늘 누적 8/20",
@@ -479,6 +477,8 @@
     "[2026-09-01 23:40:36] refill: 큐 잔량 6편 — 정상",
     "[2026-09-01 23:41:10] digest 갱신: 팔로워 109 · 미답변 3건 · 큐 6개 · 오늘 답글 8 · 되물음 0 · 팔로우 14 · !! outreach: 워치독이 강제 종료한 판이 있다 — 드라이버 연결이 끊겼을 가능성",
     "[2026-09-02 00:03:59] digest 갱신: 팔로워 109 · 미답변 3건 · 큐 6개 · 오늘 답글 0 · 되물음 0 · 팔로우 0 · !! outreach: 워치독이 강제 종료한 판이 있다 — 드라이버 연결이 끊겼을 가능성",
-    "[2026-09-02 02:04:43] digest 갱신: 팔로워 109 · 미답변 3건 · 큐 6개 · 오늘 답글 0 · 되물음 0 · 팔로우 0 · !! outreach: 워치독이 강제 종료한 판이 있다 — 드라이버 연결이 끊겼을 가능성"
+    "[2026-09-02 02:04:43] digest 갱신: 팔로워 109 · 미답변 3건 · 큐 6개 · 오늘 답글 0 · 되물음 0 · 팔로우 0 · !! outreach: 워치독이 강제 종료한 판이 있다 — 드라이버 연결이 끊겼을 가능성",
+    "[2026-09-02 02:09:45] digest 갱신: 팔로워 109 · 미답변 3건 · 큐 6개 · 오늘 답글 0 · 되물음 0 · 팔로우 0 · !! outreach: 워치독이 강제 종료한 판이 있다 — 드라이버 연결이 끊겼을 가능성",
+    "[2026-09-02 02:09:45] agent: 보류 유지 3건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart). 다시 보려면 --recheck-all"
   ]
 }
