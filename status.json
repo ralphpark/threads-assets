@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T17:05:34",
+  "generated_at": "2026-09-01T17:06:11",
   "username": "studiohaetae",
   "followers": 109,
   "followers_history": [
@@ -454,8 +454,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 621, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-09-01 15:50:17] outreach: 계정 확인: @studiohaetae",
-    "[2026-09-01 15:50:23] outreach: 검색: 애드센스 승인 → 누적 후보 0건",
     "[2026-09-01 15:50:36] outreach: 검색: 구독자 정체 → 누적 후보 0건",
     "[2026-09-01 15:50:52] outreach: 검색: 영상 조회수 → 누적 후보 1건",
     "[2026-09-01 15:51:00] outreach: 검색: 유튜브 한달 → 누적 후보 3건",
@@ -468,6 +466,8 @@
     "[2026-09-01 15:52:27] outreach: 팔로우 @raun_tarot",
     "[2026-09-01 15:56:55] outreach: 페이지 열기 실패: https://www.threads.com/@yeouido_kitchen/post/DcsNbieiYt8 — Page.goto: Connection closed while reading from the driver",
     "[2026-09-01 16:01:34] digest 갱신: 팔로워 108 · 미답변 3건 · 큐 7개 · 오늘 답글 6 · 되물음 0 · 팔로우 10 · !! outreach: 워치독이 강제 종료한 판이 있다 — 드라이버 연결이 끊겼을 가능성",
-    "[2026-09-01 16:05:03] outreach: outreach: 900초 초과 — 강제 종료한다 (매달린 판이 다음 회차를 막는다)"
+    "[2026-09-01 16:05:03] outreach: outreach: 900초 초과 — 강제 종료한다 (매달린 판이 다음 회차를 막는다)",
+    "[2026-09-01 17:06:11] digest 갱신: 팔로워 109 · 미답변 3건 · 큐 7개 · 오늘 답글 6 · 되물음 0 · 팔로우 10 · !! outreach: 워치독이 강제 종료한 판이 있다 — 드라이버 연결이 끊겼을 가능성",
+    "[2026-09-01 17:06:11] agent: 보류 유지 3건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart). 다시 보려면 --recheck-all"
   ]
 }
