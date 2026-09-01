@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T14:04:29",
+  "generated_at": "2026-09-01T14:05:02",
   "username": "studiohaetae",
   "followers": 108,
   "followers_history": [
@@ -454,8 +454,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 621, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-09-01 13:10:25] outreach: 검색: 구독자 100명 → 누적 후보 5건",
-    "[2026-09-01 13:10:32] outreach: 검색: 유튜브 수익 → 누적 후보 6건",
     "[2026-09-01 13:10:43] outreach: 검색: 구독자 안늘어 → 누적 후보 10건",
     "[2026-09-01 13:10:55] outreach: 검색: 숏폼 조회수 → 누적 후보 13건",
     "[2026-09-01 13:11:07] outreach: 검색: 조회수 1000회 → 누적 후보 15건",
@@ -468,6 +466,8 @@
     "[2026-09-01 13:16:17] outreach: 페이지 열기 실패: https://www.threads.com/@raina_0401/post/DctOZD4GrdZ — Page.goto: Connection closed while reading from the driver",
     "[2026-09-01 13:16:31] outreach: skip @younakablog — 숏폼 드라마 주간 조회수 순위 리스트업 글로, 게시자 본인의 유튜브/숏폼 채널 실적이 아니라 남의 콘텐츠 순위를 나열한 글입니",
     "[2026-09-01 13:25:07] outreach: outreach: 900초 초과 — 강제 종료한다 (매달린 판이 다음 회차를 막는다)",
-    "[2026-09-01 14:01:00] digest 갱신: 팔로워 108 · 미답변 3건 · 큐 7개 · 오늘 답글 5 · 되물음 0 · 팔로우 7 · !! outreach: 워치독이 강제 종료한 판이 있다 — 드라이버 연결이 끊겼을 가능성"
+    "[2026-09-01 14:01:00] digest 갱신: 팔로워 108 · 미답변 3건 · 큐 7개 · 오늘 답글 5 · 되물음 0 · 팔로우 7 · !! outreach: 워치독이 강제 종료한 판이 있다 — 드라이버 연결이 끊겼을 가능성",
+    "[2026-09-01 14:05:02] digest 갱신: 팔로워 108 · 미답변 3건 · 큐 7개 · 오늘 답글 5 · 되물음 0 · 팔로우 7 · !! outreach: 워치독이 강제 종료한 판이 있다 — 드라이버 연결이 끊겼을 가능성",
+    "[2026-09-01 14:05:02] agent: 보류 유지 3건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart). 다시 보려면 --recheck-all"
   ]
 }
