@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T22:02:52",
+  "generated_at": "2026-09-01T23:07:55",
   "username": "studiohaetae",
   "followers": 110,
   "followers_history": [
@@ -280,7 +280,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DcvjtiaGEWe",
       "text": "2시간 10분짜리 영상의 평균 시청 지속 시간이 1분 2초였습니다.\n0.2%입니다.\n\n배경음악처럼 틀어놓고 딴 일 하는 콘텐츠인데,\n12초 만에 나갔다는 건 틀어놓지도 않았다는 뜻입니다.\n\n노출 클릭률은 6.3%로 ",
-      "views": 40,
+      "views": 42,
       "likes": 1,
       "replies": 0
     },
@@ -378,7 +378,7 @@
     "today": {
       "replies": 8,
       "followups": 0,
-      "follows": 13
+      "follows": 14
     },
     "last7": [
       {
@@ -427,14 +427,14 @@
         "date": "2026-09-01",
         "replies": 8,
         "followups": 0,
-        "follows": 13,
+        "follows": 14,
         "followers": null
       }
     ],
     "last_run": {
       "outreach": "2026-09-01T21:14",
       "followups": "2026-09-01T20:50",
-      "follows": "2026-09-01T19:43"
+      "follows": "2026-09-01T22:12"
     },
     "alerts": [
       "outreach: 워치독이 강제 종료한 판이 있다 — 드라이버 연결이 끊겼을 가능성"
@@ -449,13 +449,13 @@
         "missed": []
       },
       "follows": {
-        "ran": 4,
+        "ran": 5,
         "missed": []
       }
     },
     "follow_experiment": {
       "followers_delta_7d": 18,
-      "follows_7d": 84,
+      "follows_7d": 85,
       "replies_7d": 51,
       "note": "팔로우 대비 팔로워 증가. 답글과 섞여 있어 단독 인과는 못 본다"
     }
@@ -465,20 +465,20 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 621, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-09-01 21:11:02] outreach: 검색: 첫 영상 → 누적 후보 11건",
-    "[2026-09-01 21:11:14] outreach: 검색: 애드센스 승인 → 누적 후보 11건",
-    "[2026-09-01 21:11:27] outreach: 검색: 구독자 정체 → 누적 후보 11건",
-    "[2026-09-01 21:11:29] outreach: 훑은 글 중 제외: 자기 숫자 없음 14 · 광고·영업 13 · 주제 밖 12 · 차단어 6 · 개인사 1 · 너무 짧음 1",
-    "[2026-09-01 21:11:29] outreach: 후보 11건 (광고·개인사 제외, 자기 숫자 있는 글만)",
-    "[2026-09-01 21:11:51] outreach: skip @nihno03 — 해외 클립 알바 수익(달러/리테이너) 구조를 설명하는 정보성+블로그 홍보 글이라 조회수·구독자 기반인 우리 FACTS로 계산해",
-    "[2026-09-01 21:12:07] outreach: skip @younakablog — 유네카 블로그의 드라마 조회수 순위 게시물로, 본인 채널의 조회수/구독자 등 개인 지표가 아니라 콘텐츠 랭킹 리스트업 글입니다",
-    "[2026-09-01 21:12:40] outreach: skip @imhongikingan7 — 프롬프트 7종을 복붙하라는 리드마그넷형 홍보 글이고, 조회수 12→3만이 단일 전후 수치라 우리 FACTS(유튜브 채널 실측)",
-    "[2026-09-01 21:12:55] outreach: skip @issue_ga_issue — 특정 연예인 논란(비방성 시사 이슈)이라 우리 숫자를 얹을 자리가 없음",
-    "[2026-09-01 21:13:51] outreach: 답글 모달이 안 열림 @kimangzzing — 건너뜀",
-    "[2026-09-01 21:14:08] outreach: skip @selliolab — 선착순 무료 제작 이벤트로 댓글 유도하는 리드마그넷/광고 홍보 글이라 우리 숫자를 얹을 자리가 없음",
-    "[2026-09-01 21:14:42] outreach: skip @9og_9og — 구독자 4천만·주가 46% 상승 같은 주식·자본 이슈이지 조회수/구독자 전환율 얘기가 아니라서, 저희 FACTS로 계산해서 얹",
-    "[2026-09-01 21:14:56] outreach: skip @parrotjubu — 공유 수 관련 지표는 저희 FACTS에 없음 (조회수·구독자·시청시간만 보유). 억지로 끼울 숫자가 없어 스킵",
-    "[2026-09-01 21:14:56] outreach: 모델 호출 8건 도달 — 나머지 3건은 다음 회차로",
-    "[2026-09-01 21:14:56] outreach: 이번 실행 0건 · 오늘 누적 답글 8/10 · 팔로우 6/6"
+    "[2026-09-01 22:10:30] outreach: follow: 검색: 유튜브 구독자",
+    "[2026-09-01 22:10:37] outreach: follow: 검색: 조회수 1000회",
+    "[2026-09-01 22:10:43] outreach: follow: 후보 계정 10명",
+    "[2026-09-01 22:11:25] outreach: follow: 프로필 10개 확인 — 팔로워 큰 순으로 진행",
+    "[2026-09-01 22:11:31] outreach: follow: 팔로우 @billionaire_0214 (팔로워 2,506명)",
+    "[2026-09-01 22:12:17] outreach: follow: 이미 팔로우 중 @jules.ownwork",
+    "[2026-09-01 22:12:17] outreach: follow: 이미 팔로우 중 @all_that_lounge",
+    "[2026-09-01 22:12:17] outreach: follow: 팔로워 164명 @imhongikingan7 — 기준(500) 미달, 건너뜀",
+    "[2026-09-01 22:12:17] outreach: follow: 이미 팔로우 중 @geumjassi.trot",
+    "[2026-09-01 22:12:17] outreach: follow: 팔로워 78명 @kimangzzing — 기준(500) 미달, 건너뜀",
+    "[2026-09-01 22:12:17] outreach: follow: 팔로워 51명 @babo_dat — 기준(500) 미달, 건너뜀",
+    "[2026-09-01 22:12:17] outreach: follow: 팔로워 25명 @aurora_of_cosmos — 기준(500) 미달, 건너뜀",
+    "[2026-09-01 22:12:17] outreach: follow: 팔로워 1명 @pick_boda — 기준(500) 미달, 건너뜀",
+    "[2026-09-01 22:12:17] outreach: follow: 팔로워 1명 @shorts.cheatkey — 기준(500) 미달, 건너뜀",
+    "[2026-09-01 22:12:17] outreach: follow: 이번 회차 1명 · 오늘 누적 8/20"
   ]
 }
