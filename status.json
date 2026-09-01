@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T04:04:43",
+  "generated_at": "2026-09-02T05:10:22",
   "username": "studiohaetae",
   "followers": 109,
   "followers_history": [
@@ -236,7 +236,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DclQiByGOLM",
       "text": "어떤 분이 이렇게 물었습니다.\n\"채널 영상 300개인데 139명. 다른 사람도 그럴까 궁금.\"\n\n이 질문에 답할 데이터가 어디에도 없습니다.\n\n제 랭킹 채널은 28일 조회 18,205회에 구독자 23명입니다.\n다른 ",
-      "views": 67,
+      "views": 68,
       "likes": 0,
       "replies": 0
     },
@@ -247,7 +247,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Dcn1VAeGIts",
       "text": "지난 3주 답글에서 같은 말을 세 분한테 들었습니다.\n\n\"자동화 쇼츠는 안 됩니다.\"\n\"AI로 자동화하는 것보다 수동으로 한 개 만드는 게 더 벌더라.\"\n\"까놓고 AI로 수익화하겠다는 게 말이 안 됨.\"\n\n제 숫자로",
-      "views": 136,
+      "views": 137,
       "likes": 1,
       "replies": 2
     },
@@ -258,7 +258,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DcqaHXSn3eF",
       "text": "어떤 분이 자기 계정에서 이걸 실측해서 알려줬습니다.\n\n답글을 안 단 새벽 세 사이클은 팔로워 증가가 0이었고,\n다시 답글을 달자마자 붙었다고요.\n\n제 계정에서 같은 게 나오는지 봤습니다.\n7월 31일 58명에서 8",
-      "views": 59,
+      "views": 60,
       "likes": 1,
       "replies": 1
     },
@@ -269,7 +269,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Dcs-6wen0jJ",
       "text": "답글로 두 건을 받았습니다.\n\n한 분은 AI로 열 몇 개를 돌려 겨우 하나 수익창출을 했는데, 수익창출 금지를 받고 결국 계정이 삭제됐습니다.\n다른 분은 수익 정지는 채널이 남는 거라 회복을 노릴 이유가 없고 보통 ",
-      "views": 109,
+      "views": 110,
       "likes": 3,
       "replies": 2
     },
@@ -280,7 +280,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DcvjtiaGEWe",
       "text": "2시간 10분짜리 영상의 평균 시청 지속 시간이 1분 2초였습니다.\n0.2%입니다.\n\n배경음악처럼 틀어놓고 딴 일 하는 콘텐츠인데,\n12초 만에 나갔다는 건 틀어놓지도 않았다는 뜻입니다.\n\n노출 클릭률은 6.3%로 ",
-      "views": 50,
+      "views": 51,
       "likes": 1,
       "replies": 0
     },
@@ -465,7 +465,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 655, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-09-01 22:12:17] outreach: follow: 이번 회차 1명 · 오늘 누적 8/20",
     "[2026-09-01 23:08:32] digest 갱신: 팔로워 110 · 미답변 3건 · 큐 6개 · 오늘 답글 8 · 되물음 0 · 팔로우 14 · !! outreach: 워치독이 강제 종료한 판이 있다 — 드라이버 연결이 끊겼을 가능성",
     "[2026-09-01 23:08:32] agent: 보류 유지 3건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart). 다시 보려면 --recheck-all",
     "[2026-09-01 23:09:08] digest 갱신: 팔로워 110 · 미답변 3건 · 큐 6개 · 오늘 답글 8 · 되물음 0 · 팔로우 14 · !! outreach: 워치독이 강제 종료한 판이 있다 — 드라이버 연결이 끊겼을 가능성",
@@ -479,6 +478,7 @@
     "[2026-09-02 02:09:45] digest 갱신: 팔로워 109 · 미답변 3건 · 큐 6개 · 오늘 답글 0 · 되물음 0 · 팔로우 0 · !! outreach: 워치독이 강제 종료한 판이 있다 — 드라이버 연결이 끊겼을 가능성",
     "[2026-09-02 02:09:45] agent: 보류 유지 3건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart). 다시 보려면 --recheck-all",
     "[2026-09-02 02:10:22] digest 갱신: 팔로워 109 · 미답변 3건 · 큐 6개 · 오늘 답글 0 · 되물음 0 · 팔로우 0 · !! outreach: 워치독이 강제 종료한 판이 있다 — 드라이버 연결이 끊겼을 가능성",
-    "[2026-09-02 02:10:22] agent: 자동 답글 0건 · 신규 판정 대상 없음"
+    "[2026-09-02 02:10:22] agent: 자동 답글 0건 · 신규 판정 대상 없음",
+    "[2026-09-02 04:05:15] digest 갱신: 팔로워 109 · 미답변 3건 · 큐 6개 · 오늘 답글 0 · 되물음 0 · 팔로우 0 · !! outreach: 워치독이 강제 종료한 판이 있다 — 드라이버 연결이 끊겼을 가능성"
   ]
 }
