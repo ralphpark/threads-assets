@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T20:02:15",
+  "generated_at": "2026-09-01T20:06:46",
   "username": "studiohaetae",
   "followers": 109,
   "followers_history": [
@@ -454,7 +454,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 621, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-09-01 18:37:44] outreach: 답글 @collseis",
     "[2026-09-01 18:37:44] outreach: 이번 실행 2건 · 오늘 누적 답글 8/10 · 팔로우 6/6",
     "[2026-09-01 19:40:14] outreach: follow: 검색: 숏폼 조회수",
     "[2026-09-01 19:40:22] outreach: follow: 검색: 첫 영상",
@@ -468,6 +467,7 @@
     "[2026-09-01 19:43:45] outreach: follow: 팔로워 35명 @younakablog — 기준(500) 미달, 건너뜀",
     "[2026-09-01 19:43:45] outreach: follow: 팔로워 11명 @selliolab — 기준(500) 미달, 건너뜀",
     "[2026-09-01 19:43:45] outreach: follow: 팔로워 0명 @elbow99.9 — 기준(500) 미달, 건너뜀",
-    "[2026-09-01 19:43:45] outreach: follow: 이번 회차 2명 · 오늘 누적 7/20"
+    "[2026-09-01 19:43:45] outreach: follow: 이번 회차 2명 · 오늘 누적 7/20",
+    "[2026-09-01 20:02:51] digest 갱신: 팔로워 109 · 미답변 3건 · 큐 7개 · 오늘 답글 8 · 되물음 0 · 팔로우 13 · !! outreach: 워치독이 강제 종료한 판이 있다 — 드라이버 연결이 끊겼을 가능성"
   ]
 }
