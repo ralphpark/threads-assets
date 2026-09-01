@@ -1,12 +1,8 @@
 {
-  "generated_at": "2026-09-01T23:08:32",
+  "generated_at": "2026-09-01T23:40:36",
   "username": "studiohaetae",
-  "followers": 110,
+  "followers": 109,
   "followers_history": [
-    {
-      "date": "2026-08-18",
-      "followers": 89
-    },
     {
       "date": "2026-08-19",
       "followers": 89
@@ -58,6 +54,10 @@
     {
       "date": "2026-08-31",
       "followers": 108
+    },
+    {
+      "date": "2026-09-01",
+      "followers": 109
     }
   ],
   "queue_pending": 6,
@@ -280,7 +280,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DcvjtiaGEWe",
       "text": "2시간 10분짜리 영상의 평균 시청 지속 시간이 1분 2초였습니다.\n0.2%입니다.\n\n배경음악처럼 틀어놓고 딴 일 하는 콘텐츠인데,\n12초 만에 나갔다는 건 틀어놓지도 않았다는 뜻입니다.\n\n노출 클릭률은 6.3%로 ",
-      "views": 42,
+      "views": 44,
       "likes": 1,
       "replies": 0
     },
@@ -428,7 +428,7 @@
         "replies": 8,
         "followups": 0,
         "follows": 14,
-        "followers": null
+        "followers": 109
       }
     ],
     "last_run": {
@@ -454,7 +454,7 @@
       }
     },
     "follow_experiment": {
-      "followers_delta_7d": 18,
+      "followers_delta_7d": 19,
       "follows_7d": 85,
       "replies_7d": 51,
       "note": "팔로우 대비 팔로워 증가. 답글과 섞여 있어 단독 인과는 못 본다"
@@ -462,14 +462,9 @@
   },
   "outreach_alert": "outreach: 워치독이 강제 종료한 판이 있다 — 드라이버 연결이 끊겼을 가능성",
   "errors": {
-    "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 621, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
+    "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 655, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-09-01 22:10:43] outreach: follow: 후보 계정 10명",
-    "[2026-09-01 22:11:25] outreach: follow: 프로필 10개 확인 — 팔로워 큰 순으로 진행",
-    "[2026-09-01 22:11:31] outreach: follow: 팔로우 @billionaire_0214 (팔로워 2,506명)",
-    "[2026-09-01 22:12:17] outreach: follow: 이미 팔로우 중 @jules.ownwork",
-    "[2026-09-01 22:12:17] outreach: follow: 이미 팔로우 중 @all_that_lounge",
     "[2026-09-01 22:12:17] outreach: follow: 팔로워 164명 @imhongikingan7 — 기준(500) 미달, 건너뜀",
     "[2026-09-01 22:12:17] outreach: follow: 이미 팔로우 중 @geumjassi.trot",
     "[2026-09-01 22:12:17] outreach: follow: 팔로워 78명 @kimangzzing — 기준(500) 미달, 건너뜀",
@@ -479,6 +474,11 @@
     "[2026-09-01 22:12:17] outreach: follow: 팔로워 1명 @shorts.cheatkey — 기준(500) 미달, 건너뜀",
     "[2026-09-01 22:12:17] outreach: follow: 이번 회차 1명 · 오늘 누적 8/20",
     "[2026-09-01 23:08:32] digest 갱신: 팔로워 110 · 미답변 3건 · 큐 6개 · 오늘 답글 8 · 되물음 0 · 팔로우 14 · !! outreach: 워치독이 강제 종료한 판이 있다 — 드라이버 연결이 끊겼을 가능성",
-    "[2026-09-01 23:08:32] agent: 보류 유지 3건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart). 다시 보려면 --recheck-all"
+    "[2026-09-01 23:08:32] agent: 보류 유지 3건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart). 다시 보려면 --recheck-all",
+    "[2026-09-01 23:09:08] digest 갱신: 팔로워 110 · 미답변 3건 · 큐 6개 · 오늘 답글 8 · 되물음 0 · 팔로우 14 · !! outreach: 워치독이 강제 종료한 판이 있다 — 드라이버 연결이 끊겼을 가능성",
+    "[2026-09-01 23:09:08] agent: 자동 답글 0건 · 신규 판정 대상 없음",
+    "[2026-09-01 23:40:01] 스냅샷: {\"date\": \"2026-09-01\", \"at\": \"2026-09-01T23:40:01\", \"followers\": 109, \"views\": 2243, \"likes\": 3, \"replies\": 3, \"reposts\": 0, \"quotes\": 0, \"clicks\": null}",
+    "[2026-09-01 23:40:22] 답글 31건 수집 -> replies-2026-09-01.json",
+    "[2026-09-01 23:40:36] refill: 큐 잔량 6편 — 정상"
   ]
 }
