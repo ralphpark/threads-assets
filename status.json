@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T20:10:07",
+  "generated_at": "2026-09-02T20:17:41",
   "username": "studiohaetae",
   "followers": 110,
   "followers_history": [
@@ -462,7 +462,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 655, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-09-02 18:38:28] outreach: skip @atn_sz — 본문이 '첫 영상 보는데 2년쯤 걸릴 것 같다'는 짧고 맥락 없는 문장이라 유튜브 조회수/구독자 관련 글인지조차 불분명하다. ",
     "[2026-09-02 18:38:28] outreach: 이번 실행 1건 · 오늘 누적 답글 9/10 · 팔로우 6/6",
     "[2026-09-02 19:40:26] outreach: follow: 검색: 숏폼 조회수",
     "[2026-09-02 19:40:38] outreach: follow: 검색: 유튜브 시작한지",
@@ -476,6 +475,7 @@
     "[2026-09-02 19:41:31] outreach: follow: 팔로워 12명 @nihno03 — 기준(500) 미달, 건너뜀",
     "[2026-09-02 19:41:31] outreach: follow: 팔로워 12명 @ai_hunter_jedi — 기준(500) 미달, 건너뜀",
     "[2026-09-02 19:41:31] outreach: follow: 이미 팔로우 중 @beast_gottaa",
-    "[2026-09-02 19:41:31] outreach: follow: 이번 회차 0명 · 오늘 누적 2/20"
+    "[2026-09-02 19:41:31] outreach: follow: 이번 회차 0명 · 오늘 누적 2/20",
+    "[2026-09-02 20:11:08] digest 갱신: 팔로워 110 · 미답변 3건 · 큐 6개 · 오늘 답글 9 · 되물음 0 · 팔로우 8"
   ]
 }
