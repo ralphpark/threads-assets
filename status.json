@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T23:19:35",
+  "generated_at": "2026-09-02T23:20:28",
   "username": "studiohaetae",
   "followers": 110,
   "followers_history": [
@@ -473,8 +473,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 655, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-09-02 22:10:16] outreach: follow: 검색: 애드센스 승인",
-    "[2026-09-02 22:10:45] outreach: follow: 검색: 구독자 1000명",
     "[2026-09-02 22:10:58] outreach: follow: 검색: 유튜브 구독자",
     "[2026-09-02 22:11:03] outreach: follow: 후보 계정 8명",
     "[2026-09-02 22:11:51] digest 갱신: 팔로워 110 · 미답변 3건 · 큐 5개 · 오늘 답글 10 · 되물음 0 · 팔로우 8",
@@ -487,6 +485,8 @@
     "[2026-09-02 22:12:03] outreach: follow: 팔로워 38명 @honeytip_judy — 기준(500) 미달, 건너뜀",
     "[2026-09-02 22:12:03] outreach: follow: 팔로워 26명 @aurora_of_cosmos — 기준(500) 미달, 건너뜀",
     "[2026-09-02 22:12:03] outreach: follow: 팔로워 15명 @infovaga22 — 기준(500) 미달, 건너뜀",
-    "[2026-09-02 22:12:03] outreach: follow: 이번 회차 0명 · 오늘 누적 2/20"
+    "[2026-09-02 22:12:03] outreach: follow: 이번 회차 0명 · 오늘 누적 2/20",
+    "[2026-09-02 23:20:28] digest 갱신: 팔로워 110 · 미답변 3건 · 큐 5개 · 오늘 답글 10 · 되물음 0 · 팔로우 8",
+    "[2026-09-02 23:20:28] agent: 보류 유지 3건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart). 다시 보려면 --recheck-all"
   ]
 }
