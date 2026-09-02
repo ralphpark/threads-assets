@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T14:07:49",
+  "generated_at": "2026-09-02T14:14:57",
   "username": "studiohaetae",
   "followers": 110,
   "followers_history": [
@@ -462,7 +462,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 655, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-09-02 13:10:18] outreach: 계정 확인: @studiohaetae",
     "[2026-09-02 13:10:24] outreach: 검색: 조회수 1000회 → 누적 후보 2건",
     "[2026-09-02 13:10:57] outreach: 검색: 첫 영상 → 누적 후보 3건",
     "[2026-09-02 13:11:09] outreach: 검색: 애드센스 승인 → 누적 후보 4건",
@@ -476,6 +475,7 @@
     "[2026-09-02 13:12:39] outreach: 팔로우 @sususori_playlist",
     "[2026-09-02 13:18:03] outreach: 대상 확인: @sequence_ai (원글 본문 일치)",
     "[2026-09-02 13:18:10] outreach: 답글 @sequence_ai",
-    "[2026-09-02 13:18:14] outreach: 이번 실행 2건 · 오늘 누적 답글 6/10 · 팔로우 3/6"
+    "[2026-09-02 13:18:14] outreach: 이번 실행 2건 · 오늘 누적 답글 6/10 · 팔로우 3/6",
+    "[2026-09-02 14:08:27] digest 갱신: 팔로워 110 · 미답변 3건 · 큐 6개 · 오늘 답글 6 · 되물음 0 · 팔로우 4"
   ]
 }
