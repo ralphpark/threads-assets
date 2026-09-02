@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T06:14:05",
+  "generated_at": "2026-09-03T08:14:42",
   "username": "studiohaetae",
   "followers": 109,
   "followers_history": [
@@ -291,7 +291,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DcyIgZemPZx",
       "text": "답글로 온 질문 중에 제가 답을 못 한 게 있습니다.\n\n\"조건을 달성한다고 해도 수익창출 심사 때 막히지 않을까요. 휴먼터치가 안 보이면.\"\n\n저는 조건 근처도 못 갔습니다.\n랭킹 채널이 28일 조회 18,205회에",
-      "views": 25,
+      "views": 26,
       "likes": 0,
       "replies": 0
     },
@@ -357,7 +357,7 @@
       "is_reply": true,
       "permalink": "https://www.threads.com/@studiohaetae/post/Dcui3xHH3Re",
       "text": "감사합니다.\n지금 채널 11개를 다 합쳐도 구독자 779명, 시청시간 3029시간으로 기준(채널당 500명·3000시간)을 겨우 넘는 수준입니다.\n그런데 채널 단위로 보면 기준 넘은 곳은 0개입니다.",
-      "views": 1,
+      "views": 2,
       "likes": 1,
       "replies": 0
     }
@@ -473,7 +473,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 655, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-09-02 23:40:06] 스냅샷: {\"date\": \"2026-09-02\", \"at\": \"2026-09-02T23:40:05\", \"followers\": 109, \"views\": 748, \"likes\": 4, \"replies\": 2, \"reposts\": 0, \"quotes\": 0, \"clicks\": null}",
     "[2026-09-02 23:40:28] 답글 31건 수집 -> replies-2026-09-02.json",
     "[2026-09-02 23:40:42] refill: 큐 잔량 5편 — 정상",
     "[2026-09-02 23:41:24] digest 갱신: 팔로워 109 · 미답변 3건 · 큐 5개 · 오늘 답글 10 · 되물음 0 · 팔로우 8",
@@ -487,6 +486,7 @@
     "[2026-09-03 05:23:27] digest 갱신: 팔로워 109 · 미답변 3건 · 큐 5개 · 오늘 답글 0 · 되물음 0 · 팔로우 0",
     "[2026-09-03 05:23:27] agent: 보류 유지 3건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart). 다시 보려면 --recheck-all",
     "[2026-09-03 05:24:07] digest 갱신: 팔로워 109 · 미답변 3건 · 큐 5개 · 오늘 답글 0 · 되물음 0 · 팔로우 0",
-    "[2026-09-03 05:24:07] agent: 자동 답글 0건 · 신규 판정 대상 없음"
+    "[2026-09-03 05:24:07] agent: 자동 답글 0건 · 신규 판정 대상 없음",
+    "[2026-09-03 06:14:40] digest 갱신: 팔로워 109 · 미답변 3건 · 큐 5개 · 오늘 답글 0 · 되물음 0 · 팔로우 0"
   ]
 }
