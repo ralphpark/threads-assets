@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T17:16:11",
+  "generated_at": "2026-09-02T17:16:50",
   "username": "studiohaetae",
   "followers": 110,
   "followers_history": [
@@ -462,8 +462,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 655, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-09-02 15:51:14] outreach: 검색: 채널 개설 → 누적 후보 6건",
-    "[2026-09-02 15:51:26] outreach: 검색: 유튜브 3개월 → 누적 후보 8건",
     "[2026-09-02 15:51:39] outreach: 검색: 유튜브 알고리즘 → 누적 후보 8건",
     "[2026-09-02 15:51:40] outreach: 훑은 글 중 제외: 자기 숫자 없음 23 · 광고·영업 7 · 차단어 4 · 주제 밖 3",
     "[2026-09-02 15:51:40] outreach: 후보 8건 (광고·개인사 제외, 자기 숫자 있는 글만)",
@@ -476,6 +474,8 @@
     "[2026-09-02 15:56:41] outreach: 답글 @pilwoohea",
     "[2026-09-02 15:56:47] outreach: 팔로우 @pilwoohea",
     "[2026-09-02 15:56:47] outreach: 이번 실행 2건 · 오늘 누적 답글 8/10 · 팔로우 5/6",
-    "[2026-09-02 16:09:14] digest 갱신: 팔로워 110 · 미답변 3건 · 큐 6개 · 오늘 답글 8 · 되물음 0 · 팔로우 7"
+    "[2026-09-02 16:09:14] digest 갱신: 팔로워 110 · 미답변 3건 · 큐 6개 · 오늘 답글 8 · 되물음 0 · 팔로우 7",
+    "[2026-09-02 17:16:50] digest 갱신: 팔로워 110 · 미답변 3건 · 큐 6개 · 오늘 답글 8 · 되물음 0 · 팔로우 7",
+    "[2026-09-02 17:16:50] agent: 보류 유지 3건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart). 다시 보려면 --recheck-all"
   ]
 }
