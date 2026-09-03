@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T02:20:56",
+  "generated_at": "2026-09-04T02:31:46",
   "username": "studiohaetae",
   "followers": 112,
   "followers_history": [
@@ -484,7 +484,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 655, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-09-03 22:15:28] outreach: follow: 팔로워 110명 @hongsunjae10 — 기준(500) 미달, 건너뜀",
     "[2026-09-03 22:15:28] outreach: follow: 팔로워 35명 @der_kaffee_k — 기준(500) 미달, 건너뜀",
     "[2026-09-03 22:15:28] outreach: follow: 팔로워 31명 @zakugio — 기준(500) 미달, 건너뜀",
     "[2026-09-03 22:15:28] outreach: follow: 팔로워 4명 @jannah_korea — 기준(500) 미달, 건너뜀",
@@ -498,6 +497,7 @@
     "[2026-09-03 23:40:23] 답글 31건 수집 -> replies-2026-09-03.json",
     "[2026-09-03 23:40:37] refill: 큐 잔량 4편 — 정상",
     "[2026-09-03 23:41:22] digest 갱신: 팔로워 112 · 미답변 3건 · 큐 4개 · 오늘 답글 10 · 되물음 0 · 팔로우 11",
-    "[2026-09-04 00:20:56] digest 갱신: 팔로워 112 · 미답변 3건 · 큐 4개 · 오늘 답글 0 · 되물음 0 · 팔로우 0"
+    "[2026-09-04 00:20:56] digest 갱신: 팔로워 112 · 미답변 3건 · 큐 4개 · 오늘 답글 0 · 되물음 0 · 팔로우 0",
+    "[2026-09-04 02:21:42] digest 갱신: 팔로워 112 · 미답변 3건 · 큐 4개 · 오늘 답글 0 · 되물음 0 · 팔로우 0"
   ]
 }
