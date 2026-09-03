@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-03T14:27:04",
+  "generated_at": "2026-09-03T16:17:11",
   "username": "studiohaetae",
-  "followers": 111,
+  "followers": 112,
   "followers_history": [
     {
       "date": "2026-08-20",
@@ -170,7 +170,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Db0VbbZGLM6",
       "text": "Shorts 설명란에 링크를 넣어봤습니다.\n\n같은 줄의 해시태그는 파란 링크가 되는데 URL은 흰 일반 텍스트로 나옵니다. 접근성 트리에서도 link가 아니라 generic으로 잡힙니다.\n\n서식 문제가 아니라 유튜브",
-      "views": 168,
+      "views": 169,
       "likes": 1,
       "replies": 0
     },
@@ -258,7 +258,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DcqaHXSn3eF",
       "text": "어떤 분이 자기 계정에서 이걸 실측해서 알려줬습니다.\n\n답글을 안 단 새벽 세 사이클은 팔로워 증가가 0이었고,\n다시 답글을 달자마자 붙었다고요.\n\n제 계정에서 같은 게 나오는지 봤습니다.\n7월 31일 58명에서 8",
-      "views": 81,
+      "views": 83,
       "likes": 1,
       "replies": 1
     },
@@ -269,7 +269,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Dcs-6wen0jJ",
       "text": "답글로 두 건을 받았습니다.\n\n한 분은 AI로 열 몇 개를 돌려 겨우 하나 수익창출을 했는데, 수익창출 금지를 받고 결국 계정이 삭제됐습니다.\n다른 분은 수익 정지는 채널이 남는 거라 회복을 노릴 이유가 없고 보통 ",
-      "views": 134,
+      "views": 138,
       "likes": 3,
       "replies": 2
     },
@@ -280,7 +280,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DcvjtiaGEWe",
       "text": "2시간 10분짜리 영상의 평균 시청 지속 시간이 1분 2초였습니다.\n0.2%입니다.\n\n배경음악처럼 틀어놓고 딴 일 하는 콘텐츠인데,\n12초 만에 나갔다는 건 틀어놓지도 않았다는 뜻입니다.\n\n노출 클릭률은 6.3%로 ",
-      "views": 82,
+      "views": 85,
       "likes": 1,
       "replies": 0
     },
@@ -291,7 +291,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DcyIgZemPZx",
       "text": "답글로 온 질문 중에 제가 답을 못 한 게 있습니다.\n\n\"조건을 달성한다고 해도 수익창출 심사 때 막히지 않을까요. 휴먼터치가 안 보이면.\"\n\n저는 조건 근처도 못 갔습니다.\n랭킹 채널이 28일 조회 18,205회에",
-      "views": 51,
+      "views": 54,
       "likes": 0,
       "replies": 0
     },
@@ -387,9 +387,9 @@
   ],
   "outreach": {
     "today": {
-      "replies": 5,
+      "replies": 7,
       "followups": 0,
-      "follows": 4
+      "follows": 7
     },
     "last7": [
       {
@@ -436,36 +436,36 @@
       },
       {
         "date": "2026-09-03",
-        "replies": 5,
+        "replies": 7,
         "followups": 0,
-        "follows": 4,
+        "follows": 7,
         "followers": null
       }
     ],
     "last_run": {
-      "outreach": "2026-09-03T13:18",
-      "followups": "2026-09-03T12:50",
-      "follows": "2026-09-03T10:31"
+      "outreach": "2026-09-03T15:59",
+      "followups": "2026-09-03T15:30",
+      "follows": "2026-09-03T14:32"
     },
     "alerts": [],
     "runs_today": {
       "outreach": {
-        "ran": 3,
+        "ran": 4,
         "missed": []
       },
       "followups": {
-        "ran": 3,
+        "ran": 4,
         "missed": []
       },
       "follows": {
-        "ran": 1,
+        "ran": 2,
         "missed": []
       }
     },
     "follow_experiment": {
       "followers_delta_7d": 10,
-      "follows_7d": 79,
-      "replies_7d": 61,
+      "follows_7d": 82,
+      "replies_7d": 63,
       "note": "팔로우 대비 팔로워 증가. 답글과 섞여 있어 단독 인과는 못 본다"
     }
   },
@@ -473,20 +473,20 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 655, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-09-03 13:12:15] outreach: 대상 확인: @icewine12 (원글 본문 일치)",
-    "[2026-09-03 13:12:21] outreach: 답글 @icewine12",
-    "[2026-09-03 13:12:28] outreach: 팔로우 @icewine12",
-    "[2026-09-03 13:16:34] outreach: skip @ieravo_music — 유튜브 조회수/구독자 성장과 무관한 음악 발매 홍보 게시물. 좋아요·댓글 수는 있지만 우리 답글 공식(상대 숫자로 비율 만들기",
-    "[2026-09-03 13:16:58] outreach: skip @hyeon.words — 자기계발 습관 형성에 관한 일반론 글. 유튜브는 스레드/블로그/운동/독서와 나열된 항목 중 하나일 뿐 조회수·구독자 등 계산할",
-    "[2026-09-03 13:17:08] outreach: skip @junhyun_happy — 유튜브 다큐 출연자 모집 공고임. 조회수·구독자 같은 지표가 없고 대화가 아니라 캐스팅 요청이라 우리 숫자를 얹을 지점이 없음",
-    "[2026-09-03 13:17:26] outreach: skip @viator_joey — 한인 사업가 네트워크 모임 소개글로 유튜브 조회수·구독자 관련 숫자가 전혀 없다. '유튜브 채널 8년 운영'은 언급되지만 조회",
-    "[2026-09-03 13:17:44] outreach: skip @ai_hunter_jedi — 공모전 수상 소식이고 조회수·구독자·수익 등 상대가 제시한 숫자가 전혀 없어 비율을 만들거나 우리 숫자를 옆에 놓을 계산 근거",
-    "[2026-09-03 13:18:02] outreach: skip @onedaymyfavorite00 — 연예인/캐릭터 관련 팬덤 축하 게시물이며 실제 조회수·구독자 수치가 없어 계산할 숫자가 없음",
-    "[2026-09-03 13:18:16] outreach: skip @der_kaffee_k — 수영 학습 속도에 대한 개인적 고민이며 유튜브/숏폼/조회수/구독자 주제와 무관하다. 상대가 제시한 수치도 없어(1년, 1~3개",
-    "[2026-09-03 13:18:16] outreach: 모델 호출 8건 도달 — 나머지 2건은 다음 회차로",
-    "[2026-09-03 13:18:17] outreach: 이번 실행 1건 · 오늘 누적 답글 5/10 · 팔로우 4/6",
-    "[2026-09-03 14:17:10] digest 갱신: 팔로워 111 · 미답변 3건 · 큐 5개 · 오늘 답글 5 · 되물음 0 · 팔로우 4",
-    "[2026-09-03 14:27:04] digest 갱신: 팔로워 111 · 미답변 3건 · 큐 5개 · 오늘 답글 5 · 되물음 0 · 팔로우 4",
-    "[2026-09-03 14:27:04] agent: 보류 유지 3건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart). 다시 보려면 --recheck-all"
+    "[2026-09-03 15:51:27] outreach: 검색: 구독자 안늘어 → 누적 후보 7건",
+    "[2026-09-03 15:51:40] outreach: 검색: 숏폼 조회수 → 누적 후보 8건",
+    "[2026-09-03 15:51:41] outreach: 훑은 글 중 제외: 자기 숫자 없음 22 · 광고·영업 19 · 개인사 3 · 주제 밖 3 · 차단어 2",
+    "[2026-09-03 15:51:41] outreach: 후보 8건 (광고·개인사 제외, 자기 숫자 있는 글만)",
+    "[2026-09-03 15:52:41] outreach: 모달에 @ray89.story 가 안 보인다 — 대상 확인 실패, 건너뜀",
+    "[2026-09-03 15:52:58] outreach: skip @kospidol — 코스피돌 앱 홍보글(9/15 오픈 안내). '유튜브 구독자 1명 = 1주'는 실제 채널 지표가 아니라 팬 게임용 가상 단위라 ",
+    "[2026-09-03 15:53:15] outreach: skip @specwave_official — 주제가 비즈니스 영어회화 학습법으로 유튜브/숏폼/조회수/구독자와 전혀 무관하다. FACTS 목록으로 계산하거나 얹을 수 있는 ",
+    "[2026-09-03 15:53:48] outreach: 대상 확인: @scrapofcloud (원글 본문 일치)",
+    "[2026-09-03 15:53:56] outreach: 답글 @scrapofcloud",
+    "[2026-09-03 15:54:05] outreach: 팔로우 @scrapofcloud",
+    "[2026-09-03 15:58:35] outreach: skip @pickitssu — 금지 요소 포함",
+    "[2026-09-03 15:59:15] outreach: 대상 확인: @we.rris (원글 본문 일치)",
+    "[2026-09-03 15:59:22] outreach: 답글 @we.rris",
+    "[2026-09-03 15:59:29] outreach: 팔로우 @we.rris",
+    "[2026-09-03 15:59:29] outreach: 이번 실행 2건 · 오늘 누적 답글 7/10 · 팔로우 6/6"
   ]
 }
