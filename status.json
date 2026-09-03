@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-03T12:15:57",
+  "generated_at": "2026-09-03T14:16:33",
   "username": "studiohaetae",
-  "followers": 110,
+  "followers": 111,
   "followers_history": [
     {
       "date": "2026-08-20",
@@ -225,7 +225,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DcirvIlGErj",
       "text": "제 쇼츠 채널 4개, 최근 40편에 설명란 링크가 0개였습니다.\n\n그 글을 보고 한 분이 자기 숫자를 주셨습니다.\n누적 조회 3,068회, 수익 0원.\n트래픽 80%가 Shorts 피드였는데 나가는 문이 0개였습니다",
-      "views": 161,
+      "views": 162,
       "likes": 0,
       "replies": 3
     },
@@ -236,7 +236,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DclQiByGOLM",
       "text": "어떤 분이 이렇게 물었습니다.\n\"채널 영상 300개인데 139명. 다른 사람도 그럴까 궁금.\"\n\n이 질문에 답할 데이터가 어디에도 없습니다.\n\n제 랭킹 채널은 28일 조회 18,205회에 구독자 23명입니다.\n다른 ",
-      "views": 77,
+      "views": 78,
       "likes": 0,
       "replies": 0
     },
@@ -247,7 +247,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Dcn1VAeGIts",
       "text": "지난 3주 답글에서 같은 말을 세 분한테 들었습니다.\n\n\"자동화 쇼츠는 안 됩니다.\"\n\"AI로 자동화하는 것보다 수동으로 한 개 만드는 게 더 벌더라.\"\n\"까놓고 AI로 수익화하겠다는 게 말이 안 됨.\"\n\n제 숫자로",
-      "views": 149,
+      "views": 150,
       "likes": 1,
       "replies": 2
     },
@@ -258,7 +258,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DcqaHXSn3eF",
       "text": "어떤 분이 자기 계정에서 이걸 실측해서 알려줬습니다.\n\n답글을 안 단 새벽 세 사이클은 팔로워 증가가 0이었고,\n다시 답글을 달자마자 붙었다고요.\n\n제 계정에서 같은 게 나오는지 봤습니다.\n7월 31일 58명에서 8",
-      "views": 77,
+      "views": 81,
       "likes": 1,
       "replies": 1
     },
@@ -269,7 +269,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Dcs-6wen0jJ",
       "text": "답글로 두 건을 받았습니다.\n\n한 분은 AI로 열 몇 개를 돌려 겨우 하나 수익창출을 했는데, 수익창출 금지를 받고 결국 계정이 삭제됐습니다.\n다른 분은 수익 정지는 채널이 남는 거라 회복을 노릴 이유가 없고 보통 ",
-      "views": 130,
+      "views": 134,
       "likes": 3,
       "replies": 2
     },
@@ -280,7 +280,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DcvjtiaGEWe",
       "text": "2시간 10분짜리 영상의 평균 시청 지속 시간이 1분 2초였습니다.\n0.2%입니다.\n\n배경음악처럼 틀어놓고 딴 일 하는 콘텐츠인데,\n12초 만에 나갔다는 건 틀어놓지도 않았다는 뜻입니다.\n\n노출 클릭률은 6.3%로 ",
-      "views": 74,
+      "views": 82,
       "likes": 1,
       "replies": 0
     },
@@ -291,7 +291,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DcyIgZemPZx",
       "text": "답글로 온 질문 중에 제가 답을 못 한 게 있습니다.\n\n\"조건을 달성한다고 해도 수익창출 심사 때 막히지 않을까요. 휴먼터치가 안 보이면.\"\n\n저는 조건 근처도 못 갔습니다.\n랭킹 채널이 28일 조회 18,205회에",
-      "views": 42,
+      "views": 50,
       "likes": 0,
       "replies": 0
     },
@@ -387,9 +387,9 @@
   ],
   "outreach": {
     "today": {
-      "replies": 4,
+      "replies": 5,
       "followups": 0,
-      "follows": 3
+      "follows": 4
     },
     "last7": [
       {
@@ -436,25 +436,25 @@
       },
       {
         "date": "2026-09-03",
-        "replies": 4,
+        "replies": 5,
         "followups": 0,
-        "follows": 3,
+        "follows": 4,
         "followers": null
       }
     ],
     "last_run": {
-      "outreach": "2026-09-03T11:47",
-      "followups": "2026-09-03T11:20",
+      "outreach": "2026-09-03T13:18",
+      "followups": "2026-09-03T12:50",
       "follows": "2026-09-03T10:31"
     },
     "alerts": [],
     "runs_today": {
       "outreach": {
-        "ran": 2,
+        "ran": 3,
         "missed": []
       },
       "followups": {
-        "ran": 2,
+        "ran": 3,
         "missed": []
       },
       "follows": {
@@ -464,8 +464,8 @@
     },
     "follow_experiment": {
       "followers_delta_7d": 10,
-      "follows_7d": 78,
-      "replies_7d": 60,
+      "follows_7d": 79,
+      "replies_7d": 61,
       "note": "팔로우 대비 팔로워 증가. 답글과 섞여 있어 단독 인과는 못 본다"
     }
   },
@@ -473,20 +473,20 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 655, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-09-03 11:41:27] outreach: 검색: 구독자 정체 → 누적 후보 8건",
-    "[2026-09-03 11:41:28] outreach: 훑은 글 중 제외: 자기 숫자 없음 23 · 주제 밖 14 · 광고·영업 7 · 차단어 5",
-    "[2026-09-03 11:41:28] outreach: 후보 8건 (광고·개인사 제외, 자기 숫자 있는 글만)",
-    "[2026-09-03 11:41:44] outreach: skip @sky0909889 — 유아 스마트폰 시청 시간 통제/육아 규칙에 관한 글로 유튜브 조회수·구독자·채널 운영과 무관하다. 우리 FACTS로 계산하거나",
-    "[2026-09-03 11:42:21] outreach: skip @ssg.landers_izz — 금지 요소 포함",
-    "[2026-09-03 11:42:33] outreach: skip @modo_label — MODO LABEL 대행사가 자사 숏폼 기획·제작 서비스를 소개하는 홍보 글이다. 상대가 자기 숫자를 올린 게 아니라 서비스 ",
-    "[2026-09-03 11:42:55] outreach: 대상 확인: @joy_joinnnn (원글 본문 일치)",
-    "[2026-09-03 11:43:02] outreach: 답글 @joy_joinnnn",
-    "[2026-09-03 11:43:09] outreach: 팔로우 @joy_joinnnn",
-    "[2026-09-03 11:46:50] outreach: skip @vegetable.on.112 — 에스파×신라면 브랜드 협업 캠페인 홍보/팬 게시물. 유튜브/쇼츠 개인 채널 성장과 무관하고 계산에 쓸 상대방의 개인 지표도 없",
-    "[2026-09-03 11:47:08] outreach: skip @knowever.official — 숫자 공개 글이 아니라 AI 프롬프트 기법(프리모템) 소개/마케�ং 카피다. 상대가 올린 조회수·구독자 같은 실측 수치가 없어",
-    "[2026-09-03 11:47:42] outreach: 대상 확인: @ve.rrrriss (원글 본문 일치)",
-    "[2026-09-03 11:47:49] outreach: 답글 @ve.rrrriss",
-    "[2026-09-03 11:47:56] outreach: 팔로우 @ve.rrrriss",
-    "[2026-09-03 11:47:56] outreach: 이번 실행 2건 · 오늘 누적 답글 4/10 · 팔로우 3/6"
+    "[2026-09-03 13:11:11] outreach: 검색: 채널 개설 → 누적 후보 10건",
+    "[2026-09-03 13:11:13] outreach: 훑은 글 중 제외: 자기 숫자 없음 21 · 광고·영업 13 · 주제 밖 7 · 차단어 5 · 개인사 1",
+    "[2026-09-03 13:11:13] outreach: 후보 10건 (광고·개인사 제외, 자기 숫자 있는 글만)",
+    "[2026-09-03 13:12:15] outreach: 대상 확인: @icewine12 (원글 본문 일치)",
+    "[2026-09-03 13:12:21] outreach: 답글 @icewine12",
+    "[2026-09-03 13:12:28] outreach: 팔로우 @icewine12",
+    "[2026-09-03 13:16:34] outreach: skip @ieravo_music — 유튜브 조회수/구독자 성장과 무관한 음악 발매 홍보 게시물. 좋아요·댓글 수는 있지만 우리 답글 공식(상대 숫자로 비율 만들기",
+    "[2026-09-03 13:16:58] outreach: skip @hyeon.words — 자기계발 습관 형성에 관한 일반론 글. 유튜브는 스레드/블로그/운동/독서와 나열된 항목 중 하나일 뿐 조회수·구독자 등 계산할",
+    "[2026-09-03 13:17:08] outreach: skip @junhyun_happy — 유튜브 다큐 출연자 모집 공고임. 조회수·구독자 같은 지표가 없고 대화가 아니라 캐스팅 요청이라 우리 숫자를 얹을 지점이 없음",
+    "[2026-09-03 13:17:26] outreach: skip @viator_joey — 한인 사업가 네트워크 모임 소개글로 유튜브 조회수·구독자 관련 숫자가 전혀 없다. '유튜브 채널 8년 운영'은 언급되지만 조회",
+    "[2026-09-03 13:17:44] outreach: skip @ai_hunter_jedi — 공모전 수상 소식이고 조회수·구독자·수익 등 상대가 제시한 숫자가 전혀 없어 비율을 만들거나 우리 숫자를 옆에 놓을 계산 근거",
+    "[2026-09-03 13:18:02] outreach: skip @onedaymyfavorite00 — 연예인/캐릭터 관련 팬덤 축하 게시물이며 실제 조회수·구독자 수치가 없어 계산할 숫자가 없음",
+    "[2026-09-03 13:18:16] outreach: skip @der_kaffee_k — 수영 학습 속도에 대한 개인적 고민이며 유튜브/숏폼/조회수/구독자 주제와 무관하다. 상대가 제시한 수치도 없어(1년, 1~3개",
+    "[2026-09-03 13:18:16] outreach: 모델 호출 8건 도달 — 나머지 2건은 다음 회차로",
+    "[2026-09-03 13:18:17] outreach: 이번 실행 1건 · 오늘 누적 답글 5/10 · 팔로우 4/6"
   ]
 }
