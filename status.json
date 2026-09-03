@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T14:16:33",
+  "generated_at": "2026-09-03T14:26:29",
   "username": "studiohaetae",
   "followers": 111,
   "followers_history": [
@@ -291,7 +291,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DcyIgZemPZx",
       "text": "답글로 온 질문 중에 제가 답을 못 한 게 있습니다.\n\n\"조건을 달성한다고 해도 수익창출 심사 때 막히지 않을까요. 휴먼터치가 안 보이면.\"\n\n저는 조건 근처도 못 갔습니다.\n랭킹 채널이 28일 조회 18,205회에",
-      "views": 50,
+      "views": 51,
       "likes": 0,
       "replies": 0
     },
@@ -473,7 +473,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 655, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-09-03 13:11:11] outreach: 검색: 채널 개설 → 누적 후보 10건",
     "[2026-09-03 13:11:13] outreach: 훑은 글 중 제외: 자기 숫자 없음 21 · 광고·영업 13 · 주제 밖 7 · 차단어 5 · 개인사 1",
     "[2026-09-03 13:11:13] outreach: 후보 10건 (광고·개인사 제외, 자기 숫자 있는 글만)",
     "[2026-09-03 13:12:15] outreach: 대상 확인: @icewine12 (원글 본문 일치)",
@@ -487,6 +486,7 @@
     "[2026-09-03 13:18:02] outreach: skip @onedaymyfavorite00 — 연예인/캐릭터 관련 팬덤 축하 게시물이며 실제 조회수·구독자 수치가 없어 계산할 숫자가 없음",
     "[2026-09-03 13:18:16] outreach: skip @der_kaffee_k — 수영 학습 속도에 대한 개인적 고민이며 유튜브/숏폼/조회수/구독자 주제와 무관하다. 상대가 제시한 수치도 없어(1년, 1~3개",
     "[2026-09-03 13:18:16] outreach: 모델 호출 8건 도달 — 나머지 2건은 다음 회차로",
-    "[2026-09-03 13:18:17] outreach: 이번 실행 1건 · 오늘 누적 답글 5/10 · 팔로우 4/6"
+    "[2026-09-03 13:18:17] outreach: 이번 실행 1건 · 오늘 누적 답글 5/10 · 팔로우 4/6",
+    "[2026-09-03 14:17:10] digest 갱신: 팔로워 111 · 미답변 3건 · 큐 5개 · 오늘 답글 5 · 되물음 0 · 팔로우 4"
   ]
 }
