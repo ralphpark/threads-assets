@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T20:18:30",
+  "generated_at": "2026-09-03T20:28:57",
   "username": "studiohaetae",
   "followers": 112,
   "followers_history": [
@@ -473,7 +473,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 655, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-09-03 18:37:46] outreach: 이번 실행 1건 · 오늘 누적 답글 8/10 · 팔로우 6/6",
     "[2026-09-03 19:40:16] outreach: follow: 검색: 유튜브 한달",
     "[2026-09-03 19:40:28] outreach: follow: 검색: 채널 개설",
     "[2026-09-03 19:40:43] outreach: follow: 검색: 유튜브 3개월",
@@ -487,6 +486,7 @@
     "[2026-09-03 19:41:47] outreach: follow: 팔로워 31명 @zakugio — 기준(500) 미달, 건너뜀",
     "[2026-09-03 19:41:47] outreach: follow: 팔로워 1명 @hyeon.words — 기준(500) 미달, 건너뜀",
     "[2026-09-03 19:41:47] outreach: follow: 팔로워 0명 @prof.kimmeengeon21 — 기준(500) 미달, 건너뜀",
-    "[2026-09-03 19:41:47] outreach: follow: 이번 회차 0명 · 오늘 누적 2/20"
+    "[2026-09-03 19:41:47] outreach: follow: 이번 회차 0명 · 오늘 누적 2/20",
+    "[2026-09-03 20:19:13] digest 갱신: 팔로워 112 · 미답변 3건 · 큐 5개 · 오늘 답글 8 · 되물음 0 · 팔로우 8"
   ]
 }
