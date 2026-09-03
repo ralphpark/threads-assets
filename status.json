@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T22:19:14",
+  "generated_at": "2026-09-03T23:30:17",
   "username": "studiohaetae",
   "followers": 112,
   "followers_history": [
@@ -104,7 +104,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Dbk4pi-GAq2",
       "text": "2시간 10분짜리 영상.\n평균 시청 지속 시간 1분 2초. 0.2%.\n\n배경음악은 틀어놓고 딴 일 하는 콘텐츠인데\n12초 만에 나갔다는 건 틀어놓지도 않았다는 뜻입니다.\n\n유튜브는 이 판정을 39번 받고 노출을 끊었",
-      "views": 394,
+      "views": 395,
       "likes": 3,
       "replies": 10
     },
@@ -302,7 +302,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Dc0tTW9GPJ5",
       "text": "어떤 분이 알려줬습니다.\n새 채널에 영상 빈도가 높으면 스팸으로 볼 확률이 높다고요.\n\n재즈 채널은 완전 자동으로 39편을 올렸습니다.\n28일 노출수는 48회였습니다. 편당 한 달에 1.2번 보여졌습니다.\n\n노출 클",
-      "views": 4,
+      "views": 5,
       "likes": 0,
       "replies": 0
     },
@@ -484,7 +484,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 655, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-09-03 22:10:27] outreach: follow: 검색: 유튜브 한달",
     "[2026-09-03 22:10:40] outreach: follow: 검색: 구독자 안늘어",
     "[2026-09-03 22:10:45] outreach: follow: 후보 계정 10명",
     "[2026-09-03 22:11:54] outreach: follow: 프로필 10개 확인 — 팔로워 큰 순으로 진행",
@@ -498,6 +497,7 @@
     "[2026-09-03 22:15:28] outreach: follow: 팔로워 35명 @der_kaffee_k — 기준(500) 미달, 건너뜀",
     "[2026-09-03 22:15:28] outreach: follow: 팔로워 31명 @zakugio — 기준(500) 미달, 건너뜀",
     "[2026-09-03 22:15:28] outreach: follow: 팔로워 4명 @jannah_korea — 기준(500) 미달, 건너뜀",
-    "[2026-09-03 22:15:29] outreach: follow: 이번 회차 3명 · 오늘 누적 5/20"
+    "[2026-09-03 22:15:29] outreach: follow: 이번 회차 3명 · 오늘 누적 5/20",
+    "[2026-09-03 22:20:10] digest 갱신: 팔로워 112 · 미답변 3건 · 큐 4개 · 오늘 답글 10 · 되물음 0 · 팔로우 11"
   ]
 }
