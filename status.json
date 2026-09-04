@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T20:26:43",
+  "generated_at": "2026-09-04T20:39:48",
   "username": "studiohaetae",
   "followers": 116,
   "followers_history": [
@@ -60,9 +60,10 @@
       "followers": 112
     }
   ],
-  "queue_pending": 4,
-  "queue_next": "지난 4주 동안 이 계정에 달린 답글이 28건이었습니다.\n그중 자기 숫자를 적어주신 분은 4명이었습니다.\n\n",
+  "queue_pending": 3,
+  "queue_next": "유튜브 채널 11개를 API로 전수 확인했습니다.\n\n수익화 기준은 채널당 구독자 500명, 유효 시청시간 3",
   "queue_drafts": 2,
+  "queue_alert": "원고 잔량 3편. 3편 이하다. refill.py check 를 돌리고 초안이 있으면 promote 해라.",
   "posts": [
     {
       "at": "2026-07-31T14:33:33",
@@ -307,6 +308,17 @@
       "replies": 0
     },
     {
+      "at": "2026-09-04T20:30:14",
+      "n": 23,
+      "id": "18389563651204495",
+      "is_reply": false,
+      "permalink": "https://www.threads.com/@studiohaetae/post/Dc3SGKHmDRV",
+      "text": "지난 4주 동안 이 계정에 달린 답글이 28건이었습니다.\n그중 자기 숫자를 적어주신 분은 4명이었습니다.\n\n- 누적 조회 3,068회, 수익 0원\n- 영상 300편, 구독자 139명\n- 곡 35개, 수익 0원\n- 답",
+      "views": 0,
+      "likes": 0,
+      "replies": 0
+    },
+    {
       "at": "2026-08-20T12:57:01",
       "n": -1,
       "id": "18120613064494354",
@@ -484,9 +496,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 655, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-09-04 18:36:48] outreach: 답글 @attorneykym",
-    "[2026-09-04 18:36:48] outreach: 이번 실행 2건 · 오늘 누적 답글 10/10 · 팔로우 6/6",
-    "[2026-09-04 19:40:21] outreach: follow: 검색: 숏폼 조회수",
     "[2026-09-04 19:40:28] outreach: follow: 검색: 유튜브 3개월",
     "[2026-09-04 19:40:54] outreach: follow: 검색: 유튜브 수익",
     "[2026-09-04 19:40:59] outreach: follow: 후보 계정 7명",
@@ -498,6 +507,9 @@
     "[2026-09-04 19:42:38] outreach: follow: 팔로워 14명 @holahoolahala — 기준(500) 미달, 건너뜀",
     "[2026-09-04 19:42:38] outreach: follow: 팔로워 4명 @short_marketer — 기준(500) 미달, 건너뜀",
     "[2026-09-04 19:42:38] outreach: follow: 팔로워 0명 @sksodolawlsaaaa — 기준(500) 미달, 건너뜀",
-    "[2026-09-04 19:42:38] outreach: follow: 이번 회차 1명 · 오늘 누적 7/20"
+    "[2026-09-04 19:42:38] outreach: follow: 이번 회차 1명 · 오늘 누적 7/20",
+    "[2026-09-04 20:27:15] digest 갱신: 팔로워 116 · 미답변 3건 · 큐 4개 · 오늘 답글 10 · 되물음 0 · 팔로우 13",
+    "[2026-09-04 20:30:07] 컨테이너 생성 17898338145605032 (n=23)",
+    "[2026-09-04 20:30:14] 게시 완료 n=23 id=18389563651204495"
   ]
 }
