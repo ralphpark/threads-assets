@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T08:45:03",
+  "generated_at": "2026-09-05T08:45:37",
   "username": "studiohaetae",
   "followers": 118,
   "followers_history": [
@@ -503,8 +503,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 655, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-09-04 23:42:15] digest 갱신: 팔로워 117 · 미답변 4건 · 큐 3개 · 오늘 답글 10 · 되물음 0 · 팔로우 16",
-    "[2026-09-04 23:42:15] agent: 자동 답글 0건 · 보류 4건(굳은 것 4건)",
     "[2026-09-05 00:28:24] digest 갱신: 팔로워 117 · 미답변 4건 · 큐 3개 · 오늘 답글 0 · 되물음 0 · 팔로우 0",
     "[2026-09-05 02:29:12] digest 갱신: 팔로워 117 · 미답변 4건 · 큐 3개 · 오늘 답글 0 · 되물음 0 · 팔로우 0",
     "[2026-09-05 02:42:57] digest 갱신: 팔로워 117 · 미답변 4건 · 큐 3개 · 오늘 답글 0 · 되물음 0 · 팔로우 0",
@@ -517,6 +515,8 @@
     "[2026-09-05 05:45:03] digest 갱신: 팔로워 117 · 미답변 4건 · 큐 3개 · 오늘 답글 0 · 되물음 0 · 팔로우 0",
     "[2026-09-05 05:45:03] agent: 자동 답글 0건 · 신규 판정 대상 없음",
     "[2026-09-05 06:30:34] digest 갱신: 팔로워 118 · 미답변 4건 · 큐 3개 · 오늘 답글 0 · 되물음 0 · 팔로우 0",
-    "[2026-09-05 08:31:14] digest 갱신: 팔로워 118 · 미답변 4건 · 큐 3개 · 오늘 답글 0 · 되물음 0 · 팔로우 0"
+    "[2026-09-05 08:31:14] digest 갱신: 팔로워 118 · 미답변 4건 · 큐 3개 · 오늘 답글 0 · 되물음 0 · 팔로우 0",
+    "[2026-09-05 08:45:37] digest 갱신: 팔로워 118 · 미답변 4건 · 큐 3개 · 오늘 답글 0 · 되물음 0 · 팔로우 0",
+    "[2026-09-05 08:45:37] agent: 보류 유지 4건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_). 다시 보려면 --recheck-all"
   ]
 }
