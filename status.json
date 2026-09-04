@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T20:39:48",
+  "generated_at": "2026-09-04T20:40:22",
   "username": "studiohaetae",
   "followers": 116,
   "followers_history": [
@@ -496,8 +496,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 655, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-09-04 19:40:28] outreach: follow: 검색: 유튜브 3개월",
-    "[2026-09-04 19:40:54] outreach: follow: 검색: 유튜브 수익",
     "[2026-09-04 19:40:59] outreach: follow: 후보 계정 7명",
     "[2026-09-04 19:41:27] outreach: follow: 프로필 7개 확인 — 팔로워 큰 순으로 진행",
     "[2026-09-04 19:41:33] outreach: follow: 팔로우 @ai_nomadwalker (팔로워 801명)",
@@ -510,6 +508,8 @@
     "[2026-09-04 19:42:38] outreach: follow: 이번 회차 1명 · 오늘 누적 7/20",
     "[2026-09-04 20:27:15] digest 갱신: 팔로워 116 · 미답변 3건 · 큐 4개 · 오늘 답글 10 · 되물음 0 · 팔로우 13",
     "[2026-09-04 20:30:07] 컨테이너 생성 17898338145605032 (n=23)",
-    "[2026-09-04 20:30:14] 게시 완료 n=23 id=18389563651204495"
+    "[2026-09-04 20:30:14] 게시 완료 n=23 id=18389563651204495",
+    "[2026-09-04 20:40:22] digest 갱신: 팔로워 116 · 미답변 3건 · 큐 3개 · 오늘 답글 10 · 되물음 0 · 팔로우 13",
+    "[2026-09-04 20:40:22] agent: 보류 유지 3건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart). 다시 보려면 --recheck-all"
   ]
 }
