@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T14:37:02",
+  "generated_at": "2026-09-04T14:37:41",
   "username": "studiohaetae",
   "followers": 114,
   "followers_history": [
@@ -469,7 +469,7 @@
         "missed": []
       },
       "follows": {
-        "ran": 1,
+        "ran": 2,
         "missed": []
       }
     },
@@ -484,8 +484,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 655, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-09-04 14:30:28] outreach: follow: 검색: 구독자 안늘어",
-    "[2026-09-04 14:30:37] outreach: follow: 검색: 구독자 1000명",
     "[2026-09-04 14:30:42] outreach: follow: 후보 계정 10명",
     "[2026-09-04 14:31:50] outreach: follow: 프로필 10개 확인 — 팔로워 큰 순으로 진행",
     "[2026-09-04 14:31:58] outreach: follow: 팔로우 @nonie21 (팔로워 1,702명)",
@@ -498,6 +496,8 @@
     "[2026-09-04 14:34:10] outreach: follow: 팔로워 33명 @park._.bari — 기준(500) 미달, 건너뜀",
     "[2026-09-04 14:34:10] outreach: follow: 팔로워 3명 @ai_agent_paki — 기준(500) 미달, 건너뜀",
     "[2026-09-04 14:34:10] outreach: follow: 팔로워 0명 @akdong.2003 — 기준(500) 미달, 건너뜀",
-    "[2026-09-04 14:34:10] outreach: follow: 이번 회차 2명 · 오늘 누적 4/20"
+    "[2026-09-04 14:34:10] outreach: follow: 이번 회차 2명 · 오늘 누적 4/20",
+    "[2026-09-04 14:37:41] digest 갱신: 팔로워 114 · 미답변 3건 · 큐 4개 · 오늘 답글 6 · 되물음 0 · 팔로우 9",
+    "[2026-09-04 14:37:41] agent: 보류 유지 3건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart). 다시 보려면 --recheck-all"
   ]
 }
