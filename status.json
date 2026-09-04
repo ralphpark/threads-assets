@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T11:35:47",
+  "generated_at": "2026-09-04T11:36:25",
   "username": "studiohaetae",
   "followers": 112,
   "followers_history": [
@@ -484,8 +484,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 655, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-09-04 10:24:24] digest 갱신: 팔로워 112 · 미답변 3건 · 큐 4개 · 오늘 답글 2 · 되물음 0 · 팔로우 1",
-    "[2026-09-04 10:30:19] outreach: follow: 검색: 첫 영상",
     "[2026-09-04 10:30:32] outreach: follow: 검색: 유튜브 3개월",
     "[2026-09-04 10:30:44] outreach: follow: 검색: 채널 개설",
     "[2026-09-04 10:30:50] outreach: follow: 후보 계정 6명",
@@ -498,6 +496,8 @@
     "[2026-09-04 10:33:47] outreach: follow: 팔로워 0명 @wendydouglass444 — 기준(500) 미달, 건너뜀",
     "[2026-09-04 10:33:48] outreach: follow: 이번 회차 2명 · 오늘 누적 2/20",
     "[2026-09-04 11:20:09] outreach: followup: 계정 확인: @studiohaetae",
-    "[2026-09-04 11:20:17] outreach: followup: 되물음 후보 0건 (이미 답한 것 제외)"
+    "[2026-09-04 11:20:17] outreach: followup: 되물음 후보 0건 (이미 답한 것 제외)",
+    "[2026-09-04 11:36:25] digest 갱신: 팔로워 112 · 미답변 3건 · 큐 4개 · 오늘 답글 2 · 되물음 0 · 팔로우 3",
+    "[2026-09-04 11:36:25] agent: 보류 유지 3건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart). 다시 보려면 --recheck-all"
   ]
 }
