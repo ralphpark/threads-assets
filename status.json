@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T14:37:41",
+  "generated_at": "2026-09-04T16:25:39",
   "username": "studiohaetae",
   "followers": 114,
   "followers_history": [
@@ -269,7 +269,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Dcs-6wen0jJ",
       "text": "답글로 두 건을 받았습니다.\n\n한 분은 AI로 열 몇 개를 돌려 겨우 하나 수익창출을 했는데, 수익창출 금지를 받고 결국 계정이 삭제됐습니다.\n다른 분은 수익 정지는 채널이 남는 거라 회복을 노릴 이유가 없고 보통 ",
-      "views": 148,
+      "views": 149,
       "likes": 3,
       "replies": 2
     },
@@ -280,7 +280,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DcvjtiaGEWe",
       "text": "2시간 10분짜리 영상의 평균 시청 지속 시간이 1분 2초였습니다.\n0.2%입니다.\n\n배경음악처럼 틀어놓고 딴 일 하는 콘텐츠인데,\n12초 만에 나갔다는 건 틀어놓지도 않았다는 뜻입니다.\n\n노출 클릭률은 6.3%로 ",
-      "views": 98,
+      "views": 99,
       "likes": 1,
       "replies": 0
     },
@@ -291,7 +291,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DcyIgZemPZx",
       "text": "답글로 온 질문 중에 제가 답을 못 한 게 있습니다.\n\n\"조건을 달성한다고 해도 수익창출 심사 때 막히지 않을까요. 휴먼터치가 안 보이면.\"\n\n저는 조건 근처도 못 갔습니다.\n랭킹 채널이 28일 조회 18,205회에",
-      "views": 79,
+      "views": 81,
       "likes": 0,
       "replies": 0
     },
@@ -302,7 +302,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Dc0tTW9GPJ5",
       "text": "어떤 분이 알려줬습니다.\n새 채널에 영상 빈도가 높으면 스팸으로 볼 확률이 높다고요.\n\n재즈 채널은 완전 자동으로 39편을 올렸습니다.\n28일 노출수는 48회였습니다. 편당 한 달에 1.2번 보여졌습니다.\n\n노출 클",
-      "views": 32,
+      "views": 34,
       "likes": 0,
       "replies": 0
     },
@@ -398,9 +398,9 @@
   ],
   "outreach": {
     "today": {
-      "replies": 6,
+      "replies": 8,
       "followups": 0,
-      "follows": 9
+      "follows": 10
     },
     "last7": [
       {
@@ -447,25 +447,25 @@
       },
       {
         "date": "2026-09-04",
-        "replies": 6,
+        "replies": 8,
         "followups": 0,
-        "follows": 9,
+        "follows": 10,
         "followers": null
       }
     ],
     "last_run": {
-      "outreach": "2026-09-04T13:18",
-      "followups": "2026-09-04T12:50",
+      "outreach": "2026-09-04T15:58",
+      "followups": "2026-09-04T15:30",
       "follows": "2026-09-04T14:34"
     },
     "alerts": [],
     "runs_today": {
       "outreach": {
-        "ran": 3,
+        "ran": 4,
         "missed": []
       },
       "followups": {
-        "ran": 3,
+        "ran": 4,
         "missed": []
       },
       "follows": {
@@ -475,8 +475,8 @@
     },
     "follow_experiment": {
       "followers_delta_7d": 11,
-      "follows_7d": 76,
-      "replies_7d": 62,
+      "follows_7d": 77,
+      "replies_7d": 64,
       "note": "팔로우 대비 팔로워 증가. 답글과 섞여 있어 단독 인과는 못 본다"
     }
   },
@@ -484,20 +484,20 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 655, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-09-04 14:30:42] outreach: follow: 후보 계정 10명",
-    "[2026-09-04 14:31:50] outreach: follow: 프로필 10개 확인 — 팔로워 큰 순으로 진행",
-    "[2026-09-04 14:31:58] outreach: follow: 팔로우 @nonie21 (팔로워 1,702명)",
-    "[2026-09-04 14:33:20] outreach: follow: 팔로우 @wdrb_farmer (팔로워 515명)",
-    "[2026-09-04 14:34:10] outreach: follow: 이미 팔로우 중 @hyeonjia058",
-    "[2026-09-04 14:34:10] outreach: follow: 팔로워 132명 @fxfbs_5200 — 기준(500) 미달, 건너뜀",
-    "[2026-09-04 14:34:10] outreach: follow: 팔로워 119명 @seoa.superverse — 기준(500) 미달, 건너뜀",
-    "[2026-09-04 14:34:10] outreach: follow: 팔로워 111명 @pltopia — 기준(500) 미달, 건너뜀",
-    "[2026-09-04 14:34:10] outreach: follow: 이미 팔로우 중 @xusxbee",
-    "[2026-09-04 14:34:10] outreach: follow: 팔로워 33명 @park._.bari — 기준(500) 미달, 건너뜀",
-    "[2026-09-04 14:34:10] outreach: follow: 팔로워 3명 @ai_agent_paki — 기준(500) 미달, 건너뜀",
-    "[2026-09-04 14:34:10] outreach: follow: 팔로워 0명 @akdong.2003 — 기준(500) 미달, 건너뜀",
-    "[2026-09-04 14:34:10] outreach: follow: 이번 회차 2명 · 오늘 누적 4/20",
-    "[2026-09-04 14:37:41] digest 갱신: 팔로워 114 · 미답변 3건 · 큐 4개 · 오늘 답글 6 · 되물음 0 · 팔로우 9",
-    "[2026-09-04 14:37:41] agent: 보류 유지 3건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart). 다시 보려면 --recheck-all"
+    "[2026-09-04 15:51:14] outreach: 검색: 애드센스 승인 → 누적 후보 9건",
+    "[2026-09-04 15:51:26] outreach: 검색: 구독자 정체 → 누적 후보 9건",
+    "[2026-09-04 15:51:27] outreach: 훑은 글 중 제외: 자기 숫자 없음 29 · 주제 밖 9 · 광고·영업 5 · 차단어 3 · 개인사 2",
+    "[2026-09-04 15:51:27] outreach: 후보 9건 (광고·개인사 제외, 자기 숫자 있는 글만)",
+    "[2026-09-04 15:52:26] outreach: 대상 확인: @banchan_joy (원글 본문 일치)",
+    "[2026-09-04 15:52:34] outreach: 답글 @banchan_joy",
+    "[2026-09-04 15:52:42] outreach: 팔로우 @banchan_joy",
+    "[2026-09-04 15:55:51] outreach: skip @park._.bari — 구직(채용 지원) 홍보 글이다. 21만 구독자라는 숫자가 언급되긴 하지만 글의 목적은 바리스타 취업 자기소개이지 유튜브 성장/",
+    "[2026-09-04 15:56:32] outreach: skip @3400namingwriter — 브런치 글 유입을 유도하는 콘텐츠 마케팅/리드마그넷 훅에 가깝다(\"자세한 이야기는 브런치에... 음미해 보세요\" + 링크 + ",
+    "[2026-09-04 15:56:52] outreach: skip @medipair__official — 뷰티 브랜드의 자사 포털 트래픽 홍보 콘텐츠. 1/4 슬라이드에 '이유는,'으로 문장을 끊는 리드마그넷 훅 구조이고, 유튜브/",
+    "[2026-09-04 15:57:19] outreach: skip @ai_nomadwalker — 틱톡 학습데이터 스크래핑 관련 뉴스/의견 글이라 상대의 실측 숫자가 없다. 우리 FACTS로 계산해서 얹을 비율이 없고, 유튜",
+    "[2026-09-04 15:57:46] outreach: skip @localkitchenloki — 구독자 4천이라는 숫자는 있지만 자랑도 아니고 성장 고민도 아니다. 다른 채널로 넘어가고 싶다는 꿈 얘기라 우리 숫자를 얹으면",
+    "[2026-09-04 15:58:25] outreach: 대상 확인: @nana_sky_1129 (원글 본문 일치)",
+    "[2026-09-04 15:58:32] outreach: 답글 @nana_sky_1129",
+    "[2026-09-04 15:58:33] outreach: 이번 실행 2건 · 오늘 누적 답글 8/10 · 팔로우 6/6"
   ]
 }
