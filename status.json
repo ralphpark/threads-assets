@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T10:23:46",
+  "generated_at": "2026-09-04T11:35:47",
   "username": "studiohaetae",
   "followers": 112,
   "followers_history": [
@@ -291,7 +291,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DcyIgZemPZx",
       "text": "답글로 온 질문 중에 제가 답을 못 한 게 있습니다.\n\n\"조건을 달성한다고 해도 수익창출 심사 때 막히지 않을까요. 휴먼터치가 안 보이면.\"\n\n저는 조건 근처도 못 갔습니다.\n랭킹 채널이 28일 조회 18,205회에",
-      "views": 69,
+      "views": 71,
       "likes": 0,
       "replies": 0
     },
@@ -302,7 +302,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Dc0tTW9GPJ5",
       "text": "어떤 분이 알려줬습니다.\n새 채널에 영상 빈도가 높으면 스팸으로 볼 확률이 높다고요.\n\n재즈 채널은 완전 자동으로 39편을 올렸습니다.\n28일 노출수는 48회였습니다. 편당 한 달에 1.2번 보여졌습니다.\n\n노출 클",
-      "views": 18,
+      "views": 21,
       "likes": 0,
       "replies": 0
     },
@@ -400,7 +400,7 @@
     "today": {
       "replies": 2,
       "followups": 0,
-      "follows": 1
+      "follows": 3
     },
     "last7": [
       {
@@ -449,14 +449,14 @@
         "date": "2026-09-04",
         "replies": 2,
         "followups": 0,
-        "follows": 1,
+        "follows": 3,
         "followers": null
       }
     ],
     "last_run": {
       "outreach": "2026-09-04T09:26",
-      "followups": "2026-09-04T09:00",
-      "follows": "2026-09-03T22:15"
+      "followups": "2026-09-04T11:20",
+      "follows": "2026-09-04T10:33"
     },
     "alerts": [],
     "runs_today": {
@@ -465,17 +465,17 @@
         "missed": []
       },
       "followups": {
-        "ran": 1,
+        "ran": 2,
         "missed": []
       },
       "follows": {
-        "ran": 0,
+        "ran": 1,
         "missed": []
       }
     },
     "follow_experiment": {
       "followers_delta_7d": 11,
-      "follows_7d": 68,
+      "follows_7d": 70,
       "replies_7d": 58,
       "note": "팔로우 대비 팔로워 증가. 답글과 섞여 있어 단독 인과는 못 본다"
     }
@@ -484,20 +484,20 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 655, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-09-04 09:20:35] outreach: 검색: 유튜브 수익 → 누적 후보 3건",
-    "[2026-09-04 09:20:43] outreach: 검색: 구독자 안늘어 → 누적 후보 6건",
-    "[2026-09-04 09:20:50] outreach: 검색: 숏폼 조회수 → 누적 후보 10건",
-    "[2026-09-04 09:21:05] outreach: 검색: 조회수 1000회 → 누적 후보 12건",
-    "[2026-09-04 09:21:14] outreach: 검색: 첫 영상 → 누적 후보 12건",
-    "[2026-09-04 09:21:15] outreach: 훑은 글 중 제외: 자기 숫자 없음 20 · 광고·영업 16 · 주제 밖 10 · 차단어 3 · 너무 짧음 1 · 개인사 1",
-    "[2026-09-04 09:21:15] outreach: 후보 12건 (광고·개인사 제외, 자기 숫자 있는 글만)",
-    "[2026-09-04 09:21:30] outreach: skip @kospidol — 유튜브/조회수/구독자 전환율과 무관한 K팝 팬덤 가상주식 서비스 홍보글. URL과 참여 유도 문구가 있어 광고성이고, 우리 F",
-    "[2026-09-04 09:22:11] outreach: 대상 확인: @ggangganmom.cook (원글 본문 일치)",
-    "[2026-09-04 09:22:19] outreach: 답글 @ggangganmom.cook",
-    "[2026-09-04 09:22:26] outreach: 팔로우 @ggangganmom.cook",
-    "[2026-09-04 09:25:33] outreach: skip @hankukkim — 친일파 스캐너 웹사이트 관련 시사·역사 논쟁 주제이고, 상대가 언급한 '구독자 60만'은 남의 기존 채널 규모 서술일 뿐 계산",
-    "[2026-09-04 09:26:17] outreach: 대상 확인: @gun__ssam01 (원글 본문 일치)",
-    "[2026-09-04 09:26:27] outreach: 답글 @gun__ssam01",
-    "[2026-09-04 09:26:32] outreach: 이번 실행 2건 · 오늘 누적 답글 2/10 · 팔로우 1/6"
+    "[2026-09-04 10:24:24] digest 갱신: 팔로워 112 · 미답변 3건 · 큐 4개 · 오늘 답글 2 · 되물음 0 · 팔로우 1",
+    "[2026-09-04 10:30:19] outreach: follow: 검색: 첫 영상",
+    "[2026-09-04 10:30:32] outreach: follow: 검색: 유튜브 3개월",
+    "[2026-09-04 10:30:44] outreach: follow: 검색: 채널 개설",
+    "[2026-09-04 10:30:50] outreach: follow: 후보 계정 6명",
+    "[2026-09-04 10:31:17] outreach: follow: 프로필 6개 확인 — 팔로워 큰 순으로 진행",
+    "[2026-09-04 10:31:23] outreach: follow: 팔로우 @sjsjunee (팔로워 5,791명)",
+    "[2026-09-04 10:32:48] outreach: follow: 팔로우 @atn_sz (팔로워 1,271명)",
+    "[2026-09-04 10:33:47] outreach: follow: 팔로워 189명 @chi_ll85 — 기준(500) 미달, 건너뜀",
+    "[2026-09-04 10:33:47] outreach: follow: 팔로워 86명 @sky0909889 — 기준(500) 미달, 건너뜀",
+    "[2026-09-04 10:33:47] outreach: follow: 팔로워 33명 @freesense_diary — 기준(500) 미달, 건너뜀",
+    "[2026-09-04 10:33:47] outreach: follow: 팔로워 0명 @wendydouglass444 — 기준(500) 미달, 건너뜀",
+    "[2026-09-04 10:33:48] outreach: follow: 이번 회차 2명 · 오늘 누적 2/20",
+    "[2026-09-04 11:20:09] outreach: followup: 계정 확인: @studiohaetae",
+    "[2026-09-04 11:20:17] outreach: followup: 되물음 후보 0건 (이미 답한 것 제외)"
   ]
 }
