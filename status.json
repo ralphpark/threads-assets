@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T11:36:25",
+  "generated_at": "2026-09-04T12:24:25",
   "username": "studiohaetae",
   "followers": 112,
   "followers_history": [
@@ -247,7 +247,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Dcn1VAeGIts",
       "text": "지난 3주 답글에서 같은 말을 세 분한테 들었습니다.\n\n\"자동화 쇼츠는 안 됩니다.\"\n\"AI로 자동화하는 것보다 수동으로 한 개 만드는 게 더 벌더라.\"\n\"까놓고 AI로 수익화하겠다는 게 말이 안 됨.\"\n\n제 숫자로",
-      "views": 152,
+      "views": 153,
       "likes": 1,
       "replies": 2
     },
@@ -258,7 +258,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DcqaHXSn3eF",
       "text": "어떤 분이 자기 계정에서 이걸 실측해서 알려줬습니다.\n\n답글을 안 단 새벽 세 사이클은 팔로워 증가가 0이었고,\n다시 답글을 달자마자 붙었다고요.\n\n제 계정에서 같은 게 나오는지 봤습니다.\n7월 31일 58명에서 8",
-      "views": 85,
+      "views": 86,
       "likes": 1,
       "replies": 1
     },
@@ -269,7 +269,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Dcs-6wen0jJ",
       "text": "답글로 두 건을 받았습니다.\n\n한 분은 AI로 열 몇 개를 돌려 겨우 하나 수익창출을 했는데, 수익창출 금지를 받고 결국 계정이 삭제됐습니다.\n다른 분은 수익 정지는 채널이 남는 거라 회복을 노릴 이유가 없고 보통 ",
-      "views": 144,
+      "views": 146,
       "likes": 3,
       "replies": 2
     },
@@ -280,7 +280,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DcvjtiaGEWe",
       "text": "2시간 10분짜리 영상의 평균 시청 지속 시간이 1분 2초였습니다.\n0.2%입니다.\n\n배경음악처럼 틀어놓고 딴 일 하는 콘텐츠인데,\n12초 만에 나갔다는 건 틀어놓지도 않았다는 뜻입니다.\n\n노출 클릭률은 6.3%로 ",
-      "views": 93,
+      "views": 96,
       "likes": 1,
       "replies": 0
     },
@@ -302,7 +302,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Dc0tTW9GPJ5",
       "text": "어떤 분이 알려줬습니다.\n새 채널에 영상 빈도가 높으면 스팸으로 볼 확률이 높다고요.\n\n재즈 채널은 완전 자동으로 39편을 올렸습니다.\n28일 노출수는 48회였습니다. 편당 한 달에 1.2번 보여졌습니다.\n\n노출 클",
-      "views": 21,
+      "views": 25,
       "likes": 0,
       "replies": 0
     },
@@ -398,9 +398,9 @@
   ],
   "outreach": {
     "today": {
-      "replies": 2,
+      "replies": 4,
       "followups": 0,
-      "follows": 3
+      "follows": 5
     },
     "last7": [
       {
@@ -447,21 +447,21 @@
       },
       {
         "date": "2026-09-04",
-        "replies": 2,
+        "replies": 4,
         "followups": 0,
-        "follows": 3,
+        "follows": 5,
         "followers": null
       }
     ],
     "last_run": {
-      "outreach": "2026-09-04T09:26",
+      "outreach": "2026-09-04T11:48",
       "followups": "2026-09-04T11:20",
       "follows": "2026-09-04T10:33"
     },
     "alerts": [],
     "runs_today": {
       "outreach": {
-        "ran": 1,
+        "ran": 2,
         "missed": []
       },
       "followups": {
@@ -475,8 +475,8 @@
     },
     "follow_experiment": {
       "followers_delta_7d": 11,
-      "follows_7d": 70,
-      "replies_7d": 58,
+      "follows_7d": 72,
+      "replies_7d": 60,
       "note": "팔로우 대비 팔로워 증가. 답글과 섞여 있어 단독 인과는 못 본다"
     }
   },
@@ -484,20 +484,20 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 655, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-09-04 10:30:32] outreach: follow: 검색: 유튜브 3개월",
-    "[2026-09-04 10:30:44] outreach: follow: 검색: 채널 개설",
-    "[2026-09-04 10:30:50] outreach: follow: 후보 계정 6명",
-    "[2026-09-04 10:31:17] outreach: follow: 프로필 6개 확인 — 팔로워 큰 순으로 진행",
-    "[2026-09-04 10:31:23] outreach: follow: 팔로우 @sjsjunee (팔로워 5,791명)",
-    "[2026-09-04 10:32:48] outreach: follow: 팔로우 @atn_sz (팔로워 1,271명)",
-    "[2026-09-04 10:33:47] outreach: follow: 팔로워 189명 @chi_ll85 — 기준(500) 미달, 건너뜀",
-    "[2026-09-04 10:33:47] outreach: follow: 팔로워 86명 @sky0909889 — 기준(500) 미달, 건너뜀",
-    "[2026-09-04 10:33:47] outreach: follow: 팔로워 33명 @freesense_diary — 기준(500) 미달, 건너뜀",
-    "[2026-09-04 10:33:47] outreach: follow: 팔로워 0명 @wendydouglass444 — 기준(500) 미달, 건너뜀",
-    "[2026-09-04 10:33:48] outreach: follow: 이번 회차 2명 · 오늘 누적 2/20",
-    "[2026-09-04 11:20:09] outreach: followup: 계정 확인: @studiohaetae",
-    "[2026-09-04 11:20:17] outreach: followup: 되물음 후보 0건 (이미 답한 것 제외)",
-    "[2026-09-04 11:36:25] digest 갱신: 팔로워 112 · 미답변 3건 · 큐 4개 · 오늘 답글 2 · 되물음 0 · 팔로우 3",
-    "[2026-09-04 11:36:25] agent: 보류 유지 3건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart). 다시 보려면 --recheck-all"
+    "[2026-09-04 11:40:44] outreach: 검색: 애드센스 승인 → 누적 후보 0건",
+    "[2026-09-04 11:40:57] outreach: 검색: 구독자 정체 → 누적 후보 0건",
+    "[2026-09-04 11:41:14] outreach: 검색: 영상 조회수 → 누적 후보 0건",
+    "[2026-09-04 11:41:37] outreach: 검색: 유튜브 한달 → 누적 후보 0건",
+    "[2026-09-04 11:41:52] outreach: 검색: 유튜브 구독자 → 누적 후보 1건",
+    "[2026-09-04 11:42:00] outreach: 검색: 유튜브 시작한지 → 누적 후보 3건",
+    "[2026-09-04 11:42:02] outreach: 훑은 글 중 제외: 자기 숫자 없음 31 · 주제 밖 15 · 광고·영업 10 · 차단어 4 · 개인사 2 · 너무 짧음 1",
+    "[2026-09-04 11:42:02] outreach: 후보 3건 (광고·개인사 제외, 자기 숫자 있는 글만)",
+    "[2026-09-04 11:42:55] outreach: 대상 확인: @migigunbangi (원글 본문 일치)",
+    "[2026-09-04 11:43:04] outreach: 답글 @migigunbangi",
+    "[2026-09-04 11:43:11] outreach: 팔로우 @migigunbangi",
+    "[2026-09-04 11:47:49] outreach: 대상 확인: @freesense_diary (원글 본문 일치)",
+    "[2026-09-04 11:47:58] outreach: 답글 @freesense_diary",
+    "[2026-09-04 11:48:10] outreach: 팔로우 @freesense_diary",
+    "[2026-09-04 11:48:11] outreach: 이번 실행 2건 · 오늘 누적 답글 4/10 · 팔로우 3/6"
   ]
 }
