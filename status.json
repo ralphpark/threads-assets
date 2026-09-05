@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T18:34:36",
+  "generated_at": "2026-09-05T20:35:16",
   "username": "studiohaetae",
   "followers": 119,
   "followers_history": [
@@ -60,10 +60,10 @@
       "followers": 117
     }
   ],
-  "queue_pending": 3,
-  "queue_next": "유튜브 채널 11개를 API로 전수 확인했습니다.\n\n수익화 기준은 채널당 구독자 500명, 유효 시청시간 3",
+  "queue_pending": 2,
+  "queue_next": "채널 11개를 28일 기준으로 합쳤습니다.\n조회수 68만 8천, 유효 시청시간 2,990시간입니다.\n\n나눠보",
   "queue_drafts": 2,
-  "queue_alert": "원고 잔량 3편. 3편 이하다. refill.py check 를 돌리고 초안이 있으면 promote 해라.",
+  "queue_alert": "원고 잔량 2편. 3편 이하다. refill.py check 를 돌리고 초안이 있으면 promote 해라.",
   "posts": [
     {
       "at": "2026-07-31T14:33:33",
@@ -319,6 +319,17 @@
       "replies": 1
     },
     {
+      "at": "2026-09-05T20:30:11",
+      "n": 26,
+      "id": "17938451904098996",
+      "is_reply": false,
+      "permalink": "https://www.threads.com/@studiohaetae/post/Dc524grmCmD",
+      "text": "유튜브 채널 11개를 API로 전수 확인했습니다.\n\n수익화 기준은 채널당 구독자 500명, 유효 시청시간 3,000시간입니다.\n\n11개를 다 합치면 구독자 591명, 시청시간 2,990시간입니다.\n구독자는 이미 넘겼",
+      "views": 0,
+      "likes": 0,
+      "replies": 0
+    },
+    {
       "at": "2026-08-20T12:57:01",
       "n": -1,
       "id": "18120613064494354",
@@ -475,17 +486,16 @@
     "last_run": {
       "outreach": "2026-09-05T18:30",
       "followups": "2026-09-05T18:10",
-      "follows": "2026-09-05T17:21"
+      "follows": "2026-09-05T19:41"
     },
     "alerts": [
       "outreach: 계정 확인에 실패한 판이 있다. 로그인이 풀렸거나 스레드가 페이지를 막은 것이다 — cooldown 필드를 같이 봐라",
       "followups: 계정 확인에 실패한 판이 있다. 로그인이 풀렸거나 스레드가 페이지를 막은 것이다 — cooldown 필드를 같이 봐라",
-      "follows: 계정 확인에 실패한 판이 있다. 로그인이 풀렸거나 스레드가 페이지를 막은 것이다 — cooldown 필드를 같이 봐라",
-      "스레드가 페이지를 막아서 65분 쉬는 중이다 (활동 페이지 차단). 잡은 브라우저를 안 연다 — 시간이 지나면 스스로 돌아온다"
+      "follows: 계정 확인에 실패한 판이 있다. 로그인이 풀렸거나 스레드가 페이지를 막은 것이다 — cooldown 필드를 같이 봐라"
     ],
     "runs_today": {
       "outreach": {
-        "ran": 4,
+        "ran": 5,
         "missed": []
       },
       "followups": {
@@ -493,7 +503,7 @@
         "missed": []
       },
       "follows": {
-        "ran": 3,
+        "ran": 4,
         "missed": []
       }
     },
@@ -501,7 +511,7 @@
       "until": "2026-09-05T19:40:39+09:00",
       "why": "활동 페이지 차단",
       "step": 1,
-      "left_min": 65
+      "left_min": 0
     },
     "follow_experiment": {
       "followers_delta_7d": 14,
@@ -510,25 +520,25 @@
       "note": "팔로우 대비 팔로워 증가. 답글과 섞여 있어 단독 인과는 못 본다"
     }
   },
-  "outreach_alert": "outreach: 계정 확인에 실패한 판이 있다. 로그인이 풀렸거나 스레드가 페이지를 막은 것이다 — cooldown 필드를 같이 봐라 / followups: 계정 확인에 실패한 판이 있다. 로그인이 풀렸거나 스레드가 페이지를 막은 것이다 — cooldown 필드를 같이 봐라 / follows: 계정 확인에 실패한 판이 있다. 로그인이 풀렸거나 스레드가 페이지를 막은 것이다 — cooldown 필드를 같이 봐라 / 스레드가 페이지를 막아서 65분 쉬는 중이다 (활동 페이지 차단). 잡은 브라우저를 안 연다 — 시간이 지나면 스스로 돌아온다",
+  "outreach_alert": "outreach: 계정 확인에 실패한 판이 있다. 로그인이 풀렸거나 스레드가 페이지를 막은 것이다 — cooldown 필드를 같이 봐라 / followups: 계정 확인에 실패한 판이 있다. 로그인이 풀렸거나 스레드가 페이지를 막은 것이다 — cooldown 필드를 같이 봐라 / follows: 계정 확인에 실패한 판이 있다. 로그인이 풀렸거나 스레드가 페이지를 막은 것이다 — cooldown 필드를 같이 봐라",
   "errors": {
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 655, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-09-05 16:57:45] outreach: 링크 클릭 실패(coords): Locator.click: Element is not visible",
-    "[2026-09-05 16:57:45] outreach: 검색 결과에서 링크를 못 찾았다 @jwcha10004 (밀려났을 수 있다)",
-    "[2026-09-05 17:20:35] outreach: follow: 검색: 구독자 안늘어",
-    "[2026-09-05 17:21:06] outreach: follow: 검색: 영상 조회수",
-    "[2026-09-05 17:21:37] outreach: follow: 검색: 유튜브 구독자",
-    "[2026-09-05 17:21:42] outreach: follow: 후보 계정 0명",
-    "[2026-09-05 17:21:42] outreach: follow: 프로필 0개 확인 — 팔로워 큰 순으로 진행",
-    "[2026-09-05 17:21:42] outreach: follow: 이번 회차 0명 · 오늘 누적 0/20",
-    "[2026-09-05 17:50:04] digest 갱신: 팔로워 119 · 미답변 4건 · 큐 3개 · 오늘 답글 2 · 되물음 0 · 팔로우 2 · !! outreach: 계정 확인에 실패한 판이 있다. 로그인이 풀렸거나 스레드가 페이지를 막은 것이다 — cooldown 필드를 같이 봐라 / followups: 계정 확인에 실패한 판이 있다. 로그인이 풀렸거나 스레드가 페이지를 막은 것이다 — cooldown 필드를 같이 봐라 / follows: 계정 확인에 실패한 판이 있다. 로그인이 풀렸거나 스레드가 페이지를 막은 것이다 — cooldown 필드를 같이 봐라",
     "[2026-09-05 17:50:04] agent: 보류 유지 4건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_). 다시 보려면 --recheck-all",
     "[2026-09-05 17:50:49] digest 갱신: 팔로워 119 · 미답변 4건 · 큐 3개 · 오늘 답글 2 · 되물음 0 · 팔로우 2 · !! outreach: 계정 확인에 실패한 판이 있다. 로그인이 풀렸거나 스레드가 페이지를 막은 것이다 — cooldown 필드를 같이 봐라 / followups: 계정 확인에 실패한 판이 있다. 로그인이 풀렸거나 스레드가 페이지를 막은 것이다 — cooldown 필드를 같이 봐라 / follows: 계정 확인에 실패한 판이 있다. 로그인이 풀렸거나 스레드가 페이지를 막은 것이다 — cooldown 필드를 같이 봐라",
     "[2026-09-05 17:50:49] agent: 자동 답글 0건 · 신규 판정 대상 없음",
     "[2026-09-05 18:10:13] outreach: followup: 계정 확인: @studiohaetae",
     "[2026-09-05 18:10:39] outreach: 차단 감지(활동 페이지 차단) — 90분 쉰다. 그동안 모든 잡이 페이지를 안 연다",
-    "[2026-09-05 18:30:00] outreach: 차단 휴식 중 — 70분 남음. 브라우저를 열지 않는다"
+    "[2026-09-05 18:30:00] outreach: 차단 휴식 중 — 70분 남음. 브라우저를 열지 않는다",
+    "[2026-09-05 18:35:16] digest 갱신: 팔로워 119 · 미답변 4건 · 큐 3개 · 오늘 답글 2 · 되물음 0 · 팔로우 2 · !! outreach: 계정 확인에 실패한 판이 있다. 로그인이 풀렸거나 스레드가 페이지를 막은 것이다 — cooldown 필드를 같이 봐라 / followups: 계정 확인에 실패한 판이 있다. 로그인이 풀렸거나 스레드가 페이지를 막은 것이다 — cooldown 필드를 같이 봐라 / follows: 계정 확인에 실패한 판이 있다. 로그인이 풀렸거나 스레드가 페이지를 막은 것이다 — cooldown 필드를 같이 봐라 / 스레드가 페이지를 막아서 65분 쉬는 중이다 (활동 페이지 차단). 잡은 브라우저를 안 연다 — 시간이 지나면 스스로 돌아온다",
+    "[2026-09-05 19:40:37] outreach: follow: 검색: 구독자 정체",
+    "[2026-09-05 19:41:08] outreach: follow: 검색: 숏폼 조회수",
+    "[2026-09-05 19:41:38] outreach: follow: 검색: 유튜브 시작한지",
+    "[2026-09-05 19:41:44] outreach: follow: 후보 계정 0명",
+    "[2026-09-05 19:41:44] outreach: follow: 프로필 0개 확인 — 팔로워 큰 순으로 진행",
+    "[2026-09-05 19:41:44] outreach: follow: 이번 회차 0명 · 오늘 누적 0/20",
+    "[2026-09-05 20:30:03] 컨테이너 생성 17898507039605032 (n=26)",
+    "[2026-09-05 20:30:11] 게시 완료 n=26 id=17938451904098996"
   ]
 }
