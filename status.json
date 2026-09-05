@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T14:47:38",
+  "generated_at": "2026-09-05T14:48:30",
   "username": "studiohaetae",
   "followers": 119,
   "followers_history": [
@@ -508,8 +508,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 655, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-09-05 09:28:03] outreach: 답글 @jigeum_issue",
-    "[2026-09-05 09:28:10] outreach: 팔로우 @jigeum_issue",
     "[2026-09-05 09:28:10] outreach: 이번 실행 2건 · 오늘 누적 답글 2/10 · 팔로우 2/6",
     "[2026-09-05 10:30:36] outreach: follow: @studiohaetae 계정 확인 실패 — 중단.",
     "[2026-09-05 10:31:49] digest 갱신: 팔로워 119 · 미답변 4건 · 큐 3개 · 오늘 답글 2 · 되물음 0 · 팔로우 2 · !! follows: 크롬 프로필 로그인이 풀렸다. .pw-profile 에서 다시 로그인해야 한다",
@@ -522,6 +520,8 @@
     "[2026-09-05 12:50:38] outreach: followup: @studiohaetae 계정 확인 실패 — 중단.",
     "[2026-09-05 13:10:48] outreach: @studiohaetae 계정 확인 실패 — 중단. 다른 계정이면 남의 이름으로 답글이 나간다.",
     "[2026-09-05 14:30:37] outreach: follow: @studiohaetae 계정 확인 실패 — 중단.",
-    "[2026-09-05 14:33:38] digest 갱신: 팔로워 119 · 미답변 4건 · 큐 3개 · 오늘 답글 2 · 되물음 0 · 팔로우 2 · !! outreach: 크롬 프로필 로그인이 풀렸다. .pw-profile 에서 다시 로그인해야 한다 / followups: 크롬 프로필 로그인이 풀렸다. .pw-profile 에서 다시 로그인해야 한다 / follows: 크롬 프로필 로그인이 풀렸다. .pw-profile 에서 다시 로그인해야 한다"
+    "[2026-09-05 14:33:38] digest 갱신: 팔로워 119 · 미답변 4건 · 큐 3개 · 오늘 답글 2 · 되물음 0 · 팔로우 2 · !! outreach: 크롬 프로필 로그인이 풀렸다. .pw-profile 에서 다시 로그인해야 한다 / followups: 크롬 프로필 로그인이 풀렸다. .pw-profile 에서 다시 로그인해야 한다 / follows: 크롬 프로필 로그인이 풀렸다. .pw-profile 에서 다시 로그인해야 한다",
+    "[2026-09-05 14:48:30] digest 갱신: 팔로워 119 · 미답변 4건 · 큐 3개 · 오늘 답글 2 · 되물음 0 · 팔로우 2 · !! outreach: 크롬 프로필 로그인이 풀렸다. .pw-profile 에서 다시 로그인해야 한다 / followups: 크롬 프로필 로그인이 풀렸다. .pw-profile 에서 다시 로그인해야 한다 / follows: 크롬 프로필 로그인이 풀렸다. .pw-profile 에서 다시 로그인해야 한다",
+    "[2026-09-05 14:48:30] agent: 보류 유지 4건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_). 다시 보려면 --recheck-all"
   ]
 }
