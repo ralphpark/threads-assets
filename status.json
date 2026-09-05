@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T11:46:08",
+  "generated_at": "2026-09-05T11:46:51",
   "username": "studiohaetae",
   "followers": 119,
   "followers_history": [
@@ -508,8 +508,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 655, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-09-05 09:21:28] outreach: 검색: 숏폼 조회수 → 누적 후보 14건",
-    "[2026-09-05 09:21:30] outreach: 훑은 글 중 제외: 자기 숫자 없음 24 · 광고·영업 16 · 주제 밖 6 · 차단어 5 · 너무 짧음 2 · 개인사 1",
     "[2026-09-05 09:21:30] outreach: 후보 14건 (광고·개인사 제외, 자기 숫자 있는 글만)",
     "[2026-09-05 09:22:11] outreach: 대상 확인: @ghzlehzl_ (원글 본문 일치)",
     "[2026-09-05 09:22:18] outreach: 답글 @ghzlehzl_",
@@ -522,6 +520,8 @@
     "[2026-09-05 10:30:36] outreach: follow: @studiohaetae 계정 확인 실패 — 중단.",
     "[2026-09-05 10:31:49] digest 갱신: 팔로워 119 · 미답변 4건 · 큐 3개 · 오늘 답글 2 · 되물음 0 · 팔로우 2 · !! follows: 크롬 프로필 로그인이 풀렸다. .pw-profile 에서 다시 로그인해야 한다",
     "[2026-09-05 11:20:35] outreach: followup: @studiohaetae 계정 확인 실패 — 중단.",
-    "[2026-09-05 11:40:38] outreach: @studiohaetae 계정 확인 실패 — 중단. 다른 계정이면 남의 이름으로 답글이 나간다."
+    "[2026-09-05 11:40:38] outreach: @studiohaetae 계정 확인 실패 — 중단. 다른 계정이면 남의 이름으로 답글이 나간다.",
+    "[2026-09-05 11:46:50] digest 갱신: 팔로워 119 · 미답변 4건 · 큐 3개 · 오늘 답글 2 · 되물음 0 · 팔로우 2 · !! outreach: 크롬 프로필 로그인이 풀렸다. .pw-profile 에서 다시 로그인해야 한다 / followups: 크롬 프로필 로그인이 풀렸다. .pw-profile 에서 다시 로그인해야 한다 / follows: 크롬 프로필 로그인이 풀렸다. .pw-profile 에서 다시 로그인해야 한다",
+    "[2026-09-05 11:46:50] agent: 보류 유지 4건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_). 다시 보려면 --recheck-all"
   ]
 }
