@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T23:53:01",
+  "generated_at": "2026-09-06T00:36:42",
   "username": "studiohaetae",
   "followers": 119,
   "followers_history": [
@@ -325,7 +325,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Dc524grmCmD",
       "text": "유튜브 채널 11개를 API로 전수 확인했습니다.\n\n수익화 기준은 채널당 구독자 500명, 유효 시청시간 3,000시간입니다.\n\n11개를 다 합치면 구독자 591명, 시청시간 2,990시간입니다.\n구독자는 이미 넘겼",
-      "views": 174,
+      "views": 183,
       "likes": 0,
       "replies": 0
     },
@@ -428,18 +428,11 @@
   ],
   "outreach": {
     "today": {
-      "replies": 2,
+      "replies": 0,
       "followups": 0,
-      "follows": 2
+      "follows": 0
     },
     "last7": [
-      {
-        "date": "2026-08-30",
-        "replies": 10,
-        "followups": 0,
-        "follows": 13,
-        "followers": 103
-      },
       {
         "date": "2026-08-31",
         "replies": 8,
@@ -481,6 +474,13 @@
         "followups": 0,
         "follows": 2,
         "followers": 119
+      },
+      {
+        "date": "2026-09-06",
+        "replies": 0,
+        "followups": 0,
+        "follows": 0,
+        "followers": null
       }
     ],
     "last_run": {
@@ -492,19 +492,19 @@
       "outreach: 계정 확인에 실패한 판이 있다. 로그인이 풀렸거나 스레드가 페이지를 막은 것이다 — cooldown 필드를 같이 봐라",
       "followups: 계정 확인에 실패한 판이 있다. 로그인이 풀렸거나 스레드가 페이지를 막은 것이다 — cooldown 필드를 같이 봐라",
       "follows: 계정 확인에 실패한 판이 있다. 로그인이 풀렸거나 스레드가 페이지를 막은 것이다 — cooldown 필드를 같이 봐라",
-      "스레드가 페이지를 막아서 56분 쉬는 중이다 (활동 페이지 차단). 잡은 브라우저를 안 연다 — 시간이 지나면 스스로 돌아온다"
+      "스레드가 페이지를 막아서 13분 쉬는 중이다 (활동 페이지 차단). 잡은 브라우저를 안 연다 — 시간이 지나면 스스로 돌아온다"
     ],
     "runs_today": {
       "outreach": {
-        "ran": 6,
+        "ran": 0,
         "missed": []
       },
       "followups": {
-        "ran": 6,
+        "ran": 0,
         "missed": []
       },
       "follows": {
-        "ran": 5,
+        "ran": 0,
         "missed": []
       }
     },
@@ -512,22 +512,20 @@
       "until": "2026-09-06T00:50:34+09:00",
       "why": "활동 페이지 차단",
       "step": 2,
-      "left_min": 56
+      "left_min": 13
     },
     "follow_experiment": {
-      "followers_delta_7d": 16,
-      "follows_7d": 74,
-      "replies_7d": 58,
+      "followers_delta_7d": 11,
+      "follows_7d": 61,
+      "replies_7d": 48,
       "note": "팔로우 대비 팔로워 증가. 답글과 섞여 있어 단독 인과는 못 본다"
     }
   },
-  "outreach_alert": "outreach: 계정 확인에 실패한 판이 있다. 로그인이 풀렸거나 스레드가 페이지를 막은 것이다 — cooldown 필드를 같이 봐라 / followups: 계정 확인에 실패한 판이 있다. 로그인이 풀렸거나 스레드가 페이지를 막은 것이다 — cooldown 필드를 같이 봐라 / follows: 계정 확인에 실패한 판이 있다. 로그인이 풀렸거나 스레드가 페이지를 막은 것이다 — cooldown 필드를 같이 봐라 / 스레드가 페이지를 막아서 56분 쉬는 중이다 (활동 페이지 차단). 잡은 브라우저를 안 연다 — 시간이 지나면 스스로 돌아온다",
+  "outreach_alert": "outreach: 계정 확인에 실패한 판이 있다. 로그인이 풀렸거나 스레드가 페이지를 막은 것이다 — cooldown 필드를 같이 봐라 / followups: 계정 확인에 실패한 판이 있다. 로그인이 풀렸거나 스레드가 페이지를 막은 것이다 — cooldown 필드를 같이 봐라 / follows: 계정 확인에 실패한 판이 있다. 로그인이 풀렸거나 스레드가 페이지를 막은 것이다 — cooldown 필드를 같이 봐라 / 스레드가 페이지를 막아서 13분 쉬는 중이다 (활동 페이지 차단). 잡은 브라우저를 안 연다 — 시간이 지나면 스스로 돌아온다",
   "errors": {
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-09-05 20:50:34] outreach: 차단 감지(활동 페이지 차단) — 240분 쉰다. 그동안 모든 잡이 페이지를 안 연다",
-    "[2026-09-05 20:51:33] digest 갱신: 팔로워 119 · 미답변 4건 · 큐 2개 · 오늘 답글 2 · 되물음 0 · 팔로우 2 · !! outreach: 계정 확인에 실패한 판이 있다. 로그인이 풀렸거나 스레드가 페이지를 막은 것이다 — cooldown 필드를 같이 봐라 / followups: 계정 확인에 실패한 판이 있다. 로그인이 풀렸거나 스레드가 페이지를 막은 것이다 — cooldown 필드를 같이 봐라 / follows: 계정 확인에 실패한 판이 있다. 로그인이 풀렸거나 스레드가 페이지를 막은 것이다 — cooldown 필드를 같이 봐라 / 스레드가 페이지를 막아서 239분 쉬는 중이다 (활동 페이지 차단). 잡은 브라우저를 안 연다 — 시간이 지나면 스스로 돌아온다",
     "[2026-09-05 20:51:33] agent: 보류 유지 4건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_). 다시 보려면 --recheck-all",
     "[2026-09-05 20:52:14] digest 갱신: 팔로워 119 · 미답변 4건 · 큐 2개 · 오늘 답글 2 · 되물음 0 · 팔로우 2 · !! outreach: 계정 확인에 실패한 판이 있다. 로그인이 풀렸거나 스레드가 페이지를 막은 것이다 — cooldown 필드를 같이 봐라 / followups: 계정 확인에 실패한 판이 있다. 로그인이 풀렸거나 스레드가 페이지를 막은 것이다 — cooldown 필드를 같이 봐라 / follows: 계정 확인에 실패한 판이 있다. 로그인이 풀렸거나 스레드가 페이지를 막은 것이다 — cooldown 필드를 같이 봐라 / 스레드가 페이지를 막아서 238분 쉬는 중이다 (활동 페이지 차단). 잡은 브라우저를 안 연다 — 시간이 지나면 스스로 돌아온다",
     "[2026-09-05 20:52:15] agent: 자동 답글 0건 · 신규 판정 대상 없음",
@@ -540,6 +538,8 @@
     "[2026-09-05 23:40:38] refill: 초안이 있다. python3 refill.py drafts 로 보고 promote 해라.",
     "[2026-09-05 23:41:24] digest 갱신: 팔로워 119 · 미답변 4건 · 큐 2개 · 오늘 답글 2 · 되물음 0 · 팔로우 2 · !! outreach: 계정 확인에 실패한 판이 있다. 로그인이 풀렸거나 스레드가 페이지를 막은 것이다 — cooldown 필드를 같이 봐라 / followups: 계정 확인에 실패한 판이 있다. 로그인이 풀렸거나 스레드가 페이지를 막은 것이다 — cooldown 필드를 같이 봐라 / follows: 계정 확인에 실패한 판이 있다. 로그인이 풀렸거나 스레드가 페이지를 막은 것이다 — cooldown 필드를 같이 봐라 / 스레드가 페이지를 막아서 69분 쉬는 중이다 (활동 페이지 차단). 잡은 브라우저를 안 연다 — 시간이 지나면 스스로 돌아온다",
     "[2026-09-05 23:53:01] digest 갱신: 팔로워 119 · 미답변 4건 · 큐 2개 · 오늘 답글 2 · 되물음 0 · 팔로우 2 · !! outreach: 계정 확인에 실패한 판이 있다. 로그인이 풀렸거나 스레드가 페이지를 막은 것이다 — cooldown 필드를 같이 봐라 / followups: 계정 확인에 실패한 판이 있다. 로그인이 풀렸거나 스레드가 페이지를 막은 것이다 — cooldown 필드를 같이 봐라 / follows: 계정 확인에 실패한 판이 있다. 로그인이 풀렸거나 스레드가 페이지를 막은 것이다 — cooldown 필드를 같이 봐라 / 스레드가 페이지를 막아서 57분 쉬는 중이다 (활동 페이지 차단). 잡은 브라우저를 안 연다 — 시간이 지나면 스스로 돌아온다",
-    "[2026-09-05 23:53:01] agent: 보류 유지 4건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_). 다시 보려면 --recheck-all"
+    "[2026-09-05 23:53:01] agent: 보류 유지 4건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_). 다시 보려면 --recheck-all",
+    "[2026-09-05 23:53:46] digest 갱신: 팔로워 119 · 미답변 4건 · 큐 2개 · 오늘 답글 2 · 되물음 0 · 팔로우 2 · !! outreach: 계정 확인에 실패한 판이 있다. 로그인이 풀렸거나 스레드가 페이지를 막은 것이다 — cooldown 필드를 같이 봐라 / followups: 계정 확인에 실패한 판이 있다. 로그인이 풀렸거나 스레드가 페이지를 막은 것이다 — cooldown 필드를 같이 봐라 / follows: 계정 확인에 실패한 판이 있다. 로그인이 풀렸거나 스레드가 페이지를 막은 것이다 — cooldown 필드를 같이 봐라 / 스레드가 페이지를 막아서 56분 쉬는 중이다 (활동 페이지 차단). 잡은 브라우저를 안 연다 — 시간이 지나면 스스로 돌아온다",
+    "[2026-09-05 23:53:46] agent: 자동 답글 0건 · 신규 판정 대상 없음"
   ]
 }
