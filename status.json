@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T12:41:17",
+  "generated_at": "2026-09-06T14:41:58",
   "username": "studiohaetae",
   "followers": 119,
   "followers_history": [
@@ -314,7 +314,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Dc3SGKHmDRV",
       "text": "지난 4주 동안 이 계정에 달린 답글이 28건이었습니다.\n그중 자기 숫자를 적어주신 분은 4명이었습니다.\n\n- 누적 조회 3,068회, 수익 0원\n- 영상 300편, 구독자 139명\n- 곡 35개, 수익 0원\n- 답",
-      "views": 63,
+      "views": 65,
       "likes": 0,
       "replies": 1
     },
@@ -325,7 +325,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Dc524grmCmD",
       "text": "유튜브 채널 11개를 API로 전수 확인했습니다.\n\n수익화 기준은 채널당 구독자 500명, 유효 시청시간 3,000시간입니다.\n\n11개를 다 합치면 구독자 591명, 시청시간 2,990시간입니다.\n구독자는 이미 넘겼",
-      "views": 213,
+      "views": 222,
       "likes": 0,
       "replies": 0
     },
@@ -428,9 +428,9 @@
   ],
   "outreach": {
     "today": {
-      "replies": 4,
+      "replies": 6,
       "followups": 0,
-      "follows": 6
+      "follows": 12
     },
     "last7": [
       {
@@ -477,33 +477,32 @@
       },
       {
         "date": "2026-09-06",
-        "replies": 4,
+        "replies": 6,
         "followups": 0,
-        "follows": 6,
+        "follows": 12,
         "followers": null
       }
     ],
     "last_run": {
-      "outreach": "2026-09-06T11:48",
-      "followups": "2026-09-06T11:20",
-      "follows": "2026-09-06T10:33"
+      "outreach": "2026-09-06T13:16",
+      "followups": "2026-09-06T12:50",
+      "follows": "2026-09-06T14:35"
     },
     "alerts": [
-      "outreach: 계정 확인에 실패한 판이 있다. 로그인이 풀렸거나 스레드가 페이지를 막은 것이다 — cooldown 필드를 같이 봐라",
       "followups: 계정 확인에 실패한 판이 있다. 로그인이 풀렸거나 스레드가 페이지를 막은 것이다 — cooldown 필드를 같이 봐라",
       "follows: 계정 확인에 실패한 판이 있다. 로그인이 풀렸거나 스레드가 페이지를 막은 것이다 — cooldown 필드를 같이 봐라"
     ],
     "runs_today": {
       "outreach": {
-        "ran": 2,
+        "ran": 3,
         "missed": []
       },
       "followups": {
-        "ran": 2,
+        "ran": 3,
         "missed": []
       },
       "follows": {
-        "ran": 1,
+        "ran": 2,
         "missed": []
       }
     },
@@ -515,30 +514,30 @@
     },
     "follow_experiment": {
       "followers_delta_7d": 11,
-      "follows_7d": 67,
-      "replies_7d": 52,
+      "follows_7d": 73,
+      "replies_7d": 54,
       "note": "팔로우 대비 팔로워 증가. 답글과 섞여 있어 단독 인과는 못 본다"
     }
   },
-  "outreach_alert": "outreach: 계정 확인에 실패한 판이 있다. 로그인이 풀렸거나 스레드가 페이지를 막은 것이다 — cooldown 필드를 같이 봐라 / followups: 계정 확인에 실패한 판이 있다. 로그인이 풀렸거나 스레드가 페이지를 막은 것이다 — cooldown 필드를 같이 봐라 / follows: 계정 확인에 실패한 판이 있다. 로그인이 풀렸거나 스레드가 페이지를 막은 것이다 — cooldown 필드를 같이 봐라",
+  "outreach_alert": "followups: 계정 확인에 실패한 판이 있다. 로그인이 풀렸거나 스레드가 페이지를 막은 것이다 — cooldown 필드를 같이 봐라 / follows: 계정 확인에 실패한 판이 있다. 로그인이 풀렸거나 스레드가 페이지를 막은 것이다 — cooldown 필드를 같이 봐라",
   "errors": {
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-09-06 11:42:16] outreach: 팔로우 @2yej1n",
-    "[2026-09-06 11:47:02] outreach: skip @bussan_car — 구독자 40만 이벤트 추천을 묻는 질문이라 우리 FACTS로 계산하거나 옆에 놓을 숫자가 없음. 우리 채널은 전부 구독자 50",
-    "[2026-09-06 11:47:36] outreach: 카드 클릭 실패: Locator.scroll_into_view_if_needed: Timeout 4992ms exceeded.",
-    "[2026-09-06 11:47:47] outreach: 링크 클릭 실패(coords): Locator.click: Element is not visible",
-    "[2026-09-06 11:48:17] outreach: 클릭 진입 실패 @h1_paper — 직접 로드로 한 번 시도한다",
-    "[2026-09-06 11:48:25] outreach: 대상 확인: @h1_paper (원글 본문 일치)",
-    "[2026-09-06 11:48:32] outreach: 답글 @h1_paper",
-    "[2026-09-06 11:48:40] outreach: 팔로우 @h1_paper",
-    "[2026-09-06 11:48:40] outreach: 훑은 글 중 제외: 주제 밖 4 · 차단어 4 · 자기 숫자 없음 2 · 너무 짧음 2 · 광고·영업 1",
-    "[2026-09-06 11:48:40] outreach: 이번 회차 후보 7건 · 모델 호출 4건",
-    "[2026-09-06 11:48:40] outreach: 이번 실행 2건 · 오늘 누적 답글 4/10 · 팔로우 4/6",
-    "[2026-09-06 11:59:03] digest 갱신: 팔로워 119 · 미답변 4건 · 큐 2개 · 오늘 답글 4 · 되물음 0 · 팔로우 6 · !! outreach: 계정 확인에 실패한 판이 있다. 로그인이 풀렸거나 스레드가 페이지를 막은 것이다 — cooldown 필드를 같이 봐라 / followups: 계정 확인에 실패한 판이 있다. 로그인이 풀렸거나 스레드가 페이지를 막은 것이다 — cooldown 필드를 같이 봐라 / follows: 계정 확인에 실패한 판이 있다. 로그인이 풀렸거나 스레드가 페이지를 막은 것이다 — cooldown 필드를 같이 봐라",
-    "[2026-09-06 11:59:03] agent: 보류 유지 4건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_). 다시 보려면 --recheck-all",
-    "[2026-09-06 11:59:58] digest 갱신: 팔로워 119 · 미답변 4건 · 큐 2개 · 오늘 답글 4 · 되물음 0 · 팔로우 6 · !! outreach: 계정 확인에 실패한 판이 있다. 로그인이 풀렸거나 스레드가 페이지를 막은 것이다 — cooldown 필드를 같이 봐라 / followups: 계정 확인에 실패한 판이 있다. 로그인이 풀렸거나 스레드가 페이지를 막은 것이다 — cooldown 필드를 같이 봐라 / follows: 계정 확인에 실패한 판이 있다. 로그인이 풀렸거나 스레드가 페이지를 막은 것이다 — cooldown 필드를 같이 봐라",
-    "[2026-09-06 11:59:58] agent: 자동 답글 0건 · 신규 판정 대상 없음"
+    "[2026-09-06 13:16:05] outreach: 답글 @gold__funk",
+    "[2026-09-06 13:16:13] outreach: 팔로우 @gold__funk",
+    "[2026-09-06 13:16:13] outreach: 훑은 글 중 제외: 차단어 10 · 주제 밖 2",
+    "[2026-09-06 13:16:13] outreach: 이번 회차 후보 8건 · 모델 호출 3건",
+    "[2026-09-06 13:16:13] outreach: 이번 실행 2건 · 오늘 누적 답글 6/10 · 팔로우 6/6",
+    "[2026-09-06 14:30:16] outreach: follow: 검색: 첫 영상",
+    "[2026-09-06 14:30:24] outreach: follow: 검색: 유튜브 수익",
+    "[2026-09-06 14:30:32] outreach: follow: 검색: 구독자 안늘어",
+    "[2026-09-06 14:30:37] outreach: follow: 후보 계정 9명",
+    "[2026-09-06 14:31:16] outreach: follow: 프로필 9개 확인 — 팔로워 큰 순으로 진행",
+    "[2026-09-06 14:31:23] outreach: follow: 팔로우 @kindkihuns (팔로워 3,565명)",
+    "[2026-09-06 14:32:35] outreach: follow: 팔로우 @ssikmulzip (팔로워 2,276명)",
+    "[2026-09-06 14:33:59] outreach: follow: 팔로우 @o.n_project (팔로워 2,084명)",
+    "[2026-09-06 14:35:05] outreach: follow: 팔로우 @goodidol__ (팔로워 1,299명)",
+    "[2026-09-06 14:35:05] outreach: follow: 이번 회차 4명 · 오늘 누적 6/20"
   ]
 }
