@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T02:47:12",
+  "generated_at": "2026-09-07T03:06:07",
   "username": "studiohaetae",
   "followers": 119,
   "followers_history": [
@@ -534,7 +534,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-09-06 22:11:31] outreach: follow: 이미 팔로우 중 @chopa_poo",
     "[2026-09-06 22:11:31] outreach: follow: 팔로워 3명 @homesick_nz — 기준(500) 미달, 건너뜀",
     "[2026-09-06 22:11:31] outreach: follow: 팔로워 3명 @nutrition_mom_ — 기준(500) 미달, 건너뜀",
     "[2026-09-06 22:11:31] outreach: follow: 이번 회차 0명 · 오늘 누적 9/20",
@@ -548,6 +547,7 @@
     "[2026-09-07 00:05:17] agent: 보류 유지 4건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_). 다시 보려면 --recheck-all",
     "[2026-09-07 00:06:07] digest 갱신: 팔로워 119 · 미답변 4건 · 큐 1개 · 오늘 답글 0 · 되물음 0 · 팔로우 0 · !! followups: 계정 확인에 실패한 판이 있다. 로그인이 풀렸거나 스레드가 페이지를 막은 것이다 — cooldown 필드를 같이 봐라",
     "[2026-09-07 00:06:07] agent: 자동 답글 0건 · 신규 판정 대상 없음",
-    "[2026-09-07 00:47:09] digest 갱신: 팔로워 119 · 미답변 4건 · 큐 1개 · 오늘 답글 0 · 되물음 0 · 팔로우 0 · !! followups: 계정 확인에 실패한 판이 있다. 로그인이 풀렸거나 스레드가 페이지를 막은 것이다 — cooldown 필드를 같이 봐라"
+    "[2026-09-07 00:47:09] digest 갱신: 팔로워 119 · 미답변 4건 · 큐 1개 · 오늘 답글 0 · 되물음 0 · 팔로우 0 · !! followups: 계정 확인에 실패한 판이 있다. 로그인이 풀렸거나 스레드가 페이지를 막은 것이다 — cooldown 필드를 같이 봐라",
+    "[2026-09-07 02:47:59] digest 갱신: 팔로워 119 · 미답변 4건 · 큐 1개 · 오늘 답글 0 · 되물음 0 · 팔로우 0 · !! followups: 계정 확인에 실패한 판이 있다. 로그인이 풀렸거나 스레드가 페이지를 막은 것이다 — cooldown 필드를 같이 봐라"
   ]
 }
