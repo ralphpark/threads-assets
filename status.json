@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T21:03:01",
+  "generated_at": "2026-09-06T21:03:45",
   "username": "studiohaetae",
   "followers": 119,
   "followers_history": [
@@ -534,8 +534,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-09-06 19:41:16] outreach: follow: 이미 팔로우 중 @noctairefm_0505",
-    "[2026-09-06 19:41:22] outreach: follow: 팔로우 @gold__funk (팔로워 615명)",
     "[2026-09-06 19:42:32] outreach: follow: 팔로워 499명 @grofill_mag — 기준(500) 미달, 건너뜀",
     "[2026-09-06 19:42:32] outreach: follow: 팔로워 340명 @kkk___77077 — 기준(500) 미달, 건너뜀",
     "[2026-09-06 19:42:32] outreach: follow: 팔로워 135명 @collseis — 기준(500) 미달, 건너뜀",
@@ -548,6 +546,8 @@
     "[2026-09-06 20:30:07] 컨테이너 생성 17898674580605032 (n=27)",
     "[2026-09-06 20:30:15] 게시 완료 n=27 id=17867792427646014",
     "[2026-09-06 20:45:24] digest 갱신: 팔로워 119 · 미답변 4건 · 큐 1개 · 오늘 답글 10 · 되물음 0 · 팔로우 15 · !! followups: 계정 확인에 실패한 판이 있다. 로그인이 풀렸거나 스레드가 페이지를 막은 것이다 — cooldown 필드를 같이 봐라",
-    "[2026-09-06 20:50:05] outreach: followup: 오늘 답글 10건 — 상한 도달. 종료."
+    "[2026-09-06 20:50:05] outreach: followup: 오늘 답글 10건 — 상한 도달. 종료.",
+    "[2026-09-06 21:03:45] digest 갱신: 팔로워 119 · 미답변 4건 · 큐 1개 · 오늘 답글 10 · 되물음 0 · 팔로우 15 · !! followups: 계정 확인에 실패한 판이 있다. 로그인이 풀렸거나 스레드가 페이지를 막은 것이다 — cooldown 필드를 같이 봐라",
+    "[2026-09-06 21:03:45] agent: 보류 유지 4건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_). 다시 보려면 --recheck-all"
   ]
 }
