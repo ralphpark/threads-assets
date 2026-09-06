@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T11:58:11",
+  "generated_at": "2026-09-06T11:59:03",
   "username": "studiohaetae",
   "followers": 119,
   "followers_history": [
@@ -525,8 +525,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-09-06 11:40:40] outreach: 검색: 유튜브 구독자 → 이 화면 후보 7건 (누적 7)",
-    "[2026-09-06 11:41:06] outreach: skip @leepari — 구독자 1000명 프로젝트에 같이 참여하자는 맞구독/품앗이 모집 글이라 계산해 얹을 상대 숫자가 없음",
     "[2026-09-06 11:42:01] outreach: 대상 확인: @2yej1n (원글 본문 일치)",
     "[2026-09-06 11:42:08] outreach: 답글 @2yej1n",
     "[2026-09-06 11:42:16] outreach: 팔로우 @2yej1n",
@@ -539,6 +537,8 @@
     "[2026-09-06 11:48:40] outreach: 팔로우 @h1_paper",
     "[2026-09-06 11:48:40] outreach: 훑은 글 중 제외: 주제 밖 4 · 차단어 4 · 자기 숫자 없음 2 · 너무 짧음 2 · 광고·영업 1",
     "[2026-09-06 11:48:40] outreach: 이번 회차 후보 7건 · 모델 호출 4건",
-    "[2026-09-06 11:48:40] outreach: 이번 실행 2건 · 오늘 누적 답글 4/10 · 팔로우 4/6"
+    "[2026-09-06 11:48:40] outreach: 이번 실행 2건 · 오늘 누적 답글 4/10 · 팔로우 4/6",
+    "[2026-09-06 11:59:03] digest 갱신: 팔로워 119 · 미답변 4건 · 큐 2개 · 오늘 답글 4 · 되물음 0 · 팔로우 6 · !! outreach: 계정 확인에 실패한 판이 있다. 로그인이 풀렸거나 스레드가 페이지를 막은 것이다 — cooldown 필드를 같이 봐라 / followups: 계정 확인에 실패한 판이 있다. 로그인이 풀렸거나 스레드가 페이지를 막은 것이다 — cooldown 필드를 같이 봐라 / follows: 계정 확인에 실패한 판이 있다. 로그인이 풀렸거나 스레드가 페이지를 막은 것이다 — cooldown 필드를 같이 봐라",
+    "[2026-09-06 11:59:03] agent: 보류 유지 4건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_). 다시 보려면 --recheck-all"
   ]
 }
