@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T18:02:19",
+  "generated_at": "2026-09-06T18:43:58",
   "username": "studiohaetae",
   "followers": 119,
   "followers_history": [
@@ -325,7 +325,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Dc524grmCmD",
       "text": "유튜브 채널 11개를 API로 전수 확인했습니다.\n\n수익화 기준은 채널당 구독자 500명, 유효 시청시간 3,000시간입니다.\n\n11개를 다 합치면 구독자 591명, 시청시간 2,990시간입니다.\n구독자는 이미 넘겼",
-      "views": 227,
+      "views": 230,
       "likes": 0,
       "replies": 0
     },
@@ -428,7 +428,7 @@
   ],
   "outreach": {
     "today": {
-      "replies": 8,
+      "replies": 10,
       "followups": 0,
       "follows": 14
     },
@@ -477,15 +477,15 @@
       },
       {
         "date": "2026-09-06",
-        "replies": 8,
+        "replies": 10,
         "followups": 0,
         "follows": 14,
         "followers": null
       }
     ],
     "last_run": {
-      "outreach": "2026-09-06T15:57",
-      "followups": "2026-09-06T15:30",
+      "outreach": "2026-09-06T18:38",
+      "followups": "2026-09-06T18:10",
       "follows": "2026-09-06T17:24"
     },
     "alerts": [
@@ -493,11 +493,11 @@
     ],
     "runs_today": {
       "outreach": {
-        "ran": 4,
+        "ran": 5,
         "missed": []
       },
       "followups": {
-        "ran": 4,
+        "ran": 5,
         "missed": []
       },
       "follows": {
@@ -514,7 +514,7 @@
     "follow_experiment": {
       "followers_delta_7d": 11,
       "follows_7d": 75,
-      "replies_7d": 56,
+      "replies_7d": 58,
       "note": "팔로우 대비 팔로워 증가. 답글과 섞여 있어 단독 인과는 못 본다"
     }
   },
@@ -523,20 +523,20 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-09-06 17:21:35] outreach: follow: 프로필 11개 확인 — 팔로워 큰 순으로 진행",
-    "[2026-09-06 17:21:42] outreach: follow: 팔로우 @prompt_what (팔로워 9,508명)",
-    "[2026-09-06 17:23:08] outreach: follow: 팔로우 @johakmoopain (팔로워 1,659명)",
-    "[2026-09-06 17:24:02] outreach: follow: 팔로워 497명 @grofill_mag — 기준(500) 미달, 건너뜀",
-    "[2026-09-06 17:24:02] outreach: follow: 팔로워 473명 @rockinforged — 기준(500) 미달, 건너뜀",
-    "[2026-09-06 17:24:02] outreach: follow: 팔로워 340명 @kkk___77077 — 기준(500) 미달, 건너뜀",
-    "[2026-09-06 17:24:02] outreach: follow: 팔로워 299명 @watercastlegames — 기준(500) 미달, 건너뜀",
-    "[2026-09-06 17:24:02] outreach: follow: 팔로워 207명 @eumsanghoe — 기준(500) 미달, 건너뜀",
-    "[2026-09-06 17:24:02] outreach: follow: 팔로워 132명 @sungmin3290 — 기준(500) 미달, 건너뜀",
-    "[2026-09-06 17:24:02] outreach: follow: 팔로워 90명 @jio_salim — 기준(500) 미달, 건너뜀",
-    "[2026-09-06 17:24:02] outreach: follow: 팔로워 23명 @jigeum_issue — 기준(500) 미달, 건너뜀",
-    "[2026-09-06 17:24:02] outreach: follow: 팔로워 8명 @irisopop — 기준(500) 미달, 건너뜀",
-    "[2026-09-06 17:24:02] outreach: follow: 이번 회차 2명 · 오늘 누적 8/20",
-    "[2026-09-06 18:02:19] digest 갱신: 팔로워 119 · 미답변 4건 · 큐 2개 · 오늘 답글 8 · 되물음 0 · 팔로우 14 · !! followups: 계정 확인에 실패한 판이 있다. 로그인이 풀렸거나 스레드가 페이지를 막은 것이다 — cooldown 필드를 같이 봐라",
-    "[2026-09-06 18:02:19] agent: 보류 유지 4건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_). 다시 보려면 --recheck-all"
+    "[2026-09-06 18:31:27] outreach: skip @myrrhplaylist — 맞구독/맞좋아요를 요청하는 품앗이 모집 글 (\"구독 좋아요 해줄 착한 치니들... 나두 도울께\")",
+    "[2026-09-06 18:31:57] outreach: 클릭했는데 게시물이 안 열렸다 @moodsketch_music",
+    "[2026-09-06 18:31:57] outreach: 게시물을 못 열었다 @moodsketch_music (2회째)",
+    "[2026-09-06 18:32:15] outreach: skip @hohopapa100 — 스하 반하 구독 좋아요 4종세트 요청 — 맞구독/맞좋아요 품앗이 모집 글이라 스킵 대상. 현재 구독자 수나 조회수 등 계산에 ",
+    "[2026-09-06 18:33:30] outreach: 클릭 진입 실패 @joshproductletter — 직접 로드로 한 번 시도한다",
+    "[2026-09-06 18:33:39] outreach: 대상 확인: @joshproductletter (원글 본문 일치)",
+    "[2026-09-06 18:33:46] outreach: 답글 @joshproductletter",
+    "[2026-09-06 18:37:53] outreach: 카드 클릭 실패: Locator.scroll_into_view_if_needed: Timeout 4994ms exceeded.",
+    "[2026-09-06 18:38:04] outreach: 링크 클릭 실패(coords): Locator.click: Element is not visible",
+    "[2026-09-06 18:38:04] outreach: 클릭 진입 실패 @bin.e.papa — 직접 로드로 한 번 시도한다",
+    "[2026-09-06 18:38:11] outreach: 대상 확인: @bin.e.papa (원글 본문 일치)",
+    "[2026-09-06 18:38:17] outreach: 답글 @bin.e.papa",
+    "[2026-09-06 18:38:17] outreach: 훑은 글 중 제외: 차단어 2 · 주제 밖 1 · 광고·영업 1",
+    "[2026-09-06 18:38:17] outreach: 이번 회차 후보 6건 · 모델 호출 6건",
+    "[2026-09-06 18:38:17] outreach: 이번 실행 2건 · 오늘 누적 답글 10/10 · 팔로우 6/6"
   ]
 }
