@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T18:43:58",
+  "generated_at": "2026-09-06T20:44:39",
   "username": "studiohaetae",
   "followers": 119,
   "followers_history": [
@@ -60,10 +60,10 @@
       "followers": 119
     }
   ],
-  "queue_pending": 2,
-  "queue_next": "채널 11개를 28일 기준으로 합쳤습니다.\n조회수 68만 8천, 유효 시청시간 2,990시간입니다.\n\n나눠보",
+  "queue_pending": 1,
+  "queue_next": "같은 사람이 만든 채널 11개인데 전환율이 15배 차이 납니다.\n\n28일 실측입니다.\n제일 높은 채널은 조회",
   "queue_drafts": 2,
-  "queue_alert": "원고 잔량 2편. 3편 이하다. refill.py check 를 돌리고 초안이 있으면 promote 해라.",
+  "queue_alert": "원고 잔량 1편. 3편 이하다. refill.py check 를 돌리고 초안이 있으면 promote 해라.",
   "posts": [
     {
       "at": "2026-07-31T14:33:33",
@@ -325,7 +325,18 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Dc524grmCmD",
       "text": "유튜브 채널 11개를 API로 전수 확인했습니다.\n\n수익화 기준은 채널당 구독자 500명, 유효 시청시간 3,000시간입니다.\n\n11개를 다 합치면 구독자 591명, 시청시간 2,990시간입니다.\n구독자는 이미 넘겼",
-      "views": 230,
+      "views": 233,
+      "likes": 0,
+      "replies": 0
+    },
+    {
+      "at": "2026-09-06T20:30:15",
+      "n": 27,
+      "id": "17867792427646014",
+      "is_reply": false,
+      "permalink": "https://www.threads.com/@studiohaetae/post/Dc8br46mFWY",
+      "text": "채널 11개를 28일 기준으로 합쳤습니다.\n조회수 68만 8천, 유효 시청시간 2,990시간입니다.\n\n나눠보면 조회 1회당 15.6초입니다.\n\n수익화 기준인 3,000시간을 이 비율로 채우려면 조회수가 69만 회 필",
+      "views": 0,
       "likes": 0,
       "replies": 0
     },
@@ -430,7 +441,7 @@
     "today": {
       "replies": 10,
       "followups": 0,
-      "follows": 14
+      "follows": 15
     },
     "last7": [
       {
@@ -479,14 +490,14 @@
         "date": "2026-09-06",
         "replies": 10,
         "followups": 0,
-        "follows": 14,
+        "follows": 15,
         "followers": null
       }
     ],
     "last_run": {
       "outreach": "2026-09-06T18:38",
       "followups": "2026-09-06T18:10",
-      "follows": "2026-09-06T17:24"
+      "follows": "2026-09-06T19:42"
     },
     "alerts": [
       "followups: 계정 확인에 실패한 판이 있다. 로그인이 풀렸거나 스레드가 페이지를 막은 것이다 — cooldown 필드를 같이 봐라"
@@ -501,7 +512,7 @@
         "missed": []
       },
       "follows": {
-        "ran": 3,
+        "ran": 4,
         "missed": []
       }
     },
@@ -513,7 +524,7 @@
     },
     "follow_experiment": {
       "followers_delta_7d": 11,
-      "follows_7d": 75,
+      "follows_7d": 76,
       "replies_7d": 58,
       "note": "팔로우 대비 팔로워 증가. 답글과 섞여 있어 단독 인과는 못 본다"
     }
@@ -523,20 +534,20 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-09-06 18:31:27] outreach: skip @myrrhplaylist — 맞구독/맞좋아요를 요청하는 품앗이 모집 글 (\"구독 좋아요 해줄 착한 치니들... 나두 도울께\")",
-    "[2026-09-06 18:31:57] outreach: 클릭했는데 게시물이 안 열렸다 @moodsketch_music",
-    "[2026-09-06 18:31:57] outreach: 게시물을 못 열었다 @moodsketch_music (2회째)",
-    "[2026-09-06 18:32:15] outreach: skip @hohopapa100 — 스하 반하 구독 좋아요 4종세트 요청 — 맞구독/맞좋아요 품앗이 모집 글이라 스킵 대상. 현재 구독자 수나 조회수 등 계산에 ",
-    "[2026-09-06 18:33:30] outreach: 클릭 진입 실패 @joshproductletter — 직접 로드로 한 번 시도한다",
-    "[2026-09-06 18:33:39] outreach: 대상 확인: @joshproductletter (원글 본문 일치)",
-    "[2026-09-06 18:33:46] outreach: 답글 @joshproductletter",
-    "[2026-09-06 18:37:53] outreach: 카드 클릭 실패: Locator.scroll_into_view_if_needed: Timeout 4994ms exceeded.",
-    "[2026-09-06 18:38:04] outreach: 링크 클릭 실패(coords): Locator.click: Element is not visible",
-    "[2026-09-06 18:38:04] outreach: 클릭 진입 실패 @bin.e.papa — 직접 로드로 한 번 시도한다",
-    "[2026-09-06 18:38:11] outreach: 대상 확인: @bin.e.papa (원글 본문 일치)",
-    "[2026-09-06 18:38:17] outreach: 답글 @bin.e.papa",
-    "[2026-09-06 18:38:17] outreach: 훑은 글 중 제외: 차단어 2 · 주제 밖 1 · 광고·영업 1",
-    "[2026-09-06 18:38:17] outreach: 이번 회차 후보 6건 · 모델 호출 6건",
-    "[2026-09-06 18:38:17] outreach: 이번 실행 2건 · 오늘 누적 답글 10/10 · 팔로우 6/6"
+    "[2026-09-06 19:40:35] outreach: follow: 후보 계정 10명",
+    "[2026-09-06 19:41:16] outreach: follow: 프로필 10개 확인 — 팔로워 큰 순으로 진행",
+    "[2026-09-06 19:41:16] outreach: follow: 이미 팔로우 중 @noctairefm_0505",
+    "[2026-09-06 19:41:22] outreach: follow: 팔로우 @gold__funk (팔로워 615명)",
+    "[2026-09-06 19:42:32] outreach: follow: 팔로워 499명 @grofill_mag — 기준(500) 미달, 건너뜀",
+    "[2026-09-06 19:42:32] outreach: follow: 팔로워 340명 @kkk___77077 — 기준(500) 미달, 건너뜀",
+    "[2026-09-06 19:42:32] outreach: follow: 팔로워 135명 @collseis — 기준(500) 미달, 건너뜀",
+    "[2026-09-06 19:42:32] outreach: follow: 팔로워 45명 @t_eacher_k — 기준(500) 미달, 건너뜀",
+    "[2026-09-06 19:42:32] outreach: follow: 팔로워 23명 @jigeum_issue — 기준(500) 미달, 건너뜀",
+    "[2026-09-06 19:42:32] outreach: follow: 이미 팔로우 중 @chopa_poo",
+    "[2026-09-06 19:42:32] outreach: follow: 팔로워 3명 @homesick_nz — 기준(500) 미달, 건너뜀",
+    "[2026-09-06 19:42:32] outreach: follow: 팔로워 3명 @nutrition_mom_ — 기준(500) 미달, 건너뜀",
+    "[2026-09-06 19:42:32] outreach: follow: 이번 회차 1명 · 오늘 누적 9/20",
+    "[2026-09-06 20:30:07] 컨테이너 생성 17898674580605032 (n=27)",
+    "[2026-09-06 20:30:15] 게시 완료 n=27 id=17867792427646014"
   ]
 }
