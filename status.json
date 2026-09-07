@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T12:10:07",
+  "generated_at": "2026-09-07T12:10:55",
   "username": "studiohaetae",
   "followers": 119,
   "followers_history": [
@@ -534,8 +534,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-09-07 11:20:14] outreach: followup: 계정 확인: @studiohaetae",
-    "[2026-09-07 11:20:23] outreach: followup: 되물음 후보 0건 (이미 답한 것 제외)",
     "[2026-09-07 11:40:21] outreach: 계정 확인: @studiohaetae",
     "[2026-09-07 11:40:42] outreach: 검색: 영상 조회수 → 이 화면 후보 5건 (누적 5)",
     "[2026-09-07 11:41:17] outreach: skip @room.farmer — 본인 방법론을 따라한 사람들이 결과를 냈다는 식의 노하우 판매/리드마그넷성 홍보 글이고, 본문에 계산에 쓸 수 있는 구체적인 ",
@@ -548,6 +546,8 @@
     "[2026-09-07 11:47:03] outreach: 팔로우 @no_name202601",
     "[2026-09-07 11:47:03] outreach: 훑은 글 중 제외: 주제 밖 5 · 차단어 3 · 너무 짧음 2 · 자기 숫자 없음 2 · 광고·영업 1",
     "[2026-09-07 11:47:03] outreach: 이번 회차 후보 5건 · 모델 호출 3건",
-    "[2026-09-07 11:47:03] outreach: 이번 실행 2건 · 오늘 누적 답글 4/10 · 팔로우 4/6"
+    "[2026-09-07 11:47:03] outreach: 이번 실행 2건 · 오늘 누적 답글 4/10 · 팔로우 4/6",
+    "[2026-09-07 12:10:55] digest 갱신: 팔로워 119 · 미답변 4건 · 큐 1개 · 오늘 답글 4 · 되물음 0 · 팔로우 6 · !! followups: 계정 확인에 실패한 판이 있다. 로그인이 풀렸거나 스레드가 페이지를 막은 것이다 — cooldown 필드를 같이 봐라",
+    "[2026-09-07 12:10:55] agent: 보류 유지 4건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_). 다시 보려면 --recheck-all"
   ]
 }
