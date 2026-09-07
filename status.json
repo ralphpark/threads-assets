@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T00:56:04",
+  "generated_at": "2026-09-08T02:56:55",
   "username": "studiohaetae",
   "followers": 118,
   "followers_history": [
@@ -325,7 +325,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Dc524grmCmD",
       "text": "유튜브 채널 11개를 API로 전수 확인했습니다.\n\n수익화 기준은 채널당 구독자 500명, 유효 시청시간 3,000시간입니다.\n\n11개를 다 합치면 구독자 591명, 시청시간 2,990시간입니다.\n구독자는 이미 넘겼",
-      "views": 242,
+      "views": 243,
       "likes": 0,
       "replies": 0
     },
@@ -347,7 +347,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Dc_Ae1mmC0d",
       "text": "같은 사람이 만든 채널 11개인데 전환율이 15배 차이 납니다.\n\n28일 실측입니다.\n제일 높은 채널은 조회 2만 8천에 구독 순증 101명. 0.35%입니다.\n제일 낮은 채널은 조회 8천에 구독 순증 2명. 0.0",
-      "views": 43,
+      "views": 46,
       "likes": 0,
       "replies": 0
     },
@@ -545,7 +545,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-09-07 22:11:11] outreach: follow: 팔로우 @2sd.midlife.homefit (팔로워 6,563명)",
     "[2026-09-07 22:12:41] outreach: follow: 팔로우 @youngranchoi62 (팔로워 3,611명)",
     "[2026-09-07 22:13:44] outreach: follow: 팔로우 @shorts_1maker (팔로워 1,048명)",
     "[2026-09-07 22:14:53] outreach: follow: 팔로우 @elynday_ (팔로워 817명)",
@@ -559,6 +558,7 @@
     "[2026-09-08 00:17:17] digest 갱신: 팔로워 118 · 미답변 4건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 0 · !! followups: 계정 확인에 실패한 판이 있다. 로그인이 풀렸거나 스레드가 페이지를 막은 것이다 — cooldown 필드를 같이 봐라",
     "[2026-09-08 00:17:17] agent: 보류 유지 4건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_). 다시 보려면 --recheck-all",
     "[2026-09-08 00:18:02] digest 갱신: 팔로워 118 · 미답변 4건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 0 · !! followups: 계정 확인에 실패한 판이 있다. 로그인이 풀렸거나 스레드가 페이지를 막은 것이다 — cooldown 필드를 같이 봐라",
-    "[2026-09-08 00:18:02] agent: 자동 답글 0건 · 신규 판정 대상 없음"
+    "[2026-09-08 00:18:02] agent: 자동 답글 0건 · 신규 판정 대상 없음",
+    "[2026-09-08 00:56:52] digest 갱신: 팔로워 118 · 미답변 4건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 0 · !! followups: 계정 확인에 실패한 판이 있다. 로그인이 풀렸거나 스레드가 페이지를 막은 것이다 — cooldown 필드를 같이 봐라"
   ]
 }
