@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T15:12:24",
+  "generated_at": "2026-09-07T16:52:43",
   "username": "studiohaetae",
   "followers": 119,
   "followers_history": [
@@ -226,7 +226,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DcirvIlGErj",
       "text": "제 쇼츠 채널 4개, 최근 40편에 설명란 링크가 0개였습니다.\n\n그 글을 보고 한 분이 자기 숫자를 주셨습니다.\n누적 조회 3,068회, 수익 0원.\n트래픽 80%가 Shorts 피드였는데 나가는 문이 0개였습니다",
-      "views": 173,
+      "views": 174,
       "likes": 0,
       "replies": 3
     },
@@ -259,7 +259,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DcqaHXSn3eF",
       "text": "어떤 분이 자기 계정에서 이걸 실측해서 알려줬습니다.\n\n답글을 안 단 새벽 세 사이클은 팔로워 증가가 0이었고,\n다시 답글을 달자마자 붙었다고요.\n\n제 계정에서 같은 게 나오는지 봤습니다.\n7월 31일 58명에서 8",
-      "views": 102,
+      "views": 103,
       "likes": 1,
       "replies": 1
     },
@@ -281,7 +281,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DcvjtiaGEWe",
       "text": "2시간 10분짜리 영상의 평균 시청 지속 시간이 1분 2초였습니다.\n0.2%입니다.\n\n배경음악처럼 틀어놓고 딴 일 하는 콘텐츠인데,\n12초 만에 나갔다는 건 틀어놓지도 않았다는 뜻입니다.\n\n노출 클릭률은 6.3%로 ",
-      "views": 118,
+      "views": 119,
       "likes": 1,
       "replies": 0
     },
@@ -325,7 +325,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Dc524grmCmD",
       "text": "유튜브 채널 11개를 API로 전수 확인했습니다.\n\n수익화 기준은 채널당 구독자 500명, 유효 시청시간 3,000시간입니다.\n\n11개를 다 합치면 구독자 591명, 시청시간 2,990시간입니다.\n구독자는 이미 넘겼",
-      "views": 238,
+      "views": 241,
       "likes": 0,
       "replies": 0
     },
@@ -336,7 +336,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Dc8br46mFWY",
       "text": "채널 11개를 28일 기준으로 합쳤습니다.\n조회수 68만 8천, 유효 시청시간 2,990시간입니다.\n\n나눠보면 조회 1회당 15.6초입니다.\n\n수익화 기준인 3,000시간을 이 비율로 채우려면 조회수가 69만 회 필",
-      "views": 58,
+      "views": 60,
       "likes": 0,
       "replies": 0
     },
@@ -439,7 +439,7 @@
   ],
   "outreach": {
     "today": {
-      "replies": 6,
+      "replies": 8,
       "followups": 0,
       "follows": 8
     },
@@ -488,15 +488,15 @@
       },
       {
         "date": "2026-09-07",
-        "replies": 6,
+        "replies": 8,
         "followups": 0,
         "follows": 8,
         "followers": null
       }
     ],
     "last_run": {
-      "outreach": "2026-09-07T13:16",
-      "followups": "2026-09-07T12:50",
+      "outreach": "2026-09-07T15:57",
+      "followups": "2026-09-07T15:30",
       "follows": "2026-09-07T14:31"
     },
     "alerts": [
@@ -504,11 +504,11 @@
     ],
     "runs_today": {
       "outreach": {
-        "ran": 3,
+        "ran": 4,
         "missed": []
       },
       "followups": {
-        "ran": 3,
+        "ran": 4,
         "missed": []
       },
       "follows": {
@@ -525,7 +525,7 @@
     "follow_experiment": {
       "followers_delta_7d": 10,
       "follows_7d": 74,
-      "replies_7d": 56,
+      "replies_7d": 58,
       "note": "팔로우 대비 팔로워 증가. 답글과 섞여 있어 단독 인과는 못 본다"
     }
   },
@@ -534,20 +534,20 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-09-07 14:30:21] outreach: follow: 검색: 구독자 100명",
-    "[2026-09-07 14:30:33] outreach: follow: 검색: 애드센스 승인",
-    "[2026-09-07 14:31:03] outreach: follow: 검색: 구독자 안늘어",
-    "[2026-09-07 14:31:09] outreach: follow: 후보 계정 6명",
-    "[2026-09-07 14:31:34] outreach: follow: 프로필 6개 확인 — 팔로워 큰 순으로 진행",
-    "[2026-09-07 14:31:34] outreach: follow: 팔로워 281명 @balsamicroket — 기준(500) 미달, 건너뜀",
-    "[2026-09-07 14:31:34] outreach: follow: 팔로워 278명 @la_vidano — 기준(500) 미달, 건너뜀",
-    "[2026-09-07 14:31:34] outreach: follow: 팔로워 192명 @binzzang._ — 기준(500) 미달, 건너뜀",
-    "[2026-09-07 14:31:34] outreach: follow: 팔로워 69명 @no_name202601 — 기준(500) 미달, 건너뜀",
-    "[2026-09-07 14:31:34] outreach: follow: 팔로워 30명 @lumiorawaves — 기준(500) 미달, 건너뜀",
-    "[2026-09-07 14:31:34] outreach: follow: 팔로워 6명 @njo_ber — 기준(500) 미달, 건너뜀",
-    "[2026-09-07 14:31:34] outreach: follow: 이번 회차 0명 · 오늘 누적 2/20",
-    "[2026-09-07 14:52:43] digest 갱신: 팔로워 119 · 미답변 4건 · 큐 1개 · 오늘 답글 6 · 되물음 0 · 팔로우 8 · !! followups: 계정 확인에 실패한 판이 있다. 로그인이 풀렸거나 스레드가 페이지를 막은 것이다 — cooldown 필드를 같이 봐라",
-    "[2026-09-07 15:12:24] digest 갱신: 팔로워 119 · 미답변 4건 · 큐 1개 · 오늘 답글 6 · 되물음 0 · 팔로우 8 · !! followups: 계정 확인에 실패한 판이 있다. 로그인이 풀렸거나 스레드가 페이지를 막은 것이다 — cooldown 필드를 같이 봐라",
-    "[2026-09-07 15:12:24] agent: 보류 유지 4건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_). 다시 보려면 --recheck-all"
+    "[2026-09-07 15:13:06] agent: 자동 답글 0건 · 신규 판정 대상 없음",
+    "[2026-09-07 15:30:13] outreach: followup: 계정 확인: @studiohaetae",
+    "[2026-09-07 15:30:21] outreach: followup: 되물음 후보 0건 (이미 답한 것 제외)",
+    "[2026-09-07 15:50:14] outreach: 계정 확인: @studiohaetae",
+    "[2026-09-07 15:50:35] outreach: 검색: 조회수 1000회 → 이 화면 후보 6건 (누적 6)",
+    "[2026-09-07 15:51:05] outreach: skip @nougungli — 스레드 자체 노출 알고리즘 문제를 다룬 글로 유튜브 조회수/구독자 지표와 무관하고, 상대가 제시한 숫자도 추상적 비율(예상 대",
+    "[2026-09-07 15:51:25] outreach: skip @metmer.official — 스레드 조회수→주문 전환 후기이며 '스친이라고 해주면 두배로 엽서' 참여 유도 훅이 포함됨. 우리 FACTS는 전부 유튜브 채",
+    "[2026-09-07 15:52:06] outreach: 대상 확인: @whale_hm9 (원글 본문 일치)",
+    "[2026-09-07 15:52:13] outreach: 답글 @whale_hm9",
+    "[2026-09-07 15:57:01] outreach: 클릭 진입 실패 @dawn_the_poet — 직접 로드로 한 번 시도한다",
+    "[2026-09-07 15:57:09] outreach: 대상 확인: @dawn_the_poet (원글 본문 일치)",
+    "[2026-09-07 15:57:17] outreach: 답글 @dawn_the_poet",
+    "[2026-09-07 15:57:17] outreach: 훑은 글 중 제외: 차단어 10 · 주제 밖 5 · 자기 숫자 없음 2 · 너무 짧음 2 · 광고·영업 2",
+    "[2026-09-07 15:57:17] outreach: 이번 회차 후보 6건 · 모델 호출 4건",
+    "[2026-09-07 15:57:17] outreach: 이번 실행 2건 · 오늘 누적 답글 8/10 · 팔로우 6/6"
   ]
 }
