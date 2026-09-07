@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T18:13:07",
+  "generated_at": "2026-09-07T18:14:04",
   "username": "studiohaetae",
   "followers": 119,
   "followers_history": [
@@ -534,8 +534,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-09-07 16:53:27] digest 갱신: 팔로워 119 · 미답변 4건 · 큐 1개 · 오늘 답글 8 · 되물음 0 · 팔로우 8 · !! followups: 계정 확인에 실패한 판이 있다. 로그인이 풀렸거나 스레드가 페이지를 막은 것이다 — cooldown 필드를 같이 봐라",
-    "[2026-09-07 17:20:19] outreach: follow: 검색: 유튜브 구독자",
     "[2026-09-07 17:20:27] outreach: follow: 검색: 조회수 1000회",
     "[2026-09-07 17:20:35] outreach: follow: 검색: 유튜브 한달",
     "[2026-09-07 17:20:41] outreach: follow: 후보 계정 6명",
@@ -548,6 +546,8 @@
     "[2026-09-07 17:22:20] outreach: follow: 팔로워 5명 @apt__miinam — 기준(500) 미달, 건너뜀",
     "[2026-09-07 17:22:20] outreach: follow: 이번 회차 1명 · 오늘 누적 3/20",
     "[2026-09-07 18:10:10] outreach: followup: 계정 확인: @studiohaetae",
-    "[2026-09-07 18:10:19] outreach: followup: 되물음 후보 0건 (이미 답한 것 제외)"
+    "[2026-09-07 18:10:19] outreach: followup: 되물음 후보 0건 (이미 답한 것 제외)",
+    "[2026-09-07 18:14:04] digest 갱신: 팔로워 119 · 미답변 4건 · 큐 1개 · 오늘 답글 8 · 되물음 0 · 팔로우 9 · !! followups: 계정 확인에 실패한 판이 있다. 로그인이 풀렸거나 스레드가 페이지를 막은 것이다 — cooldown 필드를 같이 봐라",
+    "[2026-09-07 18:14:04] agent: 보류 유지 4건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_). 다시 보려면 --recheck-all"
   ]
 }
