@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T12:22:16",
+  "generated_at": "2026-09-08T12:22:53",
   "username": "studiohaetae",
   "followers": 118,
   "followers_history": [
@@ -545,8 +545,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-09-08 11:42:31] outreach: 카드 클릭 실패: Locator.scroll_into_view_if_needed: Timeout 4991ms exceeded.",
-    "[2026-09-08 11:42:42] outreach: 링크 클릭 실패(coords): Locator.click: Element is not visible",
     "[2026-09-08 11:42:42] outreach: 클릭 진입 실패 @noraping2 — 직접 로드로 한 번 시도한다",
     "[2026-09-08 11:42:49] outreach: 대상 확인: @noraping2 (원글 본문 일치)",
     "[2026-09-08 11:42:58] outreach: 답글 @noraping2",
@@ -559,6 +557,8 @@
     "[2026-09-08 11:49:31] outreach: 팔로우 @hannahekmorris",
     "[2026-09-08 11:49:31] outreach: 훑은 글 중 제외: 주제 밖 9 · 차단어 6 · 자기 숫자 없음 6 · 너무 짧음 5 · 광고·영업 4",
     "[2026-09-08 11:49:31] outreach: 이번 회차 후보 8건 · 모델 호출 3건",
-    "[2026-09-08 11:49:31] outreach: 이번 실행 2건 · 오늘 누적 답글 4/10 · 팔로우 4/6"
+    "[2026-09-08 11:49:31] outreach: 이번 실행 2건 · 오늘 누적 답글 4/10 · 팔로우 4/6",
+    "[2026-09-08 12:22:53] digest 갱신: 팔로워 118 · 미답변 4건 · 큐 0개 · 오늘 답글 4 · 되물음 0 · 팔로우 6 · !! followups: 계정 확인에 실패한 판이 있다. 로그인이 풀렸거나 스레드가 페이지를 막은 것이다 — cooldown 필드를 같이 봐라",
+    "[2026-09-08 12:22:53] agent: 보류 유지 4건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_). 다시 보려면 --recheck-all"
   ]
 }
