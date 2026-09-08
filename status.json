@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-08T17:02:00",
+  "generated_at": "2026-09-08T18:25:03",
   "username": "studiohaetae",
-  "followers": 118,
+  "followers": 119,
   "followers_history": [
     {
       "date": "2026-08-25",
@@ -347,7 +347,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Dc_Ae1mmC0d",
       "text": "같은 사람이 만든 채널 11개인데 전환율이 15배 차이 납니다.\n\n28일 실측입니다.\n제일 높은 채널은 조회 2만 8천에 구독 순증 101명. 0.35%입니다.\n제일 낮은 채널은 조회 8천에 구독 순증 2명. 0.0",
-      "views": 52,
+      "views": 54,
       "likes": 0,
       "replies": 0
     },
@@ -452,7 +452,7 @@
     "today": {
       "replies": 8,
       "followups": 0,
-      "follows": 8
+      "follows": 11
     },
     "last7": [
       {
@@ -501,14 +501,14 @@
         "date": "2026-09-08",
         "replies": 8,
         "followups": 0,
-        "follows": 8,
+        "follows": 11,
         "followers": null
       }
     ],
     "last_run": {
       "outreach": "2026-09-08T15:57",
-      "followups": "2026-09-08T15:30",
-      "follows": "2026-09-08T14:31"
+      "followups": "2026-09-08T18:10",
+      "follows": "2026-09-08T17:24"
     },
     "alerts": [
       "followups: 계정 확인에 실패한 판이 있다. 로그인이 풀렸거나 스레드가 페이지를 막은 것이다 — cooldown 필드를 같이 봐라"
@@ -519,11 +519,11 @@
         "missed": []
       },
       "followups": {
-        "ran": 4,
+        "ran": 5,
         "missed": []
       },
       "follows": {
-        "ran": 2,
+        "ran": 3,
         "missed": []
       }
     },
@@ -535,7 +535,7 @@
     },
     "follow_experiment": {
       "followers_delta_7d": 10,
-      "follows_7d": 75,
+      "follows_7d": 78,
       "replies_7d": 60,
       "note": "팔로우 대비 팔로워 증가. 답글과 섞여 있어 단독 인과는 못 본다"
     }
@@ -545,20 +545,20 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-09-08 15:24:17] agent: 보류 유지 4건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_). 다시 보려면 --recheck-all",
-    "[2026-09-08 15:25:00] digest 갱신: 팔로워 118 · 미답변 4건 · 큐 0개 · 오늘 답글 6 · 되물음 0 · 팔로우 8 · !! followups: 계정 확인에 실패한 판이 있다. 로그인이 풀렸거나 스레드가 페이지를 막은 것이다 — cooldown 필드를 같이 봐라",
-    "[2026-09-08 15:25:00] agent: 자동 답글 0건 · 신규 판정 대상 없음",
-    "[2026-09-08 15:30:20] outreach: followup: 계정 확인: @studiohaetae",
-    "[2026-09-08 15:30:31] outreach: followup: 되물음 후보 0건 (이미 답한 것 제외)",
-    "[2026-09-08 15:50:20] outreach: 계정 확인: @studiohaetae",
-    "[2026-09-08 15:50:40] outreach: 검색: 구독자 안늘어 → 이 화면 후보 4건 (누적 4)",
-    "[2026-09-08 15:51:18] outreach: 대상 확인: @sbt2_music_lab (원글 본문 일치)",
-    "[2026-09-08 15:51:25] outreach: 답글 @sbt2_music_lab",
-    "[2026-09-08 15:57:17] outreach: 클릭 진입 실패 @moongi_adventures — 직접 로드로 한 번 시도한다",
-    "[2026-09-08 15:57:26] outreach: 대상 확인: @moongi_adventures (원글 본문 일치)",
-    "[2026-09-08 15:57:34] outreach: 답글 @moongi_adventures",
-    "[2026-09-08 15:57:34] outreach: 훑은 글 중 제외: 차단어 6 · 자기 숫자 없음 4 · 주제 밖 3",
-    "[2026-09-08 15:57:34] outreach: 이번 회차 후보 4건 · 모델 호출 2건",
-    "[2026-09-08 15:57:34] outreach: 이번 실행 2건 · 오늘 누적 답글 8/10 · 팔로우 6/6"
+    "[2026-09-08 17:02:44] digest 갱신: 팔로워 118 · 미답변 4건 · 큐 0개 · 오늘 답글 8 · 되물음 0 · 팔로우 8 · !! followups: 계정 확인에 실패한 판이 있다. 로그인이 풀렸거나 스레드가 페이지를 막은 것이다 — cooldown 필드를 같이 봐라",
+    "[2026-09-08 17:20:15] outreach: follow: 검색: 숏폼 조회수",
+    "[2026-09-08 17:20:28] outreach: follow: 검색: 구독자 안늘어",
+    "[2026-09-08 17:20:41] outreach: follow: 검색: 유튜브 구독자",
+    "[2026-09-08 17:20:46] outreach: follow: 후보 계정 6명",
+    "[2026-09-08 17:21:13] outreach: follow: 프로필 6개 확인 — 팔로워 큰 순으로 진행",
+    "[2026-09-08 17:21:19] outreach: follow: 팔로우 @kap_writing (팔로워 10,000명)",
+    "[2026-09-08 17:22:38] outreach: follow: 팔로우 @yyujaeyeon (팔로워 8,248명)",
+    "[2026-09-08 17:23:34] outreach: follow: 팔로우 @honeydewrabbit (팔로워 552명)",
+    "[2026-09-08 17:24:55] outreach: follow: 팔로워 492명 @channel_hellotravel — 기준(500) 미달, 건너뜀",
+    "[2026-09-08 17:24:55] outreach: follow: 팔로워 346명 @aimeme43 — 기준(500) 미달, 건너뜀",
+    "[2026-09-08 17:24:55] outreach: follow: 팔로워 184명 @d_0.0_p — 기준(500) 미달, 건너뜀",
+    "[2026-09-08 17:24:55] outreach: follow: 이번 회차 3명 · 오늘 누적 5/20",
+    "[2026-09-08 18:10:14] outreach: followup: 계정 확인: @studiohaetae",
+    "[2026-09-08 18:10:23] outreach: followup: 되물음 후보 0건 (이미 답한 것 제외)"
   ]
 }
