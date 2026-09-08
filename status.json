@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T00:29:20",
+  "generated_at": "2026-09-09T01:05:26",
   "username": "studiohaetae",
   "followers": 119,
   "followers_history": [
@@ -336,7 +336,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Dc8br46mFWY",
       "text": "채널 11개를 28일 기준으로 합쳤습니다.\n조회수 68만 8천, 유효 시청시간 2,990시간입니다.\n\n나눠보면 조회 1회당 15.6초입니다.\n\n수익화 기준인 3,000시간을 이 비율로 채우려면 조회수가 69만 회 필",
-      "views": 68,
+      "views": 69,
       "likes": 0,
       "replies": 0
     },
@@ -545,8 +545,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-09-08 22:12:12] outreach: follow: 팔로워 149명 @moonroom_msk — 기준(500) 미달, 건너뜀",
-    "[2026-09-08 22:12:12] outreach: follow: 팔로워 137명 @suvi77_ — 기준(500) 미달, 건너뜀",
     "[2026-09-08 22:12:12] outreach: follow: 팔로워 114명 @ga_ggu_mi — 기준(500) 미달, 건너뜀",
     "[2026-09-08 22:12:12] outreach: follow: 팔로워 57명 @jerim106 — 기준(500) 미달, 건너뜀",
     "[2026-09-08 22:12:12] outreach: follow: 팔로워 46명 @shim.music.relax — 기준(500) 미달, 건너뜀",
@@ -559,6 +557,8 @@
     "[2026-09-08 23:40:36] refill: 초안이 있다. python3 refill.py drafts 로 보고 promote 해라.",
     "[2026-09-08 23:41:26] digest 갱신: 팔로워 119 · 미답변 4건 · 큐 0개 · 오늘 답글 10 · 되물음 0 · 팔로우 13 · !! followups: 계정 확인에 실패한 판이 있다. 로그인이 풀렸거나 스레드가 페이지를 막은 것이다 — cooldown 필드를 같이 봐라",
     "[2026-09-09 00:29:19] digest 갱신: 팔로워 119 · 미답변 4건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 0 · !! followups: 계정 확인에 실패한 판이 있다. 로그인이 풀렸거나 스레드가 페이지를 막은 것이다 — cooldown 필드를 같이 봐라",
-    "[2026-09-09 00:29:19] agent: 보류 유지 4건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_). 다시 보려면 --recheck-all"
+    "[2026-09-09 00:29:19] agent: 보류 유지 4건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_). 다시 보려면 --recheck-all",
+    "[2026-09-09 00:30:07] digest 갱신: 팔로워 119 · 미답변 4건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 0 · !! followups: 계정 확인에 실패한 판이 있다. 로그인이 풀렸거나 스레드가 페이지를 막은 것이다 — cooldown 필드를 같이 봐라",
+    "[2026-09-09 00:30:07] agent: 자동 답글 0건 · 신규 판정 대상 없음"
   ]
 }
