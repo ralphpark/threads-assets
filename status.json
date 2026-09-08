@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T00:28:33",
+  "generated_at": "2026-09-09T00:29:20",
   "username": "studiohaetae",
   "followers": 119,
   "followers_history": [
@@ -545,8 +545,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-09-08 22:11:15] outreach: follow: 팔로우 @channy._.02 (팔로워 852명)",
-    "[2026-09-08 22:12:12] outreach: follow: 팔로워 340명 @kkk___77077 — 기준(500) 미달, 건너뜀",
     "[2026-09-08 22:12:12] outreach: follow: 팔로워 149명 @moonroom_msk — 기준(500) 미달, 건너뜀",
     "[2026-09-08 22:12:12] outreach: follow: 팔로워 137명 @suvi77_ — 기준(500) 미달, 건너뜀",
     "[2026-09-08 22:12:12] outreach: follow: 팔로워 114명 @ga_ggu_mi — 기준(500) 미달, 건너뜀",
@@ -559,6 +557,8 @@
     "[2026-09-08 23:40:22] 답글 32건 수집 -> replies-2026-09-08.json",
     "[2026-09-08 23:40:36] refill: 경보: 큐 잔량 0편 (기준 3) · 대기 중인 초안 2편",
     "[2026-09-08 23:40:36] refill: 초안이 있다. python3 refill.py drafts 로 보고 promote 해라.",
-    "[2026-09-08 23:41:26] digest 갱신: 팔로워 119 · 미답변 4건 · 큐 0개 · 오늘 답글 10 · 되물음 0 · 팔로우 13 · !! followups: 계정 확인에 실패한 판이 있다. 로그인이 풀렸거나 스레드가 페이지를 막은 것이다 — cooldown 필드를 같이 봐라"
+    "[2026-09-08 23:41:26] digest 갱신: 팔로워 119 · 미답변 4건 · 큐 0개 · 오늘 답글 10 · 되물음 0 · 팔로우 13 · !! followups: 계정 확인에 실패한 판이 있다. 로그인이 풀렸거나 스레드가 페이지를 막은 것이다 — cooldown 필드를 같이 봐라",
+    "[2026-09-09 00:29:19] digest 갱신: 팔로워 119 · 미답변 4건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 0 · !! followups: 계정 확인에 실패한 판이 있다. 로그인이 풀렸거나 스레드가 페이지를 막은 것이다 — cooldown 필드를 같이 봐라",
+    "[2026-09-09 00:29:19] agent: 보류 유지 4건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_). 다시 보려면 --recheck-all"
   ]
 }
