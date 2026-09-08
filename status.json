@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T09:21:44",
+  "generated_at": "2026-09-08T11:00:04",
   "username": "studiohaetae",
   "followers": 118,
   "followers_history": [
@@ -450,9 +450,9 @@
   ],
   "outreach": {
     "today": {
-      "replies": 0,
+      "replies": 2,
       "followups": 0,
-      "follows": 0
+      "follows": 4
     },
     "last7": [
       {
@@ -499,23 +499,23 @@
       },
       {
         "date": "2026-09-08",
-        "replies": 0,
+        "replies": 2,
         "followups": 0,
-        "follows": 0,
+        "follows": 4,
         "followers": null
       }
     ],
     "last_run": {
-      "outreach": "2026-09-08T09:22",
+      "outreach": "2026-09-08T09:28",
       "followups": "2026-09-08T09:00",
-      "follows": "2026-09-07T22:14"
+      "follows": "2026-09-08T10:33"
     },
     "alerts": [
       "followups: 계정 확인에 실패한 판이 있다. 로그인이 풀렸거나 스레드가 페이지를 막은 것이다 — cooldown 필드를 같이 봐라"
     ],
     "runs_today": {
       "outreach": {
-        "ran": 0,
+        "ran": 1,
         "missed": []
       },
       "followups": {
@@ -523,7 +523,7 @@
         "missed": []
       },
       "follows": {
-        "ran": 0,
+        "ran": 1,
         "missed": []
       }
     },
@@ -535,8 +535,8 @@
     },
     "follow_experiment": {
       "followers_delta_7d": 10,
-      "follows_7d": 67,
-      "replies_7d": 52,
+      "follows_7d": 71,
+      "replies_7d": 54,
       "note": "팔로우 대비 팔로워 증가. 답글과 섞여 있어 단독 인과는 못 본다"
     }
   },
@@ -545,20 +545,20 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-09-08 06:20:30] agent: 보류 유지 4건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_). 다시 보려면 --recheck-all",
-    "[2026-09-08 06:21:09] digest 갱신: 팔로워 118 · 미답변 4건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 0 · !! followups: 계정 확인에 실패한 판이 있다. 로그인이 풀렸거나 스레드가 페이지를 막은 것이다 — cooldown 필드를 같이 봐라",
-    "[2026-09-08 06:21:09] agent: 자동 답글 0건 · 신규 판정 대상 없음",
-    "[2026-09-08 06:59:22] digest 갱신: 팔로워 118 · 미답변 4건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 0 · !! followups: 계정 확인에 실패한 판이 있다. 로그인이 풀렸거나 스레드가 페이지를 막은 것이다 — cooldown 필드를 같이 봐라",
-    "[2026-09-08 09:00:03] digest 갱신: 팔로워 118 · 미답변 4건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 0 · !! followups: 계정 확인에 실패한 판이 있다. 로그인이 풀렸거나 스레드가 페이지를 막은 것이다 — cooldown 필드를 같이 봐라",
-    "[2026-09-08 09:00:08] outreach: followup: 계정 확인: @studiohaetae",
-    "[2026-09-08 09:00:17] outreach: followup: 되물음 후보 0건 (이미 답한 것 제외)",
-    "[2026-09-08 09:20:22] outreach: 계정 확인: @studiohaetae",
-    "[2026-09-08 09:20:42] outreach: 검색: 구독자 100명 → 이 화면 후보 7건 (누적 7)",
-    "[2026-09-08 09:21:16] outreach: skip @apple_jung24 — 금지 요소 포함",
-    "[2026-09-08 09:21:31] outreach: skip @pastelair_official — 맞구독 모집 글 — '구독하러 와주면 나도 부계로 구독하러 달려갈게' 는 명시적 맞구독 품앗이 요청이라 skip 대상에 해당한",
-    "[2026-09-08 09:21:44] digest 갱신: 팔로워 118 · 미답변 4건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 0 · !! followups: 계정 확인에 실패한 판이 있다. 로그인이 풀렸거나 스레드가 페이지를 막은 것이다 — cooldown 필드를 같이 봐라",
-    "[2026-09-08 09:21:44] agent: 보류 유지 4건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_). 다시 보려면 --recheck-all",
-    "[2026-09-08 09:22:02] outreach: 대상 확인: @bundangmom_luna (원글 본문 일치)",
-    "[2026-09-08 09:22:10] outreach: 답글 @bundangmom_luna"
+    "[2026-09-08 10:30:29] outreach: follow: 검색: 구독자 1000명",
+    "[2026-09-08 10:30:36] outreach: follow: 검색: 유튜브 3개월",
+    "[2026-09-08 10:30:41] outreach: follow: 후보 계정 10명",
+    "[2026-09-08 10:31:29] outreach: follow: 프로필 10개 확인 — 팔로워 큰 순으로 진행",
+    "[2026-09-08 10:31:29] outreach: follow: 이미 팔로우 중 @kds_style_",
+    "[2026-09-08 10:31:36] outreach: follow: 팔로우 @chosim64 (팔로워 1,231명)",
+    "[2026-09-08 10:32:56] outreach: follow: 팔로우 @gangsa_lab (팔로워 921명)",
+    "[2026-09-08 10:33:46] outreach: follow: 이미 팔로우 중 @all_that_lounge",
+    "[2026-09-08 10:33:46] outreach: follow: 팔로워 280명 @chineseway_official — 기준(500) 미달, 건너뜀",
+    "[2026-09-08 10:33:46] outreach: follow: 팔로워 135명 @collseis — 기준(500) 미달, 건너뜀",
+    "[2026-09-08 10:33:46] outreach: follow: 팔로워 131명 @fxfbs_5200 — 기준(500) 미달, 건너뜀",
+    "[2026-09-08 10:33:46] outreach: follow: 팔로워 95명 @tmi_dieter — 기준(500) 미달, 건너뜀",
+    "[2026-09-08 10:33:46] outreach: follow: 팔로워 29명 @155cm_teggy — 기준(500) 미달, 건너뜀",
+    "[2026-09-08 10:33:46] outreach: follow: 팔로워 29명 @sehoonjojo — 기준(500) 미달, 건너뜀",
+    "[2026-09-08 10:33:46] outreach: follow: 이번 회차 2명 · 오늘 누적 2/20"
   ]
 }
