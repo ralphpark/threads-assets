@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T11:00:04",
+  "generated_at": "2026-09-08T12:22:16",
   "username": "studiohaetae",
   "followers": 118,
   "followers_history": [
@@ -226,7 +226,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DcirvIlGErj",
       "text": "제 쇼츠 채널 4개, 최근 40편에 설명란 링크가 0개였습니다.\n\n그 글을 보고 한 분이 자기 숫자를 주셨습니다.\n누적 조회 3,068회, 수익 0원.\n트래픽 80%가 Shorts 피드였는데 나가는 문이 0개였습니다",
-      "views": 175,
+      "views": 176,
       "likes": 0,
       "replies": 3
     },
@@ -325,7 +325,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Dc524grmCmD",
       "text": "유튜브 채널 11개를 API로 전수 확인했습니다.\n\n수익화 기준은 채널당 구독자 500명, 유효 시청시간 3,000시간입니다.\n\n11개를 다 합치면 구독자 591명, 시청시간 2,990시간입니다.\n구독자는 이미 넘겼",
-      "views": 244,
+      "views": 245,
       "likes": 0,
       "replies": 0
     },
@@ -336,7 +336,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Dc8br46mFWY",
       "text": "채널 11개를 28일 기준으로 합쳤습니다.\n조회수 68만 8천, 유효 시청시간 2,990시간입니다.\n\n나눠보면 조회 1회당 15.6초입니다.\n\n수익화 기준인 3,000시간을 이 비율로 채우려면 조회수가 69만 회 필",
-      "views": 63,
+      "views": 68,
       "likes": 0,
       "replies": 0
     },
@@ -347,7 +347,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Dc_Ae1mmC0d",
       "text": "같은 사람이 만든 채널 11개인데 전환율이 15배 차이 납니다.\n\n28일 실측입니다.\n제일 높은 채널은 조회 2만 8천에 구독 순증 101명. 0.35%입니다.\n제일 낮은 채널은 조회 8천에 구독 순증 2명. 0.0",
-      "views": 47,
+      "views": 51,
       "likes": 0,
       "replies": 0
     },
@@ -450,9 +450,9 @@
   ],
   "outreach": {
     "today": {
-      "replies": 2,
+      "replies": 4,
       "followups": 0,
-      "follows": 4
+      "follows": 6
     },
     "last7": [
       {
@@ -499,15 +499,15 @@
       },
       {
         "date": "2026-09-08",
-        "replies": 2,
+        "replies": 4,
         "followups": 0,
-        "follows": 4,
+        "follows": 6,
         "followers": null
       }
     ],
     "last_run": {
-      "outreach": "2026-09-08T09:28",
-      "followups": "2026-09-08T09:00",
+      "outreach": "2026-09-08T11:49",
+      "followups": "2026-09-08T11:20",
       "follows": "2026-09-08T10:33"
     },
     "alerts": [
@@ -515,11 +515,11 @@
     ],
     "runs_today": {
       "outreach": {
-        "ran": 1,
+        "ran": 2,
         "missed": []
       },
       "followups": {
-        "ran": 1,
+        "ran": 2,
         "missed": []
       },
       "follows": {
@@ -535,8 +535,8 @@
     },
     "follow_experiment": {
       "followers_delta_7d": 10,
-      "follows_7d": 71,
-      "replies_7d": 54,
+      "follows_7d": 73,
+      "replies_7d": 56,
       "note": "팔로우 대비 팔로워 증가. 답글과 섞여 있어 단독 인과는 못 본다"
     }
   },
@@ -545,20 +545,20 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-09-08 10:30:29] outreach: follow: 검색: 구독자 1000명",
-    "[2026-09-08 10:30:36] outreach: follow: 검색: 유튜브 3개월",
-    "[2026-09-08 10:30:41] outreach: follow: 후보 계정 10명",
-    "[2026-09-08 10:31:29] outreach: follow: 프로필 10개 확인 — 팔로워 큰 순으로 진행",
-    "[2026-09-08 10:31:29] outreach: follow: 이미 팔로우 중 @kds_style_",
-    "[2026-09-08 10:31:36] outreach: follow: 팔로우 @chosim64 (팔로워 1,231명)",
-    "[2026-09-08 10:32:56] outreach: follow: 팔로우 @gangsa_lab (팔로워 921명)",
-    "[2026-09-08 10:33:46] outreach: follow: 이미 팔로우 중 @all_that_lounge",
-    "[2026-09-08 10:33:46] outreach: follow: 팔로워 280명 @chineseway_official — 기준(500) 미달, 건너뜀",
-    "[2026-09-08 10:33:46] outreach: follow: 팔로워 135명 @collseis — 기준(500) 미달, 건너뜀",
-    "[2026-09-08 10:33:46] outreach: follow: 팔로워 131명 @fxfbs_5200 — 기준(500) 미달, 건너뜀",
-    "[2026-09-08 10:33:46] outreach: follow: 팔로워 95명 @tmi_dieter — 기준(500) 미달, 건너뜀",
-    "[2026-09-08 10:33:46] outreach: follow: 팔로워 29명 @155cm_teggy — 기준(500) 미달, 건너뜀",
-    "[2026-09-08 10:33:46] outreach: follow: 팔로워 29명 @sehoonjojo — 기준(500) 미달, 건너뜀",
-    "[2026-09-08 10:33:46] outreach: follow: 이번 회차 2명 · 오늘 누적 2/20"
+    "[2026-09-08 11:42:31] outreach: 카드 클릭 실패: Locator.scroll_into_view_if_needed: Timeout 4991ms exceeded.",
+    "[2026-09-08 11:42:42] outreach: 링크 클릭 실패(coords): Locator.click: Element is not visible",
+    "[2026-09-08 11:42:42] outreach: 클릭 진입 실패 @noraping2 — 직접 로드로 한 번 시도한다",
+    "[2026-09-08 11:42:49] outreach: 대상 확인: @noraping2 (원글 본문 일치)",
+    "[2026-09-08 11:42:58] outreach: 답글 @noraping2",
+    "[2026-09-08 11:43:06] outreach: 팔로우 @noraping2",
+    "[2026-09-08 11:47:13] outreach: 검색: 구독자 정체 → 이 화면 후보 7건 (누적 8)",
+    "[2026-09-08 11:48:01] outreach: 대상 확인: @sun7_0708 (원글 본문 일치)",
+    "[2026-09-08 11:48:11] outreach: 게시 실패 @sun7_0708: Locator.click: Timeout 10000ms exceeded.",
+    "[2026-09-08 11:49:16] outreach: 대상 확인: @hannahekmorris (원글 본문 일치)",
+    "[2026-09-08 11:49:23] outreach: 답글 @hannahekmorris",
+    "[2026-09-08 11:49:31] outreach: 팔로우 @hannahekmorris",
+    "[2026-09-08 11:49:31] outreach: 훑은 글 중 제외: 주제 밖 9 · 차단어 6 · 자기 숫자 없음 6 · 너무 짧음 5 · 광고·영업 4",
+    "[2026-09-08 11:49:31] outreach: 이번 회차 후보 8건 · 모델 호출 3건",
+    "[2026-09-08 11:49:31] outreach: 이번 실행 2건 · 오늘 누적 답글 4/10 · 팔로우 4/6"
   ]
 }
