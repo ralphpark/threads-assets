@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T12:34:30",
+  "generated_at": "2026-09-09T12:36:04",
   "username": "studiohaetae",
   "followers": 120,
   "followers_history": [
@@ -349,18 +349,7 @@
       "text": "같은 사람이 만든 채널 11개인데 전환율이 15배 차이 납니다.\n\n28일 실측입니다.\n제일 높은 채널은 조회 2만 8천에 구독 순증 101명. 0.35%입니다.\n제일 낮은 채널은 조회 8천에 구독 순증 2명. 0.0",
       "views": 65,
       "likes": 1,
-      "replies": 1
-    },
-    {
-      "at": "2026-08-20T12:57:01",
-      "n": -1,
-      "id": "18120613064494354",
-      "is_reply": true,
-      "permalink": "https://www.threads.com/@studiohaetae/post/DcP2SUjn6yY",
-      "text": "설명란 링크는 데이터가 있습니다.\n\nShorts는 URL이 링크로 안 걸립니다. 텍스트로만 노출돼요.\n그래서인지 제 랭킹 채널 4개 최근 40편 전수에 설명란 링크가 0개, 영어권 비교군 50편 중에도 4편뿐이었습니",
-      "views": 6,
-      "likes": 1,
-      "replies": 0
+      "replies": 2
     },
     {
       "at": "2026-08-20T15:58:48",
@@ -416,6 +405,17 @@
       "views": 3,
       "likes": 1,
       "replies": 0
+    },
+    {
+      "at": "2026-09-09T12:36:04",
+      "n": -1,
+      "id": "18116425769287791",
+      "is_reply": true,
+      "permalink": "https://www.threads.com/@studiohaetae/post/DdDTydGmGAe",
+      "text": "맞는 말일 수도 있습니다.\n\n채널 11개 합쳐 구독자 929명입니다.\n수익화 기준(500명)을 넘은 채널은 0개입니다.\n합계로는 기준의 186%인데 채널 단위로는 하나도 못 넘었어요.\n\n지금 결과만 보면 취미와 다를",
+      "views": 0,
+      "likes": 0,
+      "replies": 0
     }
   ],
   "unanswered_replies": [
@@ -446,13 +446,6 @@
       "text": "뭐가 궁금한거에요?",
       "at": "2026-09-04T11:48:39+0000",
       "on_post": "18389563651204495"
-    },
-    {
-      "id": "17975676893915357",
-      "username": "alexking39_",
-      "text": "YouTube는 그냥 취미로 하시는 게 어떨까요?",
-      "at": "2026-09-09T01:33:50+0000",
-      "on_post": "18094284974264164"
     }
   ],
   "outreach": {
@@ -552,11 +545,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-09-09 11:42:27] outreach: 모달에 @sin_jaeseo_ 가 안 보인다 — 대상 확인 실패, 건너뜀",
-    "[2026-09-09 11:43:20] outreach: URL 이 대상과 다르다 @youtubejocoding — 건너뜀",
-    "[2026-09-09 11:43:48] outreach: skip @yoowj7 — 스레드 자체 이벤트/알고리즘 불만 글이라 유튜브 채널 조회수·구독자 숫자를 붙일 지점이 없음. 억지로 끼우면 어색하다",
-    "[2026-09-09 11:45:07] outreach: 클릭 진입 실패 @yoo_ing113 — 직접 로드로 한 번 시도한다",
-    "[2026-09-09 11:45:15] outreach: 대상 확인: @yoo_ing113 (원글 본문 일치)",
     "[2026-09-09 11:45:23] outreach: 답글 @yoo_ing113",
     "[2026-09-09 11:45:31] outreach: 팔로우 @yoo_ing113",
     "[2026-09-09 11:49:49] outreach: skip @ji_yyyuuu — 주제가 콘텐츠 성장·조회수 지표가 아니라 반려견의 나이듦과 이별 불안을 다룬 개인적 감정 글이다. 조회수 1,000회는 곁가지",
@@ -566,6 +554,11 @@
     "[2026-09-09 11:51:20] outreach: 팔로우 @pure_rabbit_",
     "[2026-09-09 11:51:20] outreach: 훑은 글 중 제외: 차단어 5 · 주제 밖 1",
     "[2026-09-09 11:51:20] outreach: 이번 회차 후보 9건 · 모델 호출 6건",
-    "[2026-09-09 11:51:21] outreach: 이번 실행 2건 · 오늘 누적 답글 4/10 · 팔로우 4/6"
+    "[2026-09-09 11:51:21] outreach: 이번 실행 2건 · 오늘 누적 답글 4/10 · 팔로우 4/6",
+    "[2026-09-09 12:35:16] digest 갱신: 팔로워 120 · 미답변 5건 · 큐 0개 · 오늘 답글 4 · 되물음 0 · 팔로우 5 · !! followups: 계정 확인에 실패한 판이 있다. 로그인이 풀렸거나 스레드가 페이지를 막은 것이다 — cooldown 필드를 같이 봐라",
+    "[2026-09-09 12:35:16] agent: 보류 유지 4건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_). 다시 보려면 --recheck-all",
+    "[2026-09-09 12:35:45] 이미지 0장 공개 URL 확보",
+    "[2026-09-09 12:36:04] 답글 게시 완료 id=18116425769287791 https://www.threads.com/@studiohaetae/post/DdDTydGmGAe",
+    "[2026-09-09 12:36:04] agent: 게시 @alexking39_"
   ]
 }
