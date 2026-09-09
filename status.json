@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T00:43:57",
+  "generated_at": "2026-09-10T01:15:04",
   "username": "studiohaetae",
   "followers": 120,
   "followers_history": [
@@ -549,8 +549,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-09-09 22:10:42] outreach: follow: 후보 계정 12명",
-    "[2026-09-09 22:11:34] outreach: follow: 프로필 12개 확인 — 팔로워 큰 순으로 진행",
     "[2026-09-09 22:11:40] outreach: follow: 팔로우 @ykh_dp (팔로워 12,000명)",
     "[2026-09-09 22:13:05] outreach: follow: 팔로우 @shj_summer1201 (팔로워 2,335명)",
     "[2026-09-09 22:13:57] outreach: follow: 팔로우 @mobilpang (팔로워 1,195명)",
@@ -563,6 +561,8 @@
     "[2026-09-09 23:40:37] refill: 초안이 있다. python3 refill.py drafts 로 보고 promote 해라.",
     "[2026-09-09 23:41:24] digest 갱신: 팔로워 120 · 미답변 5건 · 큐 0개 · 오늘 답글 10 · 되물음 0 · 팔로우 16",
     "[2026-09-10 00:43:57] digest 갱신: 팔로워 120 · 미답변 5건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 0",
-    "[2026-09-10 00:43:57] agent: 보류 유지 5건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_, @alexking39_). 다시 보려면 --recheck-all"
+    "[2026-09-10 00:43:57] agent: 보류 유지 5건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_, @alexking39_). 다시 보려면 --recheck-all",
+    "[2026-09-10 00:44:57] digest 갱신: 팔로워 120 · 미답변 5건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 0",
+    "[2026-09-10 00:44:57] agent: 자동 답글 0건 · 신규 판정 대상 없음"
   ]
 }
