@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T21:13:26",
+  "generated_at": "2026-09-09T21:41:00",
   "username": "studiohaetae",
   "followers": 120,
   "followers_history": [
@@ -520,7 +520,7 @@
     "alerts": [],
     "runs_today": {
       "outreach": {
-        "ran": 5,
+        "ran": 6,
         "missed": []
       },
       "followups": {
@@ -549,7 +549,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-09-09 19:13:26] digest 갱신: 팔로워 120 · 미답변 5건 · 큐 0개 · 오늘 답글 10 · 되물음 0 · 팔로우 10",
     "[2026-09-09 19:40:18] outreach: follow: 검색: 유튜브 한달",
     "[2026-09-09 19:40:31] outreach: follow: 검색: 유튜브 알고리즘",
     "[2026-09-09 19:40:39] outreach: follow: 검색: 유튜브 구독자",
@@ -563,6 +562,7 @@
     "[2026-09-09 19:43:25] outreach: follow: 이번 회차 2명 · 오늘 누적 6/20",
     "[2026-09-09 20:30:05] 큐가 비었다. 게시하지 않음.",
     "[2026-09-09 20:50:05] outreach: followup: 오늘 답글 10건 — 상한 도달. 종료.",
-    "[2026-09-09 21:10:04] outreach: 오늘 답글 10건 — 상한 도달. 종료."
+    "[2026-09-09 21:10:04] outreach: 오늘 답글 10건 — 상한 도달. 종료.",
+    "[2026-09-09 21:14:13] digest 갱신: 팔로워 120 · 미답변 5건 · 큐 0개 · 오늘 답글 10 · 되물음 0 · 팔로우 12"
   ]
 }
