@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T00:56:05",
+  "generated_at": "2026-09-11T00:57:00",
   "username": "studiohaetae",
   "followers": 121,
   "followers_history": [
@@ -549,8 +549,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-09-10 22:10:34] outreach: follow: 검색: 유튜브 한달",
-    "[2026-09-10 22:10:41] outreach: follow: 검색: 조회수 1000회",
     "[2026-09-10 22:10:46] outreach: follow: 후보 계정 4명",
     "[2026-09-10 22:11:05] outreach: follow: 프로필 4개 확인 — 팔로워 큰 순으로 진행",
     "[2026-09-10 22:11:11] outreach: follow: 팔로우 @mul.yoon (팔로워 890명)",
@@ -563,6 +561,8 @@
     "[2026-09-10 23:40:23] 답글 34건 수집 -> replies-2026-09-10.json",
     "[2026-09-10 23:40:38] refill: 경보: 큐 잔량 0편 (기준 3) · 대기 중인 초안 2편",
     "[2026-09-10 23:40:38] refill: 초안이 있다. python3 refill.py drafts 로 보고 promote 해라.",
-    "[2026-09-10 23:41:27] digest 갱신: 팔로워 121 · 미답변 5건 · 큐 0개 · 오늘 답글 4 · 되물음 0 · 팔로우 11"
+    "[2026-09-10 23:41:27] digest 갱신: 팔로워 121 · 미답변 5건 · 큐 0개 · 오늘 답글 4 · 되물음 0 · 팔로우 11",
+    "[2026-09-11 00:57:00] digest 갱신: 팔로워 121 · 미답변 5건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 0",
+    "[2026-09-11 00:57:00] agent: 보류 유지 5건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_, @alexking39_). 다시 보려면 --recheck-all"
   ]
 }
