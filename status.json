@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T13:02:43",
+  "generated_at": "2026-09-11T13:03:22",
   "username": "studiohaetae",
   "followers": 122,
   "followers_history": [
@@ -549,8 +549,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-09-11 11:40:20] outreach: 계정 확인: @studiohaetae",
-    "[2026-09-11 11:40:39] outreach: 검색: 애드센스 승인 → 이 화면 후보 0건 (누적 0)",
     "[2026-09-11 11:41:00] outreach: 검색: 구독자 정체 → 이 화면 후보 4건 (누적 4)",
     "[2026-09-11 11:41:22] outreach: skip @project205_ — 상대가 자기 숫자를 올린 게 아니라 남(Jenny Hoyos)의 구독자·조회수를 인용하며 스토리텔링 공식을 정리한 글이다. 답",
     "[2026-09-11 11:41:59] outreach: 대상 확인: @eoseolvlog (원글 본문 일치)",
@@ -563,6 +561,8 @@
     "[2026-09-11 11:46:22] outreach: 이번 회차 후보 4건 · 모델 호출 3건",
     "[2026-09-11 11:46:22] outreach: 이번 실행 2건 · 오늘 누적 답글 4/10 · 팔로우 4/6",
     "[2026-09-11 12:50:07] outreach: followup: 계정 확인: @studiohaetae",
-    "[2026-09-11 12:50:16] outreach: followup: 되물음 후보 0건 (이미 답한 것 제외)"
+    "[2026-09-11 12:50:16] outreach: followup: 되물음 후보 0건 (이미 답한 것 제외)",
+    "[2026-09-11 13:03:22] digest 갱신: 팔로워 122 · 미답변 5건 · 큐 0개 · 오늘 답글 4 · 되물음 0 · 팔로우 8",
+    "[2026-09-11 13:03:22] agent: 보류 유지 5건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_, @alexking39_). 다시 보려면 --recheck-all"
   ]
 }
