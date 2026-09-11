@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T13:29:28",
+  "generated_at": "2026-09-11T15:30:06",
   "username": "studiohaetae",
   "followers": 122,
   "followers_history": [
@@ -281,7 +281,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DcvjtiaGEWe",
       "text": "2시간 10분짜리 영상의 평균 시청 지속 시간이 1분 2초였습니다.\n0.2%입니다.\n\n배경음악처럼 틀어놓고 딴 일 하는 콘텐츠인데,\n12초 만에 나갔다는 건 틀어놓지도 않았다는 뜻입니다.\n\n노출 클릭률은 6.3%로 ",
-      "views": 123,
+      "views": 124,
       "likes": 2,
       "replies": 0
     },
@@ -292,7 +292,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DcyIgZemPZx",
       "text": "답글로 온 질문 중에 제가 답을 못 한 게 있습니다.\n\n\"조건을 달성한다고 해도 수익창출 심사 때 막히지 않을까요. 휴먼터치가 안 보이면.\"\n\n저는 조건 근처도 못 갔습니다.\n랭킹 채널이 28일 조회 18,205회에",
-      "views": 105,
+      "views": 106,
       "likes": 1,
       "replies": 0
     },
@@ -303,7 +303,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Dc0tTW9GPJ5",
       "text": "어떤 분이 알려줬습니다.\n새 채널에 영상 빈도가 높으면 스팸으로 볼 확률이 높다고요.\n\n재즈 채널은 완전 자동으로 39편을 올렸습니다.\n28일 노출수는 48회였습니다. 편당 한 달에 1.2번 보여졌습니다.\n\n노출 클",
-      "views": 67,
+      "views": 69,
       "likes": 1,
       "replies": 0
     },
@@ -314,7 +314,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Dc3SGKHmDRV",
       "text": "지난 4주 동안 이 계정에 달린 답글이 28건이었습니다.\n그중 자기 숫자를 적어주신 분은 4명이었습니다.\n\n- 누적 조회 3,068회, 수익 0원\n- 영상 300편, 구독자 139명\n- 곡 35개, 수익 0원\n- 답",
-      "views": 79,
+      "views": 81,
       "likes": 1,
       "replies": 1
     },
@@ -325,7 +325,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Dc524grmCmD",
       "text": "유튜브 채널 11개를 API로 전수 확인했습니다.\n\n수익화 기준은 채널당 구독자 500명, 유효 시청시간 3,000시간입니다.\n\n11개를 다 합치면 구독자 591명, 시청시간 2,990시간입니다.\n구독자는 이미 넘겼",
-      "views": 252,
+      "views": 254,
       "likes": 1,
       "replies": 0
     },
@@ -336,7 +336,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Dc8br46mFWY",
       "text": "채널 11개를 28일 기준으로 합쳤습니다.\n조회수 68만 8천, 유효 시청시간 2,990시간입니다.\n\n나눠보면 조회 1회당 15.6초입니다.\n\n수익화 기준인 3,000시간을 이 비율로 채우려면 조회수가 69만 회 필",
-      "views": 82,
+      "views": 84,
       "likes": 1,
       "replies": 0
     },
@@ -347,7 +347,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Dc_Ae1mmC0d",
       "text": "같은 사람이 만든 채널 11개인데 전환율이 15배 차이 납니다.\n\n28일 실측입니다.\n제일 높은 채널은 조회 2만 8천에 구독 순증 101명. 0.35%입니다.\n제일 낮은 채널은 조회 8천에 구독 순증 2명. 0.0",
-      "views": 82,
+      "views": 85,
       "likes": 1,
       "replies": 5
     },
@@ -459,7 +459,7 @@
     "today": {
       "replies": 6,
       "followups": 0,
-      "follows": 10
+      "follows": 12
     },
     "last7": [
       {
@@ -508,14 +508,14 @@
         "date": "2026-09-11",
         "replies": 6,
         "followups": 0,
-        "follows": 10,
+        "follows": 12,
         "followers": null
       }
     ],
     "last_run": {
       "outreach": "2026-09-11T13:17",
-      "followups": "2026-09-11T12:50",
-      "follows": "2026-09-11T10:35"
+      "followups": "2026-09-11T15:30",
+      "follows": "2026-09-11T14:34"
     },
     "alerts": [],
     "runs_today": {
@@ -528,7 +528,7 @@
         "missed": []
       },
       "follows": {
-        "ran": 1,
+        "ran": 2,
         "missed": []
       }
     },
@@ -540,7 +540,7 @@
     },
     "follow_experiment": {
       "followers_delta_7d": 2,
-      "follows_7d": 82,
+      "follows_7d": 84,
       "replies_7d": 52,
       "note": "팔로우 대비 팔로워 증가. 답글과 섞여 있어 단독 인과는 못 본다"
     }
@@ -549,20 +549,20 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-09-11 13:03:22] agent: 보류 유지 5건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_, @alexking39_). 다시 보려면 --recheck-all",
-    "[2026-09-11 13:04:00] digest 갱신: 팔로워 122 · 미답변 5건 · 큐 0개 · 오늘 답글 4 · 되물음 0 · 팔로우 8",
-    "[2026-09-11 13:04:00] agent: 자동 답글 0건 · 신규 판정 대상 없음",
-    "[2026-09-11 13:10:13] outreach: 계정 확인: @studiohaetae",
-    "[2026-09-11 13:10:33] outreach: 검색: 구독자 1000명 → 이 화면 후보 6건 (누적 6)",
-    "[2026-09-11 13:12:26] outreach: 대상 확인: @droll74 (원글 본문 일치)",
-    "[2026-09-11 13:12:35] outreach: 답글 @droll74",
-    "[2026-09-11 13:12:43] outreach: 팔로우 @droll74",
-    "[2026-09-11 13:16:28] outreach: skip @chsi110 — 자기 플레이리스트를 홍보하는 콘텐츠 게시물이고 조회수·구독자·수익 등 계산할 숫자가 전혀 없음. 유튜브 채널이지만 무드 프로모",
-    "[2026-09-11 13:17:31] outreach: 대상 확인: @tarot_hannaru (원글 본문 일치)",
-    "[2026-09-11 13:17:38] outreach: 답글 @tarot_hannaru",
-    "[2026-09-11 13:17:46] outreach: 팔로우 @tarot_hannaru",
-    "[2026-09-11 13:17:46] outreach: 훑은 글 중 제외: 차단어 9 · 너무 짧음 2 · 자기 숫자 없음 2 · 주제 밖 1",
-    "[2026-09-11 13:17:46] outreach: 이번 회차 후보 6건 · 모델 호출 3건",
-    "[2026-09-11 13:17:46] outreach: 이번 실행 2건 · 오늘 누적 답글 6/10 · 팔로우 6/6"
+    "[2026-09-11 13:17:46] outreach: 이번 실행 2건 · 오늘 누적 답글 6/10 · 팔로우 6/6",
+    "[2026-09-11 13:30:05] digest 갱신: 팔로워 122 · 미답변 5건 · 큐 0개 · 오늘 답글 6 · 되물음 0 · 팔로우 10",
+    "[2026-09-11 14:30:20] outreach: follow: 검색: 구독자 정체",
+    "[2026-09-11 14:30:33] outreach: follow: 검색: 유튜브 3개월",
+    "[2026-09-11 14:31:04] outreach: follow: 검색: 구독자 1000명",
+    "[2026-09-11 14:31:09] outreach: follow: 후보 계정 5명",
+    "[2026-09-11 14:31:31] outreach: follow: 프로필 5개 확인 — 팔로워 큰 순으로 진행",
+    "[2026-09-11 14:31:37] outreach: follow: 팔로우 @bibl_youtube (팔로워 20,000명)",
+    "[2026-09-11 14:32:56] outreach: follow: 팔로우 @issue.scan (팔로워 6,880명)",
+    "[2026-09-11 14:34:16] outreach: follow: 팔로워 462명 @moisten_film — 기준(500) 미달, 건너뜀",
+    "[2026-09-11 14:34:16] outreach: follow: 팔로워 139명 @vlt.paranal — 기준(500) 미달, 건너뜀",
+    "[2026-09-11 14:34:16] outreach: follow: 팔로워 12명 @just.bit.bit — 기준(500) 미달, 건너뜀",
+    "[2026-09-11 14:34:16] outreach: follow: 이번 회차 2명 · 오늘 누적 6/20",
+    "[2026-09-11 15:30:14] outreach: followup: 계정 확인: @studiohaetae",
+    "[2026-09-11 15:30:23] outreach: followup: 되물음 후보 0건 (이미 답한 것 제외)"
   ]
 }
