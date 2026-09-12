@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T09:37:55",
+  "generated_at": "2026-09-12T10:14:08",
   "username": "studiohaetae",
   "followers": 121,
   "followers_history": [
@@ -549,7 +549,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-09-12 09:21:48] outreach: skip @macupoftea — 모델 skip",
     "[2026-09-12 09:22:11] outreach: 검색: 유튜브 알고리즘 → 이 화면 후보 0건 (누적 6)",
     "[2026-09-12 09:22:36] outreach: 검색: 구독자 100명 → 이 화면 후보 8건 (누적 14)",
     "[2026-09-12 09:22:45] outreach: skip @9pd_studio — 모델 skip",
@@ -563,6 +562,7 @@
     "[2026-09-12 09:24:05] outreach: 모델 호출 8건 도달 — 나머지는 다음 회차로",
     "[2026-09-12 09:24:05] outreach: 훑은 글 중 제외: 주제 밖 22 · 자기 숫자 없음 17 · 너무 짧음 8 · 차단어 7 · 광고·영업 7 · 개인사 1",
     "[2026-09-12 09:24:05] outreach: 이번 회차 후보 23건 · 모델 호출 8건",
-    "[2026-09-12 09:24:06] outreach: 이번 실행 0건 · 오늘 누적 답글 0/10 · 팔로우 0/6"
+    "[2026-09-12 09:24:06] outreach: 이번 실행 0건 · 오늘 누적 답글 0/10 · 팔로우 0/6",
+    "[2026-09-12 09:38:46] digest 갱신: 팔로워 121 · 미답변 5건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 0"
   ]
 }
