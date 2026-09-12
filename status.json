@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T23:43:10",
+  "generated_at": "2026-09-13T01:20:31",
   "username": "studiohaetae",
   "followers": 122,
   "followers_history": [
@@ -459,16 +459,9 @@
     "today": {
       "replies": 0,
       "followups": 0,
-      "follows": 9
+      "follows": 0
     },
     "last7": [
-      {
-        "date": "2026-09-06",
-        "replies": 10,
-        "followups": 0,
-        "follows": 15,
-        "followers": 119
-      },
       {
         "date": "2026-09-07",
         "replies": 10,
@@ -510,6 +503,13 @@
         "followups": 0,
         "follows": 9,
         "followers": 122
+      },
+      {
+        "date": "2026-09-13",
+        "replies": 0,
+        "followups": 0,
+        "follows": 0,
+        "followers": null
       }
     ],
     "last_run": {
@@ -522,15 +522,15 @@
     ],
     "runs_today": {
       "outreach": {
-        "ran": 6,
+        "ran": 0,
         "missed": []
       },
       "followups": {
-        "ran": 6,
+        "ran": 0,
         "missed": []
       },
       "follows": {
-        "ran": 5,
+        "ran": 0,
         "missed": []
       }
     },
@@ -542,8 +542,8 @@
     },
     "follow_experiment": {
       "followers_delta_7d": 3,
-      "follows_7d": 97,
-      "replies_7d": 54,
+      "follows_7d": 82,
+      "replies_7d": 44,
       "note": "팔로우 대비 팔로워 증가. 답글과 섞여 있어 단독 인과는 못 본다"
     }
   },
@@ -552,7 +552,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-09-12 22:11:18] outreach: follow: 프로필 4개 확인 — 팔로워 큰 순으로 진행",
     "[2026-09-12 22:11:24] outreach: follow: 팔로우 @dhjmlove (팔로워 2,275명)",
     "[2026-09-12 22:12:53] outreach: follow: 팔로우 @kim_jh8603 (팔로워 1,894명)",
     "[2026-09-12 22:14:05] outreach: follow: 팔로워 89명 @eunjin_j09 — 기준(500) 미달, 건너뜀",
@@ -566,6 +565,7 @@
     "[2026-09-12 23:40:24] 답글 34건 수집 -> replies-2026-09-12.json",
     "[2026-09-12 23:40:38] refill: 경보: 큐 잔량 0편 (기준 3) · 대기 중인 초안 2편",
     "[2026-09-12 23:40:38] refill: 초안이 있다. python3 refill.py drafts 로 보고 promote 해라.",
-    "[2026-09-12 23:41:12] digest 갱신: 팔로워 122 · 미답변 5건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 9 · !! followups: 워치독이 강제 종료한 판이 있다 — 드라이버 연결이 끊겼을 가능성"
+    "[2026-09-12 23:41:12] digest 갱신: 팔로워 122 · 미답변 5건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 9 · !! followups: 워치독이 강제 종료한 판이 있다 — 드라이버 연결이 끊겼을 가능성",
+    "[2026-09-12 23:43:45] digest 갱신: 팔로워 122 · 미답변 5건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 9 · !! followups: 워치독이 강제 종료한 판이 있다 — 드라이버 연결이 끊겼을 가능성"
   ]
 }
