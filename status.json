@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T16:17:00",
+  "generated_at": "2026-09-12T16:17:33",
   "username": "studiohaetae",
   "followers": 122,
   "followers_history": [
@@ -552,8 +552,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-09-12 15:51:27] outreach: 검색: 유튜브 수익 → 이 화면 후보 3건 (누적 9)",
-    "[2026-09-12 15:51:31] outreach: skip @mrs__yo — 모델 skip",
     "[2026-09-12 15:51:35] outreach: skip @gyun2023 — 모델 skip",
     "[2026-09-12 15:51:35] outreach: 모델 호출 8건 도달 — 나머지는 다음 회차로",
     "[2026-09-12 15:51:55] outreach: 검색: 구독자 안늘어 → 이 화면 후보 3건 (누적 12)",
@@ -566,6 +564,8 @@
     "[2026-09-12 15:53:03] outreach: 모델 호출 8건 도달 — 나머지는 다음 회차로",
     "[2026-09-12 15:53:03] outreach: 훑은 글 중 제외: 주제 밖 16 · 차단어 16 · 광고·영업 12 · 자기 숫자 없음 10 · 너무 짧음 6",
     "[2026-09-12 15:53:03] outreach: 이번 회차 후보 19건 · 모델 호출 8건",
-    "[2026-09-12 15:53:03] outreach: 이번 실행 0건 · 오늘 누적 답글 0/10 · 팔로우 0/6"
+    "[2026-09-12 15:53:03] outreach: 이번 실행 0건 · 오늘 누적 답글 0/10 · 팔로우 0/6",
+    "[2026-09-12 16:17:33] digest 갱신: 팔로워 122 · 미답변 5건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 4 · !! followups: 워치독이 강제 종료한 판이 있다 — 드라이버 연결이 끊겼을 가능성",
+    "[2026-09-12 16:17:33] agent: 보류 유지 5건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_, @alexking39_). 다시 보려면 --recheck-all"
   ]
 }
