@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T22:19:18",
+  "generated_at": "2026-09-12T22:19:54",
   "username": "studiohaetae",
   "followers": 122,
   "followers_history": [
@@ -552,8 +552,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-09-12 21:13:43] outreach: 모델 호출 8건 도달 — 나머지는 다음 회차로",
-    "[2026-09-12 21:13:43] outreach: 훑은 글 중 제외: 주제 밖 31 · 자기 숫자 없음 11 · 너무 짧음 9 · 광고·영업 9 · 차단어 8",
     "[2026-09-12 21:13:43] outreach: 이번 회차 후보 16건 · 모델 호출 8건",
     "[2026-09-12 21:13:44] outreach: 이번 실행 0건 · 오늘 누적 답글 0/10 · 팔로우 0/6",
     "[2026-09-12 21:43:09] digest 갱신: 팔로워 122 · 미답변 5건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 7 · !! followups: 워치독이 강제 종료한 판이 있다 — 드라이버 연결이 끊겼을 가능성",
@@ -566,6 +564,8 @@
     "[2026-09-12 22:12:53] outreach: follow: 팔로우 @kim_jh8603 (팔로워 1,894명)",
     "[2026-09-12 22:14:05] outreach: follow: 팔로워 89명 @eunjin_j09 — 기준(500) 미달, 건너뜀",
     "[2026-09-12 22:14:05] outreach: follow: 팔로워 35명 @kyum_brothers — 기준(500) 미달, 건너뜀",
-    "[2026-09-12 22:14:06] outreach: follow: 이번 회차 2명 · 오늘 누적 9/20"
+    "[2026-09-12 22:14:06] outreach: follow: 이번 회차 2명 · 오늘 누적 9/20",
+    "[2026-09-12 22:19:54] digest 갱신: 팔로워 122 · 미답변 5건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 9 · !! followups: 워치독이 강제 종료한 판이 있다 — 드라이버 연결이 끊겼을 가능성",
+    "[2026-09-12 22:19:54] agent: 보류 유지 5건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_, @alexking39_). 다시 보려면 --recheck-all"
   ]
 }
