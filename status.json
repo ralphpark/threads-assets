@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T11:47:14",
+  "generated_at": "2026-09-13T13:25:33",
   "username": "studiohaetae",
   "followers": 122,
   "followers_history": [
@@ -325,7 +325,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Dc524grmCmD",
       "text": "유튜브 채널 11개를 API로 전수 확인했습니다.\n\n수익화 기준은 채널당 구독자 500명, 유효 시청시간 3,000시간입니다.\n\n11개를 다 합치면 구독자 591명, 시청시간 2,990시간입니다.\n구독자는 이미 넘겼",
-      "views": 262,
+      "views": 263,
       "likes": 1,
       "replies": 0
     },
@@ -336,7 +336,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Dc8br46mFWY",
       "text": "채널 11개를 28일 기준으로 합쳤습니다.\n조회수 68만 8천, 유효 시청시간 2,990시간입니다.\n\n나눠보면 조회 1회당 15.6초입니다.\n\n수익화 기준인 3,000시간을 이 비율로 채우려면 조회수가 69만 회 필",
-      "views": 95,
+      "views": 96,
       "likes": 2,
       "replies": 0
     },
@@ -347,7 +347,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Dc_Ae1mmC0d",
       "text": "같은 사람이 만든 채널 11개인데 전환율이 15배 차이 납니다.\n\n28일 실측입니다.\n제일 높은 채널은 조회 2만 8천에 구독 순증 101명. 0.35%입니다.\n제일 낮은 채널은 조회 8천에 구독 순증 2명. 0.0",
-      "views": 99,
+      "views": 101,
       "likes": 1,
       "replies": 5
     },
@@ -513,8 +513,8 @@
       }
     ],
     "last_run": {
-      "outreach": "2026-09-13T11:43",
-      "followups": "2026-09-13T11:20",
+      "outreach": "2026-09-13T13:12",
+      "followups": "2026-09-13T12:50",
       "follows": "2026-09-13T10:34"
     },
     "alerts": [
@@ -522,11 +522,11 @@
     ],
     "runs_today": {
       "outreach": {
-        "ran": 1,
+        "ran": 3,
         "missed": []
       },
       "followups": {
-        "ran": 2,
+        "ran": 3,
         "missed": []
       },
       "follows": {
@@ -552,20 +552,20 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-09-13 11:41:34] outreach: 검색: 유튜브 한달 → 이 화면 후보 2건 (누적 7)",
-    "[2026-09-13 11:41:49] outreach: skip @kyum_brothers — 모델 skip",
-    "[2026-09-13 11:41:56] outreach: skip @cozymall_5 — 모델 skip",
-    "[2026-09-13 11:42:18] outreach: 검색: 유튜브 구독자 → 이 화면 후보 3건 (누적 10)",
-    "[2026-09-13 11:42:24] outreach: skip @leepari — 모델 skip",
-    "[2026-09-13 11:42:24] outreach: 모델 호출 8건 도달 — 나머지는 다음 회차로",
-    "[2026-09-13 11:42:45] outreach: 검색: 유튜브 시작한지 → 이 화면 후보 5건 (누적 15)",
-    "[2026-09-13 11:42:46] outreach: 모델 호출 8건 도달 — 나머지는 다음 회차로",
-    "[2026-09-13 11:43:07] outreach: 검색: 구독자 1000명 → 이 화면 후보 6건 (누적 21)",
-    "[2026-09-13 11:43:08] outreach: 모델 호출 8건 도달 — 나머지는 다음 회차로",
-    "[2026-09-13 11:43:28] outreach: 검색: 채널 개설 → 이 화면 후보 4건 (누적 25)",
-    "[2026-09-13 11:43:29] outreach: 모델 호출 8건 도달 — 나머지는 다음 회차로",
-    "[2026-09-13 11:43:29] outreach: 훑은 글 중 제외: 주제 밖 23 · 자기 숫자 없음 13 · 너무 짧음 9 · 차단어 8 · 광고·영업 6 · 개인사 1",
-    "[2026-09-13 11:43:29] outreach: 이번 회차 후보 25건 · 모델 호출 8건",
-    "[2026-09-13 11:43:29] outreach: 이번 실행 0건 · 오늘 누적 답글 0/10 · 팔로우 0/6"
+    "[2026-09-13 13:10:47] outreach: skip @realtor.richardjeon — 모델 skip",
+    "[2026-09-13 13:10:51] outreach: skip @luminous_in_days — 모델 skip",
+    "[2026-09-13 13:10:54] outreach: skip @ddonyoon.ing — 모델 skip",
+    "[2026-09-13 13:11:15] outreach: 검색: 유튜브 알고리즘 → 이 화면 후보 0건 (누적 4)",
+    "[2026-09-13 13:11:36] outreach: 검색: 구독자 100명 → 이 화면 후보 4건 (누적 8)",
+    "[2026-09-13 13:11:41] outreach: skip @gangnamajju — 모델 skip",
+    "[2026-09-13 13:11:44] outreach: skip @top3gogo — 모델 skip",
+    "[2026-09-13 13:11:47] outreach: skip @edityou89 — 모델 skip",
+    "[2026-09-13 13:11:51] outreach: skip @zzaemine_kitchen — 모델 skip",
+    "[2026-09-13 13:12:11] outreach: 검색: 유튜브 수익 → 이 화면 후보 0건 (누적 8)",
+    "[2026-09-13 13:12:31] outreach: 검색: 구독자 안늘어 → 이 화면 후보 0건 (누적 8)",
+    "[2026-09-13 13:12:52] outreach: 검색: 숏폼 조회수 → 이 화면 후보 0건 (누적 8)",
+    "[2026-09-13 13:12:53] outreach: 훑은 글 중 제외: 주제 밖 30 · 자기 숫자 없음 13 · 너무 짧음 9 · 차단어 7 · 광고·영업 4",
+    "[2026-09-13 13:12:53] outreach: 이번 회차 후보 8건 · 모델 호출 8건",
+    "[2026-09-13 13:12:54] outreach: 이번 실행 0건 · 오늘 누적 답글 0/10 · 팔로우 0/6"
   ]
 }
