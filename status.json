@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T19:50:00",
+  "generated_at": "2026-09-13T21:50:34",
   "username": "studiohaetae",
   "followers": 121,
   "followers_history": [
@@ -513,8 +513,8 @@
       }
     ],
     "last_run": {
-      "outreach": "2026-09-13T18:32",
-      "followups": "2026-09-13T18:10",
+      "outreach": "2026-09-13T21:12",
+      "followups": "2026-09-13T20:50",
       "follows": "2026-09-13T19:41"
     },
     "alerts": [
@@ -523,11 +523,11 @@
     ],
     "runs_today": {
       "outreach": {
-        "ran": 5,
+        "ran": 6,
         "missed": []
       },
       "followups": {
-        "ran": 5,
+        "ran": 6,
         "missed": []
       },
       "follows": {
@@ -553,20 +553,20 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-09-13 19:29:20] agent: 자동 답글 0건 · 신규 판정 대상 없음",
-    "[2026-09-13 19:40:18] outreach: follow: 검색: 구독자 1000명",
-    "[2026-09-13 19:40:26] outreach: follow: 검색: 유튜브 한달",
-    "[2026-09-13 19:40:34] outreach: follow: 검색: 유튜브 시작한지",
-    "[2026-09-13 19:40:39] outreach: follow: 후보 계정 8명",
-    "[2026-09-13 19:41:16] outreach: follow: 프로필 8개 확인 — 팔로워 큰 순으로 진행",
-    "[2026-09-13 19:41:16] outreach: follow: 팔로워 295명 @kidu.31712 — 기준(500) 미달, 건너뜀",
-    "[2026-09-13 19:41:16] outreach: follow: 팔로워 139명 @seniorofsenior — 기준(500) 미달, 건너뜀",
-    "[2026-09-13 19:41:16] outreach: follow: 팔로워 71명 @hertz_holic — 기준(500) 미달, 건너뜀",
-    "[2026-09-13 19:41:16] outreach: follow: 팔로워 58명 @noljimalja — 기준(500) 미달, 건너뜀",
-    "[2026-09-13 19:41:16] outreach: follow: 팔로워 35명 @kyum_brothers — 기준(500) 미달, 건너뜀",
-    "[2026-09-13 19:41:16] outreach: follow: 팔로워 22명 @mongfrontyou — 기준(500) 미달, 건너뜀",
-    "[2026-09-13 19:41:16] outreach: follow: 팔로워 6명 @thisweek.yeoni_ — 기준(500) 미달, 건너뜀",
-    "[2026-09-13 19:41:16] outreach: follow: 팔로워 1명 @ai_youtube_1 — 기준(500) 미달, 건너뜀",
-    "[2026-09-13 19:41:16] outreach: follow: 이번 회차 0명 · 오늘 누적 7/20"
+    "[2026-09-13 21:10:35] outreach: 검색: 구독자 100명 → 이 화면 후보 2건 (누적 2)",
+    "[2026-09-13 21:10:38] outreach: skip @ajin.miya — 모델 skip",
+    "[2026-09-13 21:10:41] outreach: skip @jjong365 — 모델 skip",
+    "[2026-09-13 21:11:01] outreach: 검색: 유튜브 수익 → 이 화면 후보 2건 (누적 4)",
+    "[2026-09-13 21:11:05] outreach: skip @makepastdie — 모델 skip",
+    "[2026-09-13 21:11:07] outreach: skip @kmstax_official — 모델 skip",
+    "[2026-09-13 21:11:27] outreach: 검색: 구독자 안늘어 → 이 화면 후보 1건 (누적 5)",
+    "[2026-09-13 21:11:31] outreach: skip @chsi110 — 모델 skip",
+    "[2026-09-13 21:11:51] outreach: 검색: 숏폼 조회수 → 이 화면 후보 0건 (누적 5)",
+    "[2026-09-13 21:12:11] outreach: 검색: 조회수 1000회 → 이 화면 후보 0건 (누적 5)",
+    "[2026-09-13 21:12:32] outreach: 검색: 첫 영상 → 이 화면 후보 1건 (누적 6)",
+    "[2026-09-13 21:12:36] outreach: skip @aneuro_lab — 모델 skip",
+    "[2026-09-13 21:12:36] outreach: 훑은 글 중 제외: 주제 밖 29 · 너무 짧음 13 · 광고·영업 11 · 차단어 10 · 자기 숫자 없음 5",
+    "[2026-09-13 21:12:36] outreach: 이번 회차 후보 6건 · 모델 호출 6건",
+    "[2026-09-13 21:12:36] outreach: 이번 실행 0건 · 오늘 누적 답글 0/10 · 팔로우 0/6"
   ]
 }
