@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T13:47:52",
+  "generated_at": "2026-09-13T15:48:35",
   "username": "studiohaetae",
   "followers": 122,
   "followers_history": [
@@ -347,7 +347,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Dc_Ae1mmC0d",
       "text": "같은 사람이 만든 채널 11개인데 전환율이 15배 차이 납니다.\n\n28일 실측입니다.\n제일 높은 채널은 조회 2만 8천에 구독 순증 101명. 0.35%입니다.\n제일 낮은 채널은 조회 8천에 구독 순증 2명. 0.0",
-      "views": 101,
+      "views": 102,
       "likes": 1,
       "replies": 5
     },
@@ -459,7 +459,7 @@
     "today": {
       "replies": 0,
       "followups": 0,
-      "follows": 2
+      "follows": 5
     },
     "last7": [
       {
@@ -508,14 +508,14 @@
         "date": "2026-09-13",
         "replies": 0,
         "followups": 0,
-        "follows": 2,
+        "follows": 5,
         "followers": null
       }
     ],
     "last_run": {
       "outreach": "2026-09-13T13:12",
-      "followups": "2026-09-13T12:50",
-      "follows": "2026-09-13T10:34"
+      "followups": "2026-09-13T15:30",
+      "follows": "2026-09-13T14:35"
     },
     "alerts": [
       "followups: 워치독이 강제 종료한 판이 있다 — 드라이버 연결이 끊겼을 가능성"
@@ -526,11 +526,11 @@
         "missed": []
       },
       "followups": {
-        "ran": 3,
+        "ran": 4,
         "missed": []
       },
       "follows": {
-        "ran": 1,
+        "ran": 2,
         "missed": []
       }
     },
@@ -542,7 +542,7 @@
     },
     "follow_experiment": {
       "followers_delta_7d": 3,
-      "follows_7d": 84,
+      "follows_7d": 87,
       "replies_7d": 44,
       "note": "팔로우 대비 팔로워 증가. 답글과 섞여 있어 단독 인과는 못 본다"
     }
@@ -552,20 +552,20 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-09-13 13:11:36] outreach: 검색: 구독자 100명 → 이 화면 후보 4건 (누적 8)",
-    "[2026-09-13 13:11:41] outreach: skip @gangnamajju — 모델 skip",
-    "[2026-09-13 13:11:44] outreach: skip @top3gogo — 모델 skip",
-    "[2026-09-13 13:11:47] outreach: skip @edityou89 — 모델 skip",
-    "[2026-09-13 13:11:51] outreach: skip @zzaemine_kitchen — 모델 skip",
-    "[2026-09-13 13:12:11] outreach: 검색: 유튜브 수익 → 이 화면 후보 0건 (누적 8)",
-    "[2026-09-13 13:12:31] outreach: 검색: 구독자 안늘어 → 이 화면 후보 0건 (누적 8)",
-    "[2026-09-13 13:12:52] outreach: 검색: 숏폼 조회수 → 이 화면 후보 0건 (누적 8)",
-    "[2026-09-13 13:12:53] outreach: 훑은 글 중 제외: 주제 밖 30 · 자기 숫자 없음 13 · 너무 짧음 9 · 차단어 7 · 광고·영업 4",
-    "[2026-09-13 13:12:53] outreach: 이번 회차 후보 8건 · 모델 호출 8건",
-    "[2026-09-13 13:12:54] outreach: 이번 실행 0건 · 오늘 누적 답글 0/10 · 팔로우 0/6",
-    "[2026-09-13 13:26:17] digest 갱신: 팔로워 122 · 미답변 5건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 2 · !! followups: 워치독이 강제 종료한 판이 있다 — 드라이버 연결이 끊겼을 가능성",
-    "[2026-09-13 13:26:17] agent: 보류 유지 5건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_, @alexking39_). 다시 보려면 --recheck-all",
-    "[2026-09-13 13:27:02] digest 갱신: 팔로워 122 · 미답변 5건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 2 · !! followups: 워치독이 강제 종료한 판이 있다 — 드라이버 연결이 끊겼을 가능성",
-    "[2026-09-13 13:27:02] agent: 자동 답글 0건 · 신규 판정 대상 없음"
+    "[2026-09-13 14:30:26] outreach: follow: 검색: 구독자 100명",
+    "[2026-09-13 14:30:34] outreach: follow: 검색: 구독자 정체",
+    "[2026-09-13 14:30:39] outreach: follow: 후보 계정 8명",
+    "[2026-09-13 14:31:13] outreach: follow: 프로필 8개 확인 — 팔로워 큰 순으로 진행",
+    "[2026-09-13 14:31:19] outreach: follow: 팔로우 @wistar91 (팔로워 1,597명)",
+    "[2026-09-13 14:32:47] outreach: follow: 팔로우 @pink_woong (팔로워 1,295명)",
+    "[2026-09-13 14:33:52] outreach: follow: 팔로우 @lightdays_0920 (팔로워 979명)",
+    "[2026-09-13 14:35:04] outreach: follow: 팔로워 71명 @hertz_holic — 기준(500) 미달, 건너뜀",
+    "[2026-09-13 14:35:04] outreach: follow: 팔로워 58명 @noljimalja — 기준(500) 미달, 건너뜀",
+    "[2026-09-13 14:35:04] outreach: follow: 팔로워 35명 @kyum_brothers — 기준(500) 미달, 건너뜀",
+    "[2026-09-13 14:35:04] outreach: follow: 팔로워 22명 @mongfrontyou — 기준(500) 미달, 건너뜀",
+    "[2026-09-13 14:35:04] outreach: follow: 팔로워 10명 @repla_ynight — 기준(500) 미달, 건너뜀",
+    "[2026-09-13 14:35:04] outreach: follow: 이번 회차 3명 · 오늘 누적 5/20",
+    "[2026-09-13 15:30:18] outreach: followup: 계정 확인: @studiohaetae",
+    "[2026-09-13 15:30:33] outreach: followup: 되물음 후보 0건 (이미 답한 것 제외)"
   ]
 }
