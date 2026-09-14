@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T07:44:09",
+  "generated_at": "2026-09-15T08:01:59",
   "username": "studiohaetae",
   "followers": 122,
   "followers_history": [
@@ -552,8 +552,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-09-14 23:41:19] digest 갱신: 팔로워 122 · 미답변 5건 · 큐 0개 · 오늘 답글 10 · 되물음 0 · 팔로우 8 · !! followups: 워치독이 강제 종료한 판이 있다 — 드라이버 연결이 끊겼을 가능성",
-    "[2026-09-14 23:59:24] digest 갱신: 팔로워 120 · 미답변 5건 · 큐 0개 · 오늘 답글 10 · 되물음 0 · 팔로우 8 · !! followups: 워치독이 강제 종료한 판이 있다 — 드라이버 연결이 끊겼을 가능성",
     "[2026-09-15 01:41:10] digest 갱신: 팔로워 120 · 미답변 5건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 0 · !! followups: 워치독이 강제 종료한 판이 있다 — 드라이버 연결이 끊겼을 가능성",
     "[2026-09-15 01:41:10] agent: 보류 유지 5건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_, @alexking39_). 다시 보려면 --recheck-all",
     "[2026-09-15 01:42:03] digest 갱신: 팔로워 120 · 미답변 5건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 0 · !! followups: 워치독이 강제 종료한 판이 있다 — 드라이버 연결이 끊겼을 가능성",
@@ -566,6 +564,8 @@
     "[2026-09-15 04:43:32] agent: 자동 답글 0건 · 신규 판정 대상 없음",
     "[2026-09-15 06:02:00] digest 갱신: 팔로워 121 · 미답변 5건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 0 · !! followups: 워치독이 강제 종료한 판이 있다 — 드라이버 연결이 끊겼을 가능성",
     "[2026-09-15 07:44:09] digest 갱신: 팔로워 122 · 미답변 5건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 0 · !! followups: 워치독이 강제 종료한 판이 있다 — 드라이버 연결이 끊겼을 가능성",
-    "[2026-09-15 07:44:09] agent: 보류 유지 5건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_, @alexking39_). 다시 보려면 --recheck-all"
+    "[2026-09-15 07:44:09] agent: 보류 유지 5건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_, @alexking39_). 다시 보려면 --recheck-all",
+    "[2026-09-15 07:44:48] digest 갱신: 팔로워 122 · 미답변 5건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 0 · !! followups: 워치독이 강제 종료한 판이 있다 — 드라이버 연결이 끊겼을 가능성",
+    "[2026-09-15 07:44:48] agent: 자동 답글 0건 · 신규 판정 대상 없음"
   ]
 }
