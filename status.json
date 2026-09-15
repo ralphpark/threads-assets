@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T01:53:03",
+  "generated_at": "2026-09-16T02:09:38",
   "username": "studiohaetae",
   "followers": 126,
   "followers_history": [
@@ -552,8 +552,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-09-15 22:11:15] outreach: follow: 팔로워 24명 @mongfrontyou — 기준(500) 미달, 건너뜀",
-    "[2026-09-15 22:11:15] outreach: follow: 팔로워 2명 @365diet_cut — 기준(500) 미달, 건너뜀",
     "[2026-09-15 22:11:16] outreach: follow: 이번 회차 0명 · 오늘 누적 6/20",
     "[2026-09-15 22:51:34] digest 갱신: 팔로워 125 · 미답변 5건 · 큐 0개 · 오늘 답글 10 · 되물음 0 · 팔로우 12 · !! followups: 워치독이 강제 종료한 판이 있다 — 드라이버 연결이 끊겼을 가능성",
     "[2026-09-15 22:51:34] agent: 보류 유지 5건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_, @alexking39_). 다시 보려면 --recheck-all",
@@ -566,6 +564,8 @@
     "[2026-09-15 23:41:49] digest 갱신: 팔로워 125 · 미답변 5건 · 큐 0개 · 오늘 답글 10 · 되물음 0 · 팔로우 12 · !! followups: 워치독이 강제 종료한 판이 있다 — 드라이버 연결이 끊겼을 가능성",
     "[2026-09-16 00:09:37] digest 갱신: 팔로워 126 · 미답변 5건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 0 · !! followups: 워치독이 강제 종료한 판이 있다 — 드라이버 연결이 끊겼을 가능성",
     "[2026-09-16 01:53:02] digest 갱신: 팔로워 126 · 미답변 5건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 0 · !! followups: 워치독이 강제 종료한 판이 있다 — 드라이버 연결이 끊겼을 가능성",
-    "[2026-09-16 01:53:02] agent: 보류 유지 5건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_, @alexking39_). 다시 보려면 --recheck-all"
+    "[2026-09-16 01:53:02] agent: 보류 유지 5건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_, @alexking39_). 다시 보려면 --recheck-all",
+    "[2026-09-16 01:53:43] digest 갱신: 팔로워 126 · 미답변 5건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 0 · !! followups: 워치독이 강제 종료한 판이 있다 — 드라이버 연결이 끊겼을 가능성",
+    "[2026-09-16 01:53:43] agent: 자동 답글 0건 · 신규 판정 대상 없음"
   ]
 }
