@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T23:40:36",
+  "generated_at": "2026-09-17T00:18:14",
   "username": "studiohaetae",
   "followers": 128,
   "followers_history": [
@@ -347,7 +347,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Dc_Ae1mmC0d",
       "text": "같은 사람이 만든 채널 11개인데 전환율이 15배 차이 납니다.\n\n28일 실측입니다.\n제일 높은 채널은 조회 2만 8천에 구독 순증 101명. 0.35%입니다.\n제일 낮은 채널은 조회 8천에 구독 순증 2명. 0.0",
-      "views": 141,
+      "views": 142,
       "likes": 1,
       "replies": 5
     },
@@ -457,18 +457,11 @@
   ],
   "outreach": {
     "today": {
-      "replies": 8,
+      "replies": 0,
       "followups": 0,
-      "follows": 8
+      "follows": 0
     },
     "last7": [
-      {
-        "date": "2026-09-10",
-        "replies": 4,
-        "followups": 0,
-        "follows": 11,
-        "followers": 121
-      },
       {
         "date": "2026-09-11",
         "replies": 10,
@@ -510,6 +503,13 @@
         "followups": 0,
         "follows": 8,
         "followers": 128
+      },
+      {
+        "date": "2026-09-17",
+        "replies": 0,
+        "followups": 0,
+        "follows": 0,
+        "followers": null
       }
     ],
     "last_run": {
@@ -520,15 +520,15 @@
     "alerts": [],
     "runs_today": {
       "outreach": {
-        "ran": 6,
+        "ran": 0,
         "missed": []
       },
       "followups": {
-        "ran": 6,
+        "ran": 0,
         "missed": []
       },
       "follows": {
-        "ran": 5,
+        "ran": 0,
         "missed": []
       }
     },
@@ -540,8 +540,8 @@
     },
     "follow_experiment": {
       "followers_delta_7d": 7,
-      "follows_7d": 77,
-      "replies_7d": 42,
+      "follows_7d": 66,
+      "replies_7d": 38,
       "note": "팔로우 대비 팔로워 증가. 답글과 섞여 있어 단독 인과는 못 본다"
     }
   },
@@ -549,7 +549,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-09-16 22:11:02] outreach: follow: 프로필 4개 확인 — 팔로워 큰 순으로 진행",
     "[2026-09-16 22:11:02] outreach: follow: 팔로워 56명 @euneun45 — 기준(500) 미달, 건너뜀",
     "[2026-09-16 22:11:02] outreach: follow: 팔로워 35명 @kyum_brothers — 기준(500) 미달, 건너뜀",
     "[2026-09-16 22:11:02] outreach: follow: 팔로워 26명 @gomgombear78 — 기준(500) 미달, 건너뜀",
@@ -563,6 +562,7 @@
     "[2026-09-16 23:40:00] 스냅샷: {\"date\": \"2026-09-16\", \"at\": \"2026-09-16T23:40:00\", \"followers\": 128, \"views\": 925, \"likes\": 0, \"replies\": 0, \"reposts\": 0, \"quotes\": 0, \"clicks\": null}",
     "[2026-09-16 23:40:23] 답글 34건 수집 -> replies-2026-09-16.json",
     "[2026-09-16 23:40:36] refill: 경보: 큐 잔량 0편 (기준 3) · 대기 중인 초안 2편",
-    "[2026-09-16 23:40:36] refill: 초안이 있다. python3 refill.py drafts 로 보고 promote 해라."
+    "[2026-09-16 23:40:36] refill: 초안이 있다. python3 refill.py drafts 로 보고 promote 해라.",
+    "[2026-09-16 23:41:22] digest 갱신: 팔로워 128 · 미답변 5건 · 큐 0개 · 오늘 답글 8 · 되물음 0 · 팔로우 8"
   ]
 }
