@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T13:58:45",
+  "generated_at": "2026-09-16T13:59:37",
   "username": "studiohaetae",
   "followers": 127,
   "followers_history": [
@@ -549,8 +549,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-09-16 13:13:55] outreach: 답글 @ai.yeongseon",
-    "[2026-09-16 13:14:03] outreach: 팔로우 @ai.yeongseon",
     "[2026-09-16 13:19:11] outreach: 클릭 진입 실패 @champetre_official — 직접 로드로 한 번 시도한다",
     "[2026-09-16 13:19:15] outreach: URL 이 대상과 다르다 @champetre_official — 건너뜀",
     "[2026-09-16 13:20:30] outreach: 클릭 진입 실패 @lifrill_ — 직접 로드로 한 번 시도한다",
@@ -563,6 +561,8 @@
     "[2026-09-16 13:23:57] outreach: 팔로우 @finch.funky",
     "[2026-09-16 13:23:57] outreach: 훑은 글 중 제외: 자기 숫자 없음 17 · 주제 밖 14 · 차단어 13 · 너무 짧음 11 · 광고·영업 5",
     "[2026-09-16 13:23:57] outreach: 이번 회차 후보 9건 · 모델 호출 8건",
-    "[2026-09-16 13:23:57] outreach: 이번 실행 2건 · 오늘 누적 답글 6/10 · 팔로우 6/6"
+    "[2026-09-16 13:23:57] outreach: 이번 실행 2건 · 오늘 누적 답글 6/10 · 팔로우 6/6",
+    "[2026-09-16 13:59:36] digest 갱신: 팔로워 127 · 미답변 5건 · 큐 0개 · 오늘 답글 6 · 되물음 0 · 팔로우 7",
+    "[2026-09-16 13:59:36] agent: 보류 유지 5건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_, @alexking39_). 다시 보려면 --recheck-all"
   ]
 }
