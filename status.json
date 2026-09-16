@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T08:08:18",
+  "generated_at": "2026-09-17T08:09:04",
   "username": "studiohaetae",
   "followers": 128,
   "followers_history": [
@@ -549,8 +549,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-09-16 23:40:36] refill: 경보: 큐 잔량 0편 (기준 3) · 대기 중인 초안 2편",
-    "[2026-09-16 23:40:36] refill: 초안이 있다. python3 refill.py drafts 로 보고 promote 해라.",
     "[2026-09-16 23:41:22] digest 갱신: 팔로워 128 · 미답변 5건 · 큐 0개 · 오늘 답글 8 · 되물음 0 · 팔로우 8",
     "[2026-09-17 00:19:21] digest 갱신: 팔로워 128 · 미답변 5건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 0",
     "[2026-09-17 02:06:00] digest 갱신: 팔로워 128 · 미답변 5건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 0",
@@ -563,6 +561,8 @@
     "[2026-09-17 05:07:36] agent: 보류 유지 5건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_, @alexking39_). 다시 보려면 --recheck-all",
     "[2026-09-17 05:08:17] digest 갱신: 팔로워 128 · 미답변 5건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 0",
     "[2026-09-17 05:08:17] agent: 자동 답글 0건 · 신규 판정 대상 없음",
-    "[2026-09-17 06:21:57] digest 갱신: 팔로워 128 · 미답변 5건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 0"
+    "[2026-09-17 06:21:57] digest 갱신: 팔로워 128 · 미답변 5건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 0",
+    "[2026-09-17 08:09:04] digest 갱신: 팔로워 128 · 미답변 5건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 0",
+    "[2026-09-17 08:09:04] agent: 보류 유지 5건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_, @alexking39_). 다시 보려면 --recheck-all"
   ]
 }
