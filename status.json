@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T18:25:51",
+  "generated_at": "2026-09-17T20:14:26",
   "username": "studiohaetae",
   "followers": 128,
   "followers_history": [
@@ -347,7 +347,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Dc_Ae1mmC0d",
       "text": "같은 사람이 만든 채널 11개인데 전환율이 15배 차이 납니다.\n\n28일 실측입니다.\n제일 높은 채널은 조회 2만 8천에 구독 순증 101명. 0.35%입니다.\n제일 낮은 채널은 조회 8천에 구독 순증 2명. 0.0",
-      "views": 145,
+      "views": 146,
       "likes": 1,
       "replies": 5
     },
@@ -450,9 +450,9 @@
   ],
   "outreach": {
     "today": {
-      "replies": 0,
+      "replies": 2,
       "followups": 0,
-      "follows": 2
+      "follows": 5
     },
     "last7": [
       {
@@ -499,23 +499,23 @@
       },
       {
         "date": "2026-09-17",
-        "replies": 0,
+        "replies": 2,
         "followups": 0,
-        "follows": 2,
+        "follows": 5,
         "followers": null
       }
     ],
     "last_run": {
-      "outreach": "2026-09-17T15:52",
+      "outreach": "2026-09-17T18:37",
       "followups": "2026-09-17T18:10",
-      "follows": "2026-09-17T17:22"
+      "follows": "2026-09-17T19:43"
     },
     "alerts": [
       "follows: 워치독이 강제 종료한 판이 있다 — 드라이버 연결이 끊겼을 가능성"
     ],
     "runs_today": {
       "outreach": {
-        "ran": 4,
+        "ran": 5,
         "missed": []
       },
       "followups": {
@@ -523,7 +523,7 @@
         "missed": []
       },
       "follows": {
-        "ran": 2,
+        "ran": 3,
         "missed": [
           "10:30"
         ]
@@ -537,8 +537,8 @@
     },
     "follow_experiment": {
       "followers_delta_7d": 7,
-      "follows_7d": 68,
-      "replies_7d": 38,
+      "follows_7d": 71,
+      "replies_7d": 40,
       "note": "팔로우 대비 팔로워 증가. 답글과 섞여 있어 단독 인과는 못 본다"
     }
   },
@@ -547,20 +547,20 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-09-17 17:14:25] agent: 자동 답글 0건 · 신규 판정 대상 없음",
-    "[2026-09-17 17:20:15] outreach: follow: 검색: 유튜브 알고리즘",
-    "[2026-09-17 17:20:24] outreach: follow: 검색: 유튜브 3개월",
-    "[2026-09-17 17:20:37] outreach: follow: 검색: 구독자 안늘어",
-    "[2026-09-17 17:20:43] outreach: follow: 후보 계정 6명",
-    "[2026-09-17 17:21:07] outreach: follow: 프로필 6개 확인 — 팔로워 큰 순으로 진행",
-    "[2026-09-17 17:21:13] outreach: follow: 팔로우 @1minute._.health (팔로워 10,000명)",
-    "[2026-09-17 17:22:19] outreach: follow: 팔로워 275명 @chang_peluquero — 기준(500) 미달, 건너뜀",
-    "[2026-09-17 17:22:19] outreach: follow: 팔로워 102명 @00yoon00 — 기준(500) 미달, 건너뜀",
-    "[2026-09-17 17:22:19] outreach: follow: 팔로워 79명 @365diet_cut — 기준(500) 미달, 건너뜀",
-    "[2026-09-17 17:22:19] outreach: follow: 팔로워 56명 @euneun45 — 기준(500) 미달, 건너뜀",
-    "[2026-09-17 17:22:19] outreach: follow: 팔로워 7명 @studio.gbm — 기준(500) 미달, 건너뜀",
-    "[2026-09-17 17:22:19] outreach: follow: 이번 회차 1명 · 오늘 누적 2/20",
-    "[2026-09-17 18:10:07] outreach: followup: 계정 확인: @studiohaetae",
-    "[2026-09-17 18:10:16] outreach: followup: 되물음 후보 0건 (이미 답한 것 제외)"
+    "[2026-09-17 18:37:43] outreach: 이번 회차 후보 5건 · 모델 호출 3건",
+    "[2026-09-17 18:37:43] outreach: 이번 실행 2건 · 오늘 누적 답글 2/10 · 팔로우 2/6",
+    "[2026-09-17 19:40:18] outreach: follow: 검색: 구독자 100명",
+    "[2026-09-17 19:40:31] outreach: follow: 검색: 유튜브 수익",
+    "[2026-09-17 19:40:39] outreach: follow: 검색: 유튜브 3개월",
+    "[2026-09-17 19:40:44] outreach: follow: 후보 계정 7명",
+    "[2026-09-17 19:41:17] outreach: follow: 프로필 7개 확인 — 팔로워 큰 순으로 진행",
+    "[2026-09-17 19:41:23] outreach: follow: 팔로우 @aaoong (팔로워 7,763명)",
+    "[2026-09-17 19:42:11] outreach: follow: 팔로워 499명 @mikrokosmos_sowoozoo — 기준(500) 미달, 건너뜀",
+    "[2026-09-17 19:42:11] outreach: follow: 팔로워 105명 @00yoon00 — 기준(500) 미달, 건너뜀",
+    "[2026-09-17 19:42:11] outreach: follow: 팔로워 68명 @120.240.360 — 기준(500) 미달, 건너뜀",
+    "[2026-09-17 19:42:11] outreach: follow: 팔로워 42명 @lure._.bro — 기준(500) 미달, 건너뜀",
+    "[2026-09-17 19:42:11] outreach: follow: 팔로워 26명 @blackknight1966 — 기준(500) 미달, 건너뜀",
+    "[2026-09-17 19:42:11] outreach: follow: 팔로워 14명 @ovio.medi — 기준(500) 미달, 건너뜀",
+    "[2026-09-17 19:43:32] outreach: follow: 이번 회차 1명 · 오늘 누적 3/20"
   ]
 }
