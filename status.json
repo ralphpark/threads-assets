@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T02:17:29",
+  "generated_at": "2026-09-18T02:18:19",
   "username": "studiohaetae",
   "followers": 129,
   "followers_history": [
@@ -542,10 +542,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-09-18 02:12:07] outreach: 검색: 애드센스 승인 → 이 화면 후보 0건 (누적 0)",
-    "[2026-09-18 02:12:29] outreach: 검색: 구독자 정체 → 이 화면 후보 2건 (누적 2)",
-    "[2026-09-18 02:12:55] outreach: DRY @1minute._.health: 3개 영상으로 7일 만에 4,000시간이면, 저희 채널 11개 중 28일 시청시간이 가장 높은 채널(538시",
-    "[2026-09-18 02:13:32] outreach: DRY @fik_wellness: 구독자 10명에 조회수 300회면 비율로 3.3%입니다. 저희는 채널 11개를 합쳐도 조회 78만에 구독 전",
     "[2026-09-18 02:13:32] outreach: 훑은 글 중 제외: 주제 밖 5 · 너무 짧음 4 · 차단어 3 · 자기 숫자 없음 2 · 개인사 1 · 광고·영업 1",
     "[2026-09-18 02:13:32] outreach: 이번 회차 후보 2건 · 모델 호출 2건",
     "[2026-09-18 02:13:33] outreach: 이번 실행 2건 · 오늘 누적 답글 0/10 · 팔로우 0/6",
@@ -556,6 +552,10 @@
     "[2026-09-18 02:16:43] outreach: follow: 후보 계정 5명",
     "[2026-09-18 02:17:06] outreach: follow: 프로필 5개 확인 — 팔로워 큰 순으로 진행",
     "[2026-09-18 02:17:06] outreach: follow: 이번 회차 4명 · 오늘 누적 0/20",
-    "[2026-09-18 02:17:35] outreach: followup: 크롬 실행 실패: name 'B' is not defined"
+    "[2026-09-18 02:17:35] outreach: followup: 크롬 실행 실패: name 'B' is not defined",
+    "[2026-09-18 02:18:19] digest 갱신: 팔로워 129 · 미답변 4건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 0",
+    "[2026-09-18 02:18:19] agent: 보류 유지 4건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_). 다시 보려면 --recheck-all",
+    "[2026-09-18 02:18:53] outreach: followup: 계정 확인: @studiohaetae",
+    "[2026-09-18 02:19:01] outreach: followup: 되물음 후보 2건 (이미 답한 것 제외)"
   ]
 }
