@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-18T04:29:59",
+  "generated_at": "2026-09-18T05:19:10",
   "username": "studiohaetae",
-  "followers": 129,
+  "followers": 130,
   "followers_history": [
     {
       "date": "2026-09-04",
@@ -542,7 +542,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-09-18 02:16:38] outreach: follow: 검색: 유튜브 구독자",
     "[2026-09-18 02:16:43] outreach: follow: 후보 계정 5명",
     "[2026-09-18 02:17:06] outreach: follow: 프로필 5개 확인 — 팔로워 큰 순으로 진행",
     "[2026-09-18 02:17:06] outreach: follow: 이번 회차 4명 · 오늘 누적 0/20",
@@ -556,6 +555,7 @@
     "[2026-09-18 02:19:16] outreach: followup: 모달이 안 열림 @alexking39_ — 건너뜀",
     "[2026-09-18 02:19:31] outreach: followup: 모달이 안 열림 @alexking39_ — 건너뜀",
     "[2026-09-18 02:19:31] outreach: followup: 이번 실행 0건",
-    "[2026-09-18 02:29:59] digest 갱신: 팔로워 129 · 미답변 4건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 0"
+    "[2026-09-18 02:29:59] digest 갱신: 팔로워 129 · 미답변 4건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 0",
+    "[2026-09-18 04:30:44] digest 갱신: 팔로워 129 · 미답변 4건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 0"
   ]
 }
