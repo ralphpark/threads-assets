@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T20:15:11",
+  "generated_at": "2026-09-17T20:26:33",
   "username": "studiohaetae",
   "followers": 128,
   "followers_history": [
@@ -547,11 +547,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-09-17 19:40:18] outreach: follow: 검색: 구독자 100명",
-    "[2026-09-17 19:40:31] outreach: follow: 검색: 유튜브 수익",
-    "[2026-09-17 19:40:39] outreach: follow: 검색: 유튜브 3개월",
-    "[2026-09-17 19:40:44] outreach: follow: 후보 계정 7명",
-    "[2026-09-17 19:41:17] outreach: follow: 프로필 7개 확인 — 팔로워 큰 순으로 진행",
     "[2026-09-17 19:41:23] outreach: follow: 팔로우 @aaoong (팔로워 7,763명)",
     "[2026-09-17 19:42:11] outreach: follow: 팔로워 499명 @mikrokosmos_sowoozoo — 기준(500) 미달, 건너뜀",
     "[2026-09-17 19:42:11] outreach: follow: 팔로워 105명 @00yoon00 — 기준(500) 미달, 건너뜀",
@@ -561,6 +556,11 @@
     "[2026-09-17 19:42:11] outreach: follow: 팔로워 14명 @ovio.medi — 기준(500) 미달, 건너뜀",
     "[2026-09-17 19:43:32] outreach: follow: 이번 회차 1명 · 오늘 누적 3/20",
     "[2026-09-17 20:15:11] digest 갱신: 팔로워 128 · 미답변 4건 · 큐 0개 · 오늘 답글 2 · 되물음 0 · 팔로우 5 · !! follows: 워치독이 강제 종료한 판이 있다 — 드라이버 연결이 끊겼을 가능성",
-    "[2026-09-17 20:15:11] agent: 보류 유지 4건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_). 다시 보려면 --recheck-all"
+    "[2026-09-17 20:15:11] agent: 보류 유지 4건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_). 다시 보려면 --recheck-all",
+    "[2026-09-17 20:15:52] digest 갱신: 팔로워 128 · 미답변 4건 · 큐 0개 · 오늘 답글 2 · 되물음 0 · 팔로우 5 · !! follows: 워치독이 강제 종료한 판이 있다 — 드라이버 연결이 끊겼을 가능성",
+    "[2026-09-17 20:15:52] agent: 자동 답글 0건 · 신규 판정 대상 없음",
+    "[2026-09-17 20:26:12] outreach: 계정 확인: @studiohaetae (ego lite)",
+    "[2026-09-17 20:26:33] outreach: 검색: 유튜브 구독자 → 훑은 글 13건, 후보 4건",
+    "[2026-09-17 20:27:04] outreach: skip @2sd.midlife.homefit — 다이어트/운동 책·프로그램 홍보 글이다. '유튜브 구독자 22만 명'은 저자 권위를 세우는 스펙 나열일 뿐 조회수·구독자 성장"
   ]
 }
