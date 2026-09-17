@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T10:22:51",
+  "generated_at": "2026-09-17T11:09:52",
   "username": "studiohaetae",
   "followers": 128,
   "followers_history": [
@@ -515,9 +515,11 @@
     "last_run": {
       "outreach": "2026-09-17T09:23",
       "followups": "2026-09-17T09:00",
-      "follows": "2026-09-16T22:11"
+      "follows": "2026-09-17T10:45"
     },
-    "alerts": [],
+    "alerts": [
+      "follows: 워치독이 강제 종료한 판이 있다 — 드라이버 연결이 끊겼을 가능성"
+    ],
     "runs_today": {
       "outreach": {
         "ran": 1,
@@ -529,7 +531,9 @@
       },
       "follows": {
         "ran": 0,
-        "missed": []
+        "missed": [
+          "10:30"
+        ]
       }
     },
     "cooldown": {
@@ -545,12 +549,11 @@
       "note": "팔로우 대비 팔로워 증가. 답글과 섞여 있어 단독 인과는 못 본다"
     }
   },
+  "outreach_alert": "follows: 워치독이 강제 종료한 판이 있다 — 드라이버 연결이 끊겼을 가능성",
   "errors": {
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-09-17 09:21:10] outreach: 검색: 채널 개설 → 이 화면 후보 3건 (누적 6)",
-    "[2026-09-17 09:21:15] outreach: skip @super_yang_2 — 모델 skip",
     "[2026-09-17 09:21:19] outreach: skip @lee_3_home — 모델 skip",
     "[2026-09-17 09:21:23] outreach: skip @ssulje — 모델 skip",
     "[2026-09-17 09:21:48] outreach: 검색: 유튜브 3개월 → 이 화면 후보 1건 (누적 7)",
@@ -563,6 +566,8 @@
     "[2026-09-17 09:23:00] outreach: 모델 호출 8건 도달 — 나머지는 다음 회차로",
     "[2026-09-17 09:23:00] outreach: 훑은 글 중 제외: 자기 숫자 없음 19 · 차단어 15 · 광고·영업 13 · 주제 밖 12 · 너무 짧음 12",
     "[2026-09-17 09:23:00] outreach: 이번 회차 후보 12건 · 모델 호출 8건",
-    "[2026-09-17 09:23:01] outreach: 이번 실행 0건 · 오늘 누적 답글 0/10 · 팔로우 0/6"
+    "[2026-09-17 09:23:01] outreach: 이번 실행 0건 · 오늘 누적 답글 0/10 · 팔로우 0/6",
+    "[2026-09-17 10:23:30] digest 갱신: 팔로워 128 · 미답변 5건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 0",
+    "[2026-09-17 10:45:00] outreach: follow: follow: 900초 초과 — 강제 종료한다 (매달린 판이 다음 회차를 막는다)"
   ]
 }
