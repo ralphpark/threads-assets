@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T04:39:32",
+  "generated_at": "2026-09-19T05:31:27",
   "username": "studiohaetae",
   "followers": 130,
   "followers_history": [
@@ -545,7 +545,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-09-18 23:29:19] digest 갱신: 팔로워 130 · 미답변 4건 · 큐 0개 · 오늘 답글 10 · 되물음 0 · 팔로우 10 · !! follows: 워치독이 강제 종료한 판이 있다 — 드라이버 연결이 끊겼을 가능성",
     "[2026-09-18 23:29:19] agent: 보류 유지 4건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_). 다시 보려면 --recheck-all",
     "[2026-09-18 23:30:10] digest 갱신: 팔로워 130 · 미답변 4건 · 큐 0개 · 오늘 답글 10 · 되물음 0 · 팔로우 10 · !! follows: 워치독이 강제 종료한 판이 있다 — 드라이버 연결이 끊겼을 가능성",
     "[2026-09-18 23:30:10] agent: 자동 답글 0건 · 신규 판정 대상 없음",
@@ -559,6 +558,7 @@
     "[2026-09-19 02:30:49] agent: 보류 유지 4건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_). 다시 보려면 --recheck-all",
     "[2026-09-19 02:31:26] digest 갱신: 팔로워 130 · 미답변 4건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 0 · !! follows: 워치독이 강제 종료한 판이 있다 — 드라이버 연결이 끊겼을 가능성",
     "[2026-09-19 02:31:26] agent: 자동 답글 0건 · 신규 판정 대상 없음",
-    "[2026-09-19 02:39:31] digest 갱신: 팔로워 130 · 미답변 4건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 0 · !! follows: 워치독이 강제 종료한 판이 있다 — 드라이버 연결이 끊겼을 가능성"
+    "[2026-09-19 02:39:31] digest 갱신: 팔로워 130 · 미답변 4건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 0 · !! follows: 워치독이 강제 종료한 판이 있다 — 드라이버 연결이 끊겼을 가능성",
+    "[2026-09-19 04:40:17] digest 갱신: 팔로워 130 · 미답변 4건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 0 · !! follows: 워치독이 강제 종료한 판이 있다 — 드라이버 연결이 끊겼을 가능성"
   ]
 }
