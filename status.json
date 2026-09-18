@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T12:33:18",
+  "generated_at": "2026-09-18T14:24:12",
   "username": "studiohaetae",
   "followers": 131,
   "followers_history": [
@@ -336,7 +336,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Dc8br46mFWY",
       "text": "채널 11개를 28일 기준으로 합쳤습니다.\n조회수 68만 8천, 유효 시청시간 2,990시간입니다.\n\n나눠보면 조회 1회당 15.6초입니다.\n\n수익화 기준인 3,000시간을 이 비율로 채우려면 조회수가 69만 회 필",
-      "views": 133,
+      "views": 134,
       "likes": 2,
       "replies": 0
     },
@@ -347,7 +347,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Dc_Ae1mmC0d",
       "text": "같은 사람이 만든 채널 11개인데 전환율이 15배 차이 납니다.\n\n28일 실측입니다.\n제일 높은 채널은 조회 2만 8천에 구독 순증 101명. 0.35%입니다.\n제일 낮은 채널은 조회 8천에 구독 순증 2명. 0.0",
-      "views": 156,
+      "views": 157,
       "likes": 1,
       "replies": 5
     },
@@ -450,9 +450,9 @@
   ],
   "outreach": {
     "today": {
-      "replies": 2,
+      "replies": 4,
       "followups": 0,
-      "follows": 2
+      "follows": 4
     },
     "last7": [
       {
@@ -499,15 +499,15 @@
       },
       {
         "date": "2026-09-18",
-        "replies": 2,
+        "replies": 4,
         "followups": 0,
-        "follows": 2,
+        "follows": 4,
         "followers": null
       }
     ],
     "last_run": {
-      "outreach": "2026-09-18T11:48",
-      "followups": "2026-09-18T11:21",
+      "outreach": "2026-09-18T13:19",
+      "followups": "2026-09-18T12:50",
       "follows": "2026-09-18T10:45"
     },
     "alerts": [
@@ -515,11 +515,11 @@
     ],
     "runs_today": {
       "outreach": {
-        "ran": 2,
+        "ran": 3,
         "missed": []
       },
       "followups": {
-        "ran": 2,
+        "ran": 3,
         "missed": []
       },
       "follows": {
@@ -535,8 +535,8 @@
     },
     "follow_experiment": {
       "followers_delta_7d": 7,
-      "follows_7d": 59,
-      "replies_7d": 33,
+      "follows_7d": 61,
+      "replies_7d": 35,
       "note": "팔로우 대비 팔로워 증가. 답글과 섞여 있어 단독 인과는 못 본다"
     }
   },
@@ -545,20 +545,20 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-09-18 11:24:11] digest 갱신: 팔로워 131 · 미답변 4건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 0 · !! follows: 워치독이 강제 종료한 판이 있다 — 드라이버 연결이 끊겼을 가능성",
-    "[2026-09-18 11:24:11] agent: 자동 답글 0건 · 신규 판정 대상 없음",
-    "[2026-09-18 11:40:28] outreach: 계정 확인: @studiohaetae",
-    "[2026-09-18 11:40:57] outreach: 검색: 애드센스 승인 → 이 화면 후보 0건 (누적 0)",
-    "[2026-09-18 11:41:29] outreach: 검색: 구독자 정체 → 이 화면 후보 6건 (누적 6)",
-    "[2026-09-18 11:42:29] outreach: 대상 확인: @special___kick (원글 본문 일치)",
-    "[2026-09-18 11:42:42] outreach: 답글 @special___kick",
-    "[2026-09-18 11:42:58] outreach: 팔로우 @special___kick",
-    "[2026-09-18 11:46:43] outreach: skip @fandom_doo — 핵심 정리+리포스트 유도형 요약 게시물이고, 언급된 숫자(구독자 438만·매출 2,500억)가 작성자 본인이 아니라 홀모지 개",
-    "[2026-09-18 11:48:22] outreach: 대상 확인: @junjunjunnov (원글 본문 일치)",
-    "[2026-09-18 11:48:35] outreach: 답글 @junjunjunnov",
-    "[2026-09-18 11:48:49] outreach: 팔로우 @junjunjunnov",
-    "[2026-09-18 11:48:49] outreach: 훑은 글 중 제외: 주제 밖 9 · 너무 짧음 4 · 광고·영업 3 · 자기 숫자 없음 1",
-    "[2026-09-18 11:48:49] outreach: 이번 회차 후보 6건 · 모델 호출 3건",
-    "[2026-09-18 11:48:49] outreach: 이번 실행 2건 · 오늘 누적 답글 2/10 · 팔로우 2/6"
+    "[2026-09-18 13:10:20] outreach: 계정 확인: @studiohaetae",
+    "[2026-09-18 13:10:46] outreach: 검색: 구독자 1000명 → 이 화면 후보 0건 (누적 0)",
+    "[2026-09-18 13:11:13] outreach: 검색: 채널 개설 → 이 화면 후보 0건 (누적 0)",
+    "[2026-09-18 13:11:41] outreach: 검색: 유튜브 3개월 → 이 화면 후보 0건 (누적 0)",
+    "[2026-09-18 13:12:09] outreach: 검색: 유튜브 알고리즘 → 이 화면 후보 0건 (누적 0)",
+    "[2026-09-18 13:12:37] outreach: 검색: 구독자 100명 → 이 화면 후보 7건 (누적 7)",
+    "[2026-09-18 13:13:43] outreach: 대상 확인: @dodolhee (원글 본문 일치)",
+    "[2026-09-18 13:13:57] outreach: 답글 @dodolhee",
+    "[2026-09-18 13:14:09] outreach: 팔로우 @dodolhee",
+    "[2026-09-18 13:19:15] outreach: 대상 확인: @yeon_essay_ (원글 본문 일치)",
+    "[2026-09-18 13:19:28] outreach: 답글 @yeon_essay_",
+    "[2026-09-18 13:19:43] outreach: 팔로우 @yeon_essay_",
+    "[2026-09-18 13:19:43] outreach: 훑은 글 중 제외: 자기 숫자 없음 15 · 차단어 15 · 너무 짧음 10 · 광고·영업 10 · 주제 밖 8",
+    "[2026-09-18 13:19:43] outreach: 이번 회차 후보 7건 · 모델 호출 2건",
+    "[2026-09-18 13:19:43] outreach: 이번 실행 2건 · 오늘 누적 답글 4/10 · 팔로우 4/6"
   ]
 }
