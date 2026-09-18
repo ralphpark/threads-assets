@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-18T08:31:50",
+  "generated_at": "2026-09-18T10:32:30",
   "username": "studiohaetae",
-  "followers": 130,
+  "followers": 131,
   "followers_history": [
     {
       "date": "2026-09-04",
@@ -347,7 +347,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Dc_Ae1mmC0d",
       "text": "같은 사람이 만든 채널 11개인데 전환율이 15배 차이 납니다.\n\n28일 실측입니다.\n제일 높은 채널은 조회 2만 8천에 구독 순증 101명. 0.35%입니다.\n제일 낮은 채널은 조회 8천에 구독 순증 2명. 0.0",
-      "views": 151,
+      "views": 152,
       "likes": 1,
       "replies": 5
     },
@@ -506,18 +506,18 @@
       }
     ],
     "last_run": {
-      "outreach": "2026-09-17T21:17",
-      "followups": "2026-09-17T20:50",
-      "follows": "2026-09-17T22:15"
+      "outreach": "2026-09-18T09:20",
+      "followups": "2026-09-18T09:00",
+      "follows": "2026-09-18T10:30"
     },
     "alerts": [],
     "runs_today": {
       "outreach": {
-        "ran": 0,
+        "ran": 1,
         "missed": []
       },
       "followups": {
-        "ran": 0,
+        "ran": 1,
         "missed": []
       },
       "follows": {
@@ -542,20 +542,20 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-09-18 02:19:09] agent: 자동 답글 0건 · 신규 판정 대상 없음",
-    "[2026-09-18 02:19:16] outreach: followup: 모달이 안 열림 @alexking39_ — 건너뜀",
-    "[2026-09-18 02:19:31] outreach: followup: 모달이 안 열림 @alexking39_ — 건너뜀",
-    "[2026-09-18 02:19:31] outreach: followup: 이번 실행 0건",
-    "[2026-09-18 02:29:59] digest 갱신: 팔로워 129 · 미답변 4건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 0",
-    "[2026-09-18 04:30:44] digest 갱신: 팔로워 129 · 미답변 4건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 0",
-    "[2026-09-18 05:20:09] digest 갱신: 팔로워 130 · 미답변 4건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 0",
-    "[2026-09-18 05:20:09] agent: 보류 유지 4건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_). 다시 보려면 --recheck-all",
-    "[2026-09-18 05:21:00] digest 갱신: 팔로워 130 · 미답변 4건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 0",
-    "[2026-09-18 05:21:00] agent: 자동 답글 0건 · 신규 판정 대상 없음",
-    "[2026-09-18 06:31:49] digest 갱신: 팔로워 130 · 미답변 4건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 0",
-    "[2026-09-18 08:21:50] digest 갱신: 팔로워 130 · 미답변 4건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 0",
-    "[2026-09-18 08:21:50] agent: 보류 유지 4건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_). 다시 보려면 --recheck-all",
-    "[2026-09-18 08:22:37] digest 갱신: 팔로워 130 · 미답변 4건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 0",
-    "[2026-09-18 08:22:37] agent: 자동 답글 0건 · 신규 판정 대상 없음"
+    "[2026-09-18 09:00:42] outreach: followup: 모달이 안 열림 @alexking39_ — 건너뜀",
+    "[2026-09-18 09:00:59] outreach: followup: 모달이 안 열림 @alexking39_ — 건너뜀",
+    "[2026-09-18 09:00:59] outreach: followup: 이번 실행 0건",
+    "[2026-09-18 09:20:01] outreach: 크롬 실행 실패: name 'B' is not defined",
+    "[2026-09-18 10:03:57] outreach: 계정 확인: @studiohaetae",
+    "[2026-09-18 10:04:23] outreach: 검색: 애드센스 승인 → 이 화면 후보 0건 (누적 0)",
+    "[2026-09-18 10:05:03] outreach: 검색: 구독자 정체 → 이 화면 후보 6건 (누적 6)",
+    "[2026-09-18 10:05:36] outreach: skip @fandom_doo — 사업 조언 콘텐츠를 정리해 리포스트를 유도하는 글이다. 알렉스 하모지의 매출·구독자 수치는 있지만 조회수 등 비율을 만들 상대",
+    "[2026-09-18 10:06:13] outreach: DRY @sayhoeveryone: 영어 채널 6600명, 한국어 채널 30명이면 같은 사람이 운영해도 220배 차이네요. 저희도 채널 11개를",
+    "[2026-09-18 10:06:47] outreach: DRY @1minute._.health: 채널 11개를 다 합쳐도 28일 시청시간이 2,722시간입니다. 영상 3개로 7일 만에 4,000시간이면 저",
+    "[2026-09-18 10:06:47] outreach: 훑은 글 중 제외: 자기 숫자 없음 19 · 주제 밖 4 · 너무 짧음 3 · 광고·영업 1",
+    "[2026-09-18 10:06:47] outreach: 이번 회차 후보 6건 · 모델 호출 3건",
+    "[2026-09-18 10:06:47] outreach: 이번 실행 2건 · 오늘 누적 답글 0/10 · 팔로우 0/6",
+    "[2026-09-18 10:30:16] outreach: follow: 검색: 구독자 1000명",
+    "[2026-09-18 10:30:32] outreach: follow: 검색: 유튜브 구독자"
   ]
 }
