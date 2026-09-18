@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T11:22:40",
+  "generated_at": "2026-09-18T11:23:27",
   "username": "studiohaetae",
   "followers": 131,
   "followers_history": [
@@ -545,8 +545,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-09-18 10:05:36] outreach: skip @fandom_doo — 사업 조언 콘텐츠를 정리해 리포스트를 유도하는 글이다. 알렉스 하모지의 매출·구독자 수치는 있지만 조회수 등 비율을 만들 상대",
-    "[2026-09-18 10:06:13] outreach: DRY @sayhoeveryone: 영어 채널 6600명, 한국어 채널 30명이면 같은 사람이 운영해도 220배 차이네요. 저희도 채널 11개를",
     "[2026-09-18 10:06:47] outreach: DRY @1minute._.health: 채널 11개를 다 합쳐도 28일 시청시간이 2,722시간입니다. 영상 3개로 7일 만에 4,000시간이면 저",
     "[2026-09-18 10:06:47] outreach: 훑은 글 중 제외: 자기 숫자 없음 19 · 주제 밖 4 · 너무 짧음 3 · 광고·영업 1",
     "[2026-09-18 10:06:47] outreach: 이번 회차 후보 6건 · 모델 호출 3건",
@@ -559,6 +557,8 @@
     "[2026-09-18 11:20:30] outreach: followup: 되물음 후보 2건 (이미 답한 것 제외)",
     "[2026-09-18 11:20:49] outreach: followup: 모달이 안 열림 @alexking39_ — 건너뜀",
     "[2026-09-18 11:21:09] outreach: followup: 모달이 안 열림 @alexking39_ — 건너뜀",
-    "[2026-09-18 11:21:09] outreach: followup: 이번 실행 0건"
+    "[2026-09-18 11:21:09] outreach: followup: 이번 실행 0건",
+    "[2026-09-18 11:23:26] digest 갱신: 팔로워 131 · 미답변 4건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 0 · !! follows: 워치독이 강제 종료한 판이 있다 — 드라이버 연결이 끊겼을 가능성",
+    "[2026-09-18 11:23:26] agent: 보류 유지 4건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_). 다시 보려면 --recheck-all"
   ]
 }
