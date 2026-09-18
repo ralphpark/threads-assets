@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T20:27:48",
+  "generated_at": "2026-09-18T20:36:49",
   "username": "studiohaetae",
   "followers": 131,
   "followers_history": [
@@ -545,9 +545,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-09-18 18:34:08] outreach: 대상 확인: @electerior7 (원글 본문 일치)",
-    "[2026-09-18 18:34:22] outreach: 답글 @electerior7",
-    "[2026-09-18 18:36:49] digest 갱신: 팔로워 131 · 미답변 4건 · 큐 0개 · 오늘 답글 7 · 되물음 0 · 팔로우 9 · !! follows: 워치독이 강제 종료한 판이 있다 — 드라이버 연결이 끊겼을 가능성",
     "[2026-09-18 18:40:31] outreach: 대상 확인: @nicebop1",
     "[2026-09-18 18:40:42] outreach: 답글 @nicebop1",
     "[2026-09-18 18:40:42] outreach: 훑은 글 중 제외: 자기 숫자 없음 9 · 주제 밖 7 · 너무 짧음 6 · 광고·영업 6 · 차단어 5",
@@ -559,6 +556,9 @@
     "[2026-09-18 19:40:47] outreach: follow: 후보 계정 10명",
     "[2026-09-18 19:41:23] outreach: follow: 프로필 직접 로드가 막혔다(@gomgombear78) — 이 회차만 접는다. 답글 경로는 건드리지 않는다",
     "[2026-09-18 20:27:47] digest 갱신: 팔로워 131 · 미답변 4건 · 큐 0개 · 오늘 답글 8 · 되물음 0 · 팔로우 9 · !! follows: 워치독이 강제 종료한 판이 있다 — 드라이버 연결이 끊겼을 가능성",
-    "[2026-09-18 20:27:47] agent: 보류 유지 4건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_). 다시 보려면 --recheck-all"
+    "[2026-09-18 20:27:47] agent: 보류 유지 4건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_). 다시 보려면 --recheck-all",
+    "[2026-09-18 20:28:27] digest 갱신: 팔로워 131 · 미답변 4건 · 큐 0개 · 오늘 답글 8 · 되물음 0 · 팔로우 9 · !! follows: 워치독이 강제 종료한 판이 있다 — 드라이버 연결이 끊겼을 가능성",
+    "[2026-09-18 20:28:27] agent: 자동 답글 0건 · 신규 판정 대상 없음",
+    "[2026-09-18 20:30:00] 큐가 비었다. 게시하지 않음."
   ]
 }
