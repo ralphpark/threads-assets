@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T16:35:04",
+  "generated_at": "2026-09-18T17:25:41",
   "username": "studiohaetae",
   "followers": 131,
   "followers_history": [
@@ -347,7 +347,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Dc_Ae1mmC0d",
       "text": "같은 사람이 만든 채널 11개인데 전환율이 15배 차이 납니다.\n\n28일 실측입니다.\n제일 높은 채널은 조회 2만 8천에 구독 순증 101명. 0.35%입니다.\n제일 낮은 채널은 조회 8천에 구독 순증 2명. 0.0",
-      "views": 160,
+      "views": 161,
       "likes": 1,
       "replies": 5
     },
@@ -452,7 +452,7 @@
     "today": {
       "replies": 6,
       "followups": 0,
-      "follows": 7
+      "follows": 9
     },
     "last7": [
       {
@@ -501,14 +501,14 @@
         "date": "2026-09-18",
         "replies": 6,
         "followups": 0,
-        "follows": 7,
+        "follows": 9,
         "followers": null
       }
     ],
     "last_run": {
       "outreach": "2026-09-18T16:02",
       "followups": "2026-09-18T15:30",
-      "follows": "2026-09-18T14:32"
+      "follows": "2026-09-18T17:24"
     },
     "alerts": [
       "follows: 워치독이 강제 종료한 판이 있다 — 드라이버 연결이 끊겼을 가능성"
@@ -535,7 +535,7 @@
     },
     "follow_experiment": {
       "followers_delta_7d": 7,
-      "follows_7d": 64,
+      "follows_7d": 66,
       "replies_7d": 37,
       "note": "팔로우 대비 팔로워 증가. 답글과 섞여 있어 단독 인과는 못 본다"
     }
@@ -545,20 +545,20 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-09-18 15:52:33] outreach: skip @esther8212 — 구독 요청 홍보글이고 상대가 제시한 실측 숫자가 없어 비율을 계산해 얹을 근거가 없음",
-    "[2026-09-18 15:54:06] outreach: 대상 확인: @lemont_english (원글 본문 일치)",
-    "[2026-09-18 15:54:17] outreach: 답글 @lemont_english",
-    "[2026-09-18 15:54:30] outreach: 팔로우 @lemont_english",
-    "[2026-09-18 15:59:19] outreach: 클릭 진입 실패 @iris___shorts — 직접 로드로 한 번 시도한다",
-    "[2026-09-18 15:59:24] outreach: URL 이 대상과 다르다 @iris___shorts — 건너뜀",
-    "[2026-09-18 15:59:49] outreach: 검색: 숏폼 조회수 → 이 화면 후보 0건 (누적 5)",
-    "[2026-09-18 16:00:16] outreach: 검색: 조회수 1000회 → 이 화면 후보 3건 (누적 8)",
-    "[2026-09-18 16:01:02] outreach: '답글' 버튼 없음 @fik_wellness — 건너뜀",
-    "[2026-09-18 16:02:01] outreach: 대상 확인: @m.z_room (원글 본문 일치)",
-    "[2026-09-18 16:02:12] outreach: 답글 @m.z_room",
-    "[2026-09-18 16:02:25] outreach: 팔로우 @m.z_room",
-    "[2026-09-18 16:02:25] outreach: 훑은 글 중 제외: 주제 밖 13 · 광고·영업 3 · 너무 짧음 3 · 자기 숫자 없음 3 · 차단어 2",
-    "[2026-09-18 16:02:25] outreach: 이번 회차 후보 8건 · 모델 호출 7건",
-    "[2026-09-18 16:02:26] outreach: 이번 실행 2건 · 오늘 누적 답글 6/10 · 팔로우 6/6"
+    "[2026-09-18 17:20:16] outreach: follow: 검색: 유튜브 구독자",
+    "[2026-09-18 17:20:31] outreach: follow: 검색: 유튜브 알고리즘",
+    "[2026-09-18 17:20:58] outreach: follow: 검색: 조회수 1000회",
+    "[2026-09-18 17:21:06] outreach: follow: 후보 계정 9명",
+    "[2026-09-18 17:21:47] outreach: follow: 프로필 9개 확인 — 팔로워 큰 순으로 진행",
+    "[2026-09-18 17:21:55] outreach: follow: 팔로우 @ldoold (팔로워 2,086명)",
+    "[2026-09-18 17:22:49] outreach: follow: 팔로우 @early_ria (팔로워 1,481명)",
+    "[2026-09-18 17:24:14] outreach: follow: 팔로워 199명 @tranquil0107 — 기준(500) 미달, 건너뜀",
+    "[2026-09-18 17:24:14] outreach: follow: 팔로워 151명 @gksmf0246 — 기준(500) 미달, 건너뜀",
+    "[2026-09-18 17:24:14] outreach: follow: 팔로워 47명 @myfit3523 — 기준(500) 미달, 건너뜀",
+    "[2026-09-18 17:24:14] outreach: follow: 팔로워 34명 @babbab_in — 기준(500) 미달, 건너뜀",
+    "[2026-09-18 17:24:14] outreach: follow: 팔로워 7명 @ijinnam_bedding — 기준(500) 미달, 건너뜀",
+    "[2026-09-18 17:24:14] outreach: follow: 팔로워 5명 @ns_digital_lab_official — 기준(500) 미달, 건너뜀",
+    "[2026-09-18 17:24:14] outreach: follow: 팔로워 2명 @spipi0209 — 기준(500) 미달, 건너뜀",
+    "[2026-09-18 17:24:14] outreach: follow: 이번 회차 2명 · 오늘 누적 3/20"
   ]
 }
