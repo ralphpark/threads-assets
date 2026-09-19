@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T14:43:09",
+  "generated_at": "2026-09-19T16:43:51",
   "username": "studiohaetae",
   "followers": 130,
   "followers_history": [
@@ -303,7 +303,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Dc0tTW9GPJ5",
       "text": "어떤 분이 알려줬습니다.\n새 채널에 영상 빈도가 높으면 스팸으로 볼 확률이 높다고요.\n\n재즈 채널은 완전 자동으로 39편을 올렸습니다.\n28일 노출수는 48회였습니다. 편당 한 달에 1.2번 보여졌습니다.\n\n노출 클",
-      "views": 94,
+      "views": 95,
       "likes": 1,
       "replies": 0
     },
@@ -314,7 +314,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Dc3SGKHmDRV",
       "text": "지난 4주 동안 이 계정에 달린 답글이 28건이었습니다.\n그중 자기 숫자를 적어주신 분은 4명이었습니다.\n\n- 누적 조회 3,068회, 수익 0원\n- 영상 300편, 구독자 139명\n- 곡 35개, 수익 0원\n- 답",
-      "views": 114,
+      "views": 115,
       "likes": 1,
       "replies": 1
     },
@@ -325,7 +325,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Dc524grmCmD",
       "text": "유튜브 채널 11개를 API로 전수 확인했습니다.\n\n수익화 기준은 채널당 구독자 500명, 유효 시청시간 3,000시간입니다.\n\n11개를 다 합치면 구독자 591명, 시청시간 2,990시간입니다.\n구독자는 이미 넘겼",
-      "views": 294,
+      "views": 295,
       "likes": 1,
       "replies": 0
     },
@@ -336,7 +336,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Dc8br46mFWY",
       "text": "채널 11개를 28일 기준으로 합쳤습니다.\n조회수 68만 8천, 유효 시청시간 2,990시간입니다.\n\n나눠보면 조회 1회당 15.6초입니다.\n\n수익화 기준인 3,000시간을 이 비율로 채우려면 조회수가 69만 회 필",
-      "views": 145,
+      "views": 146,
       "likes": 2,
       "replies": 0
     },
@@ -347,7 +347,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Dc_Ae1mmC0d",
       "text": "같은 사람이 만든 채널 11개인데 전환율이 15배 차이 납니다.\n\n28일 실측입니다.\n제일 높은 채널은 조회 2만 8천에 구독 순증 101명. 0.35%입니다.\n제일 낮은 채널은 조회 8천에 구독 순증 2명. 0.0",
-      "views": 173,
+      "views": 175,
       "likes": 1,
       "replies": 6
     },
@@ -453,6 +453,13 @@
       "text": "음.. 지금 제가 운영하는 ai에이전트 설치한 마케터들은 현재 운영9일차인데 5명이 수익이 났고. 한분은 12만원가량 수익이났어요..\n설계와 기획의 문제아닐까 생각합니다",
       "at": "2026-09-19T01:50:18+0000",
       "on_post": "18094284974264164"
+    },
+    {
+      "id": "17957312862226496",
+      "username": "alexking39_",
+      "text": "한 채널이 1150명요\n제 프로필에 링크 있어요",
+      "at": "2026-09-09T06:39:15+0000",
+      "on_post": "17891447574673252"
     }
   ],
   "outreach": {
@@ -513,18 +520,20 @@
       }
     ],
     "last_run": {
-      "outreach": "2026-09-19T13:10",
-      "followups": "2026-09-19T12:50",
+      "outreach": "2026-09-19T15:51",
+      "followups": "2026-09-19T15:30",
       "follows": "2026-09-19T14:31"
     },
-    "alerts": [],
+    "alerts": [
+      "스레드가 페이지를 막아서 186분 쉬는 중이다 (검색 화면이 세 번 연속 안 열린다). 잡은 브라우저를 안 연다 — 시간이 지나면 스스로 돌아온다"
+    ],
     "runs_today": {
       "outreach": {
-        "ran": 3,
+        "ran": 4,
         "missed": []
       },
       "followups": {
-        "ran": 3,
+        "ran": 4,
         "missed": []
       },
       "follows": {
@@ -533,10 +542,10 @@
       }
     },
     "cooldown": {
-      "until": "2026-09-19T13:16:56+09:00",
+      "until": "2026-09-19T19:51:12+09:00",
       "why": "검색 화면이 세 번 연속 안 열린다",
-      "step": 1,
-      "left_min": 0
+      "step": 2,
+      "left_min": 186
     },
     "follow_experiment": {
       "followers_delta_7d": 10,
@@ -545,24 +554,25 @@
       "note": "팔로우 대비 팔로워 증가. 답글과 섞여 있어 단독 인과는 못 본다"
     }
   },
+  "outreach_alert": "스레드가 페이지를 막아서 186분 쉬는 중이다 (검색 화면이 세 번 연속 안 열린다). 잡은 브라우저를 안 연다 — 시간이 지나면 스스로 돌아온다",
   "errors": {
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-09-19 14:31:22] outreach: follow: 프로필 8개 확인 — 팔로워 큰 순으로 진행",
-    "[2026-09-19 14:31:22] outreach: follow: 팔로워 200명 @tranquil0107 — 기준(500) 미달, 건너뜀",
-    "[2026-09-19 14:31:22] outreach: follow: 팔로워 41명 @gyeolai — 기준(500) 미달, 건너뜀",
-    "[2026-09-19 14:31:22] outreach: follow: 팔로워 38명 @babbab_in — 기준(500) 미달, 건너뜀",
-    "[2026-09-19 14:31:22] outreach: follow: 팔로워 7명 @kimuyju — 기준(500) 미달, 건너뜀",
-    "[2026-09-19 14:31:22] outreach: follow: 팔로워 7명 @ijinnam_bedding — 기준(500) 미달, 건너뜀",
-    "[2026-09-19 14:31:22] outreach: follow: 팔로워 5명 @ns_digital_lab_official — 기준(500) 미달, 건너뜀",
-    "[2026-09-19 14:31:22] outreach: follow: 팔로워 5명 @mind.stack_ — 기준(500) 미달, 건너뜀",
-    "[2026-09-19 14:31:22] outreach: follow: 팔로워 2명 @spipi0209 — 기준(500) 미달, 건너뜀",
-    "[2026-09-19 14:31:22] outreach: follow: 이번 회차 0명 · 오늘 누적 4/20",
-    "[2026-09-19 14:31:23] outreach: follow: ego 창 닫음",
-    "[2026-09-19 14:36:13] digest 갱신: 팔로워 130 · 미답변 5건 · 큐 0개 · 오늘 답글 3 · 되물음 0 · 팔로우 7",
-    "[2026-09-19 14:36:13] agent: 보류 유지 5건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_, @juvin950). 다시 보려면 --recheck-all",
-    "[2026-09-19 14:36:53] digest 갱신: 팔로워 130 · 미답변 5건 · 큐 0개 · 오늘 답글 3 · 되물음 0 · 팔로우 7",
-    "[2026-09-19 14:36:53] agent: 자동 답글 0건 · 신규 판정 대상 없음"
+    "[2026-09-19 15:30:28] outreach: followup: 되물음 후보 2건 (이미 답한 것 제외)",
+    "[2026-09-19 15:30:42] outreach: followup: 모달이 안 열림 @alexking39_ — 건너뜀",
+    "[2026-09-19 15:30:57] outreach: followup: 모달이 안 열림 @alexking39_ — 건너뜀",
+    "[2026-09-19 15:30:57] outreach: followup: 이번 실행 0건",
+    "[2026-09-19 15:30:57] outreach: followup: ego 창 닫음",
+    "[2026-09-19 15:50:21] outreach: 내비에서 계정을 못 읽었다 — 프로필 페이지로 확인한다",
+    "[2026-09-19 15:50:25] outreach: 계정 확인: @studiohaetae",
+    "[2026-09-19 15:50:41] outreach: 검색 진입 실패(구독자 100명): Page.click: Timeout 10000ms exceeded.",
+    "[2026-09-19 15:50:41] outreach: 검색 화면을 못 열었다 (구독자 100명)",
+    "[2026-09-19 15:50:56] outreach: 검색 진입 실패(유튜브 수익): Page.click: Timeout 10000ms exceeded.",
+    "[2026-09-19 15:50:56] outreach: 검색 화면을 못 열었다 (유튜브 수익)",
+    "[2026-09-19 15:51:12] outreach: 검색 진입 실패(구독자 안늘어): Page.click: Timeout 10000ms exceeded.",
+    "[2026-09-19 15:51:12] outreach: 검색 화면을 못 열었다 (구독자 안늘어)",
+    "[2026-09-19 15:51:12] outreach: 차단 감지(검색 화면이 세 번 연속 안 열린다) — 240분 쉰다. 그동안 모든 잡이 페이지를 안 연다",
+    "[2026-09-19 15:51:12] outreach: ego 창 닫음"
   ]
 }
