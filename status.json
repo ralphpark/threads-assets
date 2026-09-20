@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T02:02:00",
+  "generated_at": "2026-09-21T02:57:56",
   "username": "studiohaetae",
   "followers": 130,
   "followers_history": [
@@ -556,8 +556,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-09-20 21:10:00] outreach: 차단 휴식 중 — 161분 남음. 브라우저를 열지 않는다",
-    "[2026-09-20 22:10:00] outreach: follow: 차단 휴식 중 — 101분 남음. 브라우저를 열지 않는다",
     "[2026-09-20 22:57:07] digest 갱신: 팔로워 131 · 미답변 6건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 0 · !! 스레드가 페이지를 막아서 54분 쉬는 중이다 (검색 화면이 세 번 연속 안 열린다). 잡은 브라우저를 안 연다 — 시간이 지나면 스스로 돌아온다",
     "[2026-09-20 23:00:29] digest 갱신: 팔로워 131 · 미답변 6건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 0 · !! 스레드가 페이지를 막아서 50분 쉬는 중이다 (검색 화면이 세 번 연속 안 열린다). 잡은 브라우저를 안 연다 — 시간이 지나면 스스로 돌아온다",
     "[2026-09-20 23:00:29] agent: 보류 유지 6건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_, @juvin950). 다시 보려면 --recheck-all",
@@ -570,6 +568,8 @@
     "[2026-09-20 23:41:19] digest 갱신: 팔로워 130 · 미답변 6건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 0 · !! 스레드가 페이지를 막아서 10분 쉬는 중이다 (검색 화면이 세 번 연속 안 열린다). 잡은 브라우저를 안 연다 — 시간이 지나면 스스로 돌아온다",
     "[2026-09-21 00:57:58] digest 갱신: 팔로워 130 · 미답변 6건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 0",
     "[2026-09-21 02:02:00] digest 갱신: 팔로워 130 · 미답변 6건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 0",
-    "[2026-09-21 02:02:00] agent: 보류 유지 6건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_, @juvin950). 다시 보려면 --recheck-all"
+    "[2026-09-21 02:02:00] agent: 보류 유지 6건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_, @juvin950). 다시 보려면 --recheck-all",
+    "[2026-09-21 02:02:39] digest 갱신: 팔로워 130 · 미답변 6건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 0",
+    "[2026-09-21 02:02:39] agent: 자동 답글 0건 · 신규 판정 대상 없음"
   ]
 }
