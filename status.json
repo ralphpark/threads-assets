@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T02:13:52",
+  "generated_at": "2026-09-22T02:14:31",
   "username": "studiohaetae",
   "followers": 131,
   "followers_history": [
@@ -559,8 +559,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-09-21 20:50:00] outreach: followup: 차단 휴식 중 — 181분 남음. 브라우저를 열지 않는다",
-    "[2026-09-21 21:06:17] digest 갱신: 팔로워 131 · 미답변 6건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 0 · !! 스레드가 페이지를 막아서 164분 쉬는 중이다 (검색 화면이 세 번 연속 안 열린다). 잡은 브라우저를 안 연다 — 시간이 지나면 스스로 돌아온다 / 답글이 2일 연속 0건이다. 후보 수집이 마른 건지 게이트가 다 막는 건지 launchd.outreach.out 의 '훑은 글 중 제외' 줄을 봐라.",
     "[2026-09-21 21:10:00] outreach: 차단 휴식 중 — 161분 남음. 브라우저를 열지 않는다",
     "[2026-09-21 22:10:00] outreach: follow: 차단 휴식 중 — 101분 남음. 브라우저를 열지 않는다",
     "[2026-09-21 23:07:03] digest 갱신: 팔로워 131 · 미답변 6건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 0 · !! 스레드가 페이지를 막아서 44분 쉬는 중이다 (검색 화면이 세 번 연속 안 열린다). 잡은 브라우저를 안 연다 — 시간이 지나면 스스로 돌아온다 / 답글이 2일 연속 0건이다. 후보 수집이 마른 건지 게이트가 다 막는 건지 launchd.outreach.out 의 '훑은 글 중 제외' 줄을 봐라.",
@@ -573,6 +571,8 @@
     "[2026-09-21 23:40:37] refill: 경보: 큐 잔량 0편 (기준 3) · 대기 중인 초안 2편",
     "[2026-09-21 23:40:37] refill: 초안이 있다. python3 refill.py drafts 로 보고 promote 해라.",
     "[2026-09-21 23:41:21] digest 갱신: 팔로워 131 · 미답변 6건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 0 · !! 스레드가 페이지를 막아서 9분 쉬는 중이다 (검색 화면이 세 번 연속 안 열린다). 잡은 브라우저를 안 연다 — 시간이 지나면 스스로 돌아온다 / 답글이 2일 연속 0건이다. 후보 수집이 마른 건지 게이트가 다 막는 건지 launchd.outreach.out 의 '훑은 글 중 제외' 줄을 봐라.",
-    "[2026-09-22 01:07:48] digest 갱신: 팔로워 131 · 미답변 6건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 0 · !! 답글이 2일 연속 0건이다. 후보 수집이 마른 건지 게이트가 다 막는 건지 launchd.outreach.out 의 '훑은 글 중 제외' 줄을 봐라."
+    "[2026-09-22 01:07:48] digest 갱신: 팔로워 131 · 미답변 6건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 0 · !! 답글이 2일 연속 0건이다. 후보 수집이 마른 건지 게이트가 다 막는 건지 launchd.outreach.out 의 '훑은 글 중 제외' 줄을 봐라.",
+    "[2026-09-22 02:14:31] digest 갱신: 팔로워 131 · 미답변 6건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 0 · !! 답글이 2일 연속 0건이다. 후보 수집이 마른 건지 게이트가 다 막는 건지 launchd.outreach.out 의 '훑은 글 중 제외' 줄을 봐라.",
+    "[2026-09-22 02:14:31] agent: 보류 유지 6건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_, @juvin950). 다시 보려면 --recheck-all"
   ]
 }
