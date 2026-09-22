@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T20:22:48",
+  "generated_at": "2026-09-22T20:23:30",
   "username": "studiohaetae",
   "followers": 131,
   "followers_history": [
@@ -560,8 +560,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-09-22 15:50:59] outreach: 검색 화면을 못 열었다 (채널 개설)",
-    "[2026-09-22 15:51:15] outreach: 검색 진입 실패(유튜브 3개월): Page.click: Timeout 10000ms exceeded.",
     "[2026-09-22 15:51:15] outreach: 검색 화면을 못 열었다 (유튜브 3개월)",
     "[2026-09-22 15:51:15] outreach: 차단 감지(검색 화면이 세 번 연속 안 열린다) — 480분 쉰다. 그동안 모든 잡이 페이지를 안 연다",
     "[2026-09-22 15:51:16] outreach: ego 창 닫음",
@@ -574,6 +572,8 @@
     "[2026-09-22 18:10:00] outreach: followup: 차단 휴식 중 — 341분 남음. 브라우저를 열지 않는다",
     "[2026-09-22 18:30:00] outreach: 차단 휴식 중 — 321분 남음. 브라우저를 열지 않는다",
     "[2026-09-22 19:14:33] digest 갱신: 팔로워 131 · 미답변 6건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 0 · !! 스레드가 페이지를 막아서 276분 쉬는 중이다 (검색 화면이 세 번 연속 안 열린다). 잡은 브라우저를 안 연다 — 시간이 지나면 스스로 돌아온다 / 답글이 3일 연속 0건이다. 후보 수집이 마른 건지 게이트가 다 막는 건지 launchd.outreach.out 의 '훑은 글 중 제외' 줄을 봐라.",
-    "[2026-09-22 19:40:00] outreach: follow: 차단 휴식 중 — 251분 남음. 브라우저를 열지 않는다"
+    "[2026-09-22 19:40:00] outreach: follow: 차단 휴식 중 — 251분 남음. 브라우저를 열지 않는다",
+    "[2026-09-22 20:23:30] digest 갱신: 팔로워 131 · 미답변 6건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 0 · !! 스레드가 페이지를 막아서 207분 쉬는 중이다 (검색 화면이 세 번 연속 안 열린다). 잡은 브라우저를 안 연다 — 시간이 지나면 스스로 돌아온다 / 답글이 3일 연속 0건이다. 후보 수집이 마른 건지 게이트가 다 막는 건지 launchd.outreach.out 의 '훑은 글 중 제외' 줄을 봐라.",
+    "[2026-09-22 20:23:30] agent: 보류 유지 6건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_, @juvin950). 다시 보려면 --recheck-all"
   ]
 }
