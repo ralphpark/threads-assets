@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T23:58:55",
+  "generated_at": "2026-09-27T01:01:31",
   "username": "studiohaetae",
   "followers": 132,
   "followers_history": [
@@ -470,13 +470,6 @@
     },
     "last7": [
       {
-        "date": "2026-09-20",
-        "replies": 0,
-        "followups": 0,
-        "follows": 0,
-        "followers": 130
-      },
-      {
         "date": "2026-09-21",
         "replies": 0,
         "followups": 0,
@@ -517,6 +510,13 @@
         "followups": 0,
         "follows": 0,
         "followers": 132
+      },
+      {
+        "date": "2026-09-27",
+        "replies": 0,
+        "followups": 0,
+        "follows": 0,
+        "followers": null
       }
     ],
     "last_run": {
@@ -525,19 +525,19 @@
       "follows": "2026-09-26T22:10"
     },
     "alerts": [
-      "답글이 7일 연속 0건이다. 후보 수집이 마른 건지 게이트가 다 막는 건지 launchd.outreach.out 의 '훑은 글 중 제외' 줄을 봐라."
+      "답글이 6일 연속 0건이다. 후보 수집이 마른 건지 게이트가 다 막는 건지 launchd.outreach.out 의 '훑은 글 중 제외' 줄을 봐라."
     ],
     "runs_today": {
       "outreach": {
-        "ran": 6,
+        "ran": 0,
         "missed": []
       },
       "followups": {
-        "ran": 6,
+        "ran": 0,
         "missed": []
       },
       "follows": {
-        "ran": 5,
+        "ran": 0,
         "missed": []
       }
     },
@@ -548,18 +548,17 @@
       "left_min": 0
     },
     "follow_experiment": {
-      "followers_delta_7d": 2,
+      "followers_delta_7d": 1,
       "follows_7d": 0,
       "replies_7d": 0,
       "note": "팔로우 대비 팔로워 증가. 답글과 섞여 있어 단독 인과는 못 본다"
     }
   },
-  "outreach_alert": "답글이 7일 연속 0건이다. 후보 수집이 마른 건지 게이트가 다 막는 건지 launchd.outreach.out 의 '훑은 글 중 제외' 줄을 봐라.",
+  "outreach_alert": "답글이 6일 연속 0건이다. 후보 수집이 마른 건지 게이트가 다 막는 건지 launchd.outreach.out 의 '훑은 글 중 제외' 줄을 봐라.",
   "errors": {
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-09-26 19:57:59] digest 갱신: 팔로워 132 · 미답변 6건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 0 · !! 스레드가 페이지를 막아서 233분 쉬는 중이다 (검색 화면이 세 번 연속 안 열린다). 잡은 브라우저를 안 연다 — 시간이 지나면 스스로 돌아온다 / 답글이 7일 연속 0건이다. 후보 수집이 마른 건지 게이트가 다 막는 건지 launchd.outreach.out 의 '훑은 글 중 제외' 줄을 봐라.",
     "[2026-09-26 20:30:00] 큐가 비었다. 게시하지 않음.",
     "[2026-09-26 20:50:00] outreach: followup: 차단 휴식 중 — 181분 남음. 브라우저를 열지 않는다",
     "[2026-09-26 21:10:00] outreach: 차단 휴식 중 — 161분 남음. 브라우저를 열지 않는다",
@@ -573,6 +572,7 @@
     "[2026-09-26 23:40:26] 답글 35건 수집 -> replies-2026-09-26.json",
     "[2026-09-26 23:40:41] refill: 경보: 큐 잔량 0편 (기준 3) · 대기 중인 초안 2편",
     "[2026-09-26 23:40:41] refill: 초안이 있다. python3 refill.py drafts 로 보고 promote 해라.",
-    "[2026-09-26 23:41:27] digest 갱신: 팔로워 132 · 미답변 6건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 0 · !! 스레드가 페이지를 막아서 9분 쉬는 중이다 (검색 화면이 세 번 연속 안 열린다). 잡은 브라우저를 안 연다 — 시간이 지나면 스스로 돌아온다 / 답글이 7일 연속 0건이다. 후보 수집이 마른 건지 게이트가 다 막는 건지 launchd.outreach.out 의 '훑은 글 중 제외' 줄을 봐라."
+    "[2026-09-26 23:41:27] digest 갱신: 팔로워 132 · 미답변 6건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 0 · !! 스레드가 페이지를 막아서 9분 쉬는 중이다 (검색 화면이 세 번 연속 안 열린다). 잡은 브라우저를 안 연다 — 시간이 지나면 스스로 돌아온다 / 답글이 7일 연속 0건이다. 후보 수집이 마른 건지 게이트가 다 막는 건지 launchd.outreach.out 의 '훑은 글 중 제외' 줄을 봐라.",
+    "[2026-09-26 23:59:39] digest 갱신: 팔로워 132 · 미답변 6건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 0 · !! 답글이 7일 연속 0건이다. 후보 수집이 마른 건지 게이트가 다 막는 건지 launchd.outreach.out 의 '훑은 글 중 제외' 줄을 봐라."
   ]
 }
