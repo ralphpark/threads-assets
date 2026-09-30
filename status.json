@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T10:34:13",
+  "generated_at": "2026-09-30T10:45:29",
   "username": "studiohaetae",
   "followers": 134,
   "followers_history": [
@@ -525,7 +525,7 @@
       "follows": "2026-09-30T10:30"
     },
     "alerts": [
-      "스레드가 페이지를 막아서 16분 쉬는 중이다 (검색 화면이 세 번 연속 안 열린다). 잡은 브라우저를 안 연다 — 시간이 지나면 스스로 돌아온다",
+      "스레드가 페이지를 막아서 5분 쉬는 중이다 (검색 화면이 세 번 연속 안 열린다). 잡은 브라우저를 안 연다 — 시간이 지나면 스스로 돌아온다",
       "답글이 6일 연속 0건이다. 후보 수집이 마른 건지 게이트가 다 막는 건지 launchd.outreach.out 의 '훑은 글 중 제외' 줄을 봐라."
     ],
     "runs_today": {
@@ -538,7 +538,7 @@
         "missed": []
       },
       "follows": {
-        "ran": 0,
+        "ran": 1,
         "missed": []
       }
     },
@@ -546,7 +546,7 @@
       "until": "2026-09-30T10:51:46+09:00",
       "why": "검색 화면이 세 번 연속 안 열린다",
       "step": 1,
-      "left_min": 16
+      "left_min": 5
     },
     "follow_experiment": {
       "followers_delta_7d": 3,
@@ -555,12 +555,11 @@
       "note": "팔로우 대비 팔로워 증가. 답글과 섞여 있어 단독 인과는 못 본다"
     }
   },
-  "outreach_alert": "스레드가 페이지를 막아서 16분 쉬는 중이다 (검색 화면이 세 번 연속 안 열린다). 잡은 브라우저를 안 연다 — 시간이 지나면 스스로 돌아온다 / 답글이 6일 연속 0건이다. 후보 수집이 마른 건지 게이트가 다 막는 건지 launchd.outreach.out 의 '훑은 글 중 제외' 줄을 봐라.",
+  "outreach_alert": "스레드가 페이지를 막아서 5분 쉬는 중이다 (검색 화면이 세 번 연속 안 열린다). 잡은 브라우저를 안 연다 — 시간이 지나면 스스로 돌아온다 / 답글이 6일 연속 0건이다. 후보 수집이 마른 건지 게이트가 다 막는 건지 launchd.outreach.out 의 '훑은 글 중 제외' 줄을 봐라.",
   "errors": {
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "Call log:",
     "  - <ws preparing> retrieving websocket url from http://127.0.0.1:9318",
     "  - <ws conn",
     "[2026-09-30 09:03:25] outreach: followup: ego 창 닫음",
@@ -574,6 +573,7 @@
     "[2026-09-30 09:21:46] outreach: 검색 화면을 못 열었다 (구독자 안늘어)",
     "[2026-09-30 09:21:46] outreach: 차단 감지(검색 화면이 세 번 연속 안 열린다) — 90분 쉰다. 그동안 모든 잡이 페이지를 안 연다",
     "[2026-09-30 09:21:50] outreach: ego 창 닫음",
-    "[2026-09-30 10:30:00] outreach: follow: 차단 휴식 중 — 21분 남음. 브라우저를 열지 않는다"
+    "[2026-09-30 10:30:00] outreach: follow: 차단 휴식 중 — 21분 남음. 브라우저를 열지 않는다",
+    "[2026-09-30 10:35:02] digest 갱신: 팔로워 134 · 미답변 6건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 0 · !! 스레드가 페이지를 막아서 16분 쉬는 중이다 (검색 화면이 세 번 연속 안 열린다). 잡은 브라우저를 안 연다 — 시간이 지나면 스스로 돌아온다 / 답글이 6일 연속 0건이다. 후보 수집이 마른 건지 게이트가 다 막는 건지 launchd.outreach.out 의 '훑은 글 중 제외' 줄을 봐라."
   ]
 }
