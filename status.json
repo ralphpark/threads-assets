@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T06:51:19",
+  "generated_at": "2026-10-02T08:07:59",
   "username": "studiohaetae",
   "followers": 134,
   "followers_history": [
@@ -552,7 +552,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-10-02 01:58:07] outreach: 창이 좁다(innerWidth 1068) — 뷰포트를 강제한다",
     "[2026-10-02 01:58:07] outreach: 뷰포트 강제 후 innerWidth 1400",
     "[2026-10-02 02:00:17] outreach: ego 창 닫음",
     "[2026-10-02 02:05:53] digest 갱신: 팔로워 134 · 미답변 6건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 0 · !! 답글이 6일 연속 0건이다. 후보 수집이 마른 건지 게이트가 다 막는 건지 launchd.outreach.out 의 '훑은 글 중 제외' 줄을 봐라.",
@@ -566,6 +565,7 @@
     "[2026-10-02 05:07:12] digest 갱신: 팔로워 134 · 미답변 6건 · 큐 7개 · 오늘 답글 0 · 되물음 0 · 팔로우 0 · !! 답글이 6일 연속 0건이다. 후보 수집이 마른 건지 게이트가 다 막는 건지 launchd.outreach.out 의 '훑은 글 중 제외' 줄을 봐라.",
     "[2026-10-02 05:07:12] agent: 보류 유지 6건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_, @juvin950). 다시 보려면 --recheck-all",
     "[2026-10-02 05:07:58] digest 갱신: 팔로워 134 · 미답변 6건 · 큐 7개 · 오늘 답글 0 · 되물음 0 · 팔로우 0 · !! 답글이 6일 연속 0건이다. 후보 수집이 마른 건지 게이트가 다 막는 건지 launchd.outreach.out 의 '훑은 글 중 제외' 줄을 봐라.",
-    "[2026-10-02 05:07:58] agent: 자동 답글 0건 · 신규 판정 대상 없음"
+    "[2026-10-02 05:07:58] agent: 자동 답글 0건 · 신규 판정 대상 없음",
+    "[2026-10-02 06:51:56] digest 갱신: 팔로워 134 · 미답변 6건 · 큐 7개 · 오늘 답글 0 · 되물음 0 · 팔로우 0 · !! 답글이 6일 연속 0건이다. 후보 수집이 마른 건지 게이트가 다 막는 건지 launchd.outreach.out 의 '훑은 글 중 제외' 줄을 봐라."
   ]
 }
