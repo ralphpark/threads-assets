@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T02:05:14",
+  "generated_at": "2026-10-02T02:05:53",
   "username": "studiohaetae",
   "followers": 134,
   "followers_history": [
@@ -553,8 +553,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-10-02 01:25:04] outreach: skip @yui.daily__ — 서로 리포스트/맞팔을 주고받자는 품앗이 모집 글이라 FACTS 숫자를 얹을 자리가 없음",
-    "[2026-10-02 01:25:23] outreach: DRY @lris__shorts: 4,407만 조회에 구독 4.3만이면 전환율 0.098%입니다. 저희는 채널 11개 합쳐서 조회 68만, 구",
     "[2026-10-02 01:25:43] outreach: 검색: 첫 영상 → 이 화면 후보 3건 (누적 6)",
     "[2026-10-02 01:26:10] outreach: skip @reels.fox_x — 릴스 편집 노하우를 나열하는 튜토리얼성 글(편집 대행 홍보 계정으로 보임)이라 상대가 직접 제시한 두 숫자(조회수/구독자 같은",
     "[2026-10-02 01:26:52] outreach: DRY @dear__link: 릴스 8개에 조회수 100~200이면 나쁜 편은 아닙니다. 저희 유튜브 채널 중 하나는 영상 68개에 누적 ",
@@ -567,6 +565,8 @@
     "[2026-10-02 01:54:31] news: '써봤다' 가 들어갔다 — 버린다(안 써봤다)",
     "[2026-10-02 01:58:07] outreach: 창이 좁다(innerWidth 1068) — 뷰포트를 강제한다",
     "[2026-10-02 01:58:07] outreach: 뷰포트 강제 후 innerWidth 1400",
-    "[2026-10-02 02:00:17] outreach: ego 창 닫음"
+    "[2026-10-02 02:00:17] outreach: ego 창 닫음",
+    "[2026-10-02 02:05:53] digest 갱신: 팔로워 134 · 미답변 6건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 0 · !! 답글이 6일 연속 0건이다. 후보 수집이 마른 건지 게이트가 다 막는 건지 launchd.outreach.out 의 '훑은 글 중 제외' 줄을 봐라.",
+    "[2026-10-02 02:05:53] agent: 보류 유지 6건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_, @juvin950). 다시 보려면 --recheck-all"
   ]
 }
