@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T13:58:40",
+  "generated_at": "2026-10-01T13:59:18",
   "username": "studiohaetae",
   "followers": 134,
   "followers_history": [
@@ -560,8 +560,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-10-01 11:20:31] outreach: followup: 되물음 후보 0건 (이미 답한 것 제외)",
-    "[2026-10-01 11:20:31] outreach: followup: ego 창 닫음",
     "[2026-10-01 11:40:22] outreach: 내비에서 계정을 못 읽었다 — 프로필 페이지로 확인한다",
     "[2026-10-01 11:40:26] outreach: 계정 확인: @studiohaetae",
     "[2026-10-01 11:40:42] outreach: 검색 진입 실패(영상 조회수): Page.click: Timeout 10000ms exceeded.",
@@ -574,6 +572,8 @@
     "[2026-10-01 11:41:13] outreach: ego 창 닫음",
     "[2026-10-01 12:45:02] digest 갱신: 팔로워 134 · 미답변 6건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 0 · !! 스레드가 페이지를 막아서 176분 쉬는 중이다 (검색 화면이 세 번 연속 안 열린다). 잡은 브라우저를 안 연다 — 시간이 지나면 스스로 돌아온다 / 답글이 6일 연속 0건이다. 후보 수집이 마른 건지 게이트가 다 막는 건지 launchd.outreach.out 의 '훑은 글 중 제외' 줄을 봐라.",
     "[2026-10-01 12:50:00] outreach: followup: 차단 휴식 중 — 171분 남음. 브라우저를 열지 않는다",
-    "[2026-10-01 13:10:00] outreach: 차단 휴식 중 — 151분 남음. 브라우저를 열지 않는다"
+    "[2026-10-01 13:10:00] outreach: 차단 휴식 중 — 151분 남음. 브라우저를 열지 않는다",
+    "[2026-10-01 13:59:17] digest 갱신: 팔로워 134 · 미답변 6건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 0 · !! 스레드가 페이지를 막아서 101분 쉬는 중이다 (검색 화면이 세 번 연속 안 열린다). 잡은 브라우저를 안 연다 — 시간이 지나면 스스로 돌아온다 / 답글이 6일 연속 0건이다. 후보 수집이 마른 건지 게이트가 다 막는 건지 launchd.outreach.out 의 '훑은 글 중 제외' 줄을 봐라.",
+    "[2026-10-01 13:59:17] agent: 보류 유지 6건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_, @juvin950). 다시 보려면 --recheck-all"
   ]
 }
