@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T02:05:53",
+  "generated_at": "2026-10-02T02:49:38",
   "username": "studiohaetae",
   "followers": 134,
   "followers_history": [
@@ -60,10 +60,9 @@
       "followers": 134
     }
   ],
-  "queue_pending": 0,
-  "queue_next": null,
-  "queue_drafts": 6,
-  "queue_alert": "원고 잔량 0편. 3편 이하다. refill.py check 를 돌리고 초안이 있으면 promote 해라.",
+  "queue_pending": 7,
+  "queue_next": "피그마가 MCP 접속을 화이트리스트로만 열었습니다.\nPi는 그 목록에 없습니다.\n\n아직 써본 적은 없습니다.",
+  "queue_drafts": 2,
   "posts": [
     {
       "at": "2026-07-31T14:33:33",
@@ -553,10 +552,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-10-02 01:25:43] outreach: 검색: 첫 영상 → 이 화면 후보 3건 (누적 6)",
-    "[2026-10-02 01:26:10] outreach: skip @reels.fox_x — 릴스 편집 노하우를 나열하는 튜토리얼성 글(편집 대행 홍보 계정으로 보임)이라 상대가 직접 제시한 두 숫자(조회수/구독자 같은",
-    "[2026-10-02 01:26:52] outreach: DRY @dear__link: 릴스 8개에 조회수 100~200이면 나쁜 편은 아닙니다. 저희 유튜브 채널 중 하나는 영상 68개에 누적 ",
-    "[2026-10-02 01:26:52] outreach: 훑은 글 중 제외: 차단어 13 · 주제 밖 12 · 너무 짧음 8 · 자기 숫자 없음 5 · 광고·영업 2 · 개인사 1",
     "[2026-10-02 01:26:52] outreach: 이번 회차 후보 6건 · 모델 호출 5건",
     "[2026-10-02 01:26:52] outreach: 이번 실행 2건 · 오늘 누적 답글 0/10 · 팔로우 0/6",
     "[2026-10-02 01:26:53] outreach: ego 창 닫음",
@@ -567,6 +562,10 @@
     "[2026-10-02 01:58:07] outreach: 뷰포트 강제 후 innerWidth 1400",
     "[2026-10-02 02:00:17] outreach: ego 창 닫음",
     "[2026-10-02 02:05:53] digest 갱신: 팔로워 134 · 미답변 6건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 0 · !! 답글이 6일 연속 0건이다. 후보 수집이 마른 건지 게이트가 다 막는 건지 launchd.outreach.out 의 '훑은 글 중 제외' 줄을 봐라.",
-    "[2026-10-02 02:05:53] agent: 보류 유지 6건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_, @juvin950). 다시 보려면 --recheck-all"
+    "[2026-10-02 02:05:53] agent: 보류 유지 6건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_, @juvin950). 다시 보려면 --recheck-all",
+    "[2026-10-02 02:06:31] digest 갱신: 팔로워 134 · 미답변 6건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 0 · !! 답글이 6일 연속 0건이다. 후보 수집이 마른 건지 게이트가 다 막는 건지 launchd.outreach.out 의 '훑은 글 중 제외' 줄을 봐라.",
+    "[2026-10-02 02:06:31] agent: 자동 답글 0건 · 신규 판정 대상 없음",
+    "[2026-10-02 02:09:35] refill: 초안 6편을 pending 으로 승격",
+    "[2026-10-02 02:09:35] refill: 초안 1편을 pending 으로 승격"
   ]
 }
