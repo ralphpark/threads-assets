@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T23:16:05",
+  "generated_at": "2026-10-02T23:16:43",
   "username": "studiohaetae",
   "followers": 136,
   "followers_history": [
@@ -578,8 +578,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-10-02 22:10:09] outreach: follow: 창이 좁다(innerWidth 1068) — 뷰포트를 강제한다",
-    "[2026-10-02 22:10:10] outreach: follow: 뷰포트 강제 후 innerWidth 1400",
     "[2026-10-02 22:10:19] outreach: follow: 검색: 구독자 안늘어",
     "[2026-10-02 22:10:27] outreach: follow: 검색: 유튜브 알고리즘",
     "[2026-10-02 22:10:35] outreach: follow: 검색: 유튜브 한달",
@@ -592,6 +590,8 @@
     "[2026-10-02 22:14:46] outreach: follow: 팔로워 35명 @huraizzang — 기준(500) 미달, 건너뜀",
     "[2026-10-02 22:14:46] outreach: follow: 이번 회차 3명 · 오늘 누적 10/20",
     "[2026-10-02 22:14:46] outreach: follow: ego 창 닫음",
-    "[2026-10-02 22:57:41] digest 갱신: 팔로워 136 · 미답변 7건 · 큐 7개 · 오늘 답글 10 · 되물음 0 · 팔로우 16"
+    "[2026-10-02 22:57:41] digest 갱신: 팔로워 136 · 미답변 7건 · 큐 7개 · 오늘 답글 10 · 되물음 0 · 팔로우 16",
+    "[2026-10-02 23:16:43] digest 갱신: 팔로워 136 · 미답변 7건 · 큐 7개 · 오늘 답글 10 · 되물음 0 · 팔로우 16",
+    "[2026-10-02 23:16:43] agent: 보류 유지 7건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_, @juvin950). 다시 보려면 --recheck-all"
   ]
 }
