@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T05:19:02",
+  "generated_at": "2026-10-03T05:19:44",
   "username": "studiohaetae",
   "followers": 136,
   "followers_history": [
@@ -578,8 +578,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-10-02 23:16:43] digest 갱신: 팔로워 136 · 미답변 7건 · 큐 7개 · 오늘 답글 10 · 되물음 0 · 팔로우 16",
-    "[2026-10-02 23:16:43] agent: 보류 유지 7건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_, @juvin950). 다시 보려면 --recheck-all",
     "[2026-10-02 23:17:21] digest 갱신: 팔로워 136 · 미답변 7건 · 큐 7개 · 오늘 답글 10 · 되물음 0 · 팔로우 16",
     "[2026-10-02 23:17:21] agent: 자동 답글 0건 · 신규 판정 대상 없음",
     "[2026-10-02 23:40:00] 스냅샷: {\"date\": \"2026-10-02\", \"at\": \"2026-10-02T23:40:00\", \"followers\": 136, \"views\": 582, \"likes\": 1, \"replies\": 1, \"reposts\": 0, \"quotes\": 0, \"clicks\": null}",
@@ -592,6 +590,8 @@
     "[2026-10-03 02:19:01] digest 갱신: 팔로워 136 · 미답변 7건 · 큐 7개 · 오늘 답글 0 · 되물음 0 · 팔로우 0",
     "[2026-10-03 02:19:01] agent: 자동 답글 0건 · 신규 판정 대상 없음",
     "[2026-10-03 02:59:07] digest 갱신: 팔로워 136 · 미답변 7건 · 큐 7개 · 오늘 답글 0 · 되물음 0 · 팔로우 0",
-    "[2026-10-03 04:59:51] digest 갱신: 팔로워 136 · 미답변 7건 · 큐 7개 · 오늘 답글 0 · 되물음 0 · 팔로우 0"
+    "[2026-10-03 04:59:51] digest 갱신: 팔로워 136 · 미답변 7건 · 큐 7개 · 오늘 답글 0 · 되물음 0 · 팔로우 0",
+    "[2026-10-03 05:19:43] digest 갱신: 팔로워 136 · 미답변 7건 · 큐 7개 · 오늘 답글 0 · 되물음 0 · 팔로우 0",
+    "[2026-10-03 05:19:43] agent: 보류 유지 7건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_, @juvin950). 다시 보려면 --recheck-all"
   ]
 }
