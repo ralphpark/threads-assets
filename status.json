@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T10:52:34",
+  "generated_at": "2026-10-02T11:09:33",
   "username": "studiohaetae",
   "followers": 134,
   "followers_history": [
@@ -552,7 +552,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-10-02 10:33:42] outreach: follow: 프로필 12개 확인 — 팔로워 큰 순으로 진행",
     "[2026-10-02 10:33:55] outreach: follow: 팔로우 @isohyi7309 (팔로워 8,077명)",
     "[2026-10-02 10:35:31] outreach: follow: 팔로우 실패 @stroy__neis: Locator.click: Timeout 8000ms exceeded.",
     "[2026-10-02 10:35:31] outreach: follow: 팔로워 233명 @iiiiimmay__ — 기준(500) 미달, 건너뜀",
@@ -566,6 +565,7 @@
     "[2026-10-02 10:35:31] outreach: follow: 팔로워 4명 @feeldragon3802 — 기준(500) 미달, 건너뜀",
     "[2026-10-02 10:35:31] outreach: follow: 팔로워 4명 @drcoachunni — 기준(500) 미달, 건너뜀",
     "[2026-10-02 10:35:32] outreach: follow: 이번 회차 1명 · 오늘 누적 1/20",
-    "[2026-10-02 10:36:05] outreach: follow: ego 창 닫음"
+    "[2026-10-02 10:36:05] outreach: follow: ego 창 닫음",
+    "[2026-10-02 10:53:16] digest 갱신: 팔로워 134 · 미답변 6건 · 큐 9개 · 오늘 답글 2 · 되물음 0 · 팔로우 3 · !! 답글이 6일 연속 0건이다. 후보 수집이 마른 건지 게이트가 다 막는 건지 launchd.outreach.out 의 '훑은 글 중 제외' 줄을 봐라."
   ]
 }
