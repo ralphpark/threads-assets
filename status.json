@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T11:10:17",
+  "generated_at": "2026-10-02T12:53:17",
   "username": "studiohaetae",
   "followers": 134,
   "followers_history": [
@@ -60,8 +60,8 @@
       "followers": 134
     }
   ],
-  "queue_pending": 9,
-  "queue_next": "피그마가 MCP 접속을 화이트리스트로만 열었습니다.\nPi는 그 목록에 없습니다.\n\n아직 써본 적은 없습니다.",
+  "queue_pending": 8,
+  "queue_next": "AI가 데이터센터 투자를 정당화하려면 연 6조 달러를 벌어야 한다는 글을 봤다.\n\n지금 전세계 AI 매출을 ",
   "queue_drafts": 2,
   "posts": [
     {
@@ -346,9 +346,20 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Dc_Ae1mmC0d",
       "text": "같은 사람이 만든 채널 11개인데 전환율이 15배 차이 납니다.\n\n28일 실측입니다.\n제일 높은 채널은 조회 2만 8천에 구독 순증 101명. 0.35%입니다.\n제일 낮은 채널은 조회 8천에 구독 순증 2명. 0.0",
-      "views": 202,
+      "views": 204,
       "likes": 1,
       "replies": 6
+    },
+    {
+      "at": "2026-10-02T12:40:11",
+      "n": 31,
+      "id": "17930252442407304",
+      "is_reply": false,
+      "permalink": "https://www.threads.com/@studiohaetae/post/Dd-ij0jGLVs",
+      "text": "피그마가 MCP 접속을 화이트리스트로만 열었습니다.\nPi는 그 목록에 없습니다.\n\n아직 써본 적은 없습니다.\n어떻게 쓰는 건지도 모릅니다.\n\n플랫폼이 통로를 정하면, 거기 없는 도구는 없는 셈이 됩니다.",
+      "views": 0,
+      "likes": 0,
+      "replies": 0
     },
     {
       "at": "2026-08-25T22:52:40",
@@ -463,9 +474,9 @@
   ],
   "outreach": {
     "today": {
-      "replies": 2,
+      "replies": 4,
       "followups": 0,
-      "follows": 3
+      "follows": 5
     },
     "last7": [
       {
@@ -512,15 +523,15 @@
       },
       {
         "date": "2026-10-02",
-        "replies": 2,
+        "replies": 4,
         "followups": 0,
-        "follows": 3,
+        "follows": 5,
         "followers": null
       }
     ],
     "last_run": {
-      "outreach": "2026-10-02T09:27",
-      "followups": "2026-10-02T09:00",
+      "outreach": "2026-10-02T11:48",
+      "followups": "2026-10-02T12:50",
       "follows": "2026-10-02T10:36"
     },
     "alerts": [
@@ -528,11 +539,11 @@
     ],
     "runs_today": {
       "outreach": {
-        "ran": 1,
+        "ran": 2,
         "missed": []
       },
       "followups": {
-        "ran": 1,
+        "ran": 2,
         "missed": []
       },
       "follows": {
@@ -542,8 +553,8 @@
     },
     "follow_experiment": {
       "followers_delta_7d": 2,
-      "follows_7d": 3,
-      "replies_7d": 2,
+      "follows_7d": 5,
+      "replies_7d": 4,
       "note": "팔로우 대비 팔로워 증가. 답글과 섞여 있어 단독 인과는 못 본다"
     }
   },
@@ -552,20 +563,20 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-10-02 10:35:31] outreach: follow: 팔로워 233명 @iiiiimmay__ — 기준(500) 미달, 건너뜀",
-    "[2026-10-02 10:35:31] outreach: follow: 팔로워 217명 @jihye_jin0720 — 기준(500) 미달, 건너뜀",
-    "[2026-10-02 10:35:31] outreach: follow: 팔로워 92명 @blue.cnt — 기준(500) 미달, 건너뜀",
-    "[2026-10-02 10:35:31] outreach: follow: 팔로워 85명 @woori_hamo — 기준(500) 미달, 건너뜀",
-    "[2026-10-02 10:35:31] outreach: follow: 팔로워 78명 @lims.now — 기준(500) 미달, 건너뜀",
-    "[2026-10-02 10:35:31] outreach: follow: 팔로워 25명 @sinhyangsug544 — 기준(500) 미달, 건너뜀",
-    "[2026-10-02 10:35:31] outreach: follow: 팔로워 20명 @kr.leetaehun — 기준(500) 미달, 건너뜀",
-    "[2026-10-02 10:35:31] outreach: follow: 팔로워 4명 @gagesalim — 기준(500) 미달, 건너뜀",
-    "[2026-10-02 10:35:31] outreach: follow: 팔로워 4명 @feeldragon3802 — 기준(500) 미달, 건너뜀",
-    "[2026-10-02 10:35:31] outreach: follow: 팔로워 4명 @drcoachunni — 기준(500) 미달, 건너뜀",
-    "[2026-10-02 10:35:32] outreach: follow: 이번 회차 1명 · 오늘 누적 1/20",
-    "[2026-10-02 10:36:05] outreach: follow: ego 창 닫음",
-    "[2026-10-02 10:53:16] digest 갱신: 팔로워 134 · 미답변 6건 · 큐 9개 · 오늘 답글 2 · 되물음 0 · 팔로우 3 · !! 답글이 6일 연속 0건이다. 후보 수집이 마른 건지 게이트가 다 막는 건지 launchd.outreach.out 의 '훑은 글 중 제외' 줄을 봐라.",
-    "[2026-10-02 11:10:17] digest 갱신: 팔로워 134 · 미답변 6건 · 큐 9개 · 오늘 답글 2 · 되물음 0 · 팔로우 3 · !! 답글이 6일 연속 0건이다. 후보 수집이 마른 건지 게이트가 다 막는 건지 launchd.outreach.out 의 '훑은 글 중 제외' 줄을 봐라.",
-    "[2026-10-02 11:10:17] agent: 보류 유지 6건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_, @juvin950). 다시 보려면 --recheck-all"
+    "[2026-10-02 11:45:56] outreach: skip @hanspoonn — 금지 요소 포함",
+    "[2026-10-02 11:47:52] outreach: 대상 확인: @never_die3377 (원글 본문 일치)",
+    "[2026-10-02 11:48:04] outreach: 답글 @never_die3377",
+    "[2026-10-02 11:48:13] outreach: 팔로우 @never_die3377",
+    "[2026-10-02 11:48:13] outreach: 훑은 글 중 제외: 너무 짧음 4 · 주제 밖 4 · 자기 숫자 없음 2 · 차단어 1 · 광고·영업 1",
+    "[2026-10-02 11:48:13] outreach: 이번 회차 후보 5건 · 모델 호출 3건",
+    "[2026-10-02 11:48:13] outreach: 이번 실행 2건 · 오늘 누적 답글 4/10 · 팔로우 4/6",
+    "[2026-10-02 11:48:16] outreach: ego 창 닫음",
+    "[2026-10-02 12:40:03] 컨테이너 생성 17903018535605032 (n=31)",
+    "[2026-10-02 12:40:11] 게시 완료 n=31 id=17930252442407304",
+    "[2026-10-02 12:50:15] outreach: followup: 창이 좁다(innerWidth 1068) — 뷰포트를 강제한다",
+    "[2026-10-02 12:50:16] outreach: followup: 뷰포트 강제 후 innerWidth 1400",
+    "[2026-10-02 12:50:24] outreach: followup: 계정 확인: @studiohaetae",
+    "[2026-10-02 12:50:32] outreach: followup: 되물음 후보 0건 (이미 답한 것 제외)",
+    "[2026-10-02 12:50:34] outreach: followup: ego 창 닫음"
   ]
 }
