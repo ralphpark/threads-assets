@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T14:54:02",
+  "generated_at": "2026-10-02T16:54:46",
   "username": "studiohaetae",
   "followers": 135,
   "followers_history": [
@@ -357,7 +357,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Dd-ij0jGLVs",
       "text": "피그마가 MCP 접속을 화이트리스트로만 열었습니다.\nPi는 그 목록에 없습니다.\n\n아직 써본 적은 없습니다.\n어떻게 쓰는 건지도 모릅니다.\n\n플랫폼이 통로를 정하면, 거기 없는 도구는 없는 셈이 됩니다.",
-      "views": 125,
+      "views": 146,
       "likes": 1,
       "replies": 1
     },
@@ -481,7 +481,7 @@
   ],
   "outreach": {
     "today": {
-      "replies": 6,
+      "replies": 8,
       "followups": 0,
       "follows": 9
     },
@@ -530,15 +530,15 @@
       },
       {
         "date": "2026-10-02",
-        "replies": 6,
+        "replies": 8,
         "followups": 0,
         "follows": 9,
         "followers": null
       }
     ],
     "last_run": {
-      "outreach": "2026-10-02T13:17",
-      "followups": "2026-10-02T12:50",
+      "outreach": "2026-10-02T15:57",
+      "followups": "2026-10-02T15:30",
       "follows": "2026-10-02T14:33"
     },
     "alerts": [
@@ -546,11 +546,11 @@
     ],
     "runs_today": {
       "outreach": {
-        "ran": 3,
+        "ran": 4,
         "missed": []
       },
       "followups": {
-        "ran": 3,
+        "ran": 4,
         "missed": []
       },
       "follows": {
@@ -561,7 +561,7 @@
     "follow_experiment": {
       "followers_delta_7d": 2,
       "follows_7d": 9,
-      "replies_7d": 6,
+      "replies_7d": 8,
       "note": "팔로우 대비 팔로워 증가. 답글과 섞여 있어 단독 인과는 못 본다"
     }
   },
@@ -570,20 +570,20 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-10-02 14:30:59] outreach: follow: 후보 계정 11명",
-    "[2026-10-02 14:31:59] outreach: follow: 프로필 11개 확인 — 팔로워 큰 순으로 진행",
-    "[2026-10-02 14:32:07] outreach: follow: 팔로우 @passionplus_ai (팔로워 717명)",
-    "[2026-10-02 14:33:01] outreach: follow: 팔로우 @genv_lab (팔로워 553명)",
-    "[2026-10-02 14:33:50] outreach: follow: 팔로워 370명 @designer.popo — 기준(500) 미달, 건너뜀",
-    "[2026-10-02 14:33:50] outreach: follow: 팔로워 233명 @iiiiimmay__ — 기준(500) 미달, 건너뜀",
-    "[2026-10-02 14:33:50] outreach: follow: 팔로워 190명 @dyotamusic — 기준(500) 미달, 건너뜀",
-    "[2026-10-02 14:33:50] outreach: follow: 팔로워 93명 @blue.cnt — 기준(500) 미달, 건너뜀",
-    "[2026-10-02 14:33:50] outreach: follow: 팔로워 56명 @periodista3100 — 기준(500) 미달, 건너뜀",
-    "[2026-10-02 14:33:50] outreach: follow: 팔로워 41명 @unipixel_ — 기준(500) 미달, 건너뜀",
-    "[2026-10-02 14:33:50] outreach: follow: 팔로워 36명 @fineireancom — 기준(500) 미달, 건너뜀",
-    "[2026-10-02 14:33:50] outreach: follow: 팔로워 18명 @bella_ai_auto — 기준(500) 미달, 건너뜀",
-    "[2026-10-02 14:33:50] outreach: follow: 팔로워 2명 @weck.4905152 — 기준(500) 미달, 건너뜀",
-    "[2026-10-02 14:33:50] outreach: follow: 이번 회차 2명 · 오늘 누적 3/20",
-    "[2026-10-02 14:33:51] outreach: follow: ego 창 닫음"
+    "[2026-10-02 15:30:31] outreach: followup: 되물음 후보 0건 (이미 답한 것 제외)",
+    "[2026-10-02 15:30:33] outreach: followup: ego 창 닫음",
+    "[2026-10-02 15:50:15] outreach: 창이 좁다(innerWidth 1068) — 뷰포트를 강제한다",
+    "[2026-10-02 15:50:16] outreach: 뷰포트 강제 후 innerWidth 1400",
+    "[2026-10-02 15:50:31] outreach: 계정 확인: @studiohaetae",
+    "[2026-10-02 15:50:53] outreach: 검색: 애드센스 승인 → 이 화면 후보 1건 (누적 1)",
+    "[2026-10-02 15:51:38] outreach: 대상 확인: @ballaljenni (원글 본문 일치)",
+    "[2026-10-02 15:51:48] outreach: 답글 @ballaljenni",
+    "[2026-10-02 15:56:37] outreach: 검색: 구독자 정체 → 이 화면 후보 4건 (누적 5)",
+    "[2026-10-02 15:57:35] outreach: 대상 확인: @noteforeststudio (원글 본문 일치)",
+    "[2026-10-02 15:57:44] outreach: 답글 @noteforeststudio",
+    "[2026-10-02 15:57:44] outreach: 훑은 글 중 제외: 자기 숫자 없음 15 · 주제 밖 13 · 너무 짧음 7 · 차단어 5 · 광고·영업 1",
+    "[2026-10-02 15:57:44] outreach: 이번 회차 후보 5건 · 모델 호출 2건",
+    "[2026-10-02 15:57:44] outreach: 이번 실행 2건 · 오늘 누적 답글 8/10 · 팔로우 6/6",
+    "[2026-10-02 15:57:46] outreach: ego 창 닫음"
   ]
 }
