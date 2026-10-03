@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T01:06:29",
+  "generated_at": "2026-10-04T02:30:00",
   "username": "studiohaetae",
   "followers": 140,
   "followers_history": [
@@ -607,7 +607,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-10-03 22:15:51] outreach: follow: 팔로워 142명 @hyesook18 — 기준(500) 미달, 건너뜀",
     "[2026-10-03 22:15:51] outreach: follow: 팔로워 35명 @huraizzang — 기준(500) 미달, 건너뜀",
     "[2026-10-03 22:15:51] outreach: follow: 팔로워 1명 @panda.zip1 — 기준(500) 미달, 건너뜀",
     "[2026-10-03 22:15:51] outreach: follow: 이번 회차 3명 · 오늘 누적 8/20",
@@ -621,6 +620,7 @@
     "[2026-10-03 23:40:44] 답글 37건 수집 -> replies-2026-10-03.json",
     "[2026-10-03 23:40:58] refill: 경보: 큐 잔량 5편 (기준 6) · 대기 중인 초안 3편",
     "[2026-10-03 23:40:58] refill: 초안이 있다. python3 refill.py drafts 로 보고 promote 해라.",
-    "[2026-10-03 23:41:50] digest 갱신: 팔로워 140 · 미답변 8건 · 큐 5개 · 오늘 답글 10 · 되물음 0 · 팔로우 14"
+    "[2026-10-03 23:41:50] digest 갱신: 팔로워 140 · 미답변 8건 · 큐 5개 · 오늘 답글 10 · 되물음 0 · 팔로우 14",
+    "[2026-10-04 01:07:15] digest 갱신: 팔로워 140 · 미답변 8건 · 큐 5개 · 오늘 답글 0 · 되물음 0 · 팔로우 0"
   ]
 }
