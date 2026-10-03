@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-04T07:08:54",
+  "generated_at": "2026-10-04T08:33:22",
   "username": "studiohaetae",
-  "followers": 140,
+  "followers": 141,
   "followers_history": [
     {
       "date": "2026-09-20",
@@ -368,7 +368,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Dd_YWDRmEeV",
       "text": "AI가 데이터센터 투자를 정당화하려면 연 6조 달러를 벌어야 한다는 글을 봤다.\n\n지금 전세계 AI 매출을 다 더해도 그 근처는 아닐 것 같다.\n\n숫자가 너무 커서 저는 감이 안 온다.\n\n이 숫자 보고 다들 어떤 생",
-      "views": 174,
+      "views": 175,
       "likes": 0,
       "replies": 1
     },
@@ -379,7 +379,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DeBHWnAGKtS",
       "text": "레딧이 RSS 피드를 막고 공개 API 접근을 끊는다고 합니다.\n이유는 AI 봇이라고 합니다.\n\n저도 AI로 콘텐츠를 자동으로 돌리는 입장이라 뜨거운 소식입니다.\n막히면 다음엔 뭘 긁어야 하는지 아직 모르겠습니다.\n",
-      "views": 211,
+      "views": 212,
       "likes": 0,
       "replies": 0
     },
@@ -390,7 +390,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DeB9I8aGNkF",
       "text": "HN에 654점짜리 글이 떴다.\n\n제목이 \"You said no MCP\" 다.\n\n나는 요즘 되는 대로 다 MCP로 붙이고 있다.\n\n근데 이 글은 반대 얘기를 하는 것 같다.\n\n본문은 아직 못 읽었다.\n\nMCP 쓰다가",
-      "views": 40,
+      "views": 41,
       "likes": 0,
       "replies": 0
     },
@@ -607,7 +607,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-10-03 23:40:44] 답글 37건 수집 -> replies-2026-10-03.json",
     "[2026-10-03 23:40:58] refill: 경보: 큐 잔량 5편 (기준 6) · 대기 중인 초안 3편",
     "[2026-10-03 23:40:58] refill: 초안이 있다. python3 refill.py drafts 로 보고 promote 해라.",
     "[2026-10-03 23:41:50] digest 갱신: 팔로워 140 · 미답변 8건 · 큐 5개 · 오늘 답글 10 · 되물음 0 · 팔로우 14",
@@ -621,6 +620,7 @@
     "[2026-10-04 05:32:26] digest 갱신: 팔로워 140 · 미답변 8건 · 큐 5개 · 오늘 답글 0 · 되물음 0 · 팔로우 0",
     "[2026-10-04 05:32:26] agent: 보류 유지 8건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_, @juvin950). 다시 보려면 --recheck-all",
     "[2026-10-04 05:33:22] digest 갱신: 팔로워 140 · 미답변 8건 · 큐 5개 · 오늘 답글 0 · 되물음 0 · 팔로우 0",
-    "[2026-10-04 05:33:22] agent: 자동 답글 0건 · 신규 판정 대상 없음"
+    "[2026-10-04 05:33:22] agent: 자동 답글 0건 · 신규 판정 대상 없음",
+    "[2026-10-04 07:09:49] digest 갱신: 팔로워 140 · 미답변 8건 · 큐 5개 · 오늘 답글 0 · 되물음 0 · 팔로우 0"
   ]
 }
