@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T23:40:58",
+  "generated_at": "2026-10-04T01:06:29",
   "username": "studiohaetae",
   "followers": 140,
   "followers_history": [
@@ -346,7 +346,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Dc_Ae1mmC0d",
       "text": "같은 사람이 만든 채널 11개인데 전환율이 15배 차이 납니다.\n\n28일 실측입니다.\n제일 높은 채널은 조회 2만 8천에 구독 순증 101명. 0.35%입니다.\n제일 낮은 채널은 조회 8천에 구독 순증 2명. 0.0",
-      "views": 228,
+      "views": 229,
       "likes": 1,
       "replies": 6
     },
@@ -357,7 +357,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Dd-ij0jGLVs",
       "text": "피그마가 MCP 접속을 화이트리스트로만 열었습니다.\nPi는 그 목록에 없습니다.\n\n아직 써본 적은 없습니다.\n어떻게 쓰는 건지도 모릅니다.\n\n플랫폼이 통로를 정하면, 거기 없는 도구는 없는 셈이 됩니다.",
-      "views": 175,
+      "views": 176,
       "likes": 1,
       "replies": 1
     },
@@ -368,7 +368,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Dd_YWDRmEeV",
       "text": "AI가 데이터센터 투자를 정당화하려면 연 6조 달러를 벌어야 한다는 글을 봤다.\n\n지금 전세계 AI 매출을 다 더해도 그 근처는 아닐 것 같다.\n\n숫자가 너무 커서 저는 감이 안 온다.\n\n이 숫자 보고 다들 어떤 생",
-      "views": 173,
+      "views": 174,
       "likes": 0,
       "replies": 1
     },
@@ -379,7 +379,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DeBHWnAGKtS",
       "text": "레딧이 RSS 피드를 막고 공개 API 접근을 끊는다고 합니다.\n이유는 AI 봇이라고 합니다.\n\n저도 AI로 콘텐츠를 자동으로 돌리는 입장이라 뜨거운 소식입니다.\n막히면 다음엔 뭘 긁어야 하는지 아직 모르겠습니다.\n",
-      "views": 205,
+      "views": 210,
       "likes": 0,
       "replies": 0
     },
@@ -390,7 +390,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DeB9I8aGNkF",
       "text": "HN에 654점짜리 글이 떴다.\n\n제목이 \"You said no MCP\" 다.\n\n나는 요즘 되는 대로 다 MCP로 붙이고 있다.\n\n근데 이 글은 반대 얘기를 하는 것 같다.\n\n본문은 아직 못 읽었다.\n\nMCP 쓰다가",
-      "views": 38,
+      "views": 39,
       "likes": 0,
       "replies": 0
     },
@@ -521,18 +521,11 @@
   ],
   "outreach": {
     "today": {
-      "replies": 10,
+      "replies": 0,
       "followups": 0,
-      "follows": 14
+      "follows": 0
     },
     "last7": [
-      {
-        "date": "2026-09-27",
-        "replies": 0,
-        "followups": 0,
-        "follows": 0,
-        "followers": 134
-      },
       {
         "date": "2026-09-28",
         "replies": 0,
@@ -574,6 +567,13 @@
         "followups": 0,
         "follows": 14,
         "followers": 140
+      },
+      {
+        "date": "2026-10-04",
+        "replies": 0,
+        "followups": 0,
+        "follows": 0,
+        "followers": null
       }
     ],
     "last_run": {
@@ -584,15 +584,15 @@
     "alerts": [],
     "runs_today": {
       "outreach": {
-        "ran": 6,
+        "ran": 0,
         "missed": []
       },
       "followups": {
-        "ran": 6,
+        "ran": 0,
         "missed": []
       },
       "follows": {
-        "ran": 5,
+        "ran": 0,
         "missed": []
       }
     },
@@ -607,7 +607,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-10-03 22:15:51] outreach: follow: 팔로워 171명 @plainmood_music — 기준(500) 미달, 건너뜀",
     "[2026-10-03 22:15:51] outreach: follow: 팔로워 142명 @hyesook18 — 기준(500) 미달, 건너뜀",
     "[2026-10-03 22:15:51] outreach: follow: 팔로워 35명 @huraizzang — 기준(500) 미달, 건너뜀",
     "[2026-10-03 22:15:51] outreach: follow: 팔로워 1명 @panda.zip1 — 기준(500) 미달, 건너뜀",
@@ -621,6 +620,7 @@
     "[2026-10-03 23:40:01] 스냅샷: {\"date\": \"2026-10-03\", \"at\": \"2026-10-03T23:40:00\", \"followers\": 140, \"views\": 1017, \"likes\": 3, \"replies\": 3, \"reposts\": 0, \"quotes\": 0, \"clicks\": null}",
     "[2026-10-03 23:40:44] 답글 37건 수집 -> replies-2026-10-03.json",
     "[2026-10-03 23:40:58] refill: 경보: 큐 잔량 5편 (기준 6) · 대기 중인 초안 3편",
-    "[2026-10-03 23:40:58] refill: 초안이 있다. python3 refill.py drafts 로 보고 promote 해라."
+    "[2026-10-03 23:40:58] refill: 초안이 있다. python3 refill.py drafts 로 보고 promote 해라.",
+    "[2026-10-03 23:41:50] digest 갱신: 팔로워 140 · 미답변 8건 · 큐 5개 · 오늘 답글 10 · 되물음 0 · 팔로우 14"
   ]
 }
