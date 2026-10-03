@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T17:24:53",
+  "generated_at": "2026-10-03T17:25:57",
   "username": "studiohaetae",
   "followers": 139,
   "followers_history": [
@@ -596,9 +596,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-10-03 17:20:42] outreach: follow: 후보 계정 11명",
-    "[2026-10-03 17:21:31] outreach: follow: 프로필 11개 확인 — 팔로워 큰 순으로 진행",
-    "[2026-10-03 17:21:37] outreach: follow: 팔로우 @jinyoung3375 (팔로워 2,169명)",
     "[2026-10-03 17:22:39] outreach: follow: 팔로워 273명 @choiyoungmin_no — 기준(500) 미달, 건너뜀",
     "[2026-10-03 17:22:39] outreach: follow: 팔로워 191명 @dyotamusic — 기준(500) 미달, 건너뜀",
     "[2026-10-03 17:22:39] outreach: follow: 팔로워 56명 @periodista3100 — 기준(500) 미달, 건너뜀",
@@ -610,6 +607,9 @@
     "[2026-10-03 17:22:39] outreach: follow: 팔로워 2명 @doornotdoornot — 기준(500) 미달, 건너뜀",
     "[2026-10-03 17:22:39] outreach: follow: 팔로워 0명 @rlagmldus90 — 기준(500) 미달, 건너뜀",
     "[2026-10-03 17:22:39] outreach: follow: 이번 회차 1명 · 오늘 누적 4/20",
-    "[2026-10-03 17:22:39] outreach: follow: ego 창 닫음"
+    "[2026-10-03 17:22:39] outreach: follow: ego 창 닫음",
+    "[2026-10-03 17:25:40] digest 갱신: 팔로워 139 · 미답변 8건 · 큐 6개 · 오늘 답글 6 · 되물음 0 · 팔로우 10",
+    "[2026-10-03 17:25:40] agent: 보류 유지 7건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_, @juvin950). 다시 보려면 --recheck-all",
+    "[2026-10-03 17:25:56] agent: 보류 @nuriai26 — 화폐·패권전쟁 등 경제/정치적 주제의 논쟁으로, 보유한 유튜브 실측 숫자만으로 성실하게 답할 수 없음 (이후 재평가 중단)"
   ]
 }
