@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-03T17:03:18",
+  "generated_at": "2026-10-03T17:24:53",
   "username": "studiohaetae",
-  "followers": 138,
+  "followers": 139,
   "followers_history": [
     {
       "date": "2026-09-19",
@@ -368,7 +368,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Dd_YWDRmEeV",
       "text": "AI가 데이터센터 투자를 정당화하려면 연 6조 달러를 벌어야 한다는 글을 봤다.\n\n지금 전세계 AI 매출을 다 더해도 그 근처는 아닐 것 같다.\n\n숫자가 너무 커서 저는 감이 안 온다.\n\n이 숫자 보고 다들 어떤 생",
-      "views": 167,
+      "views": 171,
       "likes": 0,
       "replies": 1
     },
@@ -379,7 +379,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DeBHWnAGKtS",
       "text": "레딧이 RSS 피드를 막고 공개 API 접근을 끊는다고 합니다.\n이유는 AI 봇이라고 합니다.\n\n저도 AI로 콘텐츠를 자동으로 돌리는 입장이라 뜨거운 소식입니다.\n막히면 다음엔 뭘 긁어야 하는지 아직 모르겠습니다.\n",
-      "views": 195,
+      "views": 196,
       "likes": 0,
       "replies": 0
     },
@@ -512,7 +512,7 @@
     "today": {
       "replies": 6,
       "followups": 0,
-      "follows": 9
+      "follows": 10
     },
     "last7": [
       {
@@ -561,14 +561,14 @@
         "date": "2026-10-03",
         "replies": 6,
         "followups": 0,
-        "follows": 9,
+        "follows": 10,
         "followers": null
       }
     ],
     "last_run": {
       "outreach": "2026-10-03T15:58",
       "followups": "2026-10-03T15:30",
-      "follows": "2026-10-03T14:32"
+      "follows": "2026-10-03T17:22"
     },
     "alerts": [],
     "runs_today": {
@@ -587,7 +587,7 @@
     },
     "follow_experiment": {
       "followers_delta_7d": 2,
-      "follows_7d": 25,
+      "follows_7d": 26,
       "replies_7d": 16,
       "note": "팔로우 대비 팔로워 증가. 답글과 섞여 있어 단독 인과는 못 본다"
     }
@@ -596,20 +596,20 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-10-03 15:50:43] outreach: 검색: 조회수 1000회 → 이 화면 후보 4건 (누적 4)",
-    "[2026-10-03 15:50:59] outreach: skip @hello_midstyle — 팔로우 유도형 자기홍보 글(10만 구독자 달성을 내세운 '팔로우해야 하는 이유' 목록)이라 계산할 상대방 숫자 쌍이 없고, 리",
-    "[2026-10-03 15:51:45] outreach: 대상 확인: @mankgu1 (원글 본문 일치)",
-    "[2026-10-03 15:51:52] outreach: 답글 @mankgu1",
-    "[2026-10-03 15:52:00] outreach: 팔로우 @mankgu1",
-    "[2026-10-03 15:56:08] outreach: skip @nitro2red — 특정인의 숫자 주장이 사실인지 의심하며 비방성 추궁을 하는 글이다. 우리 FACTS로 계산해 얹을 지표가 없고, 제3자를 겨냥",
-    "[2026-10-03 15:56:25] outreach: skip @dorun.comy — 블로그 조회수 얘기라 매체가 다름. 우리 FACTS는 유튜브 영상 조회수·구독자 전환율뿐이라 블로그 조회수와 비교할 숫자가 없",
-    "[2026-10-03 15:56:45] outreach: 검색: 첫 영상 → 이 화면 후보 2건 (누적 6)",
-    "[2026-10-03 15:57:43] outreach: 대상 확인: @kibaekjeong (원글 본문 일치)",
-    "[2026-10-03 15:57:51] outreach: 답글 @kibaekjeong",
-    "[2026-10-03 15:57:59] outreach: 팔로우 @kibaekjeong",
-    "[2026-10-03 15:57:59] outreach: 훑은 글 중 제외: 주제 밖 12 · 자기 숫자 없음 6 · 광고·영업 5 · 너무 짧음 4 · 차단어 1",
-    "[2026-10-03 15:57:59] outreach: 이번 회차 후보 6건 · 모델 호출 5건",
-    "[2026-10-03 15:57:59] outreach: 이번 실행 2건 · 오늘 누적 답글 6/10 · 팔로우 6/6",
-    "[2026-10-03 15:58:00] outreach: ego 창 닫음"
+    "[2026-10-03 17:20:42] outreach: follow: 후보 계정 11명",
+    "[2026-10-03 17:21:31] outreach: follow: 프로필 11개 확인 — 팔로워 큰 순으로 진행",
+    "[2026-10-03 17:21:37] outreach: follow: 팔로우 @jinyoung3375 (팔로워 2,169명)",
+    "[2026-10-03 17:22:39] outreach: follow: 팔로워 273명 @choiyoungmin_no — 기준(500) 미달, 건너뜀",
+    "[2026-10-03 17:22:39] outreach: follow: 팔로워 191명 @dyotamusic — 기준(500) 미달, 건너뜀",
+    "[2026-10-03 17:22:39] outreach: follow: 팔로워 56명 @periodista3100 — 기준(500) 미달, 건너뜀",
+    "[2026-10-03 17:22:39] outreach: follow: 팔로워 49명 @fineireancom — 기준(500) 미달, 건너뜀",
+    "[2026-10-03 17:22:39] outreach: follow: 팔로워 49명 @t_eacher_k — 기준(500) 미달, 건너뜀",
+    "[2026-10-03 17:22:39] outreach: follow: 팔로워 36명 @bus.commuter — 기준(500) 미달, 건너뜀",
+    "[2026-10-03 17:22:39] outreach: follow: 팔로워 31명 @teumiteumi01 — 기준(500) 미달, 건너뜀",
+    "[2026-10-03 17:22:39] outreach: follow: 팔로워 29명 @ssyeco22 — 기준(500) 미달, 건너뜀",
+    "[2026-10-03 17:22:39] outreach: follow: 팔로워 2명 @doornotdoornot — 기준(500) 미달, 건너뜀",
+    "[2026-10-03 17:22:39] outreach: follow: 팔로워 0명 @rlagmldus90 — 기준(500) 미달, 건너뜀",
+    "[2026-10-03 17:22:39] outreach: follow: 이번 회차 1명 · 오늘 누적 4/20",
+    "[2026-10-03 17:22:39] outreach: follow: ego 창 닫음"
   ]
 }
