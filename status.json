@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T17:25:57",
+  "generated_at": "2026-10-03T19:04:05",
   "username": "studiohaetae",
   "followers": 139,
   "followers_history": [
@@ -346,7 +346,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Dc_Ae1mmC0d",
       "text": "같은 사람이 만든 채널 11개인데 전환율이 15배 차이 납니다.\n\n28일 실측입니다.\n제일 높은 채널은 조회 2만 8천에 구독 순증 101명. 0.35%입니다.\n제일 낮은 채널은 조회 8천에 구독 순증 2명. 0.0",
-      "views": 226,
+      "views": 227,
       "likes": 1,
       "replies": 6
     },
@@ -357,7 +357,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Dd-ij0jGLVs",
       "text": "피그마가 MCP 접속을 화이트리스트로만 열었습니다.\nPi는 그 목록에 없습니다.\n\n아직 써본 적은 없습니다.\n어떻게 쓰는 건지도 모릅니다.\n\n플랫폼이 통로를 정하면, 거기 없는 도구는 없는 셈이 됩니다.",
-      "views": 174,
+      "views": 175,
       "likes": 1,
       "replies": 1
     },
@@ -368,7 +368,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Dd_YWDRmEeV",
       "text": "AI가 데이터센터 투자를 정당화하려면 연 6조 달러를 벌어야 한다는 글을 봤다.\n\n지금 전세계 AI 매출을 다 더해도 그 근처는 아닐 것 같다.\n\n숫자가 너무 커서 저는 감이 안 온다.\n\n이 숫자 보고 다들 어떤 생",
-      "views": 171,
+      "views": 172,
       "likes": 0,
       "replies": 1
     },
@@ -379,7 +379,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DeBHWnAGKtS",
       "text": "레딧이 RSS 피드를 막고 공개 API 접근을 끊는다고 합니다.\n이유는 AI 봇이라고 합니다.\n\n저도 AI로 콘텐츠를 자동으로 돌리는 입장이라 뜨거운 소식입니다.\n막히면 다음엔 뭘 긁어야 하는지 아직 모르겠습니다.\n",
-      "views": 196,
+      "views": 199,
       "likes": 0,
       "replies": 0
     },
@@ -510,7 +510,7 @@
   ],
   "outreach": {
     "today": {
-      "replies": 6,
+      "replies": 8,
       "followups": 0,
       "follows": 10
     },
@@ -559,36 +559,36 @@
       },
       {
         "date": "2026-10-03",
-        "replies": 6,
+        "replies": 8,
         "followups": 0,
         "follows": 10,
         "followers": null
       }
     ],
     "last_run": {
-      "outreach": "2026-10-03T15:58",
-      "followups": "2026-10-03T15:30",
+      "outreach": "2026-10-03T18:36",
+      "followups": "2026-10-03T18:10",
       "follows": "2026-10-03T17:22"
     },
     "alerts": [],
     "runs_today": {
       "outreach": {
-        "ran": 4,
+        "ran": 5,
         "missed": []
       },
       "followups": {
-        "ran": 4,
+        "ran": 5,
         "missed": []
       },
       "follows": {
-        "ran": 2,
+        "ran": 3,
         "missed": []
       }
     },
     "follow_experiment": {
       "followers_delta_7d": 2,
       "follows_7d": 26,
-      "replies_7d": 16,
+      "replies_7d": 18,
       "note": "팔로우 대비 팔로워 증가. 답글과 섞여 있어 단독 인과는 못 본다"
     }
   },
@@ -596,20 +596,20 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-10-03 17:22:39] outreach: follow: 팔로워 273명 @choiyoungmin_no — 기준(500) 미달, 건너뜀",
-    "[2026-10-03 17:22:39] outreach: follow: 팔로워 191명 @dyotamusic — 기준(500) 미달, 건너뜀",
-    "[2026-10-03 17:22:39] outreach: follow: 팔로워 56명 @periodista3100 — 기준(500) 미달, 건너뜀",
-    "[2026-10-03 17:22:39] outreach: follow: 팔로워 49명 @fineireancom — 기준(500) 미달, 건너뜀",
-    "[2026-10-03 17:22:39] outreach: follow: 팔로워 49명 @t_eacher_k — 기준(500) 미달, 건너뜀",
-    "[2026-10-03 17:22:39] outreach: follow: 팔로워 36명 @bus.commuter — 기준(500) 미달, 건너뜀",
-    "[2026-10-03 17:22:39] outreach: follow: 팔로워 31명 @teumiteumi01 — 기준(500) 미달, 건너뜀",
-    "[2026-10-03 17:22:39] outreach: follow: 팔로워 29명 @ssyeco22 — 기준(500) 미달, 건너뜀",
-    "[2026-10-03 17:22:39] outreach: follow: 팔로워 2명 @doornotdoornot — 기준(500) 미달, 건너뜀",
-    "[2026-10-03 17:22:39] outreach: follow: 팔로워 0명 @rlagmldus90 — 기준(500) 미달, 건너뜀",
-    "[2026-10-03 17:22:39] outreach: follow: 이번 회차 1명 · 오늘 누적 4/20",
-    "[2026-10-03 17:22:39] outreach: follow: ego 창 닫음",
-    "[2026-10-03 17:25:40] digest 갱신: 팔로워 139 · 미답변 8건 · 큐 6개 · 오늘 답글 6 · 되물음 0 · 팔로우 10",
-    "[2026-10-03 17:25:40] agent: 보류 유지 7건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_, @juvin950). 다시 보려면 --recheck-all",
-    "[2026-10-03 17:25:56] agent: 보류 @nuriai26 — 화폐·패권전쟁 등 경제/정치적 주제의 논쟁으로, 보유한 유튜브 실측 숫자만으로 성실하게 답할 수 없음 (이후 재평가 중단)"
+    "[2026-10-03 18:10:23] outreach: followup: 되물음 후보 0건 (이미 답한 것 제외)",
+    "[2026-10-03 18:10:24] outreach: followup: ego 창 닫음",
+    "[2026-10-03 18:30:09] outreach: 창이 좁다(innerWidth 1068) — 뷰포트를 강제한다",
+    "[2026-10-03 18:30:10] outreach: 뷰포트 강제 후 innerWidth 1400",
+    "[2026-10-03 18:30:23] outreach: 계정 확인: @studiohaetae",
+    "[2026-10-03 18:30:42] outreach: 검색: 유튜브 구독자 → 이 화면 후보 3건 (누적 3)",
+    "[2026-10-03 18:31:18] outreach: 대상 확인: @pyeonhaejim (원글 본문 일치)",
+    "[2026-10-03 18:31:27] outreach: 답글 @pyeonhaejim",
+    "[2026-10-03 18:36:11] outreach: 클릭 진입 실패 @chuchu___looove — 직접 로드로 한 번 시도한다",
+    "[2026-10-03 18:36:22] outreach: 대상 확인: @chuchu___looove (원글 본문 일치)",
+    "[2026-10-03 18:36:30] outreach: 답글 @chuchu___looove",
+    "[2026-10-03 18:36:30] outreach: 훑은 글 중 제외: 너무 짧음 9 · 주제 밖 4 · 차단어 1",
+    "[2026-10-03 18:36:30] outreach: 이번 회차 후보 3건 · 모델 호출 2건",
+    "[2026-10-03 18:36:30] outreach: 이번 실행 2건 · 오늘 누적 답글 8/10 · 팔로우 6/6",
+    "[2026-10-03 18:36:30] outreach: ego 창 닫음"
   ]
 }
