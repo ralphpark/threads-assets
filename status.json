@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T07:18:43",
+  "generated_at": "2026-10-05T08:46:56",
   "username": "studiohaetae",
   "followers": 146,
   "followers_history": [
@@ -62,7 +62,7 @@
   ],
   "queue_pending": 3,
   "queue_next": "피그마가 MCP 연결을 화이트리스트 클라이언트로만 열었습니다.\nPi는 그 명단에서 빠졌습니다.\n\n저는 MCP",
-  "queue_drafts": 5,
+  "queue_drafts": 7,
   "queue_alert": "원고 잔량 3편. 3편 이하다. refill.py check 를 돌리고 초안이 있으면 promote 해라.",
   "posts": [
     {
@@ -413,7 +413,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DeEh71ZmDf2",
       "text": "레딧이 RSS 피드랑 퍼블릭 API를 없앤대\nAI 봇들이 긁어가는 거 때문이라는데\n근데 그거 쓰던 게 봇만은 아니었잖아\n뭐 만들어보려던 사람들도 거기 걸려있었는데\n결국 다 같이 막혀버리네🥲\nAI가 만든 문제를 AI ",
-      "views": 370,
+      "views": 371,
       "likes": 0,
       "replies": 0
     },
@@ -644,8 +644,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-10-04 23:42:11] digest 갱신: 팔로워 146 · 미답변 10건 · 큐 3개 · 오늘 답글 10 · 되물음 0 · 팔로우 7",
-    "[2026-10-04 23:42:11] agent: 보류 유지 10건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_, @juvin950). 다시 보려면 --recheck-all",
     "[2026-10-04 23:43:12] digest 갱신: 팔로워 146 · 미답변 10건 · 큐 3개 · 오늘 답글 10 · 되물음 0 · 팔로우 7",
     "[2026-10-04 23:43:12] agent: 자동 답글 0건 · 신규 판정 대상 없음",
     "[2026-10-05 01:17:00] digest 갱신: 팔로워 146 · 미답변 10건 · 큐 3개 · 오늘 답글 0 · 되물음 0 · 팔로우 0",
@@ -658,6 +656,8 @@
     "[2026-10-05 05:45:49] digest 갱신: 팔로워 146 · 미답변 10건 · 큐 3개 · 오늘 답글 0 · 되물음 0 · 팔로우 0",
     "[2026-10-05 05:45:49] agent: 보류 유지 10건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_, @juvin950). 다시 보려면 --recheck-all",
     "[2026-10-05 05:46:54] digest 갱신: 팔로워 146 · 미답변 10건 · 큐 3개 · 오늘 답글 0 · 되물음 0 · 팔로우 0",
-    "[2026-10-05 05:46:54] agent: 자동 답글 0건 · 신규 판정 대상 없음"
+    "[2026-10-05 05:46:54] agent: 자동 답글 0건 · 신규 판정 대상 없음",
+    "[2026-10-05 07:19:39] digest 갱신: 팔로워 146 · 미답변 10건 · 큐 3개 · 오늘 답글 0 · 되물음 0 · 팔로우 0",
+    "[2026-10-05 08:40:00] news: 소재 5건 (최근 48시간 · 80점 이상)"
   ]
 }
