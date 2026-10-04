@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-04T14:37:23",
+  "generated_at": "2026-10-04T15:11:58",
   "username": "studiohaetae",
-  "followers": 143,
+  "followers": 145,
   "followers_history": [
     {
       "date": "2026-09-20",
@@ -401,7 +401,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DeDsJb5GPyj",
       "text": "레딧이 RSS 피드를 없앤다고 합니다.\n이유는 AI 봇입니다.\n\n저도 매일 AI로 채널을 자동으로 돌리고 있습니다.\n제가 쓰는 자동화가, 플랫폼에는 막아야 할 트래픽이었습니다.\n\n제 봇도 언젠가 어딘가에서 차단 대상",
-      "views": 215,
+      "views": 228,
       "likes": 1,
       "replies": 1
     },
@@ -632,8 +632,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-10-04 13:17:16] outreach: ego 창 닫음",
-    "[2026-10-04 14:30:09] outreach: follow: 창이 좁다(innerWidth 1068) — 뷰포트를 강제한다",
     "[2026-10-04 14:30:10] outreach: follow: 뷰포트 강제 후 innerWidth 1400",
     "[2026-10-04 14:30:21] outreach: follow: 검색: 유튜브 한달",
     "[2026-10-04 14:30:28] outreach: follow: 검색: 유튜브 알고리즘",
@@ -646,6 +644,8 @@
     "[2026-10-04 14:36:55] digest 갱신: 팔로워 143 · 미답변 10건 · 큐 4개 · 오늘 답글 6 · 되물음 0 · 팔로우 6",
     "[2026-10-04 14:36:55] agent: 보류 유지 8건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_, @juvin950). 다시 보려면 --recheck-all",
     "[2026-10-04 14:37:03] agent: 보류 @seungjun603 — 내용이 불분명하다 — '속슬이 미래닷'이 무슨 뜻인지 파악이 안 되고, 실측 숫자로 답할 수 있는 질문이나 맥락이 없다. (이후 재평가 중단)",
-    "[2026-10-04 14:37:22] agent: 보류 @seungjun603 — 스하리(맞구독성 품앗이) 류 응원 댓글로, 숫자나 질문이 없어 답글 공식(상대 숫자로 비율 계산)이 성립하지 않음. 운영 규칙상 스하리류는 건드리지 않는 것으로 되어 있어 보류. (이후 재평가 중단)"
+    "[2026-10-04 14:37:22] agent: 보류 @seungjun603 — 스하리(맞구독성 품앗이) 류 응원 댓글로, 숫자나 질문이 없어 답글 공식(상대 숫자로 비율 계산)이 성립하지 않음. 운영 규칙상 스하리류는 건드리지 않는 것으로 되어 있어 보류. (이후 재평가 중단)",
+    "[2026-10-04 14:38:10] digest 갱신: 팔로워 143 · 미답변 10건 · 큐 4개 · 오늘 답글 6 · 되물음 0 · 팔로우 6",
+    "[2026-10-04 14:38:10] agent: 자동 답글 0건 · 보류 10건(굳은 것 10건)"
   ]
 }
