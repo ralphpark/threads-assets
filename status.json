@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-04T13:11:09",
+  "generated_at": "2026-10-04T14:36:04",
   "username": "studiohaetae",
-  "followers": 142,
+  "followers": 143,
   "followers_history": [
     {
       "date": "2026-09-20",
@@ -335,7 +335,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Dc8br46mFWY",
       "text": "채널 11개를 28일 기준으로 합쳤습니다.\n조회수 68만 8천, 유효 시청시간 2,990시간입니다.\n\n나눠보면 조회 1회당 15.6초입니다.\n\n수익화 기준인 3,000시간을 이 비율로 채우려면 조회수가 69만 회 필",
-      "views": 177,
+      "views": 179,
       "likes": 2,
       "replies": 0
     },
@@ -346,8 +346,8 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Dc_Ae1mmC0d",
       "text": "같은 사람이 만든 채널 11개인데 전환율이 15배 차이 납니다.\n\n28일 실측입니다.\n제일 높은 채널은 조회 2만 8천에 구독 순증 101명. 0.35%입니다.\n제일 낮은 채널은 조회 8천에 구독 순증 2명. 0.0",
-      "views": 233,
-      "likes": 1,
+      "views": 235,
+      "likes": 2,
       "replies": 6
     },
     {
@@ -357,8 +357,8 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Dd-ij0jGLVs",
       "text": "피그마가 MCP 접속을 화이트리스트로만 열었습니다.\nPi는 그 목록에 없습니다.\n\n아직 써본 적은 없습니다.\n어떻게 쓰는 건지도 모릅니다.\n\n플랫폼이 통로를 정하면, 거기 없는 도구는 없는 셈이 됩니다.",
-      "views": 183,
-      "likes": 1,
+      "views": 185,
+      "likes": 2,
       "replies": 1
     },
     {
@@ -368,9 +368,9 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Dd_YWDRmEeV",
       "text": "AI가 데이터센터 투자를 정당화하려면 연 6조 달러를 벌어야 한다는 글을 봤다.\n\n지금 전세계 AI 매출을 다 더해도 그 근처는 아닐 것 같다.\n\n숫자가 너무 커서 저는 감이 안 온다.\n\n이 숫자 보고 다들 어떤 생",
-      "views": 182,
-      "likes": 0,
-      "replies": 1
+      "views": 184,
+      "likes": 1,
+      "replies": 2
     },
     {
       "at": "2026-10-03T12:40:11",
@@ -379,8 +379,8 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DeBHWnAGKtS",
       "text": "레딧이 RSS 피드를 막고 공개 API 접근을 끊는다고 합니다.\n이유는 AI 봇이라고 합니다.\n\n저도 AI로 콘텐츠를 자동으로 돌리는 입장이라 뜨거운 소식입니다.\n막히면 다음엔 뭘 긁어야 하는지 아직 모르겠습니다.\n",
-      "views": 222,
-      "likes": 0,
+      "views": 225,
+      "likes": 1,
       "replies": 0
     },
     {
@@ -390,8 +390,8 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DeB9I8aGNkF",
       "text": "HN에 654점짜리 글이 떴다.\n\n제목이 \"You said no MCP\" 다.\n\n나는 요즘 되는 대로 다 MCP로 붙이고 있다.\n\n근데 이 글은 반대 얘기를 하는 것 같다.\n\n본문은 아직 못 읽었다.\n\nMCP 쓰다가",
-      "views": 50,
-      "likes": 0,
+      "views": 55,
+      "likes": 1,
       "replies": 0
     },
     {
@@ -401,9 +401,9 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DeDsJb5GPyj",
       "text": "레딧이 RSS 피드를 없앤다고 합니다.\n이유는 AI 봇입니다.\n\n저도 매일 AI로 채널을 자동으로 돌리고 있습니다.\n제가 쓰는 자동화가, 플랫폼에는 막아야 할 트래픽이었습니다.\n\n제 봇도 언젠가 어딘가에서 차단 대상",
-      "views": 70,
-      "likes": 0,
-      "replies": 0
+      "views": 215,
+      "likes": 1,
+      "replies": 1
     },
     {
       "at": "2026-08-25T22:52:40",
@@ -523,18 +523,32 @@
       "on_post": "17930252442407304"
     },
     {
+      "id": "18166954762485749",
+      "username": "seungjun603",
+      "text": "속슬이 미래닷!",
+      "at": "2026-10-04T04:14:33+0000",
+      "on_post": "18344071495251790"
+    },
+    {
       "id": "18094879625404802",
       "username": "nuriai26",
       "text": "화폐개념으로 생각하면 그렇죠 패권전쟁이라면 다른얘기",
       "at": "2026-10-03T07:30:17+0000",
       "on_post": "18344071495251790"
+    },
+    {
+      "id": "18270190162307058",
+      "username": "seungjun603",
+      "text": "스레드서 차단될지도 모르는 실험을 진행중인데 저도 곧 그리될지도. ㅜㅠ 스하리 하구 갑니다. 다른 글들도 찬찬히 읽어볼게욧^^",
+      "at": "2026-10-04T04:14:13+0000",
+      "on_post": "18130867297748608"
     }
   ],
   "outreach": {
     "today": {
-      "replies": 5,
+      "replies": 6,
       "followups": 0,
-      "follows": 5
+      "follows": 6
     },
     "last7": [
       {
@@ -581,21 +595,21 @@
       },
       {
         "date": "2026-10-04",
-        "replies": 5,
+        "replies": 6,
         "followups": 0,
-        "follows": 5,
+        "follows": 6,
         "followers": null
       }
     ],
     "last_run": {
-      "outreach": "2026-10-04T13:11",
+      "outreach": "2026-10-04T13:17",
       "followups": "2026-10-04T12:50",
-      "follows": "2026-10-04T10:30"
+      "follows": "2026-10-04T14:30"
     },
     "alerts": [],
     "runs_today": {
       "outreach": {
-        "ran": 2,
+        "ran": 3,
         "missed": []
       },
       "followups": {
@@ -609,8 +623,8 @@
     },
     "follow_experiment": {
       "followers_delta_7d": 6,
-      "follows_7d": 35,
-      "replies_7d": 25,
+      "follows_7d": 36,
+      "replies_7d": 26,
       "note": "팔로우 대비 팔로워 증가. 답글과 섞여 있어 단독 인과는 못 본다"
     }
   },
@@ -618,20 +632,20 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-10-04 11:45:59] outreach: ego 창 닫음",
-    "[2026-10-04 12:40:02] 컨테이너 생성 17903370654605032 (n=34)",
-    "[2026-10-04 12:40:10] 게시 완료 n=34 id=18130867297748608",
-    "[2026-10-04 12:50:14] outreach: followup: 창이 좁다(innerWidth 1068) — 뷰포트를 강제한다",
-    "[2026-10-04 12:50:15] outreach: followup: 뷰포트 강제 후 innerWidth 1400",
-    "[2026-10-04 12:50:24] outreach: followup: 계정 확인: @studiohaetae",
-    "[2026-10-04 12:50:33] outreach: followup: 되물음 후보 0건 (이미 답한 것 제외)",
-    "[2026-10-04 12:50:38] outreach: followup: ego 창 닫음",
-    "[2026-10-04 13:10:10] outreach: 창이 좁다(innerWidth 1068) — 뷰포트를 강제한다",
-    "[2026-10-04 13:10:11] outreach: 뷰포트 강제 후 innerWidth 1400",
-    "[2026-10-04 13:10:23] outreach: 계정 확인: @studiohaetae",
-    "[2026-10-04 13:10:43] outreach: 검색: 구독자 안늘어 → 이 화면 후보 2건 (누적 2)",
-    "[2026-10-04 13:11:26] outreach: 대상 확인: @jihoon_stereomindbooks (원글 본문 일치)",
-    "[2026-10-04 13:11:34] outreach: 답글 @jihoon_stereomindbooks",
-    "[2026-10-04 13:11:42] outreach: 팔로우 @jihoon_stereomindbooks"
+    "[2026-10-04 13:17:16] outreach: 팔로우 @empty_wallet_alert",
+    "[2026-10-04 13:17:16] outreach: 훑은 글 중 제외: 광고·영업 8 · 자기 숫자 없음 7 · 주제 밖 7 · 너무 짧음 3 · 차단어 3",
+    "[2026-10-04 13:17:16] outreach: 이번 회차 후보 7건 · 모델 호출 3건",
+    "[2026-10-04 13:17:16] outreach: 이번 실행 2건 · 오늘 누적 답글 6/10 · 팔로우 6/6",
+    "[2026-10-04 13:17:16] outreach: ego 창 닫음",
+    "[2026-10-04 14:30:09] outreach: follow: 창이 좁다(innerWidth 1068) — 뷰포트를 강제한다",
+    "[2026-10-04 14:30:10] outreach: follow: 뷰포트 강제 후 innerWidth 1400",
+    "[2026-10-04 14:30:21] outreach: follow: 검색: 유튜브 한달",
+    "[2026-10-04 14:30:28] outreach: follow: 검색: 유튜브 알고리즘",
+    "[2026-10-04 14:30:39] outreach: follow: 검색: 유튜브 수익",
+    "[2026-10-04 14:30:44] outreach: follow: 후보 계정 1명",
+    "[2026-10-04 14:30:51] outreach: follow: 프로필 1개 확인 — 팔로워 큰 순으로 진행",
+    "[2026-10-04 14:30:51] outreach: follow: 팔로워 35명 @huraizzang — 기준(500) 미달, 건너뜀",
+    "[2026-10-04 14:30:51] outreach: follow: 이번 회차 0명 · 오늘 누적 0/20",
+    "[2026-10-04 14:30:52] outreach: follow: ego 창 닫음"
   ]
 }
