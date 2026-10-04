@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T23:41:13",
+  "generated_at": "2026-10-04T23:42:11",
   "username": "studiohaetae",
   "followers": 146,
   "followers_history": [
@@ -413,7 +413,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DeEh71ZmDf2",
       "text": "레딧이 RSS 피드랑 퍼블릭 API를 없앤대\nAI 봇들이 긁어가는 거 때문이라는데\n근데 그거 쓰던 게 봇만은 아니었잖아\n뭐 만들어보려던 사람들도 거기 걸려있었는데\n결국 다 같이 막혀버리네🥲\nAI가 만든 문제를 AI ",
-      "views": 363,
+      "views": 365,
       "likes": 0,
       "replies": 0
     },
@@ -644,8 +644,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-10-04 22:11:18] outreach: follow: 팔로우 @noble.putting (팔로워 1,341명)",
-    "[2026-10-04 22:12:32] outreach: follow: 팔로워 349명 @hskim3838 — 기준(500) 미달, 건너뜀",
     "[2026-10-04 22:12:32] outreach: follow: 팔로워 119명 @lee_ji__hun — 기준(500) 미달, 건너뜀",
     "[2026-10-04 22:12:32] outreach: follow: 팔로워 100명 @mad_biolecture — 기준(500) 미달, 건너뜀",
     "[2026-10-04 22:12:32] outreach: follow: 팔로워 49명 @t_eacher_k — 기준(500) 미달, 건너뜀",
@@ -658,6 +656,8 @@
     "[2026-10-04 23:40:46] 답글 39건 수집 -> replies-2026-10-04.json",
     "[2026-10-04 23:41:02] refill: 경보: 큐 잔량 3편 (기준 6) · 대기 중인 초안 5편",
     "[2026-10-04 23:41:02] refill: 초안이 있다. python3 refill.py drafts 로 보고 promote 해라.",
-    "[2026-10-04 23:42:04] digest 갱신: 팔로워 146 · 미답변 10건 · 큐 3개 · 오늘 답글 10 · 되물음 0 · 팔로우 7"
+    "[2026-10-04 23:42:04] digest 갱신: 팔로워 146 · 미답변 10건 · 큐 3개 · 오늘 답글 10 · 되물음 0 · 팔로우 7",
+    "[2026-10-04 23:42:11] digest 갱신: 팔로워 146 · 미답변 10건 · 큐 3개 · 오늘 답글 10 · 되물음 0 · 팔로우 7",
+    "[2026-10-04 23:42:11] agent: 보류 유지 10건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_, @juvin950). 다시 보려면 --recheck-all"
   ]
 }
