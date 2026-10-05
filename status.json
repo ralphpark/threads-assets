@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T13:21:10",
+  "generated_at": "2026-10-05T14:50:33",
   "username": "studiohaetae",
   "followers": 146,
   "followers_history": [
@@ -380,7 +380,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DeBHWnAGKtS",
       "text": "레딧이 RSS 피드를 막고 공개 API 접근을 끊는다고 합니다.\n이유는 AI 봇이라고 합니다.\n\n저도 AI로 콘텐츠를 자동으로 돌리는 입장이라 뜨거운 소식입니다.\n막히면 다음엔 뭘 긁어야 하는지 아직 모르겠습니다.\n",
-      "views": 237,
+      "views": 238,
       "likes": 1,
       "replies": 0
     },
@@ -391,7 +391,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DeB9I8aGNkF",
       "text": "HN에 654점짜리 글이 떴다.\n\n제목이 \"You said no MCP\" 다.\n\n나는 요즘 되는 대로 다 MCP로 붙이고 있다.\n\n근데 이 글은 반대 얘기를 하는 것 같다.\n\n본문은 아직 못 읽었다.\n\nMCP 쓰다가",
-      "views": 70,
+      "views": 72,
       "likes": 1,
       "replies": 0
     },
@@ -402,7 +402,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DeDsJb5GPyj",
       "text": "레딧이 RSS 피드를 없앤다고 합니다.\n이유는 AI 봇입니다.\n\n저도 매일 AI로 채널을 자동으로 돌리고 있습니다.\n제가 쓰는 자동화가, 플랫폼에는 막아야 할 트래픽이었습니다.\n\n제 봇도 언젠가 어딘가에서 차단 대상",
-      "views": 281,
+      "views": 283,
       "likes": 2,
       "replies": 1
     },
@@ -413,7 +413,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DeEh71ZmDf2",
       "text": "레딧이 RSS 피드랑 퍼블릭 API를 없앤대\nAI 봇들이 긁어가는 거 때문이라는데\n근데 그거 쓰던 게 봇만은 아니었잖아\n뭐 만들어보려던 사람들도 거기 걸려있었는데\n결국 다 같이 막혀버리네🥲\nAI가 만든 문제를 AI ",
-      "views": 374,
+      "views": 376,
       "likes": 0,
       "replies": 0
     },
@@ -424,7 +424,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DeGQ8U7mMIt",
       "text": "피그마가 MCP 연결을 화이트리스트 클라이언트로만 열었습니다.\nPi는 그 명단에서 빠졌습니다.\n\n저는 MCP를 써본 적이 없습니다.\n연결이 기술 문제인 줄 알았습니다.\n\n알고 보니 허가 문제였습니다.",
-      "views": 70,
+      "views": 174,
       "likes": 0,
       "replies": 0
     },
@@ -571,7 +571,7 @@
     "today": {
       "replies": 6,
       "followups": 0,
-      "follows": 7
+      "follows": 8
     },
     "last7": [
       {
@@ -620,14 +620,14 @@
         "date": "2026-10-05",
         "replies": 6,
         "followups": 0,
-        "follows": 7,
+        "follows": 8,
         "followers": null
       }
     ],
     "last_run": {
       "outreach": "2026-10-05T13:16",
       "followups": "2026-10-05T12:50",
-      "follows": "2026-10-05T10:32"
+      "follows": "2026-10-05T14:33"
     },
     "alerts": [],
     "runs_today": {
@@ -640,13 +640,13 @@
         "missed": []
       },
       "follows": {
-        "ran": 1,
+        "ran": 2,
         "missed": []
       }
     },
     "follow_experiment": {
       "followers_delta_7d": 12,
-      "follows_7d": 44,
+      "follows_7d": 45,
       "replies_7d": 36,
       "note": "팔로우 대비 팔로워 증가. 답글과 섞여 있어 단독 인과는 못 본다"
     }
@@ -655,20 +655,20 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-10-05 13:10:10] outreach: 뷰포트 강제 후 innerWidth 1400",
-    "[2026-10-05 13:10:23] outreach: 계정 확인: @studiohaetae",
-    "[2026-10-05 13:10:44] outreach: 검색: 구독자 100명 → 이 화면 후보 4건 (누적 4)",
-    "[2026-10-05 13:10:59] outreach: skip @listenpang_official — 구독 요청 글이고 본인 숫자가 전혀 없어서(현재 구독자·조회수 미기재) 비율을 만들 재료가 없음. 홍보성 구독 유도에 가까워 ",
-    "[2026-10-05 13:11:30] outreach: 대상 확인: @quokka_economic (원글 본문 일치)",
-    "[2026-10-05 13:11:37] outreach: 답글 @quokka_economic",
-    "[2026-10-05 13:11:45] outreach: 팔로우 @quokka_economic",
-    "[2026-10-05 13:16:19] outreach: 클릭 진입 실패 @passion__pm — 직접 로드로 한 번 시도한다",
-    "[2026-10-05 13:16:26] outreach: 대상 확인: @passion__pm (원글 본문 일치)",
-    "[2026-10-05 13:16:33] outreach: 답글 @passion__pm",
-    "[2026-10-05 13:16:41] outreach: 팔로우 @passion__pm",
-    "[2026-10-05 13:16:41] outreach: 훑은 글 중 제외: 너무 짧음 7 · 주제 밖 5 · 광고·영업 3",
-    "[2026-10-05 13:16:41] outreach: 이번 회차 후보 4건 · 모델 호출 3건",
-    "[2026-10-05 13:16:41] outreach: 이번 실행 2건 · 오늘 누적 답글 6/10 · 팔로우 6/6",
-    "[2026-10-05 13:16:41] outreach: ego 창 닫음"
+    "[2026-10-05 14:32:02] outreach: follow: 프로필 12개 확인 — 팔로워 큰 순으로 진행",
+    "[2026-10-05 14:32:09] outreach: follow: 팔로우 @real_johnlim (팔로워 1,475명)",
+    "[2026-10-05 14:33:28] outreach: follow: 팔로워 467명 @hero_rumi — 기준(500) 미달, 건너뜀",
+    "[2026-10-05 14:33:28] outreach: follow: 팔로워 430명 @mmmleloop — 기준(500) 미달, 건너뜀",
+    "[2026-10-05 14:33:28] outreach: follow: 팔로워 216명 @quokka_economic — 기준(500) 미달, 건너뜀",
+    "[2026-10-05 14:33:28] outreach: follow: 팔로워 191명 @dyotamusic — 기준(500) 미달, 건너뜀",
+    "[2026-10-05 14:33:28] outreach: follow: 팔로워 173명 @plainmood_music — 기준(500) 미달, 건너뜀",
+    "[2026-10-05 14:33:28] outreach: follow: 팔로워 167명 @wwhalien.52_ — 기준(500) 미달, 건너뜀",
+    "[2026-10-05 14:33:28] outreach: follow: 팔로워 117명 @trotplaza_kr — 기준(500) 미달, 건너뜀",
+    "[2026-10-05 14:33:28] outreach: follow: 팔로워 56명 @periodista3100 — 기준(500) 미달, 건너뜀",
+    "[2026-10-05 14:33:28] outreach: follow: 팔로워 28명 @heesoo8686 — 기준(500) 미달, 건너뜀",
+    "[2026-10-05 14:33:28] outreach: follow: 팔로워 6명 @low_salt_days — 기준(500) 미달, 건너뜀",
+    "[2026-10-05 14:33:28] outreach: follow: 팔로워 1명 @panda.zip1 — 기준(500) 미달, 건너뜀",
+    "[2026-10-05 14:33:28] outreach: follow: 이번 회차 1명 · 오늘 누적 2/20",
+    "[2026-10-05 14:33:29] outreach: follow: ego 창 닫음"
   ]
 }
