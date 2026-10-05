@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T19:24:05",
+  "generated_at": "2026-10-05T20:53:51",
   "username": "studiohaetae",
   "followers": 146,
   "followers_history": [
@@ -60,10 +60,10 @@
       "followers": 146
     }
   ],
-  "queue_pending": 2,
-  "queue_next": "AI가 예전에 못 풀던 문제들을 사람들이 투표로 가리고 있다고 합니다.\n\n저는 그 목록이 뭔지 아직 못 봤습",
+  "queue_pending": 1,
+  "queue_next": "HN에 'AI가 이 챌린지 중 뭘 넘었냐' 투표하는 글 떴더라\n75점 받았대\n근데 나는 그 목록이 뭔지도 몰",
   "queue_drafts": 7,
-  "queue_alert": "원고 잔량 2편. 3편 이하다. refill.py check 를 돌리고 초안이 있으면 promote 해라.",
+  "queue_alert": "원고 잔량 1편. 3편 이하다. refill.py check 를 돌리고 초안이 있으면 promote 해라.",
   "posts": [
     {
       "at": "2026-07-31T14:33:33",
@@ -369,7 +369,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Dd_YWDRmEeV",
       "text": "AI가 데이터센터 투자를 정당화하려면 연 6조 달러를 벌어야 한다는 글을 봤다.\n\n지금 전세계 AI 매출을 다 더해도 그 근처는 아닐 것 같다.\n\n숫자가 너무 커서 저는 감이 안 온다.\n\n이 숫자 보고 다들 어떤 생",
-      "views": 198,
+      "views": 199,
       "likes": 1,
       "replies": 2
     },
@@ -380,7 +380,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DeBHWnAGKtS",
       "text": "레딧이 RSS 피드를 막고 공개 API 접근을 끊는다고 합니다.\n이유는 AI 봇이라고 합니다.\n\n저도 AI로 콘텐츠를 자동으로 돌리는 입장이라 뜨거운 소식입니다.\n막히면 다음엔 뭘 긁어야 하는지 아직 모르겠습니다.\n",
-      "views": 239,
+      "views": 240,
       "likes": 1,
       "replies": 0
     },
@@ -391,7 +391,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DeB9I8aGNkF",
       "text": "HN에 654점짜리 글이 떴다.\n\n제목이 \"You said no MCP\" 다.\n\n나는 요즘 되는 대로 다 MCP로 붙이고 있다.\n\n근데 이 글은 반대 얘기를 하는 것 같다.\n\n본문은 아직 못 읽었다.\n\nMCP 쓰다가",
-      "views": 73,
+      "views": 74,
       "likes": 1,
       "replies": 0
     },
@@ -402,7 +402,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DeDsJb5GPyj",
       "text": "레딧이 RSS 피드를 없앤다고 합니다.\n이유는 AI 봇입니다.\n\n저도 매일 AI로 채널을 자동으로 돌리고 있습니다.\n제가 쓰는 자동화가, 플랫폼에는 막아야 할 트래픽이었습니다.\n\n제 봇도 언젠가 어딘가에서 차단 대상",
-      "views": 284,
+      "views": 285,
       "likes": 2,
       "replies": 1
     },
@@ -413,7 +413,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DeEh71ZmDf2",
       "text": "레딧이 RSS 피드랑 퍼블릭 API를 없앤대\nAI 봇들이 긁어가는 거 때문이라는데\n근데 그거 쓰던 게 봇만은 아니었잖아\n뭐 만들어보려던 사람들도 거기 걸려있었는데\n결국 다 같이 막혀버리네🥲\nAI가 만든 문제를 AI ",
-      "views": 378,
+      "views": 379,
       "likes": 0,
       "replies": 0
     },
@@ -424,7 +424,18 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DeGQ8U7mMIt",
       "text": "피그마가 MCP 연결을 화이트리스트 클라이언트로만 열었습니다.\nPi는 그 명단에서 빠졌습니다.\n\n저는 MCP를 써본 적이 없습니다.\n연결이 기술 문제인 줄 알았습니다.\n\n알고 보니 허가 문제였습니다.",
-      "views": 190,
+      "views": 192,
+      "likes": 0,
+      "replies": 0
+    },
+    {
+      "at": "2026-10-05T20:30:10",
+      "n": 37,
+      "id": "17985482433075994",
+      "is_reply": false,
+      "permalink": "https://www.threads.com/@studiohaetae/post/DeHGutLmJPY",
+      "text": "AI가 예전에 못 풀던 문제들을 사람들이 투표로 가리고 있다고 합니다.\n\n저는 그 목록이 뭔지 아직 못 봤습니다.\n\n제 채널들은 전부 자동으로 돌아가는데\n그게 뭘 풀었는지는 저도 설명을 못 합니다.\n\n투표로 정해질 ",
+      "views": 0,
       "likes": 0,
       "replies": 0
     },
@@ -571,7 +582,7 @@
     "today": {
       "replies": 10,
       "followups": 0,
-      "follows": 9
+      "follows": 13
     },
     "last7": [
       {
@@ -620,14 +631,14 @@
         "date": "2026-10-05",
         "replies": 10,
         "followups": 0,
-        "follows": 9,
+        "follows": 13,
         "followers": null
       }
     ],
     "last_run": {
       "outreach": "2026-10-05T18:36",
-      "followups": "2026-10-05T18:10",
-      "follows": "2026-10-05T17:22"
+      "followups": "2026-10-05T20:50",
+      "follows": "2026-10-05T19:45"
     },
     "alerts": [],
     "runs_today": {
@@ -640,13 +651,13 @@
         "missed": []
       },
       "follows": {
-        "ran": 3,
+        "ran": 4,
         "missed": []
       }
     },
     "follow_experiment": {
       "followers_delta_7d": 12,
-      "follows_7d": 46,
+      "follows_7d": 50,
       "replies_7d": 40,
       "note": "팔로우 대비 팔로워 증가. 답글과 섞여 있어 단독 인과는 못 본다"
     }
@@ -655,20 +666,20 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-10-05 18:10:19] outreach: followup: 계정 확인: @studiohaetae",
-    "[2026-10-05 18:10:25] outreach: followup: 되물음 후보 0건 (이미 답한 것 제외)",
-    "[2026-10-05 18:10:26] outreach: followup: ego 창 닫음",
-    "[2026-10-05 18:30:10] outreach: 창이 좁다(innerWidth 1068) — 뷰포트를 강제한다",
-    "[2026-10-05 18:30:11] outreach: 뷰포트 강제 후 innerWidth 1400",
-    "[2026-10-05 18:30:24] outreach: 계정 확인: @studiohaetae",
-    "[2026-10-05 18:30:44] outreach: 검색: 구독자 1000명 → 이 화면 후보 3건 (누적 3)",
-    "[2026-10-05 18:31:30] outreach: 대상 확인: @oneulmellow (원글 본문 일치)",
-    "[2026-10-05 18:31:37] outreach: 답글 @oneulmellow",
-    "[2026-10-05 18:36:31] outreach: 대상 확인: @ysl_lifting (원글 본문 일치)",
-    "[2026-10-05 18:36:38] outreach: 답글 @ysl_lifting",
-    "[2026-10-05 18:36:38] outreach: 훑은 글 중 제외: 주제 밖 13 · 너무 짧음 3 · 자기 숫자 없음 2 · 광고·영업 2",
-    "[2026-10-05 18:36:38] outreach: 이번 회차 후보 3건 · 모델 호출 2건",
-    "[2026-10-05 18:36:38] outreach: 이번 실행 2건 · 오늘 누적 답글 10/10 · 팔로우 6/6",
-    "[2026-10-05 18:36:40] outreach: ego 창 닫음"
+    "[2026-10-05 19:40:11] outreach: follow: 뷰포트 강제 후 innerWidth 1400",
+    "[2026-10-05 19:40:21] outreach: follow: 검색: 유튜브 구독자",
+    "[2026-10-05 19:40:29] outreach: follow: 검색: 영상 조회수",
+    "[2026-10-05 19:40:41] outreach: follow: 검색: 조회수 1000회",
+    "[2026-10-05 19:41:13] outreach: follow: 후보 계정 11명",
+    "[2026-10-05 19:42:04] outreach: follow: 프로필 11개 확인 — 팔로워 큰 순으로 진행",
+    "[2026-10-05 19:42:10] outreach: follow: 팔로우 @jungjiwoowriter (팔로워 8,887명)",
+    "[2026-10-05 19:43:30] outreach: follow: 팔로우 @kkmioumind (팔로워 3,467명)",
+    "[2026-10-05 19:44:24] outreach: follow: 팔로우 @ysl_lifting (팔로워 1,111명)",
+    "[2026-10-05 19:45:40] outreach: follow: 팔로우 @hj415415 (팔로워 785명)",
+    "[2026-10-05 19:45:40] outreach: follow: 이번 회차 4명 · 오늘 누적 7/20",
+    "[2026-10-05 19:45:41] outreach: follow: ego 창 닫음",
+    "[2026-10-05 20:30:02] 컨테이너 생성 17903595540605032 (n=37)",
+    "[2026-10-05 20:30:10] 게시 완료 n=37 id=17985482433075994",
+    "[2026-10-05 20:50:00] outreach: followup: 오늘 답글 10건 — 상한 도달. 종료."
   ]
 }
