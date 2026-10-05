@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T14:50:33",
+  "generated_at": "2026-10-05T14:51:25",
   "username": "studiohaetae",
   "followers": 146,
   "followers_history": [
@@ -655,8 +655,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-10-05 14:32:02] outreach: follow: 프로필 12개 확인 — 팔로워 큰 순으로 진행",
-    "[2026-10-05 14:32:09] outreach: follow: 팔로우 @real_johnlim (팔로워 1,475명)",
     "[2026-10-05 14:33:28] outreach: follow: 팔로워 467명 @hero_rumi — 기준(500) 미달, 건너뜀",
     "[2026-10-05 14:33:28] outreach: follow: 팔로워 430명 @mmmleloop — 기준(500) 미달, 건너뜀",
     "[2026-10-05 14:33:28] outreach: follow: 팔로워 216명 @quokka_economic — 기준(500) 미달, 건너뜀",
@@ -669,6 +667,8 @@
     "[2026-10-05 14:33:28] outreach: follow: 팔로워 6명 @low_salt_days — 기준(500) 미달, 건너뜀",
     "[2026-10-05 14:33:28] outreach: follow: 팔로워 1명 @panda.zip1 — 기준(500) 미달, 건너뜀",
     "[2026-10-05 14:33:28] outreach: follow: 이번 회차 1명 · 오늘 누적 2/20",
-    "[2026-10-05 14:33:29] outreach: follow: ego 창 닫음"
+    "[2026-10-05 14:33:29] outreach: follow: ego 창 닫음",
+    "[2026-10-05 14:51:25] digest 갱신: 팔로워 146 · 미답변 10건 · 큐 2개 · 오늘 답글 6 · 되물음 0 · 팔로우 8",
+    "[2026-10-05 14:51:25] agent: 보류 유지 10건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_, @juvin950). 다시 보려면 --recheck-all"
   ]
 }
