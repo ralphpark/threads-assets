@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T11:49:48",
+  "generated_at": "2026-10-05T13:21:10",
   "username": "studiohaetae",
   "followers": 146,
   "followers_history": [
@@ -60,10 +60,10 @@
       "followers": 146
     }
   ],
-  "queue_pending": 3,
-  "queue_next": "피그마가 MCP 연결을 화이트리스트 클라이언트로만 열었습니다.\nPi는 그 명단에서 빠졌습니다.\n\n저는 MCP",
+  "queue_pending": 2,
+  "queue_next": "AI가 예전에 못 풀던 문제들을 사람들이 투표로 가리고 있다고 합니다.\n\n저는 그 목록이 뭔지 아직 못 봤습",
   "queue_drafts": 7,
-  "queue_alert": "원고 잔량 3편. 3편 이하다. refill.py check 를 돌리고 초안이 있으면 promote 해라.",
+  "queue_alert": "원고 잔량 2편. 3편 이하다. refill.py check 를 돌리고 초안이 있으면 promote 해라.",
   "posts": [
     {
       "at": "2026-07-31T14:33:33",
@@ -325,7 +325,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Dc524grmCmD",
       "text": "유튜브 채널 11개를 API로 전수 확인했습니다.\n\n수익화 기준은 채널당 구독자 500명, 유효 시청시간 3,000시간입니다.\n\n11개를 다 합치면 구독자 591명, 시청시간 2,990시간입니다.\n구독자는 이미 넘겼",
-      "views": 326,
+      "views": 327,
       "likes": 1,
       "replies": 0
     },
@@ -336,7 +336,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Dc8br46mFWY",
       "text": "채널 11개를 28일 기준으로 합쳤습니다.\n조회수 68만 8천, 유효 시청시간 2,990시간입니다.\n\n나눠보면 조회 1회당 15.6초입니다.\n\n수익화 기준인 3,000시간을 이 비율로 채우려면 조회수가 69만 회 필",
-      "views": 185,
+      "views": 186,
       "likes": 2,
       "replies": 0
     },
@@ -347,7 +347,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Dc_Ae1mmC0d",
       "text": "같은 사람이 만든 채널 11개인데 전환율이 15배 차이 납니다.\n\n28일 실측입니다.\n제일 높은 채널은 조회 2만 8천에 구독 순증 101명. 0.35%입니다.\n제일 낮은 채널은 조회 8천에 구독 순증 2명. 0.0",
-      "views": 245,
+      "views": 246,
       "likes": 2,
       "replies": 6
     },
@@ -358,7 +358,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Dd-ij0jGLVs",
       "text": "피그마가 MCP 접속을 화이트리스트로만 열었습니다.\nPi는 그 목록에 없습니다.\n\n아직 써본 적은 없습니다.\n어떻게 쓰는 건지도 모릅니다.\n\n플랫폼이 통로를 정하면, 거기 없는 도구는 없는 셈이 됩니다.",
-      "views": 195,
+      "views": 196,
       "likes": 2,
       "replies": 1
     },
@@ -369,7 +369,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Dd_YWDRmEeV",
       "text": "AI가 데이터센터 투자를 정당화하려면 연 6조 달러를 벌어야 한다는 글을 봤다.\n\n지금 전세계 AI 매출을 다 더해도 그 근처는 아닐 것 같다.\n\n숫자가 너무 커서 저는 감이 안 온다.\n\n이 숫자 보고 다들 어떤 생",
-      "views": 196,
+      "views": 197,
       "likes": 1,
       "replies": 2
     },
@@ -380,7 +380,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DeBHWnAGKtS",
       "text": "레딧이 RSS 피드를 막고 공개 API 접근을 끊는다고 합니다.\n이유는 AI 봇이라고 합니다.\n\n저도 AI로 콘텐츠를 자동으로 돌리는 입장이라 뜨거운 소식입니다.\n막히면 다음엔 뭘 긁어야 하는지 아직 모르겠습니다.\n",
-      "views": 236,
+      "views": 237,
       "likes": 1,
       "replies": 0
     },
@@ -391,7 +391,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DeB9I8aGNkF",
       "text": "HN에 654점짜리 글이 떴다.\n\n제목이 \"You said no MCP\" 다.\n\n나는 요즘 되는 대로 다 MCP로 붙이고 있다.\n\n근데 이 글은 반대 얘기를 하는 것 같다.\n\n본문은 아직 못 읽었다.\n\nMCP 쓰다가",
-      "views": 69,
+      "views": 70,
       "likes": 1,
       "replies": 0
     },
@@ -402,7 +402,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DeDsJb5GPyj",
       "text": "레딧이 RSS 피드를 없앤다고 합니다.\n이유는 AI 봇입니다.\n\n저도 매일 AI로 채널을 자동으로 돌리고 있습니다.\n제가 쓰는 자동화가, 플랫폼에는 막아야 할 트래픽이었습니다.\n\n제 봇도 언젠가 어딘가에서 차단 대상",
-      "views": 279,
+      "views": 281,
       "likes": 2,
       "replies": 1
     },
@@ -413,7 +413,18 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DeEh71ZmDf2",
       "text": "레딧이 RSS 피드랑 퍼블릭 API를 없앤대\nAI 봇들이 긁어가는 거 때문이라는데\n근데 그거 쓰던 게 봇만은 아니었잖아\n뭐 만들어보려던 사람들도 거기 걸려있었는데\n결국 다 같이 막혀버리네🥲\nAI가 만든 문제를 AI ",
-      "views": 372,
+      "views": 374,
+      "likes": 0,
+      "replies": 0
+    },
+    {
+      "at": "2026-10-05T12:40:11",
+      "n": 32,
+      "id": "17986702076878007",
+      "is_reply": false,
+      "permalink": "https://www.threads.com/@studiohaetae/post/DeGQ8U7mMIt",
+      "text": "피그마가 MCP 연결을 화이트리스트 클라이언트로만 열었습니다.\nPi는 그 명단에서 빠졌습니다.\n\n저는 MCP를 써본 적이 없습니다.\n연결이 기술 문제인 줄 알았습니다.\n\n알고 보니 허가 문제였습니다.",
+      "views": 70,
       "likes": 0,
       "replies": 0
     },
@@ -558,9 +569,9 @@
   ],
   "outreach": {
     "today": {
-      "replies": 4,
+      "replies": 6,
       "followups": 0,
-      "follows": 5
+      "follows": 7
     },
     "last7": [
       {
@@ -607,25 +618,25 @@
       },
       {
         "date": "2026-10-05",
-        "replies": 4,
+        "replies": 6,
         "followups": 0,
-        "follows": 5,
+        "follows": 7,
         "followers": null
       }
     ],
     "last_run": {
-      "outreach": "2026-10-05T11:47",
-      "followups": "2026-10-05T11:20",
+      "outreach": "2026-10-05T13:16",
+      "followups": "2026-10-05T12:50",
       "follows": "2026-10-05T10:32"
     },
     "alerts": [],
     "runs_today": {
       "outreach": {
-        "ran": 2,
+        "ran": 3,
         "missed": []
       },
       "followups": {
-        "ran": 2,
+        "ran": 3,
         "missed": []
       },
       "follows": {
@@ -635,8 +646,8 @@
     },
     "follow_experiment": {
       "followers_delta_7d": 12,
-      "follows_7d": 42,
-      "replies_7d": 34,
+      "follows_7d": 44,
+      "replies_7d": 36,
       "note": "팔로우 대비 팔로워 증가. 답글과 섞여 있어 단독 인과는 못 본다"
     }
   },
@@ -644,20 +655,20 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-10-05 11:40:22] outreach: 계정 확인: @studiohaetae",
-    "[2026-10-05 11:40:41] outreach: 검색: 유튜브 구독자 → 이 화면 후보 4건 (누적 4)",
-    "[2026-10-05 11:41:16] outreach: 대상 확인: @yjh20130103 (원글 본문 일치)",
-    "[2026-10-05 11:41:23] outreach: 답글 @yjh20130103",
-    "[2026-10-05 11:41:32] outreach: 팔로우 @yjh20130103",
-    "[2026-10-05 11:46:37] outreach: '답글' 버튼 없음 @u.__.dng — 건너뜀",
-    "[2026-10-05 11:47:38] outreach: 대상 확인: @groundlog.official (원글 본문 일치)",
-    "[2026-10-05 11:47:45] outreach: 답글 @groundlog.official",
-    "[2026-10-05 11:47:53] outreach: 팔로우 @groundlog.official",
-    "[2026-10-05 11:47:53] outreach: 훑은 글 중 제외: 광고·영업 4 · 너무 짧음 3 · 주제 밖 3 · 자기 숫자 없음 2 · 차단어 1",
-    "[2026-10-05 11:47:53] outreach: 이번 회차 후보 4건 · 모델 호출 3건",
-    "[2026-10-05 11:47:53] outreach: 이번 실행 2건 · 오늘 누적 답글 4/10 · 팔로우 4/6",
-    "[2026-10-05 11:47:53] outreach: ego 창 닫음",
-    "[2026-10-05 11:49:48] digest 갱신: 팔로워 146 · 미답변 10건 · 큐 3개 · 오늘 답글 4 · 되물음 0 · 팔로우 5",
-    "[2026-10-05 11:49:48] agent: 보류 유지 10건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_, @juvin950). 다시 보려면 --recheck-all"
+    "[2026-10-05 13:10:10] outreach: 뷰포트 강제 후 innerWidth 1400",
+    "[2026-10-05 13:10:23] outreach: 계정 확인: @studiohaetae",
+    "[2026-10-05 13:10:44] outreach: 검색: 구독자 100명 → 이 화면 후보 4건 (누적 4)",
+    "[2026-10-05 13:10:59] outreach: skip @listenpang_official — 구독 요청 글이고 본인 숫자가 전혀 없어서(현재 구독자·조회수 미기재) 비율을 만들 재료가 없음. 홍보성 구독 유도에 가까워 ",
+    "[2026-10-05 13:11:30] outreach: 대상 확인: @quokka_economic (원글 본문 일치)",
+    "[2026-10-05 13:11:37] outreach: 답글 @quokka_economic",
+    "[2026-10-05 13:11:45] outreach: 팔로우 @quokka_economic",
+    "[2026-10-05 13:16:19] outreach: 클릭 진입 실패 @passion__pm — 직접 로드로 한 번 시도한다",
+    "[2026-10-05 13:16:26] outreach: 대상 확인: @passion__pm (원글 본문 일치)",
+    "[2026-10-05 13:16:33] outreach: 답글 @passion__pm",
+    "[2026-10-05 13:16:41] outreach: 팔로우 @passion__pm",
+    "[2026-10-05 13:16:41] outreach: 훑은 글 중 제외: 너무 짧음 7 · 주제 밖 5 · 광고·영업 3",
+    "[2026-10-05 13:16:41] outreach: 이번 회차 후보 4건 · 모델 호출 3건",
+    "[2026-10-05 13:16:41] outreach: 이번 실행 2건 · 오늘 누적 답글 6/10 · 팔로우 6/6",
+    "[2026-10-05 13:16:41] outreach: ego 창 닫음"
   ]
 }
