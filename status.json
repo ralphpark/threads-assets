@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T14:51:25",
+  "generated_at": "2026-10-05T15:22:02",
   "username": "studiohaetae",
   "followers": 146,
   "followers_history": [
@@ -413,7 +413,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DeEh71ZmDf2",
       "text": "레딧이 RSS 피드랑 퍼블릭 API를 없앤대\nAI 봇들이 긁어가는 거 때문이라는데\n근데 그거 쓰던 게 봇만은 아니었잖아\n뭐 만들어보려던 사람들도 거기 걸려있었는데\n결국 다 같이 막혀버리네🥲\nAI가 만든 문제를 AI ",
-      "views": 376,
+      "views": 377,
       "likes": 0,
       "replies": 0
     },
@@ -424,7 +424,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DeGQ8U7mMIt",
       "text": "피그마가 MCP 연결을 화이트리스트 클라이언트로만 열었습니다.\nPi는 그 명단에서 빠졌습니다.\n\n저는 MCP를 써본 적이 없습니다.\n연결이 기술 문제인 줄 알았습니다.\n\n알고 보니 허가 문제였습니다.",
-      "views": 174,
+      "views": 179,
       "likes": 0,
       "replies": 0
     },
@@ -655,8 +655,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-10-05 14:33:28] outreach: follow: 팔로워 467명 @hero_rumi — 기준(500) 미달, 건너뜀",
-    "[2026-10-05 14:33:28] outreach: follow: 팔로워 430명 @mmmleloop — 기준(500) 미달, 건너뜀",
     "[2026-10-05 14:33:28] outreach: follow: 팔로워 216명 @quokka_economic — 기준(500) 미달, 건너뜀",
     "[2026-10-05 14:33:28] outreach: follow: 팔로워 191명 @dyotamusic — 기준(500) 미달, 건너뜀",
     "[2026-10-05 14:33:28] outreach: follow: 팔로워 173명 @plainmood_music — 기준(500) 미달, 건너뜀",
@@ -669,6 +667,8 @@
     "[2026-10-05 14:33:28] outreach: follow: 이번 회차 1명 · 오늘 누적 2/20",
     "[2026-10-05 14:33:29] outreach: follow: ego 창 닫음",
     "[2026-10-05 14:51:25] digest 갱신: 팔로워 146 · 미답변 10건 · 큐 2개 · 오늘 답글 6 · 되물음 0 · 팔로우 8",
-    "[2026-10-05 14:51:25] agent: 보류 유지 10건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_, @juvin950). 다시 보려면 --recheck-all"
+    "[2026-10-05 14:51:25] agent: 보류 유지 10건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_, @juvin950). 다시 보려면 --recheck-all",
+    "[2026-10-05 14:52:15] digest 갱신: 팔로워 146 · 미답변 10건 · 큐 2개 · 오늘 답글 6 · 되물음 0 · 팔로우 8",
+    "[2026-10-05 14:52:15] agent: 자동 답글 0건 · 신규 판정 대상 없음"
   ]
 }
