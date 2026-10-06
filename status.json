@@ -1,12 +1,8 @@
 {
-  "generated_at": "2026-10-06T23:36:49",
+  "generated_at": "2026-10-06T23:40:58",
   "username": "studiohaetae",
   "followers": 146,
   "followers_history": [
-    {
-      "date": "2026-09-22",
-      "followers": 131
-    },
     {
       "date": "2026-09-23",
       "followers": 131
@@ -57,6 +53,10 @@
     },
     {
       "date": "2026-10-05",
+      "followers": 146
+    },
+    {
+      "date": "2026-10-06",
       "followers": 146
     }
   ],
@@ -643,7 +643,7 @@
         "replies": 10,
         "followups": 0,
         "follows": 17,
-        "followers": null
+        "followers": 146
       }
     ],
     "last_run": {
@@ -677,11 +677,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-10-06 22:10:39] outreach: follow: 후보 계정 11명",
-    "[2026-10-06 22:11:38] outreach: follow: 프로필 11개 확인 — 팔로워 큰 순으로 진행",
-    "[2026-10-06 22:11:44] outreach: follow: 팔로우 @dami_camp (팔로워 720명)",
-    "[2026-10-06 22:12:51] outreach: follow: 팔로워 274명 @lbhedu — 기준(500) 미달, 건너뜀",
-    "[2026-10-06 22:12:51] outreach: follow: 팔로워 173명 @plainmood_music — 기준(500) 미달, 건너뜀",
     "[2026-10-06 22:12:51] outreach: follow: 팔로워 140명 @ai.ax.kang — 기준(500) 미달, 건너뜀",
     "[2026-10-06 22:12:51] outreach: follow: 팔로워 131명 @cielo__film — 기준(500) 미달, 건너뜀",
     "[2026-10-06 22:12:51] outreach: follow: 팔로워 88명 @pinhighdragon — 기준(500) 미달, 건너뜀",
@@ -691,6 +686,11 @@
     "[2026-10-06 22:12:51] outreach: follow: 팔로워 3명 @hookformat — 기준(500) 미달, 건너뜀",
     "[2026-10-06 22:12:51] outreach: follow: 팔로워 1명 @myanimalroomlife — 기준(500) 미달, 건너뜀",
     "[2026-10-06 22:12:51] outreach: follow: 이번 회차 1명 · 오늘 누적 11/20",
-    "[2026-10-06 22:12:51] outreach: follow: ego 창 닫음"
+    "[2026-10-06 22:12:51] outreach: follow: ego 창 닫음",
+    "[2026-10-06 23:37:41] digest 갱신: 팔로워 146 · 미답변 10건 · 큐 0개 · 오늘 답글 10 · 되물음 0 · 팔로우 17",
+    "[2026-10-06 23:40:00] 스냅샷: {\"date\": \"2026-10-06\", \"at\": \"2026-10-06T23:40:00\", \"followers\": 146, \"views\": 953, \"likes\": 3, \"replies\": 2, \"reposts\": 0, \"quotes\": 0, \"clicks\": null}",
+    "[2026-10-06 23:40:43] 답글 39건 수집 -> replies-2026-10-06.json",
+    "[2026-10-06 23:40:58] refill: 경보: 큐 잔량 0편 (기준 6) · 대기 중인 초안 9편",
+    "[2026-10-06 23:40:58] refill: 초안이 있다. python3 refill.py drafts 로 보고 promote 해라."
   ]
 }
