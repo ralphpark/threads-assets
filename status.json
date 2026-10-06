@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T23:40:58",
+  "generated_at": "2026-10-07T00:09:41",
   "username": "studiohaetae",
   "followers": 146,
   "followers_history": [
@@ -591,18 +591,11 @@
   ],
   "outreach": {
     "today": {
-      "replies": 10,
+      "replies": 0,
       "followups": 0,
-      "follows": 17
+      "follows": 0
     },
     "last7": [
-      {
-        "date": "2026-09-30",
-        "replies": 0,
-        "followups": 0,
-        "follows": 0,
-        "followers": 134
-      },
       {
         "date": "2026-10-01",
         "replies": 0,
@@ -644,6 +637,13 @@
         "followups": 0,
         "follows": 17,
         "followers": 146
+      },
+      {
+        "date": "2026-10-07",
+        "replies": 0,
+        "followups": 0,
+        "follows": 0,
+        "followers": null
       }
     ],
     "last_run": {
@@ -654,15 +654,15 @@
     "alerts": [],
     "runs_today": {
       "outreach": {
-        "ran": 6,
+        "ran": 0,
         "missed": []
       },
       "followups": {
-        "ran": 6,
+        "ran": 0,
         "missed": []
       },
       "follows": {
-        "ran": 5,
+        "ran": 0,
         "missed": []
       }
     },
@@ -677,7 +677,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-10-06 22:12:51] outreach: follow: 팔로워 140명 @ai.ax.kang — 기준(500) 미달, 건너뜀",
     "[2026-10-06 22:12:51] outreach: follow: 팔로워 131명 @cielo__film — 기준(500) 미달, 건너뜀",
     "[2026-10-06 22:12:51] outreach: follow: 팔로워 88명 @pinhighdragon — 기준(500) 미달, 건너뜀",
     "[2026-10-06 22:12:51] outreach: follow: 팔로워 73명 @levelupdigitallab — 기준(500) 미달, 건너뜀",
@@ -691,6 +690,7 @@
     "[2026-10-06 23:40:00] 스냅샷: {\"date\": \"2026-10-06\", \"at\": \"2026-10-06T23:40:00\", \"followers\": 146, \"views\": 953, \"likes\": 3, \"replies\": 2, \"reposts\": 0, \"quotes\": 0, \"clicks\": null}",
     "[2026-10-06 23:40:43] 답글 39건 수집 -> replies-2026-10-06.json",
     "[2026-10-06 23:40:58] refill: 경보: 큐 잔량 0편 (기준 6) · 대기 중인 초안 9편",
-    "[2026-10-06 23:40:58] refill: 초안이 있다. python3 refill.py drafts 로 보고 promote 해라."
+    "[2026-10-06 23:40:58] refill: 초안이 있다. python3 refill.py drafts 로 보고 promote 해라.",
+    "[2026-10-06 23:41:48] digest 갱신: 팔로워 146 · 미답변 10건 · 큐 0개 · 오늘 답글 10 · 되물음 0 · 팔로우 17"
   ]
 }
