@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T15:04:51",
+  "generated_at": "2026-10-06T15:05:42",
   "username": "studiohaetae",
   "followers": 146,
   "followers_history": [
@@ -677,8 +677,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-10-06 13:13:46] outreach: ego 창 닫음",
-    "[2026-10-06 13:33:30] digest 갱신: 팔로워 146 · 미답변 10건 · 큐 0개 · 오늘 답글 4 · 되물음 0 · 팔로우 5",
     "[2026-10-06 14:30:10] outreach: follow: 창이 좁다(innerWidth 1068) — 뷰포트를 강제한다",
     "[2026-10-06 14:30:11] outreach: follow: 뷰포트 강제 후 innerWidth 1400",
     "[2026-10-06 14:30:25] outreach: follow: 검색: 구독자 100명",
@@ -691,6 +689,8 @@
     "[2026-10-06 14:34:29] outreach: follow: 팔로우 @daewoon_kim (팔로워 929명)",
     "[2026-10-06 14:35:29] outreach: follow: 팔로우 @jayliora (팔로워 560명)",
     "[2026-10-06 14:35:29] outreach: follow: 이번 회차 4명 · 오늘 누적 5/20",
-    "[2026-10-06 14:35:29] outreach: follow: ego 창 닫음"
+    "[2026-10-06 14:35:29] outreach: follow: ego 창 닫음",
+    "[2026-10-06 15:05:41] digest 갱신: 팔로워 146 · 미답변 10건 · 큐 0개 · 오늘 답글 4 · 되물음 0 · 팔로우 9",
+    "[2026-10-06 15:05:41] agent: 보류 유지 10건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_, @juvin950). 다시 보려면 --recheck-all"
   ]
 }
