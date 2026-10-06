@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T11:31:52",
+  "generated_at": "2026-10-06T12:03:01",
   "username": "studiohaetae",
   "followers": 146,
   "followers_history": [
@@ -580,9 +580,9 @@
   ],
   "outreach": {
     "today": {
-      "replies": 2,
+      "replies": 4,
       "followups": 0,
-      "follows": 3
+      "follows": 5
     },
     "last7": [
       {
@@ -629,21 +629,21 @@
       },
       {
         "date": "2026-10-06",
-        "replies": 2,
+        "replies": 4,
         "followups": 0,
-        "follows": 3,
+        "follows": 5,
         "followers": null
       }
     ],
     "last_run": {
-      "outreach": "2026-10-06T09:26",
+      "outreach": "2026-10-06T11:52",
       "followups": "2026-10-06T11:20",
       "follows": "2026-10-06T10:32"
     },
     "alerts": [],
     "runs_today": {
       "outreach": {
-        "ran": 1,
+        "ran": 2,
         "missed": []
       },
       "followups": {
@@ -657,8 +657,8 @@
     },
     "follow_experiment": {
       "followers_delta_7d": 12,
-      "follows_7d": 53,
-      "replies_7d": 42,
+      "follows_7d": 55,
+      "replies_7d": 44,
       "note": "팔로우 대비 팔로워 증가. 답글과 섞여 있어 단독 인과는 못 본다"
     }
   },
@@ -666,20 +666,20 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-10-06 10:30:59] outreach: follow: 검색: 유튜브 한달",
-    "[2026-10-06 10:31:05] outreach: follow: 후보 계정 5명",
-    "[2026-10-06 10:31:30] outreach: follow: 프로필 5개 확인 — 팔로워 큰 순으로 진행",
-    "[2026-10-06 10:31:37] outreach: follow: 팔로우 @xjiyoung (팔로워 1,097명)",
-    "[2026-10-06 10:32:40] outreach: follow: 팔로워 274명 @lbhedu — 기준(500) 미달, 건너뜀",
-    "[2026-10-06 10:32:40] outreach: follow: 팔로워 173명 @plainmood_music — 기준(500) 미달, 건너뜀",
-    "[2026-10-06 10:32:40] outreach: follow: 팔로워 76명 @naringring_ — 기준(500) 미달, 건너뜀",
-    "[2026-10-06 10:32:40] outreach: follow: 팔로워 30명 @groundlog.official — 기준(500) 미달, 건너뜀",
-    "[2026-10-06 10:32:40] outreach: follow: 이번 회차 1명 · 오늘 누적 1/20",
-    "[2026-10-06 10:32:41] outreach: follow: ego 창 닫음",
-    "[2026-10-06 11:20:17] outreach: followup: 창이 좁다(innerWidth 1068) — 뷰포트를 강제한다",
-    "[2026-10-06 11:20:18] outreach: followup: 뷰포트 강제 후 innerWidth 1400",
-    "[2026-10-06 11:20:32] outreach: followup: 계정 확인: @studiohaetae",
-    "[2026-10-06 11:20:40] outreach: followup: 되물음 후보 0건 (이미 답한 것 제외)",
-    "[2026-10-06 11:20:43] outreach: followup: ego 창 닫음"
+    "[2026-10-06 11:41:57] outreach: 대상 확인: @roovit_all_rounder (원글 본문 일치)",
+    "[2026-10-06 11:42:10] outreach: 답글 @roovit_all_rounder",
+    "[2026-10-06 11:42:19] outreach: 팔로우 @roovit_all_rounder",
+    "[2026-10-06 11:48:48] outreach: 검색 진입 실패(영상 조회수): Page.click: Timeout 10000ms exceeded.",
+    "[2026-10-06 11:48:48] outreach: 클릭 진입 실패 @_reelstone — 직접 로드로 한 번 시도한다",
+    "[2026-10-06 11:49:58] outreach: 답글 모달이 안 열림 @_reelstone — 건너뜀",
+    "[2026-10-06 11:51:17] outreach: 검색 진입 실패(영상 조회수): Page.click: Timeout 10000ms exceeded.",
+    "[2026-10-06 11:51:17] outreach: 클릭 진입 실패 @sprin_aaa — 직접 로드로 한 번 시도한다",
+    "[2026-10-06 11:51:43] outreach: 대상 확인: @sprin_aaa (원글 본문 일치)",
+    "[2026-10-06 11:51:56] outreach: 답글 @sprin_aaa",
+    "[2026-10-06 11:52:09] outreach: 팔로우 @sprin_aaa",
+    "[2026-10-06 11:52:09] outreach: 훑은 글 중 제외: 주제 밖 7 · 너무 짧음 5 · 자기 숫자 없음 3 · 광고·영업 2",
+    "[2026-10-06 11:52:09] outreach: 이번 회차 후보 5건 · 모델 호출 3건",
+    "[2026-10-06 11:52:09] outreach: 이번 실행 2건 · 오늘 누적 답글 4/10 · 팔로우 4/6",
+    "[2026-10-06 11:52:10] outreach: ego 창 닫음"
   ]
 }
