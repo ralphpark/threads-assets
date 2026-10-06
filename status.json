@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T12:03:01",
+  "generated_at": "2026-10-06T12:03:56",
   "username": "studiohaetae",
   "followers": 146,
   "followers_history": [
@@ -666,8 +666,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-10-06 11:41:57] outreach: 대상 확인: @roovit_all_rounder (원글 본문 일치)",
-    "[2026-10-06 11:42:10] outreach: 답글 @roovit_all_rounder",
     "[2026-10-06 11:42:19] outreach: 팔로우 @roovit_all_rounder",
     "[2026-10-06 11:48:48] outreach: 검색 진입 실패(영상 조회수): Page.click: Timeout 10000ms exceeded.",
     "[2026-10-06 11:48:48] outreach: 클릭 진입 실패 @_reelstone — 직접 로드로 한 번 시도한다",
@@ -680,6 +678,8 @@
     "[2026-10-06 11:52:09] outreach: 훑은 글 중 제외: 주제 밖 7 · 너무 짧음 5 · 자기 숫자 없음 3 · 광고·영업 2",
     "[2026-10-06 11:52:09] outreach: 이번 회차 후보 5건 · 모델 호출 3건",
     "[2026-10-06 11:52:09] outreach: 이번 실행 2건 · 오늘 누적 답글 4/10 · 팔로우 4/6",
-    "[2026-10-06 11:52:10] outreach: ego 창 닫음"
+    "[2026-10-06 11:52:10] outreach: ego 창 닫음",
+    "[2026-10-06 12:03:55] digest 갱신: 팔로워 146 · 미답변 10건 · 큐 1개 · 오늘 답글 4 · 되물음 0 · 팔로우 5",
+    "[2026-10-06 12:03:55] agent: 보류 유지 10건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_, @juvin950). 다시 보려면 --recheck-all"
   ]
 }
