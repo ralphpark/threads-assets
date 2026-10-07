@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T05:49:52",
+  "generated_at": "2026-10-08T06:27:09",
   "username": "studiohaetae",
   "followers": 148,
   "followers_history": [
@@ -670,7 +670,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-10-07 23:40:46] 답글 39건 수집 -> replies-2026-10-07.json",
     "[2026-10-07 23:41:02] refill: 경보: 큐 잔량 0편 (기준 6) · 대기 중인 초안 11편",
     "[2026-10-07 23:41:02] refill: 초안이 있다. python3 refill.py drafts 로 보고 promote 해라.",
     "[2026-10-07 23:42:06] digest 갱신: 팔로워 148 · 미답변 10건 · 큐 0개 · 오늘 답글 10 · 되물음 0 · 팔로우 12",
@@ -684,6 +683,7 @@
     "[2026-10-08 03:26:04] agent: 보류 유지 9건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_, @juvin950). 다시 보려면 --recheck-all",
     "[2026-10-08 03:27:08] digest 갱신: 팔로워 148 · 미답변 9건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 0",
     "[2026-10-08 03:27:08] agent: 자동 답글 0건 · 신규 판정 대상 없음",
-    "[2026-10-08 03:49:52] digest 갱신: 팔로워 148 · 미답변 9건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 0"
+    "[2026-10-08 03:49:52] digest 갱신: 팔로워 148 · 미답변 9건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 0",
+    "[2026-10-08 05:50:45] digest 갱신: 팔로워 148 · 미답변 9건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 0"
   ]
 }
