@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T15:17:40",
+  "generated_at": "2026-10-07T15:18:40",
   "username": "studiohaetae",
   "followers": 147,
   "followers_history": [
@@ -677,8 +677,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-10-07 14:30:26] outreach: follow: 검색: 조회수 1000회",
-    "[2026-10-07 14:30:34] outreach: follow: 검색: 영상 조회수",
     "[2026-10-07 14:30:44] outreach: follow: 검색: 유튜브 알고리즘",
     "[2026-10-07 14:30:49] outreach: follow: 후보 계정 8명",
     "[2026-10-07 14:31:29] outreach: follow: 프로필 8개 확인 — 팔로워 큰 순으로 진행",
@@ -691,6 +689,8 @@
     "[2026-10-07 14:31:29] outreach: follow: 이미 팔로우 중 @roovit_all_rounder",
     "[2026-10-07 14:31:29] outreach: follow: 팔로워 3명 @jungdrama44 — 기준(500) 미달, 건너뜀",
     "[2026-10-07 14:31:29] outreach: follow: 이번 회차 0명 · 오늘 누적 2/20",
-    "[2026-10-07 14:31:31] outreach: follow: ego 창 닫음"
+    "[2026-10-07 14:31:31] outreach: follow: ego 창 닫음",
+    "[2026-10-07 15:18:39] digest 갱신: 팔로워 147 · 미답변 10건 · 큐 0개 · 오늘 답글 6 · 되물음 0 · 팔로우 8",
+    "[2026-10-07 15:18:39] agent: 보류 유지 10건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_, @juvin950). 다시 보려면 --recheck-all"
   ]
 }
