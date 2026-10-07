@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T23:47:06",
+  "generated_at": "2026-10-08T00:23:13",
   "username": "studiohaetae",
   "followers": 148,
   "followers_history": [
@@ -591,18 +591,11 @@
   ],
   "outreach": {
     "today": {
-      "replies": 10,
+      "replies": 0,
       "followups": 0,
-      "follows": 12
+      "follows": 0
     },
     "last7": [
-      {
-        "date": "2026-10-01",
-        "replies": 0,
-        "followups": 0,
-        "follows": 0,
-        "followers": 134
-      },
       {
         "date": "2026-10-02",
         "replies": 10,
@@ -644,6 +637,13 @@
         "followups": 0,
         "follows": 12,
         "followers": 148
+      },
+      {
+        "date": "2026-10-08",
+        "replies": 0,
+        "followups": 0,
+        "follows": 0,
+        "followers": null
       }
     ],
     "last_run": {
@@ -654,20 +654,20 @@
     "alerts": [],
     "runs_today": {
       "outreach": {
-        "ran": 6,
+        "ran": 0,
         "missed": []
       },
       "followups": {
-        "ran": 6,
+        "ran": 0,
         "missed": []
       },
       "follows": {
-        "ran": 5,
+        "ran": 0,
         "missed": []
       }
     },
     "follow_experiment": {
-      "followers_delta_7d": 14,
+      "followers_delta_7d": 12,
       "follows_7d": 79,
       "replies_7d": 60,
       "note": "팔로우 대비 팔로워 증가. 답글과 섞여 있어 단독 인과는 못 본다"
@@ -677,7 +677,6 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-10-07 22:11:19] outreach: follow: 프로필 7개 확인 — 팔로워 큰 순으로 진행",
     "[2026-10-07 22:11:26] outreach: follow: 팔로우 @phomantico (팔로워 7,889명)",
     "[2026-10-07 22:12:17] outreach: follow: 팔로우 @curator.danbi (팔로워 2,170명)",
     "[2026-10-07 22:13:39] outreach: follow: 팔로우 @barib_vibes (팔로워 834명)",
@@ -691,6 +690,7 @@
     "[2026-10-07 23:40:46] 답글 39건 수집 -> replies-2026-10-07.json",
     "[2026-10-07 23:41:02] refill: 경보: 큐 잔량 0편 (기준 6) · 대기 중인 초안 11편",
     "[2026-10-07 23:41:02] refill: 초안이 있다. python3 refill.py drafts 로 보고 promote 해라.",
-    "[2026-10-07 23:42:06] digest 갱신: 팔로워 148 · 미답변 10건 · 큐 0개 · 오늘 답글 10 · 되물음 0 · 팔로우 12"
+    "[2026-10-07 23:42:06] digest 갱신: 팔로워 148 · 미답변 10건 · 큐 0개 · 오늘 답글 10 · 되물음 0 · 팔로우 12",
+    "[2026-10-07 23:48:10] digest 갱신: 팔로워 148 · 미답변 10건 · 큐 0개 · 오늘 답글 10 · 되물음 0 · 팔로우 12"
   ]
 }
