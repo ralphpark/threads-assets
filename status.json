@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T13:42:38",
+  "generated_at": "2026-10-07T15:17:40",
   "username": "studiohaetae",
   "followers": 147,
   "followers_history": [
@@ -413,7 +413,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DeEh71ZmDf2",
       "text": "레딧이 RSS 피드랑 퍼블릭 API를 없앤대\nAI 봇들이 긁어가는 거 때문이라는데\n근데 그거 쓰던 게 봇만은 아니었잖아\n뭐 만들어보려던 사람들도 거기 걸려있었는데\n결국 다 같이 막혀버리네🥲\nAI가 만든 문제를 AI ",
-      "views": 386,
+      "views": 387,
       "likes": 0,
       "replies": 0
     },
@@ -424,7 +424,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DeGQ8U7mMIt",
       "text": "피그마가 MCP 연결을 화이트리스트 클라이언트로만 열었습니다.\nPi는 그 명단에서 빠졌습니다.\n\n저는 MCP를 써본 적이 없습니다.\n연결이 기술 문제인 줄 알았습니다.\n\n알고 보니 허가 문제였습니다.",
-      "views": 205,
+      "views": 207,
       "likes": 0,
       "replies": 0
     },
@@ -435,7 +435,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DeHGutLmJPY",
       "text": "AI가 예전에 못 풀던 문제들을 사람들이 투표로 가리고 있다고 합니다.\n\n저는 그 목록이 뭔지 아직 못 봤습니다.\n\n제 채널들은 전부 자동으로 돌아가는데\n그게 뭘 풀었는지는 저도 설명을 못 합니다.\n\n투표로 정해질 ",
-      "views": 69,
+      "views": 71,
       "likes": 0,
       "replies": 0
     },
@@ -446,7 +446,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DeI1vZMGJtN",
       "text": "HN에 'AI가 이 챌린지 중 뭘 넘었냐' 투표하는 글 떴더라\n75점 받았대\n근데 나는 그 목록이 뭔지도 몰라🤔\n몇 년 전엔 절대 안 될 거라던 것들 중에\n이미 넘은 게 꽤 있지 않을까 싶은데\n혹시 그 글 본 사람 ",
-      "views": 241,
+      "views": 243,
       "likes": 0,
       "replies": 0
     },
@@ -649,7 +649,7 @@
     "last_run": {
       "outreach": "2026-10-07T13:16",
       "followups": "2026-10-07T12:50",
-      "follows": "2026-10-07T10:34"
+      "follows": "2026-10-07T14:31"
     },
     "alerts": [],
     "runs_today": {
@@ -662,7 +662,7 @@
         "missed": []
       },
       "follows": {
-        "ran": 1,
+        "ran": 2,
         "missed": []
       }
     },
@@ -677,20 +677,20 @@
     "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
   },
   "run_log_tail": [
-    "[2026-10-07 13:10:11] outreach: 뷰포트 강제 후 innerWidth 1400",
-    "[2026-10-07 13:10:25] outreach: 계정 확인: @studiohaetae",
-    "[2026-10-07 13:10:46] outreach: 검색: 구독자 안늘어 → 이 화면 후보 5건 (누적 5)",
-    "[2026-10-07 13:11:43] outreach: 대상 확인: @usa.mminz (원글 본문 일치)",
-    "[2026-10-07 13:11:51] outreach: 답글 @usa.mminz",
-    "[2026-10-07 13:12:00] outreach: 팔로우 @usa.mminz",
-    "[2026-10-07 13:15:05] outreach: skip @stwcho — 맞구독/맞팔 교환 모집 글(품앗이)",
-    "[2026-10-07 13:15:18] outreach: skip @wolf.5651722 — 본문이 자동차 에어컨 수리 바가지 요금 얘기로, 유튜브/구독자/조회수와 무관함 (첫 줄의 '유튜브 구독자 만명'은 본문 주제와",
-    "[2026-10-07 13:16:35] outreach: 대상 확인: @honeyessence_ggulsujin (원글 본문 일치)",
-    "[2026-10-07 13:16:43] outreach: 답글 @honeyessence_ggulsujin",
-    "[2026-10-07 13:16:52] outreach: 팔로우 @honeyessence_ggulsujin",
-    "[2026-10-07 13:16:52] outreach: 훑은 글 중 제외: 너무 짧음 6 · 주제 밖 4 · 광고·영업 4 · 차단어 4 · 자기 숫자 없음 2",
-    "[2026-10-07 13:16:52] outreach: 이번 회차 후보 5건 · 모델 호출 4건",
-    "[2026-10-07 13:16:52] outreach: 이번 실행 2건 · 오늘 누적 답글 6/10 · 팔로우 6/6",
-    "[2026-10-07 13:16:52] outreach: ego 창 닫음"
+    "[2026-10-07 14:30:26] outreach: follow: 검색: 조회수 1000회",
+    "[2026-10-07 14:30:34] outreach: follow: 검색: 영상 조회수",
+    "[2026-10-07 14:30:44] outreach: follow: 검색: 유튜브 알고리즘",
+    "[2026-10-07 14:30:49] outreach: follow: 후보 계정 8명",
+    "[2026-10-07 14:31:29] outreach: follow: 프로필 8개 확인 — 팔로워 큰 순으로 진행",
+    "[2026-10-07 14:31:29] outreach: follow: 팔로워 237명 @iiiiimmay__ — 기준(500) 미달, 건너뜀",
+    "[2026-10-07 14:31:29] outreach: follow: 팔로워 146명 @ai.ax.kang — 기준(500) 미달, 건너뜀",
+    "[2026-10-07 14:31:29] outreach: follow: 팔로워 117명 @trotplaza_kr — 기준(500) 미달, 건너뜀",
+    "[2026-10-07 14:31:29] outreach: follow: 팔로워 106명 @blue.cnt — 기준(500) 미달, 건너뜀",
+    "[2026-10-07 14:31:29] outreach: follow: 팔로워 93명 @smile.jf — 기준(500) 미달, 건너뜀",
+    "[2026-10-07 14:31:29] outreach: follow: 팔로워 90명 @moon_sabooo — 기준(500) 미달, 건너뜀",
+    "[2026-10-07 14:31:29] outreach: follow: 이미 팔로우 중 @roovit_all_rounder",
+    "[2026-10-07 14:31:29] outreach: follow: 팔로워 3명 @jungdrama44 — 기준(500) 미달, 건너뜀",
+    "[2026-10-07 14:31:29] outreach: follow: 이번 회차 0명 · 오늘 누적 2/20",
+    "[2026-10-07 14:31:31] outreach: follow: ego 창 닫음"
   ]
 }
