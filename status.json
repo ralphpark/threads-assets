@@ -1,12 +1,8 @@
 {
-  "generated_at": "2026-10-08T21:57:01",
+  "generated_at": "2026-10-08T23:41:01",
   "username": "studiohaetae",
   "followers": 149,
   "followers_history": [
-    {
-      "date": "2026-09-24",
-      "followers": 131
-    },
     {
       "date": "2026-09-25",
       "followers": 131
@@ -58,6 +54,10 @@
     {
       "date": "2026-10-07",
       "followers": 148
+    },
+    {
+      "date": "2026-10-08",
+      "followers": 149
     }
   ],
   "queue_pending": 0,
@@ -149,7 +149,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DbvL1wlmJFC",
       "text": "제 쇼츠 채널 4개, 최근 40편을 API로 전수 확인했습니다.\n설명란에 링크가 있는 영상 0편이었습니다.\n\n남들은 어떤가도 세어봤습니다.\n같은 판의 영어권 쇼츠 50편 중 링크를 건 건 4편.\n그 4편은 전부 자사",
-      "views": 133,
+      "views": 134,
       "likes": 1,
       "replies": 0
     },
@@ -193,7 +193,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Db5fBIImMkv",
       "text": "제 유튜브 채널은 쇼츠 트래픽이 대부분입니다.\n\n어떤 분이 알려줬습니다. Shorts에서는 설명란 링크가 아예 표시되지 않는다고.\n\n확인해봤더니 저는 더 나빴습니다.\n채널 4개 40편에 링크가 애초에 0개였습니다.\n",
-      "views": 415,
+      "views": 416,
       "likes": 1,
       "replies": 0
     },
@@ -259,7 +259,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DcqaHXSn3eF",
       "text": "어떤 분이 자기 계정에서 이걸 실측해서 알려줬습니다.\n\n답글을 안 단 새벽 세 사이클은 팔로워 증가가 0이었고,\n다시 답글을 달자마자 붙었다고요.\n\n제 계정에서 같은 게 나오는지 봤습니다.\n7월 31일 58명에서 8",
-      "views": 125,
+      "views": 126,
       "likes": 1,
       "replies": 1
     },
@@ -303,7 +303,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Dc0tTW9GPJ5",
       "text": "어떤 분이 알려줬습니다.\n새 채널에 영상 빈도가 높으면 스팸으로 볼 확률이 높다고요.\n\n재즈 채널은 완전 자동으로 39편을 올렸습니다.\n28일 노출수는 48회였습니다. 편당 한 달에 1.2번 보여졌습니다.\n\n노출 클",
-      "views": 113,
+      "views": 114,
       "likes": 1,
       "replies": 0
     },
@@ -369,7 +369,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/Dd_YWDRmEeV",
       "text": "AI가 데이터센터 투자를 정당화하려면 연 6조 달러를 벌어야 한다는 글을 봤다.\n\n지금 전세계 AI 매출을 다 더해도 그 근처는 아닐 것 같다.\n\n숫자가 너무 커서 저는 감이 안 온다.\n\n이 숫자 보고 다들 어떤 생",
-      "views": 202,
+      "views": 203,
       "likes": 1,
       "replies": 2
     },
@@ -380,7 +380,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DeBHWnAGKtS",
       "text": "레딧이 RSS 피드를 막고 공개 API 접근을 끊는다고 합니다.\n이유는 AI 봇이라고 합니다.\n\n저도 AI로 콘텐츠를 자동으로 돌리는 입장이라 뜨거운 소식입니다.\n막히면 다음엔 뭘 긁어야 하는지 아직 모르겠습니다.\n",
-      "views": 247,
+      "views": 249,
       "likes": 1,
       "replies": 0
     },
@@ -391,7 +391,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DeB9I8aGNkF",
       "text": "HN에 654점짜리 글이 떴다.\n\n제목이 \"You said no MCP\" 다.\n\n나는 요즘 되는 대로 다 MCP로 붙이고 있다.\n\n근데 이 글은 반대 얘기를 하는 것 같다.\n\n본문은 아직 못 읽었다.\n\nMCP 쓰다가",
-      "views": 81,
+      "views": 82,
       "likes": 1,
       "replies": 0
     },
@@ -402,7 +402,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DeDsJb5GPyj",
       "text": "레딧이 RSS 피드를 없앤다고 합니다.\n이유는 AI 봇입니다.\n\n저도 매일 AI로 채널을 자동으로 돌리고 있습니다.\n제가 쓰는 자동화가, 플랫폼에는 막아야 할 트래픽이었습니다.\n\n제 봇도 언젠가 어딘가에서 차단 대상",
-      "views": 295,
+      "views": 298,
       "likes": 2,
       "replies": 1
     },
@@ -413,7 +413,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DeEh71ZmDf2",
       "text": "레딧이 RSS 피드랑 퍼블릭 API를 없앤대\nAI 봇들이 긁어가는 거 때문이라는데\n근데 그거 쓰던 게 봇만은 아니었잖아\n뭐 만들어보려던 사람들도 거기 걸려있었는데\n결국 다 같이 막혀버리네🥲\nAI가 만든 문제를 AI ",
-      "views": 392,
+      "views": 396,
       "likes": 0,
       "replies": 0
     },
@@ -424,7 +424,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DeGQ8U7mMIt",
       "text": "피그마가 MCP 연결을 화이트리스트 클라이언트로만 열었습니다.\nPi는 그 명단에서 빠졌습니다.\n\n저는 MCP를 써본 적이 없습니다.\n연결이 기술 문제인 줄 알았습니다.\n\n알고 보니 허가 문제였습니다.",
-      "views": 216,
+      "views": 219,
       "likes": 0,
       "replies": 0
     },
@@ -435,7 +435,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DeHGutLmJPY",
       "text": "AI가 예전에 못 풀던 문제들을 사람들이 투표로 가리고 있다고 합니다.\n\n저는 그 목록이 뭔지 아직 못 봤습니다.\n\n제 채널들은 전부 자동으로 돌아가는데\n그게 뭘 풀었는지는 저도 설명을 못 합니다.\n\n투표로 정해질 ",
-      "views": 83,
+      "views": 86,
       "likes": 0,
       "replies": 0
     },
@@ -446,7 +446,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DeI1vZMGJtN",
       "text": "HN에 'AI가 이 챌린지 중 뭘 넘었냐' 투표하는 글 떴더라\n75점 받았대\n근데 나는 그 목록이 뭔지도 몰라🤔\n몇 년 전엔 절대 안 될 거라던 것들 중에\n이미 넘은 게 꽤 있지 않을까 싶은데\n혹시 그 글 본 사람 ",
-      "views": 255,
+      "views": 258,
       "likes": 0,
       "replies": 0
     },
@@ -593,7 +593,7 @@
     "today": {
       "replies": 8,
       "followups": 0,
-      "follows": 7
+      "follows": 9
     },
     "last7": [
       {
@@ -642,14 +642,14 @@
         "date": "2026-10-08",
         "replies": 8,
         "followups": 0,
-        "follows": 7,
-        "followers": null
+        "follows": 9,
+        "followers": 149
       }
     ],
     "last_run": {
       "outreach": "2026-10-08T21:15",
       "followups": "2026-10-08T20:50",
-      "follows": "2026-10-08T19:40"
+      "follows": "2026-10-08T22:13"
     },
     "alerts": [],
     "runs_today": {
@@ -662,35 +662,35 @@
         "missed": []
       },
       "follows": {
-        "ran": 4,
+        "ran": 5,
         "missed": []
       }
     },
     "follow_experiment": {
-      "followers_delta_7d": 12,
-      "follows_7d": 86,
+      "followers_delta_7d": 13,
+      "follows_7d": 88,
       "replies_7d": 68,
       "note": "팔로우 대비 팔로워 증가. 답글과 섞여 있어 단독 인과는 못 본다"
     }
   },
   "errors": {
-    "launchd.collect.err": "/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n"
+    "launchd.collect.err": "                                  ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n실패 clue30.analytics.json — HTTP Error 401: Unauthorized\n실패 tarot.analytics.json — HTTP Error 401: Unauthorized\n"
   },
   "run_log_tail": [
-    "[2026-10-08 21:10:13] outreach: 뷰포트 강제 후 innerWidth 1400",
-    "[2026-10-08 21:10:26] outreach: 계정 확인: @studiohaetae",
-    "[2026-10-08 21:10:47] outreach: 검색: 구독자 안늘어 → 이 화면 후보 2건 (누적 2)",
-    "[2026-10-08 21:11:38] outreach: 대상 확인: @calis_ming (원글 본문 일치)",
-    "[2026-10-08 21:11:44] outreach: 답글 @calis_ming",
-    "[2026-10-08 21:15:37] outreach: 대상 확인: @bett.erlife365 (원글 본문 일치)",
-    "[2026-10-08 21:15:45] outreach: 답글 @bett.erlife365",
-    "[2026-10-08 21:15:45] outreach: 훑은 글 중 제외: 주제 밖 9 · 차단어 3 · 너무 짧음 2 · 자기 숫자 없음 2 · 광고·영업 1",
-    "[2026-10-08 21:15:45] outreach: 이번 회차 후보 2건 · 모델 호출 2건",
-    "[2026-10-08 21:15:45] outreach: 이번 실행 2건 · 오늘 누적 답글 8/10 · 팔로우 6/6",
-    "[2026-10-08 21:15:45] outreach: ego 창 닫음",
-    "[2026-10-08 21:53:27] digest 갱신: 팔로워 149 · 미답변 10건 · 큐 0개 · 오늘 답글 8 · 되물음 0 · 팔로우 7",
-    "[2026-10-08 21:53:28] agent: 보류 유지 10건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_, @juvin950). 다시 보려면 --recheck-all",
-    "[2026-10-08 21:54:12] digest 갱신: 팔로워 149 · 미답변 10건 · 큐 0개 · 오늘 답글 8 · 되물음 0 · 팔로우 7",
-    "[2026-10-08 21:54:12] agent: 자동 답글 0건 · 신규 판정 대상 없음"
+    "[2026-10-08 22:10:42] outreach: follow: 검색: 영상 조회수",
+    "[2026-10-08 22:10:47] outreach: follow: 후보 계정 6명",
+    "[2026-10-08 22:11:15] outreach: follow: 프로필 6개 확인 — 팔로워 큰 순으로 진행",
+    "[2026-10-08 22:11:21] outreach: follow: 팔로우 @joohimchan (팔로워 4,181명)",
+    "[2026-10-08 22:12:34] outreach: follow: 팔로우 @dodo3_218 (팔로워 616명)",
+    "[2026-10-08 22:13:55] outreach: follow: 팔로워 95명 @yongraecha — 기준(500) 미달, 건너뜀",
+    "[2026-10-08 22:13:55] outreach: follow: 팔로워 44명 @switchstudio.ai — 기준(500) 미달, 건너뜀",
+    "[2026-10-08 22:13:55] outreach: follow: 팔로워 1명 @panda.zip1 — 기준(500) 미달, 건너뜀",
+    "[2026-10-08 22:13:55] outreach: follow: 팔로워 0명 @algomokja — 기준(500) 미달, 건너뜀",
+    "[2026-10-08 22:13:55] outreach: follow: 이번 회차 2명 · 오늘 누적 3/20",
+    "[2026-10-08 22:13:56] outreach: follow: ego 창 닫음",
+    "[2026-10-08 23:40:01] 스냅샷: {\"date\": \"2026-10-08\", \"at\": \"2026-10-08T23:40:00\", \"followers\": 149, \"views\": 545, \"likes\": 4, \"replies\": 5, \"reposts\": 0, \"quotes\": 0, \"clicks\": null}",
+    "[2026-10-08 23:40:46] 답글 39건 수집 -> replies-2026-10-08.json",
+    "[2026-10-08 23:41:00] refill: 경보: 큐 잔량 0편 (기준 6) · 대기 중인 초안 11편",
+    "[2026-10-08 23:41:00] refill: 초안이 있다. python3 refill.py drafts 로 보고 promote 해라."
   ]
 }
