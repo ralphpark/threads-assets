@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T06:58:51",
+  "generated_at": "2026-10-09T08:01:29",
   "username": "studiohaetae",
   "followers": 149,
   "followers_history": [
@@ -677,8 +677,6 @@
     "launchd.collect.err": "                                  ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n실패 clue30.analytics.json — HTTP Error 401: Unauthorized\n실패 tarot.analytics.json — HTTP Error 401: Unauthorized\n"
   },
   "run_log_tail": [
-    "[2026-10-08 23:41:53] digest 갱신: 팔로워 149 · 미답변 10건 · 큐 0개 · 오늘 답글 8 · 되물음 0 · 팔로우 9",
-    "[2026-10-08 23:58:37] digest 갱신: 팔로워 149 · 미답변 10건 · 큐 0개 · 오늘 답글 8 · 되물음 0 · 팔로우 9",
     "[2026-10-09 00:55:04] digest 갱신: 팔로워 149 · 미답변 10건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 0",
     "[2026-10-09 00:55:04] agent: 보류 유지 10건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_, @juvin950). 다시 보려면 --recheck-all",
     "[2026-10-09 00:56:00] digest 갱신: 팔로워 149 · 미답변 10건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 0",
@@ -691,6 +689,8 @@
     "[2026-10-09 04:00:23] digest 갱신: 팔로워 149 · 미답변 10건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 0",
     "[2026-10-09 06:01:29] digest 갱신: 팔로워 149 · 미답변 10건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 0",
     "[2026-10-09 06:58:51] digest 갱신: 팔로워 149 · 미답변 10건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 0",
-    "[2026-10-09 06:58:51] agent: 보류 유지 10건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_, @juvin950). 다시 보려면 --recheck-all"
+    "[2026-10-09 06:58:51] agent: 보류 유지 10건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_, @juvin950). 다시 보려면 --recheck-all",
+    "[2026-10-09 06:59:44] digest 갱신: 팔로워 149 · 미답변 10건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 0",
+    "[2026-10-09 06:59:44] agent: 자동 답글 0건 · 신규 판정 대상 없음"
   ]
 }
