@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T22:07:39",
+  "generated_at": "2026-10-09T22:07:55",
   "username": "studiohaetae",
   "followers": 153,
   "followers_history": [
@@ -677,7 +677,6 @@
     "launchd.collect.err": "                                  ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n실패 clue30.analytics.json — HTTP Error 401: Unauthorized\n실패 tarot.analytics.json — HTTP Error 401: Unauthorized\n"
   },
   "run_log_tail": [
-    "[2026-10-09 19:40:45] outreach: follow: 후보 계정 5명",
     "[2026-10-09 19:41:07] outreach: follow: 프로필 5개 확인 — 팔로워 큰 순으로 진행",
     "[2026-10-09 19:41:14] outreach: follow: 팔로우 @alpensol9777 (팔로워 1,576명)",
     "[2026-10-09 19:42:24] outreach: follow: 팔로우 @mirae_uk (팔로워 598명)",
@@ -691,6 +690,7 @@
     "[2026-10-09 20:50:00] outreach: followup: 오늘 답글 10건 — 상한 도달. 종료.",
     "[2026-10-09 21:10:00] outreach: 오늘 답글 10건 — 상한 도달. 종료.",
     "[2026-10-09 22:07:55] digest 갱신: 팔로워 153 · 미답변 10건 · 큐 0개 · 오늘 답글 10 · 되물음 0 · 팔로우 14",
-    "[2026-10-09 22:07:55] agent: 보류 유지 10건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_, @juvin950). 다시 보려면 --recheck-all"
+    "[2026-10-09 22:07:55] agent: 보류 유지 10건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_, @juvin950). 다시 보려면 --recheck-all",
+    "[2026-10-09 22:08:40] digest 갱신: 팔로워 153 · 미답변 10건 · 큐 0개 · 오늘 답글 10 · 되물음 0 · 팔로우 14"
   ]
 }
