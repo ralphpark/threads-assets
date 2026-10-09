@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T16:04:01",
+  "generated_at": "2026-10-09T16:04:59",
   "username": "studiohaetae",
   "followers": 152,
   "followers_history": [
@@ -677,8 +677,6 @@
     "launchd.collect.err": "                                  ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n실패 clue30.analytics.json — HTTP Error 401: Unauthorized\n실패 tarot.analytics.json — HTTP Error 401: Unauthorized\n"
   },
   "run_log_tail": [
-    "[2026-10-09 15:50:11] outreach: 뷰포트 강제 후 innerWidth 1400",
-    "[2026-10-09 15:50:24] outreach: 계정 확인: @studiohaetae",
     "[2026-10-09 15:50:44] outreach: 검색: 유튜브 구독자 → 이 화면 후보 2건 (누적 2)",
     "[2026-10-09 15:51:12] outreach: skip @anniehantv — 구독자 마일스톤 세 개(109만/294만/134만)만 있고 조회수가 없어 전환율 비율을 계산할 수 없음. 얹을 숫자가 없는 경",
     "[2026-10-09 15:51:54] outreach: 대상 확인: @shin_yu_an (원글 본문 일치)",
@@ -691,6 +689,8 @@
     "[2026-10-09 15:56:26] outreach: 이번 실행 2건 · 오늘 누적 답글 8/10 · 팔로우 6/6",
     "[2026-10-09 15:56:26] outreach: ego 창 닫음",
     "[2026-10-09 16:04:01] digest 갱신: 팔로워 152 · 미답변 10건 · 큐 0개 · 오늘 답글 8 · 되물음 0 · 팔로우 10",
-    "[2026-10-09 16:04:01] agent: 보류 유지 10건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_, @juvin950). 다시 보려면 --recheck-all"
+    "[2026-10-09 16:04:01] agent: 보류 유지 10건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_, @juvin950). 다시 보려면 --recheck-all",
+    "[2026-10-09 16:04:59] digest 갱신: 팔로워 152 · 미답변 10건 · 큐 0개 · 오늘 답글 8 · 되물음 0 · 팔로우 10",
+    "[2026-10-09 16:04:59] agent: 자동 답글 0건 · 신규 판정 대상 없음"
   ]
 }
