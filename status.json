@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T19:18:46",
+  "generated_at": "2026-10-10T19:19:37",
   "username": "studiohaetae",
   "followers": 154,
   "followers_history": [
@@ -670,8 +670,6 @@
     "launchd.collect.err": "                                  ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n실패 clue30.analytics.json — HTTP Error 401: Unauthorized\n실패 tarot.analytics.json — HTTP Error 401: Unauthorized\n"
   },
   "run_log_tail": [
-    "[2026-10-10 18:30:10] outreach: 뷰포트 강제 후 innerWidth 1400",
-    "[2026-10-10 18:30:23] outreach: 계정 확인: @studiohaetae",
     "[2026-10-10 18:30:42] outreach: 검색: 유튜브 3개월 → 이 화면 후보 3건 (누적 3)",
     "[2026-10-10 18:31:35] outreach: 대상 확인: @one.kitchen_ (원글 본문 일치)",
     "[2026-10-10 18:31:43] outreach: 답글 @one.kitchen_",
@@ -684,6 +682,8 @@
     "[2026-10-10 18:36:59] outreach: 훑은 글 중 제외: 주제 밖 11 · 너무 짧음 9 · 차단어 8 · 자기 숫자 없음 8 · 광고·영업 7",
     "[2026-10-10 18:36:59] outreach: 이번 회차 후보 5건 · 모델 호출 4건",
     "[2026-10-10 18:36:59] outreach: 이번 실행 2건 · 오늘 누적 답글 10/10 · 팔로우 6/6",
-    "[2026-10-10 18:36:59] outreach: ego 창 닫음"
+    "[2026-10-10 18:36:59] outreach: ego 창 닫음",
+    "[2026-10-10 19:19:37] digest 갱신: 팔로워 154 · 미답변 9건 · 큐 0개 · 오늘 답글 10 · 되물음 0 · 팔로우 9",
+    "[2026-10-10 19:19:37] agent: 보류 유지 9건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_, @juvin950). 다시 보려면 --recheck-all"
   ]
 }
