@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T12:14:06",
+  "generated_at": "2026-10-10T13:15:15",
   "username": "studiohaetae",
   "followers": 152,
   "followers_history": [
@@ -591,9 +591,9 @@
   ],
   "outreach": {
     "today": {
-      "replies": 4,
+      "replies": 5,
       "followups": 0,
-      "follows": 5
+      "follows": 6
     },
     "last7": [
       {
@@ -640,15 +640,15 @@
       },
       {
         "date": "2026-10-10",
-        "replies": 4,
+        "replies": 5,
         "followups": 0,
-        "follows": 5,
+        "follows": 6,
         "followers": null
       }
     ],
     "last_run": {
-      "outreach": "2026-10-10T11:48",
-      "followups": "2026-10-10T11:20",
+      "outreach": "2026-10-10T13:15",
+      "followups": "2026-10-10T12:50",
       "follows": "2026-10-10T10:32"
     },
     "alerts": [],
@@ -658,7 +658,7 @@
         "missed": []
       },
       "followups": {
-        "ran": 2,
+        "ran": 3,
         "missed": []
       },
       "follows": {
@@ -668,8 +668,8 @@
     },
     "follow_experiment": {
       "followers_delta_7d": 7,
-      "follows_7d": 78,
-      "replies_7d": 62,
+      "follows_7d": 79,
+      "replies_7d": 63,
       "note": "팔로우 대비 팔로워 증가. 답글과 섞여 있어 단독 인과는 못 본다"
     }
   },
@@ -677,20 +677,20 @@
     "launchd.collect.err": "                                  ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n실패 clue30.analytics.json — HTTP Error 401: Unauthorized\n실패 tarot.analytics.json — HTTP Error 401: Unauthorized\n"
   },
   "run_log_tail": [
-    "[2026-10-10 11:40:25] outreach: 계정 확인: @studiohaetae",
-    "[2026-10-10 11:40:46] outreach: 검색: 구독자 1000명 → 이 화면 후보 1건 (누적 1)",
-    "[2026-10-10 11:41:18] outreach: skip @presssesc — 구독자 1000명 프로젝트라는 제목만 있고 현재 구독자 수나 조회수 등 계산할 수 있는 실제 숫자가 없음. 플레이리스트 공유 ",
-    "[2026-10-10 11:41:47] outreach: 검색: 채널 개설 → 이 화면 후보 3건 (누적 4)",
-    "[2026-10-10 11:42:22] outreach: skip @suvi77_ — 글이 FIRE 전환을 위한 인생 결정 목록(퇴사·집 매도·제주 이주)이고, 본인 채널의 조회수·구독자 숫자는 하나도 없음. 5",
-    "[2026-10-10 11:43:10] outreach: 대상 확인: @hyo.jumoney (원글 본문 일치)",
-    "[2026-10-10 11:43:18] outreach: 답글 @hyo.jumoney",
-    "[2026-10-10 11:43:26] outreach: 팔로우 @hyo.jumoney",
-    "[2026-10-10 11:48:04] outreach: 대상 확인: @seaofkn (원글 본문 일치)",
-    "[2026-10-10 11:48:13] outreach: 답글 @seaofkn",
-    "[2026-10-10 11:48:21] outreach: 팔로우 @seaofkn",
-    "[2026-10-10 11:48:21] outreach: 훑은 글 중 제외: 주제 밖 8 · 너무 짧음 7 · 자기 숫자 없음 5 · 차단어 5 · 광고·영업 1",
-    "[2026-10-10 11:48:21] outreach: 이번 회차 후보 4건 · 모델 호출 4건",
-    "[2026-10-10 11:48:21] outreach: 이번 실행 2건 · 오늘 누적 답글 4/10 · 팔로우 4/6",
-    "[2026-10-10 11:48:22] outreach: ego 창 닫음"
+    "[2026-10-10 12:50:20] outreach: followup: 계정 확인: @studiohaetae",
+    "[2026-10-10 12:50:26] outreach: followup: 되물음 후보 0건 (이미 답한 것 제외)",
+    "[2026-10-10 12:50:27] outreach: followup: ego 창 닫음",
+    "[2026-10-10 13:10:10] outreach: 창이 좁다(innerWidth 1068) — 뷰포트를 강제한다",
+    "[2026-10-10 13:10:10] outreach: 뷰포트 강제 후 innerWidth 1400",
+    "[2026-10-10 13:10:24] outreach: 계정 확인: @studiohaetae",
+    "[2026-10-10 13:10:45] outreach: 검색: 구독자 안늘어 → 이 화면 후보 2건 (누적 2)",
+    "[2026-10-10 13:11:16] outreach: 대상 확인: @form.golf (원글 본문 일치)",
+    "[2026-10-10 13:11:23] outreach: 답글 @form.golf",
+    "[2026-10-10 13:11:31] outreach: 팔로우 @form.golf",
+    "[2026-10-10 13:15:00] outreach: 카드 클릭 실패: Locator.scroll_into_view_if_needed: Timeout 4989ms exceeded.",
+    "[2026-10-10 13:15:11] outreach: 링크 클릭 실패(coords): Locator.click: Element is not visible",
+    "[2026-10-10 13:15:40] outreach: 클릭 진입 실패 @beopen50 — 직접 로드로 한 번 시도한다",
+    "[2026-10-10 13:15:47] outreach: 대상 확인: @beopen50 (원글 본문 일치)",
+    "[2026-10-10 13:15:55] outreach: 답글 @beopen50"
   ]
 }
