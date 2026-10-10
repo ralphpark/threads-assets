@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T13:16:04",
+  "generated_at": "2026-10-10T14:14:53",
   "username": "studiohaetae",
   "followers": 152,
   "followers_history": [
@@ -413,7 +413,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DeEh71ZmDf2",
       "text": "레딧이 RSS 피드랑 퍼블릭 API를 없앤대\nAI 봇들이 긁어가는 거 때문이라는데\n근데 그거 쓰던 게 봇만은 아니었잖아\n뭐 만들어보려던 사람들도 거기 걸려있었는데\n결국 다 같이 막혀버리네🥲\nAI가 만든 문제를 AI ",
-      "views": 406,
+      "views": 407,
       "likes": 0,
       "replies": 0
     },
@@ -424,7 +424,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DeGQ8U7mMIt",
       "text": "피그마가 MCP 연결을 화이트리스트 클라이언트로만 열었습니다.\nPi는 그 명단에서 빠졌습니다.\n\n저는 MCP를 써본 적이 없습니다.\n연결이 기술 문제인 줄 알았습니다.\n\n알고 보니 허가 문제였습니다.",
-      "views": 235,
+      "views": 236,
       "likes": 0,
       "replies": 0
     },
@@ -435,7 +435,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DeHGutLmJPY",
       "text": "AI가 예전에 못 풀던 문제들을 사람들이 투표로 가리고 있다고 합니다.\n\n저는 그 목록이 뭔지 아직 못 봤습니다.\n\n제 채널들은 전부 자동으로 돌아가는데\n그게 뭘 풀었는지는 저도 설명을 못 합니다.\n\n투표로 정해질 ",
-      "views": 106,
+      "views": 107,
       "likes": 0,
       "replies": 0
     },
@@ -446,7 +446,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DeI1vZMGJtN",
       "text": "HN에 'AI가 이 챌린지 중 뭘 넘었냐' 투표하는 글 떴더라\n75점 받았대\n근데 나는 그 목록이 뭔지도 몰라🤔\n몇 년 전엔 절대 안 될 거라던 것들 중에\n이미 넘은 게 꽤 있지 않을까 싶은데\n혹시 그 글 본 사람 ",
-      "views": 279,
+      "views": 280,
       "likes": 0,
       "replies": 0
     },
@@ -654,7 +654,7 @@
     "alerts": [],
     "runs_today": {
       "outreach": {
-        "ran": 2,
+        "ran": 3,
         "missed": []
       },
       "followups": {
@@ -677,8 +677,6 @@
     "launchd.collect.err": "                                  ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n실패 clue30.analytics.json — HTTP Error 401: Unauthorized\n실패 tarot.analytics.json — HTTP Error 401: Unauthorized\n"
   },
   "run_log_tail": [
-    "[2026-10-10 13:11:16] outreach: 대상 확인: @form.golf (원글 본문 일치)",
-    "[2026-10-10 13:11:23] outreach: 답글 @form.golf",
     "[2026-10-10 13:11:31] outreach: 팔로우 @form.golf",
     "[2026-10-10 13:15:00] outreach: 카드 클릭 실패: Locator.scroll_into_view_if_needed: Timeout 4989ms exceeded.",
     "[2026-10-10 13:15:11] outreach: 링크 클릭 실패(coords): Locator.click: Element is not visible",
@@ -691,6 +689,8 @@
     "[2026-10-10 13:16:03] outreach: 이번 실행 2건 · 오늘 누적 답글 6/10 · 팔로우 6/6",
     "[2026-10-10 13:16:03] digest 갱신: 팔로워 152 · 미답변 10건 · 큐 0개 · 오늘 답글 5 · 되물음 0 · 팔로우 6",
     "[2026-10-10 13:16:03] agent: 보류 유지 10건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_, @juvin950). 다시 보려면 --recheck-all",
-    "[2026-10-10 13:16:04] outreach: ego 창 닫음"
+    "[2026-10-10 13:16:04] outreach: ego 창 닫음",
+    "[2026-10-10 13:16:57] digest 갱신: 팔로워 152 · 미답변 10건 · 큐 0개 · 오늘 답글 6 · 되물음 0 · 팔로우 7",
+    "[2026-10-10 13:16:57] agent: 자동 답글 0건 · 신규 판정 대상 없음"
   ]
 }
