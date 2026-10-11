@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T16:31:12",
+  "generated_at": "2026-10-11T16:32:05",
   "username": "studiohaetae",
   "followers": 158,
   "followers_history": [
@@ -670,8 +670,6 @@
     "launchd.collect.err": "                                  ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n실패 clue30.analytics.json — HTTP Error 401: Unauthorized\n실패 tarot.analytics.json — HTTP Error 401: Unauthorized\n"
   },
   "run_log_tail": [
-    "[2026-10-11 15:30:34] outreach: followup: ego 창 닫음",
-    "[2026-10-11 15:50:12] outreach: 창이 좁다(innerWidth 1068) — 뷰포트를 강제한다",
     "[2026-10-11 15:50:13] outreach: 뷰포트 강제 후 innerWidth 1400",
     "[2026-10-11 15:50:30] outreach: 계정 확인: @studiohaetae",
     "[2026-10-11 15:50:57] outreach: 검색: 애드센스 승인 → 이 화면 후보 0건 (누적 0)",
@@ -684,6 +682,8 @@
     "[2026-10-11 15:56:43] outreach: 이번 회차 후보 4건 · 모델 호출 2건",
     "[2026-10-11 15:56:43] outreach: 이번 실행 2건 · 오늘 누적 답글 8/10 · 팔로우 6/6",
     "[2026-10-11 15:56:45] outreach: ego 창 닫음",
-    "[2026-10-11 16:27:34] digest 갱신: 팔로워 158 · 미답변 9건 · 큐 0개 · 오늘 답글 8 · 되물음 0 · 팔로우 7"
+    "[2026-10-11 16:27:34] digest 갱신: 팔로워 158 · 미답변 9건 · 큐 0개 · 오늘 답글 8 · 되물음 0 · 팔로우 7",
+    "[2026-10-11 16:32:05] digest 갱신: 팔로워 158 · 미답변 9건 · 큐 0개 · 오늘 답글 8 · 되물음 0 · 팔로우 7",
+    "[2026-10-11 16:32:05] agent: 보류 유지 9건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_, @juvin950). 다시 보려면 --recheck-all"
   ]
 }
