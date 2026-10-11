@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T01:37:38",
+  "generated_at": "2026-10-12T01:39:05",
   "username": "studiohaetae",
   "followers": 161,
   "followers_history": [
@@ -448,18 +448,7 @@
       "text": "HN에 'AI가 이 챌린지 중 뭘 넘었냐' 투표하는 글 떴더라\n75점 받았대\n근데 나는 그 목록이 뭔지도 몰라🤔\n몇 년 전엔 절대 안 될 거라던 것들 중에\n이미 넘은 게 꽤 있지 않을까 싶은데\n혹시 그 글 본 사람 ",
       "views": 344,
       "likes": 2,
-      "replies": 3
-    },
-    {
-      "at": "2026-08-28T02:09:45",
-      "n": -1,
-      "id": "17955825090388555",
-      "is_reply": true,
-      "permalink": "https://www.threads.com/@studiohaetae/post/DcjSlLNmH_R",
-      "text": "맞습니다. AI로 만듭니다.\n\n채널 11개 합쳐서 조회 68만 3천회, 구독자 611명입니다.\n\n그런데 채널 단위로 수익화 기준(구독자 500명)을 넘은 곳은 0개입니다.\n\n슬롭인지 아닌지는 그 숫자로 판단하시면 됩",
-      "views": 12,
-      "likes": 0,
-      "replies": 0
+      "replies": 4
     },
     {
       "at": "2026-09-01T04:59:06",
@@ -514,6 +503,17 @@
       "text": "반갑습니다. 질문이 이해가 안 됐다면 제가 어렵게 쓴 탓입니다.\n\n쉽게 다시 묻겠습니다.\n\n두 계정 중에 팔로워가 더 빨리 느는 쪽은 어디인가요.",
       "views": 2,
       "likes": 1,
+      "replies": 0
+    },
+    {
+      "at": "2026-10-12T01:39:05",
+      "n": -1,
+      "id": "17994062934018918",
+      "is_reply": true,
+      "permalink": "https://www.threads.com/@studiohaetae/post/DeXG0VymGfd",
+      "text": "저희 계정 팔로워는 지금 100명 안팎입니다. 정확한 현재값은 확인하지 못했습니다.\n\n쓰레드 팔로워 수를 물으신 거라면, 시작은 58명이었고 27일 뒤 90명이었습니다.",
+      "views": 0,
+      "likes": 0,
       "replies": 0
     }
   ],
@@ -580,13 +580,6 @@
       "text": "스레드서 차단될지도 모르는 실험을 진행중인데 저도 곧 그리될지도. ㅜㅠ 스하리 하구 갑니다. 다른 글들도 찬찬히 읽어볼게욧^^",
       "at": "2026-10-04T04:14:13+0000",
       "on_post": "18130867297748608"
-    },
-    {
-      "id": "18143600791598501",
-      "username": "poplovique",
-      "text": "쓰레드 팔로워요?",
-      "at": "2026-10-11T14:05:30+0000",
-      "on_post": "18631180120046576"
     }
   ],
   "outreach": {
@@ -677,11 +670,6 @@
     "launchd.collect.err": "                                  ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n실패 clue30.analytics.json — HTTP Error 401: Unauthorized\n실패 tarot.analytics.json — HTTP Error 401: Unauthorized\n"
   },
   "run_log_tail": [
-    "[2026-10-11 22:12:13] outreach: follow: ego 창 닫음",
-    "[2026-10-11 22:30:29] digest 갱신: 팔로워 161 · 미답변 10건 · 큐 0개 · 오늘 답글 10 · 되물음 0 · 팔로우 11",
-    "[2026-10-11 22:36:05] digest 갱신: 팔로워 161 · 미답변 10건 · 큐 0개 · 오늘 답글 10 · 되물음 0 · 팔로우 11",
-    "[2026-10-11 22:36:05] agent: 보류 유지 9건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_, @juvin950). 다시 보려면 --recheck-all",
-    "[2026-10-11 22:36:17] 이미지 0장 공개 URL 확보",
     "[2026-10-11 22:36:36] 답글 게시 완료 id=18631180120046576 https://www.threads.com/@studiohaetae/post/DeWx85HGG85",
     "[2026-10-11 22:36:36] agent: 게시 @poplovique",
     "[2026-10-11 22:37:37] digest 갱신: 팔로워 161 · 미답변 9건 · 큐 0개 · 오늘 답글 10 · 되물음 0 · 팔로우 11",
@@ -691,6 +679,11 @@
     "[2026-10-11 23:40:57] refill: 경보: 큐 잔량 0편 (기준 6) · 대기 중인 초안 17편",
     "[2026-10-11 23:40:57] refill: 초안이 있다. python3 refill.py drafts 로 보고 promote 해라.",
     "[2026-10-11 23:41:45] digest 갱신: 팔로워 161 · 미답변 10건 · 큐 0개 · 오늘 답글 10 · 되물음 0 · 팔로우 11",
-    "[2026-10-12 00:31:25] digest 갱신: 팔로워 161 · 미답변 10건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 0"
+    "[2026-10-12 00:31:25] digest 갱신: 팔로워 161 · 미답변 10건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 0",
+    "[2026-10-12 01:38:28] digest 갱신: 팔로워 161 · 미답변 10건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 0",
+    "[2026-10-12 01:38:28] agent: 보류 유지 9건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_, @juvin950). 다시 보려면 --recheck-all",
+    "[2026-10-12 01:38:37] 이미지 0장 공개 URL 확보",
+    "[2026-10-12 01:39:05] 답글 게시 완료 id=17994062934018918 https://www.threads.com/@studiohaetae/post/DeXG0VymGfd",
+    "[2026-10-12 01:39:05] agent: 게시 @poplovique"
   ]
 }
