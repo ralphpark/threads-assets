@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T22:35:03",
+  "generated_at": "2026-10-11T22:36:36",
   "username": "studiohaetae",
   "followers": 161,
   "followers_history": [
@@ -448,18 +448,7 @@
       "text": "HN에 'AI가 이 챌린지 중 뭘 넘었냐' 투표하는 글 떴더라\n75점 받았대\n근데 나는 그 목록이 뭔지도 몰라🤔\n몇 년 전엔 절대 안 될 거라던 것들 중에\n이미 넘은 게 꽤 있지 않을까 싶은데\n혹시 그 글 본 사람 ",
       "views": 334,
       "likes": 2,
-      "replies": 1
-    },
-    {
-      "at": "2026-08-25T22:52:40",
-      "n": -1,
-      "id": "17920779417205257",
-      "is_reply": true,
-      "permalink": "https://www.threads.com/@studiohaetae/post/DcdybNSn8LW",
-      "text": "맞습니다.\n\n저도 재즈 채널 39편 자동 생성하고 구독자 0명 찍었을 때 그 말이 제일 와닿았어요.\n\n숫자로 보면 더 확실해집니다.",
-      "views": 10,
-      "likes": 1,
-      "replies": 0
+      "replies": 2
     },
     {
       "at": "2026-08-28T02:09:45",
@@ -514,6 +503,17 @@
       "text": "채널 10개에 2000명이면 채널당 평균 200명, 저보다 두 배 넘게 많으시네요.\n\n저는 채널 11개 합계 929명, 채널당 평균 84명입니다.\n\n500명 기준을 채널 단위로 넘은 건 아직 0개입니다.\n\n채널당 최",
       "views": 7,
       "likes": 1,
+      "replies": 0
+    },
+    {
+      "at": "2026-10-11T22:36:36",
+      "n": -1,
+      "id": "18631180120046576",
+      "is_reply": true,
+      "permalink": "https://www.threads.com/@studiohaetae/post/DeWx85HGG85",
+      "text": "반갑습니다. 질문이 이해가 안 됐다면 제가 어렵게 쓴 탓입니다.\n\n쉽게 다시 묻겠습니다.\n\n두 계정 중에 팔로워가 더 빨리 느는 쪽은 어디인가요.",
+      "views": 0,
+      "likes": 0,
       "replies": 0
     }
   ],
@@ -580,13 +580,6 @@
       "text": "스레드서 차단될지도 모르는 실험을 진행중인데 저도 곧 그리될지도. ㅜㅠ 스하리 하구 갑니다. 다른 글들도 찬찬히 읽어볼게욧^^",
       "at": "2026-10-04T04:14:13+0000",
       "on_post": "18130867297748608"
-    },
-    {
-      "id": "18127725149313723",
-      "username": "poplovique",
-      "text": "반가워. 여기서 또보네 나 treeofpop이랑 poplovique 둘다하고 있어^^거기 질문을 남겼던데 이해를 못해서 답을 못했어",
-      "at": "2026-10-11T13:15:20+0000",
-      "on_post": "17976125762932956"
     }
   ],
   "outreach": {
@@ -677,11 +670,6 @@
     "launchd.collect.err": "                                  ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n실패 clue30.analytics.json — HTTP Error 401: Unauthorized\n실패 tarot.analytics.json — HTTP Error 401: Unauthorized\n"
   },
   "run_log_tail": [
-    "[2026-10-11 20:50:00] outreach: followup: 오늘 답글 10건 — 상한 도달. 종료.",
-    "[2026-10-11 21:10:00] outreach: 오늘 답글 10건 — 상한 도달. 종료.",
-    "[2026-10-11 22:10:08] outreach: follow: 창이 좁다(innerWidth 1068) — 뷰포트를 강제한다",
-    "[2026-10-11 22:10:09] outreach: follow: 뷰포트 강제 후 innerWidth 1400",
-    "[2026-10-11 22:10:18] outreach: follow: 검색: 애드센스 승인",
     "[2026-10-11 22:10:30] outreach: follow: 검색: 구독자 정체",
     "[2026-10-11 22:10:40] outreach: follow: 검색: 유튜브 수익",
     "[2026-10-11 22:10:45] outreach: follow: 후보 계정 3명",
@@ -691,6 +679,11 @@
     "[2026-10-11 22:12:13] outreach: follow: 팔로워 69명 @switchstudio.ai — 기준(500) 미달, 건너뜀",
     "[2026-10-11 22:12:13] outreach: follow: 이번 회차 1명 · 오늘 누적 5/20",
     "[2026-10-11 22:12:13] outreach: follow: ego 창 닫음",
-    "[2026-10-11 22:30:29] digest 갱신: 팔로워 161 · 미답변 10건 · 큐 0개 · 오늘 답글 10 · 되물음 0 · 팔로우 11"
+    "[2026-10-11 22:30:29] digest 갱신: 팔로워 161 · 미답변 10건 · 큐 0개 · 오늘 답글 10 · 되물음 0 · 팔로우 11",
+    "[2026-10-11 22:36:05] digest 갱신: 팔로워 161 · 미답변 10건 · 큐 0개 · 오늘 답글 10 · 되물음 0 · 팔로우 11",
+    "[2026-10-11 22:36:05] agent: 보류 유지 9건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_, @juvin950). 다시 보려면 --recheck-all",
+    "[2026-10-11 22:36:17] 이미지 0장 공개 URL 확보",
+    "[2026-10-11 22:36:36] 답글 게시 완료 id=18631180120046576 https://www.threads.com/@studiohaetae/post/DeWx85HGG85",
+    "[2026-10-11 22:36:36] agent: 게시 @poplovique"
   ]
 }
