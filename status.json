@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T10:43:13",
+  "generated_at": "2026-10-12T10:43:57",
   "username": "studiohaetae",
   "followers": 161,
   "followers_history": [
@@ -672,8 +672,6 @@
     "launchd.collect.err": "                                  ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n실패 clue30.analytics.json — HTTP Error 401: Unauthorized\n실패 tarot.analytics.json — HTTP Error 401: Unauthorized\n"
   },
   "run_log_tail": [
-    "[2026-10-12 10:31:03] outreach: follow: 후보 계정 10명",
-    "[2026-10-12 10:31:47] outreach: follow: 프로필 10개 확인 — 팔로워 큰 순으로 진행",
     "[2026-10-12 10:31:54] outreach: follow: 팔로우 @kimjaeuk.ulsan (팔로워 2,275명)",
     "[2026-10-12 10:33:05] outreach: follow: 팔로우 @jakecoldbyte (팔로워 1,518명)",
     "[2026-10-12 10:34:26] outreach: follow: 팔로워 404명 @gksmf0246 — 기준(500) 미달, 건너뜀",
@@ -686,6 +684,8 @@
     "[2026-10-12 10:34:26] outreach: follow: 팔로워 5명 @aneuro_lab — 기준(500) 미달, 건너뜀",
     "[2026-10-12 10:34:26] outreach: follow: 이번 회차 2명 · 오늘 누적 2/20",
     "[2026-10-12 10:34:26] outreach: follow: ego 창 닫음",
-    "[2026-10-12 10:36:06] digest 갱신: 팔로워 161 · 미답변 9건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 2"
+    "[2026-10-12 10:36:06] digest 갱신: 팔로워 161 · 미답변 9건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 2",
+    "[2026-10-12 10:43:57] digest 갱신: 팔로워 161 · 미답변 9건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 2",
+    "[2026-10-12 10:43:57] agent: 보류 유지 9건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_, @juvin950). 다시 보려면 --recheck-all"
   ]
 }
