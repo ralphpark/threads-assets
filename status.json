@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T18:49:31",
+  "generated_at": "2026-10-13T20:03:34",
   "username": "studiohaetae",
   "followers": 163,
   "followers_history": [
@@ -656,7 +656,7 @@
     "last_run": {
       "outreach": "2026-10-11T21:10",
       "followups": "2026-10-13T18:10",
-      "follows": "2026-10-13T17:21"
+      "follows": "2026-10-13T19:41"
     },
     "alerts": [
       "outreach 가 오늘 5판 빠졌다 (09:20 11:40 13:10 15:50 18:30). **매달린 판이 있으면 launchd 는 다음 회차를 조용히 건너뛴다** — ps 로 outreach.py 가 살아 있는지 봐라",
@@ -678,7 +678,7 @@
         "missed": []
       },
       "follows": {
-        "ran": 3,
+        "ran": 4,
         "missed": []
       }
     },
@@ -694,20 +694,20 @@
     "launchd.collect.err": "                                  ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n실패 clue30.analytics.json — HTTP Error 401: Unauthorized\n실패 tarot.analytics.json — HTTP Error 401: Unauthorized\n"
   },
   "run_log_tail": [
-    "[2026-10-13 17:20:44] outreach: follow: 후보 계정 6명",
-    "[2026-10-13 17:21:10] outreach: follow: 프로필 6개 확인 — 팔로워 큰 순으로 진행",
-    "[2026-10-13 17:21:10] outreach: follow: 팔로워 410명 @gksmf0246 — 기준(500) 미달, 건너뜀",
-    "[2026-10-13 17:21:10] outreach: follow: 팔로워 258명 @zzunote — 기준(500) 미달, 건너뜀",
-    "[2026-10-13 17:21:10] outreach: follow: 팔로워 9명 @yulplanet_content — 기준(500) 미달, 건너뜀",
-    "[2026-10-13 17:21:10] outreach: follow: 팔로워 8명 @bok_egtm — 기준(500) 미달, 건너뜀",
-    "[2026-10-13 17:21:10] outreach: follow: 팔로워 5명 @tqq_06 — 기준(500) 미달, 건너뜀",
-    "[2026-10-13 17:21:10] outreach: follow: 팔로워 1명 @aroundset_kino — 기준(500) 미달, 건너뜀",
-    "[2026-10-13 17:21:10] outreach: follow: 이번 회차 0명 · 오늘 누적 0/20",
-    "[2026-10-13 17:21:12] outreach: follow: ego 창 닫음",
-    "[2026-10-13 18:10:09] outreach: followup: 창이 좁다(innerWidth 1068) — 뷰포트를 강제한다",
-    "[2026-10-13 18:10:09] outreach: followup: 뷰포트 강제 후 innerWidth 1400",
-    "[2026-10-13 18:10:15] outreach: followup: 계정 확인: @studiohaetae",
-    "[2026-10-13 18:10:22] outreach: followup: 되물음 후보 0건 (이미 답한 것 제외)",
-    "[2026-10-13 18:10:22] outreach: followup: ego 창 닫음"
+    "[2026-10-13 19:40:09] outreach: follow: 뷰포트 강제 후 innerWidth 1400",
+    "[2026-10-13 19:40:23] outreach: follow: 검색: 유튜브 한달",
+    "[2026-10-13 19:40:31] outreach: follow: 검색: 조회수 1000회",
+    "[2026-10-13 19:40:38] outreach: follow: 검색: 유튜브 수익",
+    "[2026-10-13 19:40:44] outreach: follow: 후보 계정 7명",
+    "[2026-10-13 19:41:14] outreach: follow: 프로필 7개 확인 — 팔로워 큰 순으로 진행",
+    "[2026-10-13 19:41:14] outreach: follow: 팔로워 410명 @gksmf0246 — 기준(500) 미달, 건너뜀",
+    "[2026-10-13 19:41:14] outreach: follow: 팔로워 259명 @zzunote — 기준(500) 미달, 건너뜀",
+    "[2026-10-13 19:41:14] outreach: follow: 팔로워 122명 @hanyoungstudio — 기준(500) 미달, 건너뜀",
+    "[2026-10-13 19:41:14] outreach: follow: 팔로워 9명 @yulplanet_content — 기준(500) 미달, 건너뜀",
+    "[2026-10-13 19:41:14] outreach: follow: 팔로워 8명 @bok_egtm — 기준(500) 미달, 건너뜀",
+    "[2026-10-13 19:41:14] outreach: follow: 팔로워 5명 @tqq_06 — 기준(500) 미달, 건너뜀",
+    "[2026-10-13 19:41:14] outreach: follow: 팔로워 1명 @aroundset_kino — 기준(500) 미달, 건너뜀",
+    "[2026-10-13 19:41:14] outreach: follow: 이번 회차 0명 · 오늘 누적 0/20",
+    "[2026-10-13 19:41:14] outreach: follow: ego 창 닫음"
   ]
 }
