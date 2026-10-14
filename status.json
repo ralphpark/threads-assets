@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T10:57:01",
+  "generated_at": "2026-10-14T11:13:14",
   "username": "studiohaetae",
   "followers": 163,
   "followers_history": [
@@ -689,7 +689,6 @@
     "launchd.collect.err": "                                  ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n실패 clue30.analytics.json — HTTP Error 401: Unauthorized\n실패 tarot.analytics.json — HTTP Error 401: Unauthorized\n"
   },
   "run_log_tail": [
-    "[2026-10-14 10:30:48] outreach: follow: 후보 계정 11명",
     "[2026-10-14 10:31:40] outreach: follow: 프로필 11개 확인 — 팔로워 큰 순으로 진행",
     "[2026-10-14 10:31:47] outreach: follow: 팔로우 @monstella_tarot (팔로워 1,716명)",
     "[2026-10-14 10:32:39] outreach: follow: 팔로워 410명 @gksmf0246 — 기준(500) 미달, 건너뜀",
@@ -703,6 +702,7 @@
     "[2026-10-14 10:32:39] outreach: follow: 팔로워 5명 @moonkimvision — 기준(500) 미달, 건너뜀",
     "[2026-10-14 10:32:39] outreach: follow: 팔로워 1명 @aroundset_kino — 기준(500) 미달, 건너뜀",
     "[2026-10-14 10:32:39] outreach: follow: 이번 회차 1명 · 오늘 누적 1/20",
-    "[2026-10-14 10:32:40] outreach: follow: ego 창 닫음"
+    "[2026-10-14 10:32:40] outreach: follow: ego 창 닫음",
+    "[2026-10-14 10:58:10] digest 갱신: 팔로워 163 · 미답변 11건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 1 · !! 답글이 2일 연속 0건이다. 후보 수집이 마른 건지 게이트가 다 막는 건지 launchd.outreach.out 의 '훑은 글 중 제외' 줄을 봐라."
   ]
 }
