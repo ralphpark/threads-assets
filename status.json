@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T23:41:09",
+  "generated_at": "2026-10-16T23:58:02",
   "username": "studiohaetae",
   "followers": 164,
   "followers_history": [
@@ -435,7 +435,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DeHGutLmJPY",
       "text": "AI가 예전에 못 풀던 문제들을 사람들이 투표로 가리고 있다고 합니다.\n\n저는 그 목록이 뭔지 아직 못 봤습니다.\n\n제 채널들은 전부 자동으로 돌아가는데\n그게 뭘 풀었는지는 저도 설명을 못 합니다.\n\n투표로 정해질 ",
-      "views": 178,
+      "views": 179,
       "likes": 0,
       "replies": 0
     },
@@ -446,7 +446,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DeI1vZMGJtN",
       "text": "HN에 'AI가 이 챌린지 중 뭘 넘었냐' 투표하는 글 떴더라\n75점 받았대\n근데 나는 그 목록이 뭔지도 몰라🤔\n몇 년 전엔 절대 안 될 거라던 것들 중에\n이미 넘은 게 꽤 있지 않을까 싶은데\n혹시 그 글 본 사람 ",
-      "views": 365,
+      "views": 366,
       "likes": 3,
       "replies": 6
     },
@@ -702,7 +702,6 @@
     "launchd.collect.err": "                                  ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n실패 clue30.analytics.json — HTTP Error 401: Unauthorized\n실패 tarot.analytics.json — HTTP Error 401: Unauthorized\n"
   },
   "run_log_tail": [
-    "[2026-10-16 22:13:34] outreach: follow: 팔로우 @geeknewshada (팔로워 592명)",
     "[2026-10-16 22:14:49] outreach: follow: 팔로워 156명 @ai.ax.kang — 기준(500) 미달, 건너뜀",
     "[2026-10-16 22:14:49] outreach: follow: 팔로워 103명 @10.doameein — 기준(500) 미달, 건너뜀",
     "[2026-10-16 22:14:49] outreach: follow: 팔로워 98명 @challenge_kwon — 기준(500) 미달, 건너뜀",
@@ -716,6 +715,7 @@
     "[2026-10-16 23:40:01] 스냅샷: {\"date\": \"2026-10-16\", \"at\": \"2026-10-16T23:40:00\", \"followers\": 164, \"views\": 126, \"likes\": 0, \"replies\": 0, \"reposts\": 0, \"quotes\": 0, \"clicks\": null}",
     "[2026-10-16 23:40:55] 답글 43건 수집 -> replies-2026-10-16.json",
     "[2026-10-16 23:41:09] refill: 경보: 큐 잔량 0편 (기준 6) · 대기 중인 초안 26편",
-    "[2026-10-16 23:41:09] refill: 초안이 있다. python3 refill.py drafts 로 보고 promote 해라."
+    "[2026-10-16 23:41:09] refill: 초안이 있다. python3 refill.py drafts 로 보고 promote 해라.",
+    "[2026-10-16 23:42:08] digest 갱신: 팔로워 164 · 미답변 12건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 4 · !! outreach 가 오늘 6판 빠졌다 (09:20 11:40 13:10 15:50 18:30 21:10). **매달린 판이 있으면 launchd 는 다음 회차를 조용히 건너뛴다** — ps 로 outreach.py 가 살아 있는지 봐라 / 답글이 5일 연속 0건이다. 후보 수집이 마른 건지 게이트가 다 막는 건지 launchd.outreach.out 의 '훑은 글 중 제외' 줄을 봐라."
   ]
 }
