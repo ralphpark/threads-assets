@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T09:21:50",
+  "generated_at": "2026-10-18T10:12:23",
   "username": "studiohaetae",
   "followers": 164,
   "followers_history": [
@@ -671,7 +671,9 @@
     "runs_today": {
       "outreach": {
         "ran": 0,
-        "missed": []
+        "missed": [
+          "09:20"
+        ]
       },
       "followups": {
         "ran": 1,
@@ -694,8 +696,6 @@
     "launchd.collect.err": "                                  ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n실패 clue30.analytics.json — HTTP Error 401: Unauthorized\n실패 tarot.analytics.json — HTTP Error 401: Unauthorized\n"
   },
   "run_log_tail": [
-    "[2026-10-18 04:10:30] digest 갱신: 팔로워 164 · 미답변 12건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 0 · !! 답글이 6일 연속 0건이다. 후보 수집이 마른 건지 게이트가 다 막는 건지 launchd.outreach.out 의 '훑은 글 중 제외' 줄을 봐라.",
-    "[2026-10-18 06:11:27] digest 갱신: 팔로워 164 · 미답변 12건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 0 · !! 답글이 6일 연속 0건이다. 후보 수집이 마른 건지 게이트가 다 막는 건지 launchd.outreach.out 의 '훑은 글 중 제외' 줄을 봐라.",
     "[2026-10-18 06:20:06] digest 갱신: 팔로워 164 · 미답변 12건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 0 · !! 답글이 6일 연속 0건이다. 후보 수집이 마른 건지 게이트가 다 막는 건지 launchd.outreach.out 의 '훑은 글 중 제외' 줄을 봐라.",
     "[2026-10-18 06:20:06] agent: 보류 유지 12건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_, @juvin950). 다시 보려면 --recheck-all",
     "[2026-10-18 06:21:07] digest 갱신: 팔로워 164 · 미답변 12건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 0 · !! 답글이 6일 연속 0건이다. 후보 수집이 마른 건지 게이트가 다 막는 건지 launchd.outreach.out 의 '훑은 글 중 제외' 줄을 봐라.",
@@ -708,6 +708,8 @@
     "[2026-10-18 09:00:23] outreach: followup: 되물음 후보 0건 (이미 답한 것 제외)",
     "[2026-10-18 09:00:23] outreach: followup: ego 창 닫음",
     "[2026-10-18 09:21:50] digest 갱신: 팔로워 164 · 미답변 12건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 0 · !! 답글이 6일 연속 0건이다. 후보 수집이 마른 건지 게이트가 다 막는 건지 launchd.outreach.out 의 '훑은 글 중 제외' 줄을 봐라.",
-    "[2026-10-18 09:21:50] agent: 보류 유지 12건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_, @juvin950). 다시 보려면 --recheck-all"
+    "[2026-10-18 09:21:50] agent: 보류 유지 12건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_, @juvin950). 다시 보려면 --recheck-all",
+    "[2026-10-18 09:22:28] digest 갱신: 팔로워 164 · 미답변 12건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 0 · !! 답글이 6일 연속 0건이다. 후보 수집이 마른 건지 게이트가 다 막는 건지 launchd.outreach.out 의 '훑은 글 중 제외' 줄을 봐라.",
+    "[2026-10-18 09:22:28] agent: 자동 답글 0건 · 신규 판정 대상 없음"
   ]
 }
