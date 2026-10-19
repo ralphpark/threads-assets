@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-19T17:44:40",
+  "generated_at": "2026-10-19T19:45:39",
   "username": "studiohaetae",
-  "followers": 164,
+  "followers": 166,
   "followers_history": [
     {
       "date": "2026-10-05",
@@ -435,7 +435,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DeHGutLmJPY",
       "text": "AI가 예전에 못 풀던 문제들을 사람들이 투표로 가리고 있다고 합니다.\n\n저는 그 목록이 뭔지 아직 못 봤습니다.\n\n제 채널들은 전부 자동으로 돌아가는데\n그게 뭘 풀었는지는 저도 설명을 못 합니다.\n\n투표로 정해질 ",
-      "views": 183,
+      "views": 184,
       "likes": 0,
       "replies": 0
     },
@@ -446,9 +446,9 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DeI1vZMGJtN",
       "text": "HN에 'AI가 이 챌린지 중 뭘 넘었냐' 투표하는 글 떴더라\n75점 받았대\n근데 나는 그 목록이 뭔지도 몰라🤔\n몇 년 전엔 절대 안 될 거라던 것들 중에\n이미 넘은 게 꽤 있지 않을까 싶은데\n혹시 그 글 본 사람 ",
-      "views": 370,
-      "likes": 3,
-      "replies": 6
+      "views": 376,
+      "likes": 4,
+      "replies": 7
     },
     {
       "at": "2026-09-01T04:59:06",
@@ -589,6 +589,13 @@
       "on_post": "18130867297748608"
     },
     {
+      "id": "18126226429876613",
+      "username": "judy_gorang",
+      "text": "반하리 😊",
+      "at": "2026-10-19T09:27:50+0000",
+      "on_post": "17976125762932956"
+    },
+    {
       "id": "17933778921143780",
       "username": "supersale1231",
       "text": "반하리 💕 편안한 저녁 보내 💙 😊",
@@ -607,7 +614,7 @@
     "today": {
       "replies": 0,
       "followups": 0,
-      "follows": 5
+      "follows": 7
     },
     "last7": [
       {
@@ -656,18 +663,18 @@
         "date": "2026-10-19",
         "replies": 0,
         "followups": 0,
-        "follows": 5,
+        "follows": 7,
         "followers": null
       }
     ],
     "last_run": {
       "outreach": "2026-10-11T21:10",
-      "followups": "2026-10-19T15:30",
-      "follows": "2026-10-19T17:22"
+      "followups": "2026-10-19T18:10",
+      "follows": "2026-10-19T19:44"
     },
     "alerts": [
-      "outreach 가 오늘 4판 빠졌다 (09:20 11:40 13:10 15:50). **매달린 판이 있으면 launchd 는 다음 회차를 조용히 건너뛴다** — ps 로 outreach.py 가 살아 있는지 봐라",
-      "답글이 6일 연속 0건이다. 후보 수집이 마른 건지 게이트가 다 막는 건지 launchd.outreach.out 의 '훑은 글 중 제외' 줄을 봐라."
+      "outreach 가 오늘 5판 빠졌다 (09:20 11:40 13:10 15:50 18:30). **매달린 판이 있으면 launchd 는 다음 회차를 조용히 건너뛴다** — ps 로 outreach.py 가 살아 있는지 봐라",
+      "답글이 7일 연속 0건이다. 후보 수집이 마른 건지 게이트가 다 막는 건지 launchd.outreach.out 의 '훑은 글 중 제외' 줄을 봐라."
     ],
     "runs_today": {
       "outreach": {
@@ -676,11 +683,12 @@
           "09:20",
           "11:40",
           "13:10",
-          "15:50"
+          "15:50",
+          "18:30"
         ]
       },
       "followups": {
-        "ran": 4,
+        "ran": 5,
         "missed": []
       },
       "follows": {
@@ -690,30 +698,30 @@
     },
     "follow_experiment": {
       "followers_delta_7d": 2,
-      "follows_7d": 28,
+      "follows_7d": 30,
       "replies_7d": 0,
       "note": "팔로우 대비 팔로워 증가. 답글과 섞여 있어 단독 인과는 못 본다"
     }
   },
-  "outreach_alert": "outreach 가 오늘 4판 빠졌다 (09:20 11:40 13:10 15:50). **매달린 판이 있으면 launchd 는 다음 회차를 조용히 건너뛴다** — ps 로 outreach.py 가 살아 있는지 봐라 / 답글이 6일 연속 0건이다. 후보 수집이 마른 건지 게이트가 다 막는 건지 launchd.outreach.out 의 '훑은 글 중 제외' 줄을 봐라.",
+  "outreach_alert": "outreach 가 오늘 5판 빠졌다 (09:20 11:40 13:10 15:50 18:30). **매달린 판이 있으면 launchd 는 다음 회차를 조용히 건너뛴다** — ps 로 outreach.py 가 살아 있는지 봐라 / 답글이 7일 연속 0건이다. 후보 수집이 마른 건지 게이트가 다 막는 건지 launchd.outreach.out 의 '훑은 글 중 제외' 줄을 봐라.",
   "errors": {
     "launchd.collect.err": "                                  ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n실패 clue30.analytics.json — HTTP Error 401: Unauthorized\n실패 tarot.analytics.json — HTTP Error 401: Unauthorized\n"
   },
   "run_log_tail": [
-    "[2026-10-19 17:21:46] outreach: follow: 프로필 12개 확인 — 팔로워 큰 순으로 진행",
-    "[2026-10-19 17:21:53] outreach: follow: 팔로우 @padak.run (팔로워 1,312명)",
-    "[2026-10-19 17:22:39] outreach: follow: 팔로워 442명 @woo_dong2_7 — 기준(500) 미달, 건너뜀",
-    "[2026-10-19 17:22:39] outreach: follow: 팔로워 420명 @1st_ai_d_na — 기준(500) 미달, 건너뜀",
-    "[2026-10-19 17:22:39] outreach: follow: 팔로워 193명 @plainmood_music — 기준(500) 미달, 건너뜀",
-    "[2026-10-19 17:22:39] outreach: follow: 팔로워 81명 @sd0176qa — 기준(500) 미달, 건너뜀",
-    "[2026-10-19 17:22:39] outreach: follow: 팔로워 65명 @h.osoo — 기준(500) 미달, 건너뜀",
-    "[2026-10-19 17:22:39] outreach: follow: 팔로워 60명 @dalbitparkmusic — 기준(500) 미달, 건너뜀",
-    "[2026-10-19 17:22:39] outreach: follow: 팔로워 30명 @godgidan — 기준(500) 미달, 건너뜀",
-    "[2026-10-19 17:22:39] outreach: follow: 팔로워 22명 @cherki2627 — 기준(500) 미달, 건너뜀",
-    "[2026-10-19 17:22:39] outreach: follow: 팔로워 17명 @moonkimvision — 기준(500) 미달, 건너뜀",
-    "[2026-10-19 17:22:39] outreach: follow: 팔로워 11명 @yujins_things — 기준(500) 미달, 건너뜀",
-    "[2026-10-19 17:22:39] outreach: follow: 팔로워 9명 @bonjebi — 기준(500) 미달, 건너뜀",
-    "[2026-10-19 17:22:39] outreach: follow: 이번 회차 1명 · 오늘 누적 5/20",
-    "[2026-10-19 17:22:39] outreach: follow: ego 창 닫음"
+    "[2026-10-19 19:40:34] outreach: follow: 검색: 영상 조회수",
+    "[2026-10-19 19:40:41] outreach: follow: 검색: 조회수 1000회",
+    "[2026-10-19 19:40:47] outreach: follow: 후보 계정 9명",
+    "[2026-10-19 19:41:26] outreach: follow: 프로필 9개 확인 — 팔로워 큰 순으로 진행",
+    "[2026-10-19 19:41:26] outreach: follow: 이미 팔로우 중 @tuberithm",
+    "[2026-10-19 19:41:32] outreach: follow: 팔로우 @momoru_official (팔로워 1,232명)",
+    "[2026-10-19 19:42:57] outreach: follow: 팔로우 @saemiraeminjoo (팔로워 675명)",
+    "[2026-10-19 19:44:04] outreach: follow: 팔로워 407명 @jihobada — 기준(500) 미달, 건너뜀",
+    "[2026-10-19 19:44:04] outreach: follow: 팔로워 397명 @ieum0525 — 기준(500) 미달, 건너뜀",
+    "[2026-10-19 19:44:04] outreach: follow: 팔로워 217명 @jupa0620 — 기준(500) 미달, 건너뜀",
+    "[2026-10-19 19:44:04] outreach: follow: 팔로워 51명 @game_nori__ — 기준(500) 미달, 건너뜀",
+    "[2026-10-19 19:44:04] outreach: follow: 팔로워 29명 @theblooming2026 — 기준(500) 미달, 건너뜀",
+    "[2026-10-19 19:44:04] outreach: follow: 팔로워 4명 @aneuro_lab — 기준(500) 미달, 건너뜀",
+    "[2026-10-19 19:44:04] outreach: follow: 이번 회차 2명 · 오늘 누적 7/20",
+    "[2026-10-19 19:44:04] outreach: follow: ego 창 닫음"
   ]
 }
