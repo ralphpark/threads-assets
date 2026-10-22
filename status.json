@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-22T14:27:14",
+  "generated_at": "2026-10-22T16:15:42",
   "username": "studiohaetae",
-  "followers": 168,
+  "followers": 169,
   "followers_history": [
     {
       "date": "2026-10-08",
@@ -402,7 +402,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DeDsJb5GPyj",
       "text": "레딧이 RSS 피드를 없앤다고 합니다.\n이유는 AI 봇입니다.\n\n저도 매일 AI로 채널을 자동으로 돌리고 있습니다.\n제가 쓰는 자동화가, 플랫폼에는 막아야 할 트래픽이었습니다.\n\n제 봇도 언젠가 어딘가에서 차단 대상",
-      "views": 343,
+      "views": 344,
       "likes": 2,
       "replies": 1
     },
@@ -413,7 +413,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DeEh71ZmDf2",
       "text": "레딧이 RSS 피드랑 퍼블릭 API를 없앤대\nAI 봇들이 긁어가는 거 때문이라는데\n근데 그거 쓰던 게 봇만은 아니었잖아\n뭐 만들어보려던 사람들도 거기 걸려있었는데\n결국 다 같이 막혀버리네🥲\nAI가 만든 문제를 AI ",
-      "views": 447,
+      "views": 448,
       "likes": 0,
       "replies": 0
     },
@@ -424,7 +424,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DeGQ8U7mMIt",
       "text": "피그마가 MCP 연결을 화이트리스트 클라이언트로만 열었습니다.\nPi는 그 명단에서 빠졌습니다.\n\n저는 MCP를 써본 적이 없습니다.\n연결이 기술 문제인 줄 알았습니다.\n\n알고 보니 허가 문제였습니다.",
-      "views": 298,
+      "views": 301,
       "likes": 0,
       "replies": 0
     },
@@ -435,7 +435,7 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DeHGutLmJPY",
       "text": "AI가 예전에 못 풀던 문제들을 사람들이 투표로 가리고 있다고 합니다.\n\n저는 그 목록이 뭔지 아직 못 봤습니다.\n\n제 채널들은 전부 자동으로 돌아가는데\n그게 뭘 풀었는지는 저도 설명을 못 합니다.\n\n투표로 정해질 ",
-      "views": 192,
+      "views": 193,
       "likes": 0,
       "replies": 0
     },
@@ -446,8 +446,8 @@
       "is_reply": false,
       "permalink": "https://www.threads.com/@studiohaetae/post/DeI1vZMGJtN",
       "text": "HN에 'AI가 이 챌린지 중 뭘 넘었냐' 투표하는 글 떴더라\n75점 받았대\n근데 나는 그 목록이 뭔지도 몰라🤔\n몇 년 전엔 절대 안 될 거라던 것들 중에\n이미 넘은 게 꽤 있지 않을까 싶은데\n혹시 그 글 본 사람 ",
-      "views": 385,
-      "likes": 4,
+      "views": 386,
+      "likes": 5,
       "replies": 7
     },
     {
@@ -614,7 +614,7 @@
     "today": {
       "replies": 0,
       "followups": 0,
-      "follows": 2
+      "follows": 4
     },
     "last7": [
       {
@@ -663,17 +663,17 @@
         "date": "2026-10-22",
         "replies": 0,
         "followups": 0,
-        "follows": 2,
+        "follows": 4,
         "followers": null
       }
     ],
     "last_run": {
       "outreach": "2026-10-11T21:10",
-      "followups": "2026-10-22T12:50",
-      "follows": "2026-10-22T10:34"
+      "followups": "2026-10-22T15:30",
+      "follows": "2026-10-22T14:34"
     },
     "alerts": [
-      "outreach 가 오늘 3판 빠졌다 (09:20 11:40 13:10). **매달린 판이 있으면 launchd 는 다음 회차를 조용히 건너뛴다** — ps 로 outreach.py 가 살아 있는지 봐라",
+      "outreach 가 오늘 4판 빠졌다 (09:20 11:40 13:10 15:50). **매달린 판이 있으면 launchd 는 다음 회차를 조용히 건너뛴다** — ps 로 outreach.py 가 살아 있는지 봐라",
       "답글이 6일 연속 0건이다. 후보 수집이 마른 건지 게이트가 다 막는 건지 launchd.outreach.out 의 '훑은 글 중 제외' 줄을 봐라."
     ],
     "runs_today": {
@@ -682,44 +682,45 @@
         "missed": [
           "09:20",
           "11:40",
-          "13:10"
+          "13:10",
+          "15:50"
         ]
       },
       "followups": {
-        "ran": 3,
+        "ran": 4,
         "missed": []
       },
       "follows": {
-        "ran": 1,
+        "ran": 2,
         "missed": []
       }
     },
     "follow_experiment": {
       "followers_delta_7d": 3,
-      "follows_7d": 33,
+      "follows_7d": 35,
       "replies_7d": 0,
       "note": "팔로우 대비 팔로워 증가. 답글과 섞여 있어 단독 인과는 못 본다"
     }
   },
-  "outreach_alert": "outreach 가 오늘 3판 빠졌다 (09:20 11:40 13:10). **매달린 판이 있으면 launchd 는 다음 회차를 조용히 건너뛴다** — ps 로 outreach.py 가 살아 있는지 봐라 / 답글이 6일 연속 0건이다. 후보 수집이 마른 건지 게이트가 다 막는 건지 launchd.outreach.out 의 '훑은 글 중 제외' 줄을 봐라.",
+  "outreach_alert": "outreach 가 오늘 4판 빠졌다 (09:20 11:40 13:10 15:50). **매달린 판이 있으면 launchd 는 다음 회차를 조용히 건너뛴다** — ps 로 outreach.py 가 살아 있는지 봐라 / 답글이 6일 연속 0건이다. 후보 수집이 마른 건지 게이트가 다 막는 건지 launchd.outreach.out 의 '훑은 글 중 제외' 줄을 봐라.",
   "errors": {
     "launchd.collect.err": "                                  ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n실패 clue30.analytics.json — HTTP Error 401: Unauthorized\n실패 tarot.analytics.json — HTTP Error 401: Unauthorized\n"
   },
   "run_log_tail": [
-    "[2026-10-22 11:20:30] outreach: followup: ego 창 닫음",
-    "[2026-10-22 11:25:37] digest 갱신: 팔로워 168 · 미답변 13건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 2 · !! 답글이 6일 연속 0건이다. 후보 수집이 마른 건지 게이트가 다 막는 건지 launchd.outreach.out 의 '훑은 글 중 제외' 줄을 봐라.",
-    "[2026-10-22 11:25:37] agent: 보류 유지 13건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_, @juvin950). 다시 보려면 --recheck-all",
-    "[2026-10-22 11:26:26] digest 갱신: 팔로워 168 · 미답변 13건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 2 · !! 답글이 6일 연속 0건이다. 후보 수집이 마른 건지 게이트가 다 막는 건지 launchd.outreach.out 의 '훑은 글 중 제외' 줄을 봐라.",
-    "[2026-10-22 11:26:26] agent: 자동 답글 0건 · 신규 판정 대상 없음",
-    "[2026-10-22 12:14:46] digest 갱신: 팔로워 168 · 미답변 13건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 2 · !! outreach 가 오늘 2판 빠졌다 (09:20 11:40). **매달린 판이 있으면 launchd 는 다음 회차를 조용히 건너뛴다** — ps 로 outreach.py 가 살아 있는지 봐라 / 답글이 6일 연속 0건이다. 후보 수집이 마른 건지 게이트가 다 막는 건지 launchd.outreach.out 의 '훑은 글 중 제외' 줄을 봐라.",
-    "[2026-10-22 12:40:01] 큐가 비었다. 게시하지 않음.",
-    "[2026-10-22 12:50:14] outreach: followup: 창이 좁다(innerWidth 1068) — 뷰포트를 강제한다",
-    "[2026-10-22 12:50:14] outreach: followup: 뷰포트 강제 후 innerWidth 1400",
-    "[2026-10-22 12:50:21] outreach: followup: 계정 확인: @studiohaetae",
-    "[2026-10-22 12:50:27] outreach: followup: 되물음 후보 0건 (이미 답한 것 제외)",
-    "[2026-10-22 12:50:28] outreach: followup: ego 창 닫음",
-    "[2026-10-22 14:15:39] digest 갱신: 팔로워 168 · 미답변 13건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 2 · !! outreach 가 오늘 3판 빠졌다 (09:20 11:40 13:10). **매달린 판이 있으면 launchd 는 다음 회차를 조용히 건너뛴다** — ps 로 outreach.py 가 살아 있는지 봐라 / 답글이 6일 연속 0건이다. 후보 수집이 마른 건지 게이트가 다 막는 건지 launchd.outreach.out 의 '훑은 글 중 제외' 줄을 봐라.",
-    "[2026-10-22 14:27:14] digest 갱신: 팔로워 168 · 미답변 13건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 2 · !! outreach 가 오늘 3판 빠졌다 (09:20 11:40 13:10). **매달린 판이 있으면 launchd 는 다음 회차를 조용히 건너뛴다** — ps 로 outreach.py 가 살아 있는지 봐라 / 답글이 6일 연속 0건이다. 후보 수집이 마른 건지 게이트가 다 막는 건지 launchd.outreach.out 의 '훑은 글 중 제외' 줄을 봐라.",
-    "[2026-10-22 14:27:14] agent: 보류 유지 13건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_, @juvin950). 다시 보려면 --recheck-all"
+    "[2026-10-22 14:34:12] outreach: follow: 팔로워 159명 @noteforeststudio — 기준(500) 미달, 건너뜀",
+    "[2026-10-22 14:34:12] outreach: follow: 팔로워 129명 @picniday_playlist — 기준(500) 미달, 건너뜀",
+    "[2026-10-22 14:34:12] outreach: follow: 팔로워 31명 @cyoung5882 — 기준(500) 미달, 건너뜀",
+    "[2026-10-22 14:34:12] outreach: follow: 팔로워 31명 @withhappy23 — 기준(500) 미달, 건너뜀",
+    "[2026-10-22 14:34:12] outreach: follow: 팔로워 30명 @jimmylee.foto — 기준(500) 미달, 건너뜀",
+    "[2026-10-22 14:34:12] outreach: follow: 팔로워 13명 @sngmin3111 — 기준(500) 미달, 건너뜀",
+    "[2026-10-22 14:34:12] outreach: follow: 팔로워 9명 @raljibot_ai — 기준(500) 미달, 건너뜀",
+    "[2026-10-22 14:34:12] outreach: follow: 팔로워 7명 @dae_gyeong2 — 기준(500) 미달, 건너뜀",
+    "[2026-10-22 14:34:12] outreach: follow: 이번 회차 2명 · 오늘 누적 4/20",
+    "[2026-10-22 14:34:12] outreach: follow: ego 창 닫음",
+    "[2026-10-22 15:30:10] outreach: followup: 창이 좁다(innerWidth 1068) — 뷰포트를 강제한다",
+    "[2026-10-22 15:30:11] outreach: followup: 뷰포트 강제 후 innerWidth 1400",
+    "[2026-10-22 15:30:17] outreach: followup: 계정 확인: @studiohaetae",
+    "[2026-10-22 15:30:24] outreach: followup: 되물음 후보 0건 (이미 답한 것 제외)",
+    "[2026-10-22 15:30:24] outreach: followup: ego 창 닫음"
   ]
 }
