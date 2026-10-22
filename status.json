@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T11:24:47",
+  "generated_at": "2026-10-22T11:25:37",
   "username": "studiohaetae",
   "followers": 168,
   "followers_history": [
@@ -703,8 +703,6 @@
     "launchd.collect.err": "                                  ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n실패 clue30.analytics.json — HTTP Error 401: Unauthorized\n실패 tarot.analytics.json — HTTP Error 401: Unauthorized\n"
   },
   "run_log_tail": [
-    "[2026-10-22 10:34:34] outreach: follow: 팔로워 54명 @jluuu_you — 기준(500) 미달, 건너뜀",
-    "[2026-10-22 10:34:34] outreach: follow: 팔로워 52명 @game_nori__ — 기준(500) 미달, 건너뜀",
     "[2026-10-22 10:34:34] outreach: follow: 팔로워 41명 @youliana_h — 기준(500) 미달, 건너뜀",
     "[2026-10-22 10:34:34] outreach: follow: 팔로워 19명 @onsfamily2026 — 기준(500) 미달, 건너뜀",
     "[2026-10-22 10:34:34] outreach: follow: 팔로워 12명 @sngmin3111 — 기준(500) 미달, 건너뜀",
@@ -717,6 +715,8 @@
     "[2026-10-22 11:20:15] outreach: followup: 뷰포트 강제 후 innerWidth 1400",
     "[2026-10-22 11:20:22] outreach: followup: 계정 확인: @studiohaetae",
     "[2026-10-22 11:20:29] outreach: followup: 되물음 후보 0건 (이미 답한 것 제외)",
-    "[2026-10-22 11:20:30] outreach: followup: ego 창 닫음"
+    "[2026-10-22 11:20:30] outreach: followup: ego 창 닫음",
+    "[2026-10-22 11:25:37] digest 갱신: 팔로워 168 · 미답변 13건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 2 · !! 답글이 6일 연속 0건이다. 후보 수집이 마른 건지 게이트가 다 막는 건지 launchd.outreach.out 의 '훑은 글 중 제외' 줄을 봐라.",
+    "[2026-10-22 11:25:37] agent: 보류 유지 13건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_, @juvin950). 다시 보려면 --recheck-all"
   ]
 }
