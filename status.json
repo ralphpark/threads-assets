@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T02:22:37",
+  "generated_at": "2026-11-04T02:23:37",
   "username": "studiohaetae",
   "followers": 171,
   "followers_history": [
@@ -190,12 +190,7 @@
       "at": "2026-08-11T20:30:15",
       "n": 11,
       "id": "18156427363495994",
-      "is_reply": false,
-      "permalink": "https://www.threads.com/@studiohaetae/post/Db5fBIImMkv",
-      "text": "제 유튜브 채널은 쇼츠 트래픽이 대부분입니다.\n\n어떤 분이 알려줬습니다. Shorts에서는 설명란 링크가 아예 표시되지 않는다고.\n\n확인해봤더니 저는 더 나빴습니다.\n채널 4개 40편에 링크가 애초에 0개였습니다.\n",
-      "views": 417,
-      "likes": 1,
-      "replies": 0
+      "is_reply": false
     },
     {
       "at": "2026-08-12T20:30:15",
@@ -708,8 +703,6 @@
     "launchd.collect.err": "                                  ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n실패 clue30.analytics.json — HTTP Error 401: Unauthorized\n실패 tarot.analytics.json — HTTP Error 401: Unauthorized\n"
   },
   "run_log_tail": [
-    "[2026-11-03 22:14:08] outreach: follow: 팔로우 @regina_estate10 (팔로워 4,323명)",
-    "[2026-11-03 22:15:34] outreach: follow: 팔로우 @youhavenoidea.how (팔로워 807명)",
     "[2026-11-03 22:15:34] outreach: follow: 이번 회차 4명 · 오늘 누적 9/20",
     "[2026-11-03 22:15:35] outreach: follow: ego 창 닫음",
     "[2026-11-03 22:28:09] digest 갱신: 팔로워 172 · 미답변 14건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 9 · !! outreach 가 오늘 6판 빠졌다 (09:20 11:40 13:10 15:50 18:30 21:10). **매달린 판이 있으면 launchd 는 다음 회차를 조용히 건너뛴다** — ps 로 outreach.py 가 살아 있는지 봐라 / 답글이 7일 연속 0건이다. 후보 수집이 마른 건지 게이트가 다 막는 건지 launchd.outreach.out 의 '훑은 글 중 제외' 줄을 봐라.",
@@ -722,6 +715,8 @@
     "[2026-11-03 23:40:57] refill: 경보: 큐 잔량 0편 (기준 6) · 대기 중인 초안 40편",
     "[2026-11-03 23:40:57] refill: 초안이 있다. python3 refill.py drafts 로 보고 promote 해라.",
     "[2026-11-03 23:41:45] digest 갱신: 팔로워 171 · 미답변 14건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 9 · !! outreach 가 오늘 6판 빠졌다 (09:20 11:40 13:10 15:50 18:30 21:10). **매달린 판이 있으면 launchd 는 다음 회차를 조용히 건너뛴다** — ps 로 outreach.py 가 살아 있는지 봐라 / 답글이 7일 연속 0건이다. 후보 수집이 마른 건지 게이트가 다 막는 건지 launchd.outreach.out 의 '훑은 글 중 제외' 줄을 봐라.",
-    "[2026-11-04 00:29:03] digest 갱신: 팔로워 171 · 미답변 14건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 0 · !! 답글이 6일 연속 0건이다. 후보 수집이 마른 건지 게이트가 다 막는 건지 launchd.outreach.out 의 '훑은 글 중 제외' 줄을 봐라."
+    "[2026-11-04 00:29:03] digest 갱신: 팔로워 171 · 미답변 14건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 0 · !! 답글이 6일 연속 0건이다. 후보 수집이 마른 건지 게이트가 다 막는 건지 launchd.outreach.out 의 '훑은 글 중 제외' 줄을 봐라.",
+    "[2026-11-04 02:23:37] digest 갱신: 팔로워 171 · 미답변 14건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 0 · !! 답글이 6일 연속 0건이다. 후보 수집이 마른 건지 게이트가 다 막는 건지 launchd.outreach.out 의 '훑은 글 중 제외' 줄을 봐라.",
+    "[2026-11-04 02:23:37] agent: 보류 유지 14건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_, @juvin950). 다시 보려면 --recheck-all"
   ]
 }
