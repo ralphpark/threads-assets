@@ -1,12 +1,8 @@
 {
-  "generated_at": "2026-11-13T23:10:08",
+  "generated_at": "2026-11-13T23:41:07",
   "username": "studiohaetae",
   "followers": 185,
   "followers_history": [
-    {
-      "date": "2026-10-30",
-      "followers": 171
-    },
     {
       "date": "2026-10-31",
       "followers": 171
@@ -58,6 +54,10 @@
     {
       "date": "2026-11-12",
       "followers": 183
+    },
+    {
+      "date": "2026-11-13",
+      "followers": 185
     }
   ],
   "queue_pending": 0,
@@ -671,7 +671,7 @@
         "replies": 0,
         "followups": 0,
         "follows": 5,
-        "followers": null
+        "followers": 185
       }
     ],
     "last_run": {
@@ -705,7 +705,7 @@
       }
     },
     "follow_experiment": {
-      "followers_delta_7d": 9,
+      "followers_delta_7d": 11,
       "follows_7d": 60,
       "replies_7d": 0,
       "note": "팔로우 대비 팔로워 증가. 답글과 섞여 있어 단독 인과는 못 본다"
@@ -716,12 +716,6 @@
     "launchd.collect.err": "                                  ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n실패 clue30.analytics.json — HTTP Error 401: Unauthorized\n실패 tarot.analytics.json — HTTP Error 401: Unauthorized\n"
   },
   "run_log_tail": [
-    "[2026-11-13 22:13:45] outreach: follow: 팔로워 144명 @haesuggu7 — 기준(500) 미달, 건너뜀",
-    "[2026-11-13 22:13:45] outreach: follow: 팔로워 128명 @serendipity_lhj — 기준(500) 미달, 건너뜀",
-    "[2026-11-13 22:13:45] outreach: follow: 팔로워 93명 @deresa1976 — 기준(500) 미달, 건너뜀",
-    "[2026-11-13 22:13:45] outreach: follow: 팔로워 84명 @one.cutstudio — 기준(500) 미달, 건너뜀",
-    "[2026-11-13 22:13:45] outreach: follow: 팔로워 75명 @randy.0603 — 기준(500) 미달, 건너뜀",
-    "[2026-11-13 22:13:45] outreach: follow: 팔로워 42명 @suniji72 — 기준(500) 미달, 건너뜀",
     "[2026-11-13 22:13:45] outreach: follow: 팔로워 33명 @yanghyeonog27 — 기준(500) 미달, 건너뜀",
     "[2026-11-13 22:13:45] outreach: follow: 팔로워 10명 @creator_young_eun — 기준(500) 미달, 건너뜀",
     "[2026-11-13 22:13:45] outreach: follow: 팔로워 3명 @viralhunter_trend — 기준(500) 미달, 건너뜀",
@@ -730,6 +724,12 @@
     "[2026-11-13 22:13:45] outreach: follow: ego 창 닫음",
     "[2026-11-13 22:48:14] digest 갱신: 팔로워 185 · 미답변 14건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 5 · !! outreach 가 오늘 6판 빠졌다 (09:20 11:40 13:10 15:50 18:30 21:10). **매달린 판이 있으면 launchd 는 다음 회차를 조용히 건너뛴다** — ps 로 outreach.py 가 살아 있는지 봐라 / 답글이 7일 연속 0건이다. 후보 수집이 마른 건지 게이트가 다 막는 건지 launchd.outreach.out 의 '훑은 글 중 제외' 줄을 봐라.",
     "[2026-11-13 23:10:08] digest 갱신: 팔로워 185 · 미답변 14건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 5 · !! outreach 가 오늘 6판 빠졌다 (09:20 11:40 13:10 15:50 18:30 21:10). **매달린 판이 있으면 launchd 는 다음 회차를 조용히 건너뛴다** — ps 로 outreach.py 가 살아 있는지 봐라 / 답글이 7일 연속 0건이다. 후보 수집이 마른 건지 게이트가 다 막는 건지 launchd.outreach.out 의 '훑은 글 중 제외' 줄을 봐라.",
-    "[2026-11-13 23:10:08] agent: 보류 유지 14건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_, @juvin950). 다시 보려면 --recheck-all"
+    "[2026-11-13 23:10:08] agent: 보류 유지 14건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_, @juvin950). 다시 보려면 --recheck-all",
+    "[2026-11-13 23:10:52] digest 갱신: 팔로워 185 · 미답변 14건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 5 · !! outreach 가 오늘 6판 빠졌다 (09:20 11:40 13:10 15:50 18:30 21:10). **매달린 판이 있으면 launchd 는 다음 회차를 조용히 건너뛴다** — ps 로 outreach.py 가 살아 있는지 봐라 / 답글이 7일 연속 0건이다. 후보 수집이 마른 건지 게이트가 다 막는 건지 launchd.outreach.out 의 '훑은 글 중 제외' 줄을 봐라.",
+    "[2026-11-13 23:10:52] agent: 자동 답글 0건 · 신규 판정 대상 없음",
+    "[2026-11-13 23:40:03] 스냅샷: {\"date\": \"2026-11-13\", \"at\": \"2026-11-13T23:40:02\", \"followers\": 185, \"views\": 82, \"likes\": 0, \"replies\": 0, \"reposts\": 0, \"quotes\": 0, \"clicks\": null}",
+    "[2026-11-13 23:40:52] 답글 45건 수집 -> replies-2026-11-13.json",
+    "[2026-11-13 23:41:07] refill: 경보: 큐 잔량 0편 (기준 6) · 대기 중인 초안 40편",
+    "[2026-11-13 23:41:07] refill: 초안이 있다. python3 refill.py drafts 로 보고 promote 해라."
   ]
 }
