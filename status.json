@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T11:14:55",
+  "generated_at": "2026-11-14T11:15:51",
   "username": "studiohaetae",
   "followers": 186,
   "followers_history": [
@@ -710,8 +710,6 @@
     "launchd.collect.err": "                                  ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n실패 clue30.analytics.json — HTTP Error 401: Unauthorized\n실패 tarot.analytics.json — HTTP Error 401: Unauthorized\n"
   },
   "run_log_tail": [
-    "[2026-11-14 10:30:11] outreach: follow: 검색: 구독자 안늘어",
-    "[2026-11-14 10:30:39] outreach: follow: 검색: 유튜브 시작한지",
     "[2026-11-14 10:31:05] outreach: follow: 검색: 유튜브 알고리즘",
     "[2026-11-14 10:31:30] outreach: follow: 후보 계정 7명",
     "[2026-11-14 10:32:08] outreach: follow: 프로필 7개 확인 — 팔로워 큰 순으로 진행",
@@ -724,6 +722,8 @@
     "[2026-11-14 10:36:21] outreach: follow: 팔로워 1명 @daltokki0625 — 기준(500) 미달, 건너뜀",
     "[2026-11-14 10:36:21] outreach: follow: 이번 회차 3명 · 오늘 누적 3/20",
     "[2026-11-14 10:36:22] outreach: follow: ego 창 닫음",
-    "[2026-11-14 10:52:59] digest 갱신: 팔로워 186 · 미답변 14건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 3 · !! 답글이 6일 연속 0건이다. 후보 수집이 마른 건지 게이트가 다 막는 건지 launchd.outreach.out 의 '훑은 글 중 제외' 줄을 봐라."
+    "[2026-11-14 10:52:59] digest 갱신: 팔로워 186 · 미답변 14건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 3 · !! 답글이 6일 연속 0건이다. 후보 수집이 마른 건지 게이트가 다 막는 건지 launchd.outreach.out 의 '훑은 글 중 제외' 줄을 봐라.",
+    "[2026-11-14 11:15:51] digest 갱신: 팔로워 186 · 미답변 14건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 3 · !! 답글이 6일 연속 0건이다. 후보 수집이 마른 건지 게이트가 다 막는 건지 launchd.outreach.out 의 '훑은 글 중 제외' 줄을 봐라.",
+    "[2026-11-14 11:15:51] agent: 보류 유지 14건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_, @juvin950). 다시 보려면 --recheck-all"
   ]
 }
