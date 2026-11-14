@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T18:55:32",
+  "generated_at": "2026-11-14T20:20:30",
   "username": "studiohaetae",
   "followers": 187,
   "followers_history": [
@@ -621,7 +621,7 @@
     "today": {
       "replies": 0,
       "followups": 0,
-      "follows": 6
+      "follows": 9
     },
     "last7": [
       {
@@ -670,14 +670,14 @@
         "date": "2026-11-14",
         "replies": 0,
         "followups": 0,
-        "follows": 6,
+        "follows": 9,
         "followers": null
       }
     ],
     "last_run": {
       "outreach": "2026-10-11T21:10",
       "followups": "2026-11-14T18:10",
-      "follows": "2026-11-14T17:23"
+      "follows": "2026-11-14T19:47"
     },
     "alerts": [
       "outreach 가 오늘 5판 빠졌다 (09:20 11:40 13:10 15:50 18:30). **매달린 판이 있으면 launchd 는 다음 회차를 조용히 건너뛴다** — ps 로 outreach.py 가 살아 있는지 봐라",
@@ -699,13 +699,13 @@
         "missed": []
       },
       "follows": {
-        "ran": 3,
+        "ran": 4,
         "missed": []
       }
     },
     "follow_experiment": {
       "followers_delta_7d": 11,
-      "follows_7d": 57,
+      "follows_7d": 60,
       "replies_7d": 0,
       "note": "팔로우 대비 팔로워 증가. 답글과 섞여 있어 단독 인과는 못 본다"
     }
@@ -715,20 +715,20 @@
     "launchd.collect.err": "                                  ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n실패 clue30.analytics.json — HTTP Error 401: Unauthorized\n실패 tarot.analytics.json — HTTP Error 401: Unauthorized\n"
   },
   "run_log_tail": [
-    "[2026-11-14 17:21:33] outreach: follow: 후보 계정 6명",
-    "[2026-11-14 17:22:05] outreach: follow: 프로필 6개 확인 — 팔로워 큰 순으로 진행",
-    "[2026-11-14 17:22:12] outreach: follow: 팔로우 @choisuyonglab (팔로워 1,004명)",
-    "[2026-11-14 17:23:23] outreach: follow: 팔로워 432명 @flu.vo — 기준(500) 미달, 건너뜀",
-    "[2026-11-14 17:23:23] outreach: follow: 팔로워 323명 @leemi85 — 기준(500) 미달, 건너뜀",
-    "[2026-11-14 17:23:23] outreach: follow: 팔로워 18명 @wonhwasu751 — 기준(500) 미달, 건너뜀",
-    "[2026-11-14 17:23:23] outreach: follow: 팔로워 16명 @easydrum_sw — 기준(500) 미달, 건너뜀",
-    "[2026-11-14 17:23:23] outreach: follow: 팔로워 5명 @dallaego4 — 기준(500) 미달, 건너뜀",
-    "[2026-11-14 17:23:23] outreach: follow: 이번 회차 1명 · 오늘 누적 6/20",
-    "[2026-11-14 17:23:24] outreach: follow: ego 창 닫음",
-    "[2026-11-14 18:10:06] outreach: followup: 창이 좁다(innerWidth 1068) — 뷰포트를 강제한다",
-    "[2026-11-14 18:10:07] outreach: followup: 뷰포트 강제 후 innerWidth 1400",
-    "[2026-11-14 18:10:13] outreach: followup: 계정 확인: @studiohaetae",
-    "[2026-11-14 18:10:18] outreach: followup: 되물음 후보 0건 (이미 답한 것 제외)",
-    "[2026-11-14 18:10:19] outreach: followup: ego 창 닫음"
+    "[2026-11-14 19:43:45] outreach: follow: 프로필 12개 확인 — 팔로워 큰 순으로 진행",
+    "[2026-11-14 19:43:53] outreach: follow: 팔로우 @sentimental624 (팔로워 8,404명)",
+    "[2026-11-14 19:44:56] outreach: follow: 팔로우 @growit__official (팔로워 1,941명)",
+    "[2026-11-14 19:45:57] outreach: follow: 팔로우 @ssuramee (팔로워 851명)",
+    "[2026-11-14 19:47:17] outreach: follow: 팔로워 495명 @pickby_j — 기준(500) 미달, 건너뜀",
+    "[2026-11-14 19:47:17] outreach: follow: 팔로워 53명 @otheredition_jun — 기준(500) 미달, 건너뜀",
+    "[2026-11-14 19:47:17] outreach: follow: 팔로워 17명 @self.spoon — 기준(500) 미달, 건너뜀",
+    "[2026-11-14 19:47:17] outreach: follow: 팔로워 4명 @kkyungpack — 기준(500) 미달, 건너뜀",
+    "[2026-11-14 19:47:17] outreach: follow: 팔로워 3명 @yun.elsewhere — 기준(500) 미달, 건너뜀",
+    "[2026-11-14 19:47:17] outreach: follow: 팔로워 3명 @h.e.hwa — 기준(500) 미달, 건너뜀",
+    "[2026-11-14 19:47:17] outreach: follow: 팔로워 2명 @appli_toon — 기준(500) 미달, 건너뜀",
+    "[2026-11-14 19:47:17] outreach: follow: 팔로워 1명 @marketer.log — 기준(500) 미달, 건너뜀",
+    "[2026-11-14 19:47:17] outreach: follow: 팔로워 0명 @sns.growlab — 기준(500) 미달, 건너뜀",
+    "[2026-11-14 19:47:17] outreach: follow: 이번 회차 3명 · 오늘 누적 9/20",
+    "[2026-11-14 19:47:19] outreach: follow: ego 창 닫음"
   ]
 }
