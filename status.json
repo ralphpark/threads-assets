@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T13:04:19",
+  "generated_at": "2026-11-25T15:05:07",
   "username": "studiohaetae",
   "followers": 198,
   "followers_history": [
@@ -621,7 +621,7 @@
     "today": {
       "replies": 0,
       "followups": 0,
-      "follows": 2
+      "follows": 4
     },
     "last7": [
       {
@@ -670,17 +670,17 @@
         "date": "2026-11-25",
         "replies": 0,
         "followups": 0,
-        "follows": 2,
+        "follows": 4,
         "followers": null
       }
     ],
     "last_run": {
       "outreach": "2026-10-11T21:10",
       "followups": "2026-11-25T12:50",
-      "follows": "2026-11-25T10:34"
+      "follows": "2026-11-25T14:35"
     },
     "alerts": [
-      "outreach 가 오늘 2판 빠졌다 (09:20 11:40). **매달린 판이 있으면 launchd 는 다음 회차를 조용히 건너뛴다** — ps 로 outreach.py 가 살아 있는지 봐라",
+      "outreach 가 오늘 3판 빠졌다 (09:20 11:40 13:10). **매달린 판이 있으면 launchd 는 다음 회차를 조용히 건너뛴다** — ps 로 outreach.py 가 살아 있는지 봐라",
       "답글이 6일 연속 0건이다. 후보 수집이 마른 건지 게이트가 다 막는 건지 launchd.outreach.out 의 '훑은 글 중 제외' 줄을 봐라."
     ],
     "runs_today": {
@@ -688,7 +688,8 @@
         "ran": 0,
         "missed": [
           "09:20",
-          "11:40"
+          "11:40",
+          "13:10"
         ]
       },
       "followups": {
@@ -698,36 +699,36 @@
         ]
       },
       "follows": {
-        "ran": 1,
+        "ran": 2,
         "missed": []
       }
     },
     "follow_experiment": {
       "followers_delta_7d": 6,
-      "follows_7d": 51,
+      "follows_7d": 53,
       "replies_7d": 0,
       "note": "팔로우 대비 팔로워 증가. 답글과 섞여 있어 단독 인과는 못 본다"
     }
   },
-  "outreach_alert": "outreach 가 오늘 2판 빠졌다 (09:20 11:40). **매달린 판이 있으면 launchd 는 다음 회차를 조용히 건너뛴다** — ps 로 outreach.py 가 살아 있는지 봐라 / 답글이 6일 연속 0건이다. 후보 수집이 마른 건지 게이트가 다 막는 건지 launchd.outreach.out 의 '훑은 글 중 제외' 줄을 봐라.",
+  "outreach_alert": "outreach 가 오늘 3판 빠졌다 (09:20 11:40 13:10). **매달린 판이 있으면 launchd 는 다음 회차를 조용히 건너뛴다** — ps 로 outreach.py 가 살아 있는지 봐라 / 답글이 6일 연속 0건이다. 후보 수집이 마른 건지 게이트가 다 막는 건지 launchd.outreach.out 의 '훑은 글 중 제외' 줄을 봐라.",
   "errors": {
     "launchd.collect.err": "                                  ~^^^^^^^^^^^\nKeyError: 'post_id'\nTraceback (most recent call last):\n  File \"/Users/ralphpark/threads/th.py\", line 676, in <module>\n    cmd_insights()\n    ~~~~~~~~~~~~^^\n  File \"/Users/ralphpark/threads/th.py\", line 222, in cmd_insights\n    r = call(\"GET\", \"%s/insights\" % h[\"post_id\"],\n                                    ~^^^^^^^^^^^\nKeyError: 'post_id'\n실패 clue30.analytics.json — HTTP Error 401: Unauthorized\n실패 tarot.analytics.json — HTTP Error 401: Unauthorized\n"
   },
   "run_log_tail": [
-    "[2026-11-25 11:20:05] outreach: followup: 창이 좁다(innerWidth 1068) — 뷰포트를 강제한다",
-    "[2026-11-25 11:20:05] outreach: followup: 뷰포트 강제 후 innerWidth 1400",
-    "[2026-11-25 11:20:11] outreach: followup: 계정 확인: @studiohaetae",
-    "[2026-11-25 11:20:18] outreach: followup: 되물음 후보 0건 (이미 답한 것 제외)",
-    "[2026-11-25 11:20:19] outreach: followup: ego 창 닫음",
-    "[2026-11-25 12:04:29] digest 갱신: 팔로워 198 · 미답변 14건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 2 · !! outreach 가 오늘 2판 빠졌다 (09:20 11:40). **매달린 판이 있으면 launchd 는 다음 회차를 조용히 건너뛴다** — ps 로 outreach.py 가 살아 있는지 봐라 / 답글이 6일 연속 0건이다. 후보 수집이 마른 건지 게이트가 다 막는 건지 launchd.outreach.out 의 '훑은 글 중 제외' 줄을 봐라.",
-    "[2026-11-25 12:04:29] agent: 보류 유지 14건 — 재평가 안 함 (@habitus_lens, @dino.seed, @unprototypeart, @d_u_n_2_, @juvin950). 다시 보려면 --recheck-all",
-    "[2026-11-25 12:05:15] digest 갱신: 팔로워 198 · 미답변 14건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 2 · !! outreach 가 오늘 2판 빠졌다 (09:20 11:40). **매달린 판이 있으면 launchd 는 다음 회차를 조용히 건너뛴다** — ps 로 outreach.py 가 살아 있는지 봐라 / 답글이 6일 연속 0건이다. 후보 수집이 마른 건지 게이트가 다 막는 건지 launchd.outreach.out 의 '훑은 글 중 제외' 줄을 봐라.",
-    "[2026-11-25 12:05:16] agent: 자동 답글 0건 · 신규 판정 대상 없음",
-    "[2026-11-25 12:40:01] 큐가 비었다. 게시하지 않음.",
-    "[2026-11-25 12:50:03] outreach: followup: 창이 좁다(innerWidth 1068) — 뷰포트를 강제한다",
-    "[2026-11-25 12:50:04] outreach: followup: 뷰포트 강제 후 innerWidth 1400",
-    "[2026-11-25 12:50:10] outreach: followup: 계정 확인: @studiohaetae",
     "[2026-11-25 12:50:16] outreach: followup: 되물음 후보 0건 (이미 답한 것 제외)",
-    "[2026-11-25 12:50:16] outreach: followup: ego 창 닫음"
+    "[2026-11-25 12:50:16] outreach: followup: ego 창 닫음",
+    "[2026-11-25 13:05:06] digest 갱신: 팔로워 198 · 미답변 14건 · 큐 0개 · 오늘 답글 0 · 되물음 0 · 팔로우 2 · !! outreach 가 오늘 2판 빠졌다 (09:20 11:40). **매달린 판이 있으면 launchd 는 다음 회차를 조용히 건너뛴다** — ps 로 outreach.py 가 살아 있는지 봐라 / 답글이 6일 연속 0건이다. 후보 수집이 마른 건지 게이트가 다 막는 건지 launchd.outreach.out 의 '훑은 글 중 제외' 줄을 봐라.",
+    "[2026-11-25 14:30:04] outreach: follow: 창이 좁다(innerWidth 1068) — 뷰포트를 강제한다",
+    "[2026-11-25 14:30:04] outreach: follow: 뷰포트 강제 후 innerWidth 1400",
+    "[2026-11-25 14:30:12] outreach: follow: 검색: 유튜브 수익",
+    "[2026-11-25 14:31:12] outreach: follow: 검색: 유튜브 시작한지",
+    "[2026-11-25 14:32:15] outreach: follow: 검색: 구독자 1000명",
+    "[2026-11-25 14:32:41] outreach: follow: 후보 계정 3명",
+    "[2026-11-25 14:32:57] outreach: follow: 프로필 3개 확인 — 팔로워 큰 순으로 진행",
+    "[2026-11-25 14:33:04] outreach: follow: 팔로우 @dr_benjamin_noh (팔로워 2,030명)",
+    "[2026-11-25 14:34:34] outreach: follow: 팔로우 @strength_office (팔로워 594명)",
+    "[2026-11-25 14:35:56] outreach: follow: 팔로워 0명 @yoonseojinne — 기준(500) 미달, 건너뜀",
+    "[2026-11-25 14:35:56] outreach: follow: 이번 회차 2명 · 오늘 누적 4/20",
+    "[2026-11-25 14:35:57] outreach: follow: ego 창 닫음"
   ]
 }
